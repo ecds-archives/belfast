@@ -1,0 +1,11 @@
+body { 	background:	#FFFFCC; 
+	color:		#000000; 
+     }
+
+a	  { text-decoration:underline; 
+	    font-family:Helvetica,Arial,Geneva
+	  }
+a:link 	  { color:#0000cc; }
+a:visited { color:#cc0033 }
+a:active  { }
+a:hover   { }

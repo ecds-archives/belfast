@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Electronic Poetry Project</TITLE>
+<STYLE TYPE="text/css">
+<!--
+a{text-decoration:none;font-weight: bold}
+
+a:hover{text-decoration:underline; color:336699}
+-->
+</STYLE>
+</head>
+<body bgcolor="#ffffff" text="#000099" link="#000099" alink="#000099" vlink="#000099">
+<font face="Arial,Helvetica,Geneva" size=-1>
+<center>
+<br>
+<br>
+<table border=0 width=600>
+	<tr align=center valign=center>
+		<td align=right><font face="Arial,Helvetica,Geneva" size=-1>
+		<a href="http://chaucer.library.emory.edu/irishpoet/overview.html">Overview</a>
+		<br>
+		<br>
+		<a href="http://chaucer.library.emory.edu/htdocs/irish_search.html">Search</a>
+		<br>
+		<br>
+		<a href="http://chaucer.library.emory.edu/irishpoet/workshops.html">Workshop List</a>
+		<br>
+		<br>
+		<a href="http://chaucer.library.emory.edu/irishpoet/bios.html">Biographies</a>
+		<br>
+		<br>
+		<br>
+		<font size=-2><a href="http://chaucer.library.emory.edu/irishpoet/aboutepp.html">About EPP</a></font>
+		</td>
+		<td><font face="Arial,Helvetica,Geneva" size=-1>
+		<img src="images/epp.gif" alt="The Electronic Poetry Project at Emory University" width="350" height="250" border="0">
+		<br>
+		<table border=0 width=100%>
+		<tr>
+		<td align=left><font face="Arial,Helvetica,Geneva" size=-1>
+		<a href="http://chaucer.library.emory.edu/">Lewis H. Beck Center</a>
+		</td>
+		<td align=center><font face="Arial,Helvetica,Geneva" size=-1>
+		---- <a href="http://info.library.emory.edu/Special/">Special Collections</a> ----
+		</td>
+		<td align=right><font face="Arial,Helvetica,Geneva" size=-1>
+		<a href="http://www.emory.edu/">Emory University</a>
+		</td>
+		</tr>
+		</table>
+		</td>
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+	</tr>
+</table>
+</center>
+</font>
+
+</body>
+</html>

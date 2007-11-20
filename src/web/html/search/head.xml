@@ -1,0 +1,26 @@
+<center>
+  <table width="725" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td> 
+	<img
+	     src="http://chaucer.library.emory.edu/irishpoet/images/search.gif" width="725" height="135" usemap="#Map" border="0"/>
+	<map name="Map">
+	<area shape="rect" coords="19,70,469,120"
+	      href="index.html"/>
+	</map> 
+ <hr/>
+     <center>
+    <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+	<a href="http://chaucer.library.emory.edu/irishpoet/overview/index.html">Overview</a> 
+          | <a href="http://chaucer.library.emory.edu/irishpoet/workshop/index.html">Workshop List</a> 
+	  | <a
+	       href="http://chaucer.library.emory.edu/irishpoet/bios/index.html">Biographies</a> 
+          | <a href="http://chaucer.library.emory.edu/irishpoet/search/index.html">Search</a>
+          | <a
+	       href="http://chaucer.library.emory.edu/irishpoet/search/xmlsearch.html">XML Search</a>
+	  | <a href="http://chaucer.library.emory.edu/irishpoet/index.html">Homepage</a></font> 
+          <hr/>
+    </center>
+  </td></tr>
+ </table>
+</center>

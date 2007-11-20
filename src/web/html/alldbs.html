@@ -1,0 +1,140 @@
+<html>
+<head>
+<title>Chadwyck-Healey Tamino Database Search</title>
+<meta http-equiv="Content-Type" content="text/html;
+      charset=iso-8859-1">
+
+<script language="javascript">
+
+function getSortVal () {
+  for (var i=0; i < document.dbquery.sort.length; i++) {
+    if (document.dbquery.sort[i].checked) {
+      var val = document.dbquery.sort[i].value;
+    }
+  }
+ return val;
+}
+
+function submitForm () {
+
+var addquery = '';
+if (document.dbquery.string2.value != '') {
+  var addquery = "' " + document.dbquery.operator.value + " " +
+	document.dbquery.region2.value + "~='" + 
+	document.dbquery.string2.value;
+}
+
+newurl = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/"
+  	document.dbquery.maxdisplay.value + ")=//div2" + document.dbquery.region.value + "~='" + 
+    document.dbquery.string.value + addquery + "']sortby("+
+    getSortVal() + ")&_xslsrc=xsl:stylesheet/ilnsearch.xsl";
+//alert(newurl);
+document.location.href = newurl;
+
+}
+</script>
+
+</head>
+
+<h2>Chadwyck-Healey Database Search</h2>
+
+<form name="dbquery" 
+      action="javascript:submitForm()">
+
+
+<table border="0"><tr>
+  <th align="left">Search</th>
+<th align="left">for:</th>
+  <th align="left">in:</th>
+  </tr>
+<tr>
+<td rowspan="3">
+<select name="db" size=4>
+  <option value="POETRY/faber">Faber</option> 
+  <option value="POETRY/yeats">Yeats </option>
+  <option value="POETRY/ampoet">American Poetry </option>
+  <option value="DAAP/daap">African American Poetry</option>
+</select> 
+</td>
+
+<td><input type="text" size="30" name="string"></td>
+<td>
+<select name="region">
+<!-- FIXME: is this a useful option? -->
+  <option selected value=".">Entire Document</option> 
+  <option value="p">Article </option>
+  <option value="head">Article title</option>
+  <option value="bibl/date">Date</option>
+  <option value="@type='Illustration' and .">Illustrations</option>
+</select> 
+</td>
+<td>
+ <select name="operator">
+   <option value="and">and</option>
+   <option value="or">or</option>
+</td>
+<tr>
+<tr>
+<td><input type="text" size="30" name="string2"></td>
+<td>
+<select name="region2">
+  <option selected value=".">Entire Document</option> 
+  <option value="p">Article </option>
+  <option value="head">Article title</option>
+  <option value="bibl/date">Date</option>
+  <option value="@type='Illustration' and .">Illustrations</option>
+</select> 
+</td>
+
+</table>
+
+<table cellspacing="8" border=0>
+<tr><td>Sort by:</td>
+<td>
+  <input type="radio" name="sort" value="bibl/date/@value" checked> Date</td>
+<td>
+  <input type="radio" name="sort" value="@type"> Article Type</td>
+<td> 
+  <input type="radio" name="sort" value="head"> Title</td>
+</tr></table>
+
+<p align="left">
+Results to display per page:
+<select name="maxdisplay">
+  <option value="10">10</option>
+  <option selected value="20">20</option>
+  <option value="50">50</option>
+  <option value="100">100</option>
+</select>
+</p>
+
+<p align="left">
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</p>
+
+</form>
+</table>
+
+<hr width="60%" align="left">
+
+<p><h4>Search tips:</h4>
+<ul>
+<li>Searches are <i>not</i> case-sensitive.</li>
+<li>Search terms are matched against <i>whole words</i>.</li>
+
+<li>To match part of a word, add an asterisk.</li>
+<li>Multiple words are allowed.</li>
+<li>Asterisks may also be used with multiple words.</li>
+</ul>
+</p>
+
+<p>If you are interested in doing a more complex search, please
+contact the <a href="mailto:beckcenter@emory.edu">Beck Center
+Staff</a>.</p>
+
+
+
+
+</body>
+</html>

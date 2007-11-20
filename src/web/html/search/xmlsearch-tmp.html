@@ -1,0 +1,175 @@
+<html>
+<head>
+<title>Emory University | The Belfast Group | XML Search</title>
+<meta http-equiv="Content-Type" content="text/html;
+      charset=iso-8859-1">
+<script language="javascript">
+
+function getRetrieve () {
+  for (var i=0; i < document.query.retrieve.length; i++) {
+    if (document.query.retrieve[i].checked) {
+      var val = document.query.retrieve[i].value;
+    }
+  }
+// alert("retrieve is "+val);
+ return val;
+}
+
+function submitForm () {
+
+var addquery = '';
+if (document.query.string2.value != '') {
+  var addquery = "' " + document.query.operator.value + " "  +
+	document.query.region2.value + "~='" + 
+	document.query.string2.value;
+}
+
+var newurl = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/IRISHPOET/irishpoet?_xql(1," + 
+  	document.query.maxdisplay.value + ")=" + 
+	getRetrieve() + document.query.region.value + "~='" + 
+    	document.query.string.value + addquery + 	
+	"']&_xslsrc=xsl:stylesheet/contents.xsl";
+
+//alert(newurl);
+document.location.href = newurl;
+
+}
+
+
+
+
+</script>
+
+
+</head>
+<body bgcolor=#FFFFCC text="#000000" link="#0000CC" vlink="#CC0033">
+<!-- ImageReady Slices (index.3.psd) --> <!-- End ImageReady Slices --> 
+<center>
+  <table width="725" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td> <img src="../images/search.gif" width="725" height="135" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="19,70,469,120" href="../index.html"></map> 
+        <center>
+          <hr>
+          <font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="../overview/index.html">Overview</a> 
+          | <a href="../workshop/index.html">Workshop List</a> | <a
+								    href="../bios/index.html">Biographies</a> 
+| <a href="index.html">Search</a> 
+          | XML Search | <a href="../index.html">Homepage</a></font> 
+          <hr>
+        </center>
+        <p><font face="Arial, Helvetica, sans-serif"><font face="MS Sans Serif,Arial"><h1>Poetry Search</h1></font>
+<center><h2>Our databases are temporarily unavailable.  We apologize for the inconvenience; we expect them to be online soon.</h2>
+<h3>Please use our alternate search page: <a href="http://chaucer.library.emory.edu/irishpoet/search/index.html">Search</a></h3></center>
+<center><hr width=80%>
+<table border=0 width=80%>
+
+<p>
+<table border=0><tr>
+  <td><font face="Arial,Helvetica,Geneva" size=-1>Search for:</font></td>
+  <td><font face="Arial,Helvetica,Geneva" size=-1>in:</font></td>
+  </tr>
+<tr>
+<form name="query" 
+      action="javascript:submitForm()">
+<td><input type="text" size="30" name="string"></td>
+<td>
+<select name="region">
+  <option selected value="[.">Entire Document</option> 
+  <option value="[//docAuthor">Poet</option>
+  <option value="[text//titlePart">Poem Title</option>
+</select> 
+</td>
+<td>
+ <select name="operator">
+   <option value="and">and</option>
+   <option value="or">or</option>
+</td>
+<tr>
+<tr>
+<td><input type="text" size="30" name="string2"></td>
+<td>
+<select name="region2">
+  <option selected value=".">Entire Document</option> 
+  <option value="//docAuthor">Poet</option>
+  <option value="text//titlePart">Poem Title</option>
+</select> 
+</td>
+
+</table>
+
+<!-- 
+<table cellspacing="8" border=0>
+<tr><td>Sort by:</td>
+<td>
+  <input type="radio" name="sort" value="bibl/date/@value" checked> Date</td>
+<td>
+  <input type="radio" name="sort" value="@type"> Article Type</td>
+<td> 
+  <input type="radio" name="sort" value="head"> Title</td>
+</tr></table>
+ -->
+
+
+<table cellspacing="8" border="0">
+<tr><td>Retrieve by:</td>
+<td>
+<input type="radio" name="retrieve" value="/TEI.2//group/group"
+       checked>Workshop
+</td>
+<td>
+<input type="radio" name="retrieve" value="/TEI.2//group/group/text">Poem 
+</td>
+</tr></table>
+
+
+
+<p align="center">
+Results to display per page:
+<select name="maxdisplay">
+  <option value="10">10</option>
+  <option selected value="20">20</option>
+  <option value="50">50</option>
+  <option value="100">100</option>
+</select>
+</p>
+
+<p align="center">
+<input type="submit" value="Search">
+<input type="reset" value="Reset">
+</p>
+
+</form>
+</table>
+
+</table>
+
+<br>
+<br>
+                <center>
+                <hr width=80%>
+                        |&nbsp;&nbsp;<a href="http://chaucer.library.emory.edu/irishpoet/overview.html">Overview</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://chaucer.library.emory.edu/htprop/irish_search.html">Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://chaucer.library.emory.edu/irishpoet/workshops.html">Workshop List</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://chaucer.library.emory.edu/irishpoet/bios.html">Biographies</a>&nbsp;&nbsp;|
+                <hr width=80%>
+                        |&nbsp;&nbsp;<a href="http://chaucer.library.emory.edu/">Lewis H. Beck Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://chaucer.library.emory.edu/irishpoet/">EPP Home Page</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.emory.edu/">Emory University</a>&nbsp;&nbsp;|
+                <hr width=80%>
+
+</td></tr></table>
+</font></p>
+        <hr align="center">
+        <center>
+          <font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a href="../overview/index.html">Overview</a> 
+          | <a href="../workshop/index.html">Workshop List</a> | <a href="../bios/index.html">Biographies</a> 
+          | <a href="index.html">Search</a>
+          | XML Search 
+| <a href="../index.html">Homepage</a></font> 
+          <hr>
+          <font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://chaucer.library.emory.edu/">Lewis 
+          H. Beck Center</a> | <a href="http://info.library.emory.edu/Special/">Special 
+          Collections</a> | <a href="http://www.emory.edu/">Emory University</a></font> 
+        </center>
+      </td>
+    </tr>
+  </table>
+  
+</center>
+</body>
+</html>

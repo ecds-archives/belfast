@@ -1,0 +1,168 @@
+<html>
+<head>
+<title>Electronic Poetry Project</TITLE>
+
+<script language="JavaScript">
+
+// Define Browser Version
+ver = "";
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+if (bVer >= 3) ver = "n3";
+
+function imgToggle(imgObjectName, imgObjectState) {
+  if (ver == "n3") {
+    imgObject = new Object();
+    imgObject = imgObjectName;
+    imgObject.src = imgObjectState;
+  }
+}
+
+function imgPreLoad(i, img) {
+  if (ver == "n3") {
+    cacheImg[i] = new Image();
+    cacheImg[i].src = img;
+  }
+}
+
+// Declare and Load Images
+
+about = "images/a-words.gif";
+bios = "images/b-words.gif";
+workshops = "images/w-words.gif";
+texts = "images/t-words.gif";
+
+cacheImg = new Array();
+imgPreLoad(0,about);
+imgPreLoad(1,bios);
+imgPreLoad(2,workshops);
+imgPreLoad(3,texts);
+
+// End Script -->
+</script>
+</head>
+
+<body bgcolor="#ffffff" text="#000099" link="#000099" alink="#000099" vlink="#000099">
+<font face="Helvetica,Arial,Geneva">
+
+<table border=0 cellpadding=5>
+	<tr>
+		<td align=center valign=top width=100 height=100><font face="Helvetica,Arial,Geneva">
+		<br>
+		<p>
+		<br>
+		<a href="intro.html"><img src="images/circle.gif" border=0 width=100 height=100
+		alt="Click here for the Introduction Page"></a>
+		<p>
+		<a href="aboutepp.html" onMouseover="imgToggle(about,'images/a-words.gif')" 
+		onMouseOut="imgToggle(about,'images/a.gif')"><img src="images/a.gif" border=0 width=50 height=50 
+		name=about alt="Click here for more information about Emory's Electronic Poetry Project"></a>
+		<p>
+		<a href="bios.html" onMouseover="imgToggle(bios,'images/b-words.gif')" 
+		onMouseOut="imgToggle(bios,'images/b.gif')"><img src="images/b.gif" border=0 width=50 height=50 
+		name=bios alt="Biographies of the Poets"></a>
+		<p>
+		<a href="workshops.html" onMouseover="imgToggle(workshops,'images/w-words.gif')" 
+		onMouseOut="imgToggle(workshops,'images/w.gif')"><img src="images/w.gif" border=0 width=50 height=50 
+		name=workshops alt="Complete Listing of the Workshops"></a>
+		<p>
+		<a href="texts.html" onMouseover="imgToggle(texts,'images/t-words.gif')" 
+		onMouseOut="imgToggle(texts,'images/t.gif')"><img src="images/t.gif" width=50 height=50 
+		name=texts alt="Read the Texts"></a>
+		</font></td>
+
+		
+
+		<td rowspan=5 align=center valign=top width=5><font face="Helvetica,Arial,Geneva">
+		<img src="images/bluebar.gif" border=0 width=3 height=415 alt="skinny blue bar"></font>
+		</td>
+
+
+
+		<td rowspan=5 align=left valign=top><font face="Helvetica,Arial,Geneva">
+		<br>
+		<p>
+		<br>
+<center><h1>Introduction<br>to the<br>Open Text<br>Search Engine</h1></center>
+<p>
+<hr width=75%>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Beck Center uses the OpenText Search Engine as a means for searching the various networked databases. This search engine should be familiar to anyone who has ever used the OpenText Net Search Engine, or to anyone who has ever used any index to search the World Wide Web. The links below will explain the various features of the three screens that appear during the search process. 
+<p>
+<font size=+1><a href="http://chaucer.library.emory.edu:8080/htprop/irish_search.html" target=search>Click Here to Search the Texts</a></font>
+<p>
+Or learn more about the following:<br>
+<a href="#search">The Search Screen</a><br>
+<a href="#results">The Results Screen</a><br>
+<a href="#document">The Document Screen</a><br>
+<p>
+<hr width=75%>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <a name="search"><b>Search</a> Screen</b> has a few simple features that allow you to search the entire text of a database.
+<p>
+<blockquote>
+Search For:<br>
+In this box enter the single word that you wish to search for. 
+<p>
+In:<br>
+You may search for this word in four different areas: 
+<p>
+Entire Text:<br>
+This encompasses all the other categories, including the main text, notes, title page and preface, and appendices or bibliography.
+<blockquotes>
+<ul>
+<li>Notes: Search footnotes.
+<li>Title Page and Preface: Search Title Page and Preface, if any.
+<li>Appendices or Bibliography: Search appendices or bibliograpy, if any.
+</ul>
+</blockquotes>
+<p>
+Weight:<br>
+The "weight" entry allows you to assign a higher importance to a term in a multi-term query. The weight is a numerical value of up to 1000. Having assigned a weight, the search engine will then group returns on the query according to that weight.
+<p>
+Operator:<br>
+Operators are used to combine two search terms. They are: 
+<blockquote>
+<ul>
+<li>AND
+<li>OR
+<li>NOT
+<li>NEAR
+<li>BY
+</ul>
+</blockquote>
+</blockquote>
+<p>
+<hr width=75%>
+<p>
+The <a name="results"><b>Results</a> Screen</b> shows the results of your database search. This page contains several elements: 
+<p>
+<blockquote>
+Found ______ documents.<br>
+This element tells you how many documents were found containing your search element. Depending on the formatting of the individual database, a document could correspond to an actual document, a chapter, a section, or an arbitrary text division. 
+<p>
+There are _______ occurences of (Search Term) in ____ Region.<br>
+This element tells you how many total occurences of your search term appears in the search region specified in the Search Screen. This number may be higher than the number of documents found, as one document may contain more than one usage of the search term. There are five occurences of God, for example, in three documents corresponding to three chapters in Adam Smith's Wealth of Nations. 
+<p>
+Results<br>
+The Results returned will include the author and title of the document where the search term is found, and the pages numbers within that document where the search term is found. From here you may retrieve the document by clicking on "retrieve this document."
+</blockquote>
+<p>
+<hr width=75%>
+<p>
+The <a name="document"><b>Document</a> Screen</b> shows you the document selected which contains the search term. In order to find the specific occurence of the search term, you will need to use the "find" feature of the Netscape browser. Open the "find" feature and enter the search term. The browser will then find and highlight the term. In order to search for this term in other documents, it is not necessary to close the "find" feature and conduct seperate searches. Simply open the new document, and search again using the "find" feature.
+<p>
+To go to the next document containing the search term, simply click on "next document" at the bottom of the page.
+<p>
+<hr width=75%>
+<p>
+
+		</font></td>
+	</tr>
+
+
+</table>
+
+</font>
+</body>
+</html>
