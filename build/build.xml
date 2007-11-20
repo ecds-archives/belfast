@@ -1,0 +1,17 @@
+<project name="Belfast Group Data Preparation" default="all" basedir=".">
+
+  <import file="common-targets.xml"/>
+  <!-- <import file="image-targets.xml"/> -->
+
+<target name="all" depends="xml,clean,final-info" 
+ description="* Convert entities to unicode, validate, and clean up"/>
+
+<!--
+  <target name="config" depends="common-targets.config">
+    <property name="figures" value="false"/>
+    <property name="figure-entity-file" value="iln-figure.ent"/>
+  </target>
+-->
+
+
+</project>
