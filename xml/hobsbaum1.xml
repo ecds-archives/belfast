@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title id="d0e5"> Hobsbaum Workshops</title>
+            <author id="d0e7">Philip Hobsbaum</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent>54 Kb</extent>
+         <publicationStmt>
+            <publisher id="d0e15">Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address id="d0e19">
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability id="d0e22">
+               <p id="d0e23">1999 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the
+contributions to the work claimed by Emory University for non-profit
+educational purposes, provided this header is included in its
+entirety.  For inquiries about commercial uses, contact either:
+Electronic Poetry Project or Lewis H. Beck Center for Electronic 
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date id="d0e25">1996</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title id="d0e28">Irish Poets</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Belfast Group Sheets, Special Collections, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p id="d0e34">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date id="d0e38">1999</date>
+            <respStmt>
+               <name>Jason Lemon</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item id="d0e45">SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text id="d0e47">
+      <front></front>
+      <group id="hobsbaumworkshops">
+         <group id="hobsbaum1">
+            <head id="d0e50">POEMS BY PHILIP HOBSBAUM</head>
+            <docDate id="d0e52">1966-1972</docDate>
+            <docAuthor id="d0e54">Philip Hobsbaum</docAuthor>
+            <argument>
+               <p id="d0e57">Workshop Poems</p>
+               <list type="simple" id="d0e59">
+                  <head></head>
+                  <item id="d0e60">Dead End</item>
+                  <item id="d0e62">Derry City</item>
+                  <item id="d0e64">The Riding Mistress</item>
+                  <item id="d0e66">A False Martyr</item>
+                  <item id="d0e68">Undergraduate Party</item>
+                  <item id="d0e70">Stout Person's Meditation on Sex</item>
+                  <item id="d0e72">Cock of the Walk</item>
+               </list>
+            </argument>
+            <text id="d0e74">
+               <front id="d0e75">
+                  <titlePage id="d0e76">
+                     <docTitle id="d0e77">
+                        <titlePart type="main" id="d0e78">DEAD END</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e80">
+                  <lg type="stanza" id="d0e81">
+                     <l n="1" id="d0e82">We once lodged in that street.</l>
+                     <l id="d0e84">The roofs</l>
+                     <l id="d0e86">Beetled over the kerb,</l>
+                     <l id="d0e88">Glooming the narrow sidewalk.   There</l>
+                     <l id="d0e90">Kids kicked listlessly at stones</l>
+                     <l id="d0e92">Between parked cars</l>
+                     <l id="d0e94">And dogs went on their business round the steps</l>
+                     <l id="d0e96">Where slatterns rasped.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e98">
+                     <l id="d0e99">It never offered much.   Even the sun</l>
+                     <l id="d0e101">Died on the upper windows.</l>
+                     <l rend="indent28" id="d0e103">But at the end,</l>
+                     <l id="d0e105">Like a stone curtain shutting off</l>
+                     <l id="d0e107">Another world, this wall.</l>
+                     <l id="d0e109">Beyond, green tops of trees</l>
+                     <l id="d0e111">Hinted at summer - almost we glimpsed</l>
+                     <l id="d0e113">Gables, pinnacles, domes,</l>
+                     <l id="d0e115">Even could guess at lawns</l>
+                     <l id="d0e117">Sloping to tinkling streams,</l>
+                     <l id="d0e119">Striplings at tennis, lithe girls sipping drinks ...</l>
+                  </lg>
+                  <lg type="stanza" id="d0e121">
+                     <l id="d0e122">For stuck</l>
+                     <l id="d0e124">Bang in the forehead of that wall</l>
+                     <l id="d0e126">- Where no stairs climbed, no ladder leaned -</l>
+                     <l id="d0e128">A gate shut fast.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e130">
+                     <l id="d0e131">None of us ever saw it wide,</l>
+                     <l id="d0e133">No one has passed right through -</l>
+                     <l id="d0e135">For who would leave our street,</l>
+                     <l id="d0e137">Its double banks of cars,</l>
+                     <l id="d0e139">Sunless corners, listless kids</l>
+                     <l id="d0e141">To peek, poke, pry</l>
+                     <l id="d0e143">Beyond?   What guarantee</l>
+                     <l id="d0e145">Of leaves, flowering shrubs</l>
+                     <l id="d0e147">And gardens, too, had we?</l>
+                     <l id="d0e149">What if beyond</l>
+                     <l id="d0e151">Stretched such another street</l>
+                     <l id="d0e153">As ours, barren, run down?</l>
+                  </lg>
+                  <lg type="stanza" id="d0e155">
+                     <l id="d0e156">But since we never tried the lock of that gate</l>
+                     <l id="d0e158">To venture in</l>
+                     <l id="d0e160">Leaving behind the world we knew</l>
+                     <l id="d0e162">For one made anew -</l>
+                     <l id="d0e164">We never knew.</l>
+                  </lg>
+               </body>
+               <back id="d0e166">
+                  <byline id="d0e167">Philip Hobsbaum</byline>
+               </back>
+            </text>
+            <text id="d0e169">
+               <front id="d0e170">
+                  <titlePage id="d0e171">
+                     <docTitle id="d0e172">
+                        <titlePart type="main" id="d0e173">DERRY CITY</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e175">
+                  <lg type="stanza" id="d0e176">
+                     <l n="1" id="d0e177">The guns still poke out of decaying walls,</l>
+                     <l id="d0e179">Though trained on nothing, remembering the past.</l>
+                     <l id="d0e181">Sentinel over lost glories stands the Guildhall,</l>
+                     <l id="d0e183">The tiny city seems crumbling into the mist.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e185">
+                     <l id="d0e186">Look for a centre - office-blocks, chain-stores?   No,</l>
+                     <l id="d0e188">Simply churches and bars studding blind streets,</l>
+                     <l id="d0e190">Staffed only by patched men with nowhere to go</l>
+                     <l id="d0e192">Or people in shops who glance up at your feet.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e194">
+                     <l id="d0e195">Past the Swan, the Eagle - blind pubs that won't fly -</l>
+                     <l id="d0e197">I slog up to the station, getting wet,</l>
+                     <l id="d0e199">Going past, always past this frontage of decay:</l>
+                     <l id="d0e201">The siege of Derry is not lifted yet.</l>
+                  </lg>
+               </body>
+               <back id="d0e203">
+                  <byline id="d0e204">Philip Hobsbaum</byline>
+               </back>
+            </text>
+            <text id="d0e206">
+               <front id="d0e207">
+                  <titlePage id="d0e208">
+                     <docTitle id="d0e209">
+                        <titlePart type="main" id="d0e210">THE RIDING-MISTRESS</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e212">
+                  <lg type="stanza" id="d0e213">
+                     <l n="1" id="d0e214">You've the whip hand all right.   They're driven hard,</l>
+                     <l id="d0e216">Those friends who gather round to hear you censure</l>
+                     <l id="d0e218">Their boys their love-lives.   Conscious rectitude!</l>
+                     <l id="d0e220">You change your hair-style, girl, but not your nature.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e222">
+                     <l id="d0e223">What of your lounge-bar yearnings after men?</l>
+                     <l id="d0e225">You press your phone-number on each beginner,</l>
+                     <l id="d0e227">Then sweep out smiling.   But they slyly grin,</l>
+                     <l id="d0e229">Start swopping anecdotes with one another.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e231">
+                     <l id="d0e232">You were the only girl he'd seen, one said,</l>
+                     <l id="d0e234">Vomit and copulate at once.   Another</l>
+                     <l id="d0e236">Told how you made him tuck you up in bed.</l>
+                     <l id="d0e238">A third called you the human vacuum cleaner.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e240">
+                     <l id="d0e241">At endless coffee-parties, late at night,</l>
+                     <l id="d0e243">You warn your eager friends of sex and sin,</l>
+                     <l id="d0e245">Warm, flushed and shining.   Paradise without,</l>
+                     <l id="d0e247">The observer thinks, but what a swamp within!</l>
+                  </lg>
+               </body>
+               <back id="d0e249">
+                  <byline id="d0e250">Philip Hobsbaum</byline>
+               </back>
+            </text>
+            <text id="d0e252">
+               <front id="d0e253">
+                  <titlePage id="d0e254">
+                     <docTitle id="d0e255">
+                        <titlePart type="main" id="d0e256">A FALSE MARTYR</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e258">
+                  <lg type="stanza" id="d0e259">
+                     <l n="1" id="d0e260">'It wasn't me.   I wasn't there'</l>
+                     <l id="d0e262">And then your eyes begin to shift</l>
+                     <l id="d0e264">Searching the smoke-filled room as if</l>
+                     <l id="d0e266">To seek aid in this questionnaire.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e268">
+                     <l id="d0e269">But no one comes.   The red-haired clown</l>
+                     <l id="d0e271">Shuffles his feet, grins by your side.</l>
+                     <l id="d0e273">Your knowing eyes are open wide.</l>
+                     <l id="d0e275">'It wasn't me.  I'm not to blame'.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e277">
+                     <l id="d0e278">You never are.   Men seize and pillage</l>
+                     <l id="d0e280">But that's their folly, not your shame.</l>
+                     <l id="d0e282">You fling yourself into their arms</l>
+                     <l id="d0e284">But you were drunk.   They took advantage.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e286">
+                     <l id="d0e287">More honest when your breasts fell out,</l>
+                     <l id="d0e289">You groaned and writhed in ersatz glee.</l>
+                     <l id="d0e291">'That awful girl.   It wasn't me.'</l>
+                     <l id="d0e293">You had the fun.    Admit your fault.</l>
+                  </lg>
+               </body>
+               <back id="d0e295">
+                  <byline id="d0e296">Philip Hobsbaum</byline>
+               </back>
+            </text>
+            <text id="d0e298">
+               <front id="d0e299">
+                  <titlePage id="d0e300">
+                     <docTitle id="d0e301">
+                        <titlePart type="main" id="d0e302">UNDERGRADUATE PARTY</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e304">
+                  <lg type="stanza" id="d0e305">
+                     <l n="1" id="d0e306">Static, or nearly so, seen through the haze,</l>
+                     <l id="d0e308">Forms slowly sheel, and, in a leisured trance,</l>
+                     <l id="d0e310">Slowly hands grope for ... what?   Bob Dylan plays,</l>
+                  </lg>
+                  <lg type="stanza" id="d0e312">
+                     <l id="d0e313">Christening with weazen treble each new dance:</l>
+                     <l id="d0e315">Lank hair is fashion now, and kinky boots,</l>
+                     <l id="d0e317">Expression wiped off each tense countenance,</l>
+                  </lg>
+                  <lg type="stanza" id="d0e319">
+                     <l id="d0e320">As solemnly they circle, mask to mask,</l>
+                     <l id="d0e322">Clutching for ... Mister Tambourine Man where,</l>
+                     <l id="d0e324">Where did you leave the curls, the moist blue eyes,</l>
+                  </lg>
+                  <lg type="stanza" id="d0e326">
+                     <l id="d0e327">The laughter of my ... I should not be here</l>
+                     <l id="d0e329">And rise to leave.   Nobody notices</l>
+                     <l id="d0e331">That I'm not going to Maggie's farm no more.</l>
+                  </lg>
+               </body>
+               <back id="d0e333">
+                  <byline id="d0e334">Philip Hobsbaum</byline>
+               </back>
+            </text>
+            <text id="d0e336">
+               <front id="d0e337">
+                  <titlePage id="d0e338">
+                     <docTitle id="d0e339">
+                        <titlePart type="main" id="d0e340">STOUT PERSON'S MEDITATION ON SEX</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e342">
+                  <lg type="stanza" id="d0e343">
+                     <l n="1" id="d0e344">Miss Rafferty, in my General Class, eats chocolates,</l>
+                     <l id="d0e346">Gets fatter every day, longs for a man</l>
+                     <l id="d0e348">But goes on eating chocolates.   I sympathize;</l>
+                     <l id="d0e350">Guinness is my ruin, that and misery</l>
+                     <l id="d0e352">Bloating and crumbling, making me want to drink more.</l>
+                     <l id="d0e354">How did Henry VIII get on, or King Edward,</l>
+                     <l id="d0e356">Boozed, bulky, bearded?   Perhaps</l>
+                     <l id="d0e358">It's different for men.   Herbert Spencer</l>
+                     <l id="d0e360">Decided against George Eliot on the grounds</l>
+                     <l id="d0e362">Of general ugliness:  we dream of houris,</l>
+                     <l id="d0e364">Lissom and swift, they dream of bank balances,</l>
+                     <l id="d0e366">Power, prestige.   This grows as the bulk grows:</l>
+                     <l id="d0e368">King Henry need no charm, he had an axe,</l>
+                     <l id="d0e370">A palace, followers.   Maybe, at last, that's why</l>
+                     <l id="d0e372">There's hope for me but none for Miss Rafferty.</l>
+                  </lg>
+               </body>
+               <back id="d0e374">
+                  <byline id="d0e375">Philip Hobsbaum</byline>
+               </back>
+            </text>
+            <text id="d0e377">
+               <front id="d0e378">
+                  <titlePage id="d0e379">
+                     <docTitle id="d0e380">
+                        <titlePart type="main" id="d0e381">COCK OF THE WALK</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e383">
+                  <lg type="stanza" id="d0e384">
+                     <l n="1" id="d0e385">'How ar'you?   Howya doin'?'   Not so well</l>
+                     <l id="d0e387">As you, pint in one hand, fag in the other,</l>
+                     <l id="d0e389">A beautiful virgin pulling you to bed,</l>
+                     <l id="d0e391">Old cock of the walk.   They still talk of your flights -</l>
+                     <l id="d0e393">Embezzling three hundred quid in a term,</l>
+                     <l id="d0e395">Chasing a Spanish lector, cheeking the Prof,</l>
+                     <l id="d0e397">Trunk calls to London, being, at last, sent down</l>
+                     <l id="d0e399">For robbing a pub in a glorious haze of beer,</l>
+                     <l id="d0e401">Spirits, cigar-smoke.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e403">
+                     <l rend="indent22" id="d0e404">Still, your glory dimmed,</l>
+                     <l id="d0e406">Young acolytes hang on - brothers to those</l>
+                     <l id="d0e408">Who in your days of grandeur dogged your wake,</l>
+                     <l id="d0e410">Catching the girls you grandly threw away,</l>
+                     <l id="d0e412">Drinking your bottles, your life.   They're settled now,</l>
+                     <l id="d0e414">Work in attorneys' offices, have jobs</l>
+                     <l id="d0e416">In far-off glittering London.   How about you,</l>
+                     <l id="d0e418">Poor cock of the walk?   Your plumage ruffled now,</l>
+                     <l id="d0e420">Still holding court, still of with someone's bird,</l>
+                     <l id="d0e422">With someone's car or flat - do I detect</l>
+                     <l id="d0e424">A desperate tic in the rolling gleam of your eye,</l>
+                     <l id="d0e426">That grand rich voice too Irish?</l>
+                  </lg>
+                  <lg type="stanza" id="d0e428">
+                     <l rend="indent32" id="d0e429">Bulky I stand,</l>
+                     <l id="d0e431">Bearded, myopic, amidst the ruck of the bar,</l>
+                     <l id="d0e433">Your girls, your friends, and find you asking me</l>
+                     <l id="d0e435">What can I do for you, where can I get you in.</l>
+                     <l id="d0e437">My cock of the walk, sick of the bumming life,</l>
+                     <l id="d0e439">Taxis to Dublin, crates of Bush in the back,</l>
+                     <l id="d0e441">Sickening bounce of glasses, bottles, cheques.</l>
+                     <l id="d0e443">Will you at last come home to the semi-detached,</l>
+                     <l id="d0e445">Garden, kids - all that made possible</l>
+                     <l id="d0e447">That slap in Authority's face we so admired,</l>
+                     <l id="d0e449">Your flout, your flourish - ask it at last to turn</l>
+                     <l id="d0e451">The other cheek, accept your filial kiss?</l>
+                  </lg>
+                  <lg type="stanza" id="d0e453">
+                     <l id="d0e454">I'll do it if you like - I'd rather see</l>
+                     <l id="d0e456">You clip on your spurs for one last bloody bout,</l>
+                     <l id="d0e458">Wreck the whole join, tear down your Father's house</l>
+                     <l id="d0e460">In a glorious mass of plunder, wreckage, glass,</l>
+                     <l id="d0e462">Carried out bleeding, leaving behind no hole</l>
+                     <l id="d0e464">For cock of the walk to beat his last retreat.</l>
+                  </lg>
+               </body>
+               <back id="d0e466">
+                  <byline id="d0e467">Philip Hobsbaum</byline>
+               </back>
+            </text>
+         </group>
+         <group id="hobsbaum2">
+            <head id="d0e470">POEMS BY PHILIP HOBSBAUM</head>
+            <docDate id="d0e472">1963-1972</docDate>
+            <docAuthor id="d0e474">Philip Hobsbaum</docAuthor>
+            <argument>
+               <p id="d0e477">Workshop Poems</p>
+               <list type="simple" id="d0e479">
+                  <head></head>
+                  <item id="d0e480">Study in a Minor Key</item>
+               </list>
+            </argument>
+            <text id="d0e482">
+               <front id="d0e483">
+                  <titlePage id="d0e484">
+                     <docTitle id="d0e485">
+                        <titlePart type="main" id="d0e486">STUDY IN A MINOR KEY</titlePart>
+                     </docTitle>
+                  </titlePage>
+               </front>
+               <body id="d0e488">
+                  <opener>
+                     <dateline>Guildhall, London.   November 16, 1848</dateline>
+                  </opener>
+                  <lg type="stanza" id="d0e492">
+                     <l n="1" rend="indent6" id="d0e493">The people hot from dancing who went into the room where he</l>
+                     <l id="d0e495">played were but little in the humour to pay attention and anxious</l>
+                     <l id="d0e497">to return to their amusement.   He was in the last stages of</l>
+                     <l id="d0e499">exhaustion, and the affair resulted in disappointment.   His</l>
+                     <l id="d0e501">playing at such a place was a well-intentioned mistake.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e503">
+                     <l n="1" rend="indent6" id="d0e504">Poor Fritz, poor Fritzchen, Fr&#x000E9;d&#x000E9;ric Chopin, I</l>
+                     <l rend="indent6" id="d0e506">Man my resources to play all the night through,</l>
+                     <l rend="indent6" id="d0e508">Flex my wrist as a singer might draw in breath</l>
+                     <l rend="indent6" id="d0e510">Pausing before her first irresolute note -</l>
+                     <l rend="indent6" id="d0e512">For whom shall I sing but you, old cimbalom,</l>
+                     <l rend="indent6" id="d0e514">Simpleton of my wanderings, confidante</l>
+                     <l rend="indent6" id="d0e516">Like me played out by circumstance? - slender frame</l>
+                     <l rend="indent6" id="d0e518">More or less sound, a few strings snapped inside</l>
+                     <l rend="indent6" id="d0e520">Waiting for some Pleyel to refashion them.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e522">
+                     <l n="1" rend="indent6" id="d0e523">Play to yourself, for yourself, while the gay throng</l>
+                     <l rend="indent6" id="d0e525">Murmur together, impatient for the end -</l>
+                     <l rend="indent6" id="d0e527">It will come, it will come - yellow, shrivelled, cold,</l>
+                     <l rend="indent6" id="d0e529">Three layers of flannel under my clothes, still</l>
+                     <l rend="indent6" id="d0e531">No bigger than a boy, shrunk over the keys,</l>
+                     <l rend="indent6" id="d0e533">Nothing left but my longer-than-ever nose</l>
+                     <l rend="indent6" id="d0e535">And a third finger desperately out of play.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e537">
+                     <l n="1" rend="indent6" id="d0e538">Dowagers, dowried debutantes, dowdy belles,</l>
+                     <l rend="indent6" id="d0e540">They've got their grip on me - I can't shake them off -</l>
+                     <l rend="indent6" id="d0e542">Introduce me all over - who knows to whom? -</l>
+                     <l rend="indent6" id="d0e544">Chatter while I perform and then play themselves</l>
+                     <l rend="indent6" id="d0e546">Soulful and inaccurate, watching their hands -</l>
+                     <l rend="indent6" id="d0e548">Lank dried-up green-and-yellow countesses,</l>
+                     <l rend="indent6" id="d0e550">Scottish ladies who whistle to the guitar,</l>
+                     <l rend="indent6" id="d0e552">Mrs. Grote, grotesque, with her baritone voice</l>
+                     <l rend="indent6" id="d0e554">Asking me up three flights of steps to her box,</l>
+                     <l rend="indent6" id="d0e556">We chatted like the goose and the sucking pig</l>
+                     <l rend="indent6" id="d0e558">For I could speak no English and she no French -</l>
+                     <l rend="indent6" id="d0e560">The continuous round of dinners, concerts, balls,</l>
+                     <l rend="indent6" id="d0e562">Surrounded by people, feeling so alone,</l>
+                     <l rend="indent6" id="d0e564">More bored than ever, bored, incredibly bored.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e566">
+                     <l n="1" rend="indent6" id="d0e567">If London were not so black, its people dull,</l>
+                     <l rend="indent6" id="d0e569">Or if it could lose its smell of soot and fog,</l>
+                     <l rend="indent6" id="d0e571">I might even now dare to open my mouth</l>
+                     <l rend="indent6" id="d0e573">In this, your so-dear city.   But I get up</l>
+                     <l rend="indent6" id="d0e575">Coughing myself to death, take soup in my room,</l>
+                     <l rend="indent6" id="d0e577">Get Daniel to dress me, gasp all day, not fit</l>
+                     <l rend="indent6" id="d0e579">For anything until diner.   Then to stop</l>
+                     <l rend="indent6" id="d0e581">At table with these cattle, watching them talk,</l>
+                     <l rend="indent6" id="d0e583">Listening to them drink - oh, good kind souls,</l>
+                     <l rend="indent6" id="d0e585">So ugly and so alarming, let me breathe,</l>
+                     <l rend="indent6" id="d0e587">Understand what is said to me, live to greet</l>
+                     <l rend="indent6" id="d0e589">One or two friendly faces - those that are left.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e591">
+                     <l n="1" rend="indent6" id="d0e592">Old-as-a-mummy, very, extremely old -</l>
+                     <l rend="indent6" id="d0e594">I don't know how it is but thoughts of my friends,</l>
+                     <l rend="indent6" id="d0e596">Witwicki and Isidore, Antonia, Jan,</l>
+                     <l rend="indent6" id="d0e598">Those that have died, keep coming into my head -</l>
+                     <l rend="indent6" id="d0e600">Poor Jan, poor Johnny, Jan Matuszynski, you</l>
+                     <l rend="indent6" id="d0e602">- Clay like my own, fallen to pieces now -</l>
+                     <l rend="indent6" id="d0e604">Cannot speak out to rouse me from my despair,</l>
+                     <l rend="indent6" id="d0e606">Even the tuner, Ennike, drowned himself</l>
+                     <l rend="indent6" id="d0e608">Leaving me not one instrument in the world</l>
+                     <l rend="indent6" id="d0e610">Tempered to suit my touch.   Only five deaths more,</l>
+                     <l rend="indent6" id="d0e612">And I shall feel at home at St. Peter's gate.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e614">
+                     <l n="1" rend="indent6" id="d0e615">The murmur spreads, the dowagers on the stairs</l>
+                     <l rend="indent6" id="d0e617">Glitter in diamonds, glut on the paintings, halt,</l>
+                     <l rend="indent6" id="d0e619">Make as if to descend - so loud strike the keys!</l>
+                     <l rend="indent6" id="d0e621">- How vividly do my early days rise up</l>
+                     <l rend="indent6" id="d0e623">When first I played this piece at Castle Posen</l>
+                     <l rend="indent6" id="d0e625">Hidden deep in the forests of Radziwill -</l>
+                     <l rend="indent6" id="d0e627">The master of the house led the polonaise</l>
+                     <l rend="indent6" id="d0e629">Through all his bright apartments arrayed with guests</l>
+                     <l rend="indent6" id="d0e631">Joining the cavalcade as it redoubled -</l>
+                     <l rend="indent6" id="d0e633">We danced all night, hunted all morning, and now</l>
+                     <l rend="indent6" id="d0e635">The Prince, his wife and his son, all, all are dead</l>
+                  </lg>
+                  <lg type="stanza" id="d0e637">
+                     <l n="1" rend="indent6" id="d0e638">Make them dream now as, long ago, when a boy</l>
+                     <l rend="indent6" id="d0e640">I humbled the bright heads to the schoolroom floor,</l>
+                     <l rend="indent6" id="d0e642">Lulling their master, my father Nicholas,</l>
+                     <l rend="indent6" id="d0e644">Or in the Chauss&#x000E9;e d'Antin, after the play</l>
+                     <l rend="indent6" id="d0e646">When knots of vivid talkers decked my room, I</l>
+                     <l rend="indent6" id="d0e648">Tempered for reverie, not revelry, lit</l>
+                     <l rend="indent6" id="d0e650">The yellow candles by the piano, sat</l>
+                     <l rend="indent6" id="d0e652">Down at the keys, let my hands wander, now</l>
+                     <l rend="indent6" id="d0e654">Almost at random, now drawing out a tone</l>
+                     <l rend="indent6" id="d0e656">Fashioned from crystal and water, my Pleyel.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e658">
+                     <l n="1" rend="indent6" id="d0e659">And one by one the eager voices were stilled,</l>
+                     <l rend="indent6" id="d0e661">My guests gathered around me in the light</l>
+                     <l rend="indent6" id="d0e663">Flickering over my hands, the polished wood</l>
+                     <l rend="indent6" id="d0e665">Reflecting the room behind me - pale chaises-longues,</l>
+                     <l rend="indent6" id="d0e667">Corners melted to shadow seeming to stretch</l>
+                     <l rend="indent6" id="d0e669">Into indefinite space, while everywhere</l>
+                     <l rend="indent6" id="d0e671">The darkness rippled, fluctuated, encroached.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e673">
+                     <l n="1" rend="indent6" id="d0e674">Suddenly I crashed down chords to drive the bright</l>
+                     <l rend="indent6" id="d0e676">Reflections from their faces - the candles flared,</l>
+                     <l rend="indent6" id="d0e678">Flickered away - but before they died I saw</l>
+                     <l rend="indent6" id="d0e680">Caught by that blaze, deep in a fauteuil, one</l>
+                     <l rend="indent6" id="d0e682">Facing me out, devouring me with her eyes.</l>
+                     <l rend="indent6" id="d0e684">Darkness shut down on us, someone stirred, and then</l>
+                     <l rend="indent6" id="d0e686">Deep in my ear I heard her sibilant voice -</l>
+                     <l rend="indent6" id="d0e688">'Why not pluck up your courage, Fingers-of-Silk?'</l>
+                     <l rend="indent6" id="d0e690">On my arm the grip of an alien hand.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e692">
+                     <l n="1" rend="indent6" id="d0e693">Dark as a gypsy with her Indian eyes,</l>
+                     <l rend="indent6" id="d0e695">Chocolate hair in great braids coiled round her head,</l>
+                     <l rend="indent6" id="d0e697">Solemn at soir&#x000E9;es, gazing into the fire,</l>
+                     <l rend="indent6" id="d0e699">Refusing ices, settled with her cigar,</l>
+                     <l rend="indent6" id="d0e701">Set on a sofa, squat in red pantaloons,</l>
+                     <l rend="indent6" id="d0e703">Repelling curtly between two puffs of smoke</l>
+                     <l rend="indent6" id="d0e705">The double entendres of fops posing about.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e707">
+                     <l n="1" rend="indent6" id="d0e708">Those fops!  Could we escape?  Wherever we went</l>
+                     <l rend="indent6" id="d0e710">Some lover was sure to follow - sleepy-voiced,</l>
+                     <l rend="indent6" id="d0e712">Clothing his lust most elegantly.   To flee!</l>
+                     <l rend="indent6" id="d0e714">Vanish one morning - put off concerts and friends,</l>
+                     <l rend="indent6" id="d0e716">Retreat to some innocent isle, out of reach</l>
+                     <l rend="indent6" id="d0e718">Of the insolent smile, caller, rattling cane.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e720">
+                     <l n="1" rend="indent6" id="d0e721">'Little Chop, Chippy-Chop, Chip-Chop, Chopinsky</l>
+                     <l rend="indent6" id="d0e723">Come with me.   Why do you fear to come with me?</l>
+                     <l rend="indent6" id="d0e725">Can there be love without so much as a kiss?</l>
+                     <l rend="indent6" id="d0e727">Chastity?   So you to fear to sully our love</l>
+                     <l rend="indent6" id="d0e729">With ecstasy?   Abstain from soiling the flesh?</l>
+                     <l rend="indent6" id="d0e731">Play in the darkness on a dumb keyboard, then!</l>
+                     <l rend="indent6" id="d0e733">Why do you shirk away, poor little corpse?</l>
+                     <l rend="indent6" id="d0e735">The one mortal thing about you is your cough,</l>
+                     <l rend="indent6" id="d0e737">Though you cough with infinite grace.   Dare you come?</l>
+                     <l rend="indent6" id="d0e739">The last embrace is the purest.   Come with me.'</l>
+                     <l rend="indent6" id="d0e741">Mademoiselle Chopin bowed to Monsieur Sand:</l>
+                     <l rend="indent6" id="d0e743">I play a funeral march to celebrate.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e745">
+                     <l n="1" rend="indent6" id="d0e746">Alone in an empty chartreuse backed by hills</l>
+                     <l rend="indent6" id="d0e748">Hung high on a cliff, overlooking the plain</l>
+                     <l rend="indent6" id="d0e750">- Here some old monk, stifling the fire in his blood,</l>
+                     <l rend="indent6" id="d0e752">Vowed to perpetual silence, once peeped out</l>
+                     <l rend="indent6" id="d0e754">To glimpse mankind crawl over the valley floor</l>
+                     <l rend="indent6" id="d0e756">And then retire through the cloisters to his cell,</l>
+                     <l rend="indent6" id="d0e758">Fasten the coffin lid, lie down on his bier -</l>
+                     <l rend="indent6" id="d0e760">Call as loud as he might, nobody would come.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e762">
+                     <l n="1" rend="indent6" id="d0e763">Like that old monk I ventured out for a walk</l>
+                     <l rend="indent6" id="d0e765">Over the ruinous landscape, crater scarred.</l>
+                     <l rend="indent6" id="d0e767">She strode ahead in a masculine cape and boots,</l>
+                     <l rend="indent6" id="d0e769">One foot on a hill, the other in a gulch,</l>
+                     <l rend="indent6" id="d0e771">While I stumbled behind, stones cutting my feet.</l>
+                     <l rend="indent6" id="d0e773">When she was tired we turned back into the wind</l>
+                     <l rend="indent6" id="d0e775">Buffeting at our faces, knocking me down.</l>
+                     <l rend="indent6" id="d0e777">Torrents tore roads for landslides to repair,</l>
+                     <l rend="indent6" id="d0e779">The guide ran off in panic, we asked our way</l>
+                     <l rend="indent6" id="d0e781">Of goats on hind legs, truculent Majorcans -</l>
+                     <l rend="indent6" id="d0e783">'That river?'  'Part of the road.'   'Indeed. That hole?'</l>
+                     <l rend="indent6" id="d0e785">'Part of the road.'   'That thicket?'   'Part of the road.'</l>
+                  </lg>
+                  <lg type="stanza" id="d0e787">
+                     <l n="1" rend="indent6" id="d0e788">We got back at last, worn down, soaked through by rain.</l>
+                     <l rend="indent6" id="d0e790">It never stopped.   Damp settled over our limbs</l>
+                     <l rend="indent6" id="d0e792">Like an icy cloak, swelled out the spongy walls,</l>
+                     <l rend="indent6" id="d0e794">But wherever could we go?   Camped in our cell,</l>
+                     <l rend="indent6" id="d0e796">Gipsies fretting among gipsies, we hung on -</l>
+                     <l rend="indent6" id="d0e798">Suffered a hairy monster to bring us food</l>
+                     <l rend="indent6" id="d0e800">Concocted by witches - garlic, pepper, oil,</l>
+                     <l rend="indent6" id="d0e802">Fleas hopping over the fried-up chicken-skin,</l>
+                     <l rend="indent6" id="d0e804">While our good neighbour foraged our scanty stores,</l>
+                     <l rend="indent6" id="d0e806">A psalm in her mouth, her paw clamped in the pot.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e808">
+                     <l n="1" rend="indent6" id="d0e809">Wretchedly coughing, blinking through icy drops</l>
+                     <l rend="indent6" id="d0e811">I said 'If we stay here we might as well drown,</l>
+                     <l rend="indent6" id="d0e813">Our very clothes are mouldering to our backs.'</l>
+                     <l rend="indent6" id="d0e815">She stared in my face with those great heifer eyes,</l>
+                     <l rend="indent6" id="d0e817">Shook her dark tresses, went off to look for food,</l>
+                     <l rend="indent6" id="d0e819">Leaving me by myself.   Down hammered the rain,</l>
+                     <l rend="indent6" id="d0e821">The vast deserted cloister cracked overhead,</l>
+                     <l rend="indent6" id="d0e823">The wind rumbled like gunnery through the halls,</l>
+                     <l rend="indent6" id="d0e825">And through the halls a crazy sacristan stalked</l>
+                     <l rend="indent6" id="d0e827">Battering at cell after cell - seeing my light,</l>
+                     <l rend="indent6" id="d0e829">Beating at mine.   'Father Nicholas,' he calls,</l>
+                     <l rend="indent6" id="d0e831">Summoning the monk I banished.   'Will you go?'</l>
+                     <l rend="indent6" id="d0e833">Nicholas, Father, my father, Nicholas</l>
+                     <l rend="indent6" id="d0e835">Nicholas Chopin - I wept all the night through,</l>
+                     <l rend="indent6" id="d0e837">Shrank to the inner chamber, in self-defense</l>
+                     <l rend="indent6" id="d0e839">I started to play - anything, what you will,</l>
+                     <l rend="indent6" id="d0e841">The roof of the cells rang to my frenzied chords</l>
+                     <l rend="indent6" id="d0e843">Tearing into the wind and buffeting rain,</l>
+                     <l rend="indent6" id="d0e845">- I saw that she had been drowned, that I was drowned</l>
+                     <l rend="indent6" id="d0e847">Deep in the sea, but not so deep but the drops</l>
+                     <l rend="indent6" id="d0e849">Pelted me yet, plummeting on to my chest,</l>
+                     <l rend="indent6" id="d0e851">Pulsating like icy heartbeats, colder, chill -</l>
+                     <l rend="indent6" id="d0e853">When she crashed in at last in a gust of rain</l>
+                     <l rend="indent6" id="d0e855">I knew at once that she was one of the damned.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e857">
+                     <l n="1" rend="indent6" id="d0e858">(The music improvised in my madness then</l>
+                     <l rend="indent6" id="d0e860">I play for dowagers' delectation now -</l>
+                     <l rend="indent6" id="d0e862">They hear but do not listen, cannot respond,</l>
+                     <l rend="indent6" id="d0e864">Talking all through my collect, collectedly.)</l>
+                  </lg>
+                  <lg type="stanza" id="d0e866">
+                     <l n="1" rend="indent6" id="d0e867">'Drink up your soup.   I can't pour it down your throat.</l>
+                     <l rend="indent6" id="d0e869">Don't forget lunch.   The ni&#x000F1;a could make a stew</l>
+                     <l rend="indent6" id="d0e871">If you only let her alone.   Well, what now?'</l>
+                     <l rend="indent6" id="d0e873">'I am choking, love.'</l>
+                     <l rend="indent29" id="d0e875">'Take off your muffler, then.'</l>
+                     <l rend="indent6" id="d0e877">'I bore you.   Do I not bore you?   Tell me the truth -</l>
+                     <l rend="indent6" id="d0e879">Blood on my lips, tossing in fever - I call</l>
+                     <l rend="indent6" id="d0e881">Even at dead of night for help.'</l>
+                     <l rend="indent40" id="d0e883">'And I come.'</l>
+                     <l rend="indent6" id="d0e885">'But does it not bore you, love?   All through these months</l>
+                     <l rend="indent6" id="d0e887">Have you not lived like a virgin with me here?</l>
+                     <l rend="indent6" id="d0e889">And I - I am damped down with feebleness,</l>
+                     <l rend="indent6" id="d0e891">Crawl, but just to some instrument, touch the keys,</l>
+                     <l rend="indent6" id="d0e893">Sketch out some wraiths of music, have to retire.'</l>
+                     <l rend="indent6" id="d0e895">'Why fret yourself?'   Why not rest?'</l>
+                     <l rend="indent44" id="d0e897">'How can I rest?</l>
+                     <l rend="indent6" id="d0e899">The ghostly fathers of the chartreuse last night</l>
+                     <l rend="indent6" id="d0e901">Filed past my bed in a funeral cort&#x000E9;ge.</l>
+                     <l rend="indent6" id="d0e903">They carried a coffin which they said was mine.'</l>
+                     <l rend="indent6" id="d0e905">'A nightmare!   The doctors come this afternoon.'</l>
+                     <l rend="indent6" id="d0e907">'Ah, dearest, they would kill me.   When they came first</l>
+                     <l rend="indent6" id="d0e909">One sniffed at what I spat up, the second tapped</l>
+                     <l rend="indent6" id="d0e911">Where I had spat it from and the third one poked,</l>
+                     <l rend="indent6" id="d0e913">Listening while I spat.   They said I would die,</l>
+                     <l rend="indent6" id="d0e915">Was dying now, was, perhaps, already dead.'</l>
+                     <l rend="indent6" id="d0e917">'Asses - each one greater than the last.'</l>
+                     <l rend="indent49" id="d0e919">'My love,</l>
+                     <l rend="indent6" id="d0e921">I fear that I am damaged beyond repair.'</l>
+                  </lg>
+                  <lg type="stanza" id="d0e923">
+                     <l n="1" rend="indent6" id="d0e924">I take one final look round the narrow cell</l>
+                     <l rend="indent6" id="d0e926">We meant to be so happy in - at its doors</l>
+                     <l rend="indent6" id="d0e928">Tall as a carriage-gateway, its vaulted roof</l>
+                     <l rend="indent6" id="d0e930">Vibrant in sympathy with my muted chords,</l>
+                     <l rend="indent6" id="d0e932">The huge box by the bed where I used to write,</l>
+                     <l rend="indent6" id="d0e934">The candlestick I wrote by, grandfather chair</l>
+                     <l rend="indent6" id="d0e936">Where I would sit but where the shadowy monk,</l>
+                     <l rend="indent6" id="d0e938">Kneeling to pray, would meditate on his past.</l>
+                     <l rend="indent6" id="d0e940">If I had a fire and blood enough I would stop,</l>
+                     <l rend="indent6" id="d0e942">Cloistered apart in the solace of this vault.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e944">
+                     <l n="1" rend="indent6" id="d0e945">But no!  She has found a boat to take us away,</l>
+                     <l rend="indent6" id="d0e947">Ready keyed for departure.   A hundred swine</l>
+                     <l rend="indent6" id="d0e949">Grunt already on board, the swinemaster swears,</l>
+                     <l rend="indent6" id="d0e951">Denounces those who stand appalled by the stink,</l>
+                     <l rend="indent6" id="d0e953">Shuddering at the noise.   Some porker slips down,</l>
+                     <l rend="indent6" id="d0e955">Falls to uneasy slumber - straight in he jumps</l>
+                     <l rend="indent6" id="d0e957">Lashing from side to side the pen while they writhe,</l>
+                     <l rend="indent6" id="d0e959">Scramble to their feet squealing like poor damned souls -</l>
+                     <l rend="indent6" id="d0e961">'Keeps them patrolling, stops them from being sick.'</l>
+                     <l rend="indent6" id="d0e963">Not so the wretched passengers.   The boat rolled,</l>
+                     <l rend="indent6" id="d0e965">Pitched and juddered for thirty hours on end,</l>
+                     <l rend="indent6" id="d0e967">While I vomited bowl after bowl of blood,</l>
+                     <l rend="indent6" id="d0e969">Was handed down to the quay, a pallid ghost.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e971">
+                     <l n="1" rend="indent6" id="d0e972">Old Chop. old Chipette, Pichon, Chopin, I think</l>
+                     <l rend="indent6" id="d0e974">Some inner je-ne-sais-quoi may pull me through</l>
+                     <l rend="indent6" id="d0e976">Dances, concerts, theatres, assembly-halls,</l>
+                     <l rend="indent6" id="d0e978">One noble salon after the next.   I drag</l>
+                     <l rend="indent6" id="d0e980">This hoarsely breathing cadaver through the streets,</l>
+                     <l rend="indent6" id="d0e982">Or listen to pupils, cloistered in my room,</l>
+                     <l rend="indent6" id="d0e984">Resuming my life again, what's left of it,</l>
+                     <l rend="indent6" id="d0e986">Rub my aching temples with eau-de-cologne</l>
+                     <l rend="indent6" id="d0e988">Finger the miniature Pleyel by my side,</l>
+                     <l rend="indent6" id="d0e990">Essay the obvious laid flat on a couch -</l>
+                     <l rend="indent6" id="d0e992">Sick as I am the piano holds my life,</l>
+                     <l rend="indent6" id="d0e994">I play not upon strings but the human heart</l>
+                     <l rend="indent6" id="d0e996">For one or two friends, hushed in the dove-grey room</l>
+                     <l rend="indent6" id="d0e998">Fontana furnished - Isidore possibly,</l>
+                     <l rend="indent6" id="d0e1000">Johnny of course, and possibly Madame Sand</l>
+                     <l rend="indent6" id="d0e1002">- Once, that is, once.   Had she but left me in peace</l>
+                     <l rend="indent6" id="d0e1004">I might have, like Cherubini, lived quite long,</l>
+                     <l rend="indent6" id="d0e1006">And written, perhaps, as badly.   Better go.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e1008">
+                     <l n="1" rend="indent6" id="d0e1009">Daniel found my passport the other day,</l>
+                     <l rend="indent6" id="d0e1011">It says on the front that I am passing through -</l>
+                     <l rend="indent6" id="d0e1013">After twenty years in Paris, still en route,</l>
+                     <l rend="indent6" id="d0e1015">Too cold to stay, too ill to leave.   But I met</l>
+                     <l rend="indent6" id="d0e1017">The Lady herself, my cross, my serpent, here,</l>
+                     <l rend="indent6" id="d0e1019">Bowed politely, enquired after health,</l>
+                     <l rend="indent6" id="d0e1021">Withdrew as soon as I could into the street.</l>
+                     <l rend="indent6" id="d0e1023">Such encounters may grow frequent.   Keep withdrawn:</l>
+                     <l rend="indent6" id="d0e1025">Paris freezes my fingers fast to the keys,</l>
+                     <l rend="indent6" id="d0e1027">No doubt the grave will be warmer.   Let me see -</l>
+                     <l rend="indent6" id="d0e1029">Passant par Paris a Londres.   Shall I go?</l>
+                  </lg>
+                  <lg type="stanza" id="d0e1031">
+                     <l n="1" rend="indent6" id="d0e1032">Poor Fritzel, Freycek, Freyderyk Chopin, play -</l>
+                     <l rend="indent6" id="d0e1034">The busy world will never listen to you.</l>
+                     <l rend="indent6" id="d0e1036">Think of this London, black as a nobleman's arse,</l>
+                     <l rend="indent6" id="d0e1038">The soot coalescing in my nostrils here,</l>
+                     <l rend="indent6" id="d0e1040">Clutching at my throat, eating away my lungs,</l>
+                     <l rend="indent6" id="d0e1042">Think of that modish lodging with modish rent</l>
+                     <l rend="indent6" id="d0e1044">- Take it or leave it for some similar place,</l>
+                     <l rend="indent6" id="d0e1046">For I must live well, think of my pupils.   Yes,</l>
+                     <l rend="indent6" id="d0e1048">Think of them.   Ladies who come but seldom pay,</l>
+                     <l rend="indent6" id="d0e1050">And those who never - more thoughtfully - come at all.</l>
+                     <l rend="indent6" id="d0e1052">'This season one must retrench,' some harpy said -</l>
+                     <l rend="indent6" id="d0e1054">Nothing to fill my trencher, but they're entrenched.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e1056">
+                     <l n="1" rend="indent6" id="d0e1057">Whatever is not boring is not English,</l>
+                     <l rend="indent6" id="d0e1059">Strong and efficient like their turtle soup,</l>
+                     <l rend="indent6" id="d0e1061">Orchestras and roast beef, but nothing more.</l>
+                     <l rend="indent6" id="d0e1063">Look at these beldames, sporting ribbons and stars,</l>
+                     <l rend="indent6" id="d0e1065">Consider their cattle, standing in the field -</l>
+                     <l rend="indent6" id="d0e1067">&#x00122;a a plus d'intelligence que les Anglais.</l>
+                     <l rend="indent6" id="d0e1069">Some nations give annuities for great art,</l>
+                     <l rend="indent6" id="d0e1071">These should pay me for doing no work at all,</l>
+                     <l rend="indent6" id="d0e1073">Not here, not in this urinal of a place,</l>
+                     <l rend="indent6" id="d0e1075">Well-washed, they tell me, but with nowhere to stay.</l>
+                  </lg>
+                  <lg type="stanza" id="d0e1077">
+                     <l n="1" rend="indent6" id="d0e1078">No, it must cease.   I have no strength to play loud</l>
+                     <l rend="indent6" id="d0e1080">And they lack sense to be silent.   Why go on?</l>
+                     <l rend="indent6" id="d0e1082">I see that cards have come out, soon there is tea,</l>
+                     <l rend="indent6" id="d0e1084">Then dancing and flirtation.   I cannot hear</l>
+                     <l rend="indent6" id="d0e1086">Over the chattering crowd ranged on the stairs</l>
+                     <l rend="indent6" id="d0e1088">Exactly what I am playing, and if I stop</l>
+                     <l rend="indent6" id="d0e1090">- As now I do - no-one will notice, or care.</l>
+                     <l rend="indent6" id="d0e1092">No, I must leave.   Diffidently take no bow -</l>
+                     <l rend="indent6" id="d0e1094">The night will reward me, and the grave, and worms,</l>
+                     <l rend="indent6" id="d0e1096">Music speaks for itself, as well as it can -</l>
+                     <l rend="indent6" id="d0e1098">Crawl from the stool, tell Daniel to call a cab,</l>
+                     <l rend="indent6" id="d0e1100">Allow him to drape a cerecloth on my frame,</l>
+                     <l rend="indent6" id="d0e1102">Find the front door for me, open it too wide,</l>
+                     <l rend="indent6" id="d0e1104">Into shuddering darkness.   Pause on the step,</l>
+                     <l rend="indent6" id="d0e1106">Take one glance back to the light - not there, not there,</l>
+                     <l rend="indent6" id="d0e1108">Leave the hot glitter behind me.   Let it go -</l>
+                     <l rend="indent6" id="d0e1110">Embrace the blackness, lose myself in the night.</l>
+                  </lg>
+               </body>
+               <back id="d0e1112">
+                  <byline id="d0e1113">Philip Hobsbaum</byline>
+               </back>
+            </text>
+         </group>
+      </group>
+   </text>
+</TEI.2>
