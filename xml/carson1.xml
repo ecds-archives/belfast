@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title id="d0e5">Carson Workshops</title>
-            <author id="d0e7">Ciaran Carson</author>
+            <title>Carson Workshops</title>
+            <author>Ciaran Carson</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Staff</name>
@@ -12,13 +11,13 @@
          </titleStmt>
          <extent>20Kb</extent>
          <publicationStmt>
-            <publisher id="d0e15">Lewis H. Beck Center</publisher>
+            <publisher>Lewis H. Beck Center</publisher>
             <pubPlace>Emory University</pubPlace>
-            <address id="d0e19">
+            <address>
                <addrLine>Atlanta, Georgia</addrLine>
             </address>
-            <availability id="d0e22">
-               <p id="d0e23">1996 Emory University. Permission is granted to 
+            <availability>
+               <p>1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the 
 contributions to the work claimed by Emory University for non-profit 
 educational purposes, provided this header is included in its 
@@ -26,10 +25,10 @@ entirety.  For inquiries about commercial uses, contact either:
 Electronic Poetry Project or Lewis H. Beck Center for Electronic  
 collections and services, Emory University, Atlanta, Georgia 30322</p>
             </availability>
-            <date id="d0e25">2000</date>
+            <date>2000</date>
          </publicationStmt>
          <seriesStmt>
-            <title id="d0e28">Irish Poets</title>
+            <title>Irish Poets</title>
          </seriesStmt>
          <sourceDesc>
             <bibl>Belfast Group Sheets, Special Collections, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
@@ -37,393 +36,393 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p id="d0e34">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
+            <p>This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
          </projectDesc>
       </encodingDesc>
       <revisionDesc>
          <change>
-            <date id="d0e38">2000</date>
+            <date>2000</date>
             <respStmt>
                <name>Katherine Ellison</name>
                <resp>Staff</resp>
             </respStmt>
-            <item id="d0e45">SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
          </change>
       </revisionDesc>
    </teiHeader>
-   <text id="d0e47">
-      <front></front>
-      <group id="carsonworkshop">
-         <group id="carson1">
-            <head id="d0e50">POEMS BY CIARAN CARSON</head>
-            <docDate id="d0e52">1966-1972</docDate>
-            <docAuthor id="d0e54">Ciaran Carson</docAuthor>
+   <text>
+      <front/>
+      <group>
+         <group>
+            <head>POEMS BY CIARAN CARSON</head>
+            <docDate>1966-1972</docDate>
+            <docAuthor>Ciaran Carson</docAuthor>
             <argument>
-               <p id="d0e57">Workshop Poems</p>
-               <list type="simple" id="d0e59">
-                  <head></head>
-                  <item id="d0e60">Letter from Alaska</item>
-                  <item id="d0e62">Aranmore Island</item>
-                  <item id="d0e64">The Island Revisited</item>
-                  <item id="d0e66">Wheel</item>
-                  <item id="d0e68">Post Mortem on a Mass Grave</item>
-                  <item id="d0e70">The Clockwork Pigeon</item>
+               <p>Workshop Poems</p>
+               <list type="simple">
+                  <head/>
+                  <item>Letter from Alaska</item>
+                  <item>Aranmore Island</item>
+                  <item>The Island Revisited</item>
+                  <item>Wheel</item>
+                  <item>Post Mortem on a Mass Grave</item>
+                  <item>The Clockwork Pigeon</item>
                </list>
             </argument>
-            <text id="d0e72">
-               <front id="d0e73">
-                  <titlePage id="d0e74">
-                     <docTitle id="d0e75">
-                        <titlePart type="main" id="d0e76">LETTER FROM ALASKA</titlePart>
+            <text>
+               <front>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">LETTER FROM ALASKA</titlePart>
                      </docTitle>
                   </titlePage>
                </front>
-               <body id="d0e78">
-                  <lg type="stanza" id="d0e79">
-                     <l n="1" id="d0e80">Silence is for miles around</l>
-                     <l id="d0e82">an undistinguished white.</l>
+               <body>
+                  <lg type="stanza">
+                     <l n="1">Silence is for miles around</l>
+                     <l>an undistinguished white.</l>
                   </lg>
-                  <lg type="stanza" id="d0e84">
-                     <l id="d0e85">To fish</l>
-                     <l id="d0e87">is to break new ground.</l>
+                  <lg type="stanza">
+                     <l>To fish</l>
+                     <l>is to break new ground.</l>
                   </lg>
-                  <lg type="stanza" id="d0e89">
-                     <l id="d0e90">This is our lifeline:</l>
-                     <l id="d0e92">breaking white</l>
-                     <l id="d0e94">to find a deeper blue.</l>
+                  <lg type="stanza">
+                     <l>This is our lifeline:</l>
+                     <l>breaking white</l>
+                     <l>to find a deeper blue.</l>
                   </lg>
-                  <lg type="stanza" id="d0e96">
-                     <l id="d0e97">Yesterday,</l>
-                     <l id="d0e99">we thought of you,</l>
-                     <l id="d0e101">all those miles away.</l>
+                  <lg type="stanza">
+                     <l>Yesterday,</l>
+                     <l>we thought of you,</l>
+                     <l>all those miles away.</l>
                   </lg>
-                  <lg type="stanza" id="d0e103">
-                     <l id="d0e104">Our letter may have trouble,</l>
-                     <l id="d0e106">getting through:</l>
-                     <l id="d0e108">the snow covers everything.</l>
+                  <lg type="stanza">
+                     <l>Our letter may have trouble,</l>
+                     <l>getting through:</l>
+                     <l>the snow covers everything.</l>
                   </lg>
-                  <lg type="stanza" id="d0e110">
-                     <l id="d0e111">Land and sea</l>
-                     <l id="d0e113">have lost all meaning -</l>
+                  <lg type="stanza">
+                     <l>Land and sea</l>
+                     <l>have lost all meaning -</l>
                   </lg>
-                  <lg type="stanza" id="d0e115">
-                     <l id="d0e116">we build from what we see.</l>
-                     <l id="d0e118">our igloos keep us warm.</l>
+                  <lg type="stanza">
+                     <l>we build from what we see.</l>
+                     <l>our igloos keep us warm.</l>
                   </lg>
-                  <lg type="stanza" id="d0e120">
-                     <l id="d0e121">Our needs are small.</l>
-                     <l id="d0e123">This is the world's last infinity.</l>
-                     <l id="d0e125">Here, you get away from it all.</l>
+                  <lg type="stanza">
+                     <l>Our needs are small.</l>
+                     <l>This is the world's last infinity.</l>
+                     <l>Here, you get away from it all.</l>
                   </lg>
                </body>
-               <back id="d0e127">
-                  <byline id="d0e128">Ciaran Carson</byline>
+               <back>
+                  <byline>Ciaran Carson</byline>
                </back>
             </text>
-            <text id="d0e130">
-               <front id="d0e131">
-                  <titlePage id="d0e132">
-                     <docTitle id="d0e133">
-                        <titlePart type="main" id="d0e134">ARANMORE ISLAND</titlePart>
+            <text>
+               <front>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">ARANMORE ISLAND</titlePart>
                      </docTitle>
                   </titlePage>
                </front>
-               <body id="d0e136">
-                  <lg type="stanza" id="d0e137">
-                     <head id="d0e138">1. Erratics</head>
-                     <l n="1" id="d0e140">If sheep were stone,</l>
-                     <l id="d0e142">these stones have dropped dead</l>
-                     <l id="d0e144">in one another's tracks.</l>
+               <body>
+                  <lg type="stanza">
+                     <head>1. Erratics</head>
+                     <l n="1">If sheep were stone,</l>
+                     <l>these stones have dropped dead</l>
+                     <l>in one another's tracks.</l>
                   </lg>
-                  <lg type="stanza" id="d0e146">
-                     <l id="d0e147">Their pebbles are rounded up</l>
-                     <l id="d0e149">from the droppings of the last Ice Age</l>
-                     <l id="d0e151">where ice drifted in packs</l>
+                  <lg type="stanza">
+                     <l>Their pebbles are rounded up</l>
+                     <l>from the droppings of the last Ice Age</l>
+                     <l>where ice drifted in packs</l>
                   </lg>
-                  <lg type="stanza" id="d0e153">
-                     <l id="d0e154">from farther north,</l>
-                     <l id="d0e156">fleecing the ground for foothold</l>
-                     <l id="d0e158">then going back,</l>
+                  <lg type="stanza">
+                     <l>from farther north,</l>
+                     <l>fleecing the ground for foothold</l>
+                     <l>then going back,</l>
                   </lg>
-                  <lg type="stanza" id="d0e160">
-                     <l id="d0e161">perching these stones in high places;</l>
-                     <l id="d0e163">and coming back</l>
-                     <l id="d0e165">again and again, each time I find my traces</l>
+                  <lg type="stanza">
+                     <l>perching these stones in high places;</l>
+                     <l>and coming back</l>
+                     <l>again and again, each time I find my traces</l>
                   </lg>
-                  <lg type="stanza" id="d0e167">
-                     <l id="d0e168">following each other back like sheep.</l>
-                     <l id="d0e170">They are not stones but clouds</l>
-                     <l id="d0e172">counting one another to sleep.</l>
+                  <lg type="stanza">
+                     <l>following each other back like sheep.</l>
+                     <l>They are not stones but clouds</l>
+                     <l>counting one another to sleep.</l>
                   </lg>
-                  <lg type="stanza" id="d0e174">
-                     <head id="d0e175">2. The Fault</head>
-                     <l id="d0e177">The fault was in the stone.  It seems</l>
-                     <l id="d0e179">no love could be attached</l>
+                  <lg type="stanza">
+                     <head>2. The Fault</head>
+                     <l>The fault was in the stone.  It seems</l>
+                     <l>no love could be attached</l>
                   </lg>
-                  <lg type="stanza" id="d0e181">
-                     <l id="d0e182">to this bare rock adrift</l>
-                     <l id="d0e184">from land. We always watched</l>
+                  <lg type="stanza">
+                     <l>to this bare rock adrift</l>
+                     <l>from land. We always watched</l>
                   </lg>
-                  <lg type="stanza" id="d0e186">
-                     <l id="d0e187">and build our walls against the draught.</l>
-                     <l id="d0e189">Yet our doors are left unlatched</l>
+                  <lg type="stanza">
+                     <l>and build our walls against the draught.</l>
+                     <l>Yet our doors are left unlatched</l>
                   </lg>
-                  <lg type="stanza" id="d0e191">
-                     <l id="d0e192">expecting always some lost kin</l>
-                     <l id="d0e194">to come with what the wind blows in.</l>
+                  <lg type="stanza">
+                     <l>expecting always some lost kin</l>
+                     <l>to come with what the wind blows in.</l>
                   </lg>
-                  <lg type="stanza" id="d0e196">
-                     <head id="d0e197">3. American Wake</head>
-                     <l id="d0e199">All their days seem stone</l>
-                     <l id="d0e201">they've piled on stone.</l>
+                  <lg type="stanza">
+                     <head>3. American Wake</head>
+                     <l>All their days seem stone</l>
+                     <l>they've piled on stone.</l>
                   </lg>
-                  <lg type="stanza" id="d0e203">
-                     <l id="d0e204">Their walls are nets for native soil</l>
-                     <l id="d0e206">that will not settle down.</l>
+                  <lg type="stanza">
+                     <l>Their walls are nets for native soil</l>
+                     <l>that will not settle down.</l>
                   </lg>
-                  <lg type="stanza" id="d0e208">
-                     <l id="d0e209">Each year another man will sail</l>
-                     <l id="d0e211">out west to break new ground,</l>
+                  <lg type="stanza">
+                     <l>Each year another man will sail</l>
+                     <l>out west to break new ground,</l>
                   </lg>
-                  <lg type="stanza" id="d0e213">
-                     <l id="d0e214">and break the knots</l>
-                     <l id="d0e216">their women spun in rosaries of net.</l>
+                  <lg type="stanza">
+                     <l>and break the knots</l>
+                     <l>their women spun in rosaries of net.</l>
                   </lg>
-                  <lg type="stanza" id="d0e218">
-                     <l id="d0e219">Each year another man recovers</l>
-                     <l id="d0e221">the lines that slipped his fingers,</l>
+                  <lg type="stanza">
+                     <l>Each year another man recovers</l>
+                     <l>the lines that slipped his fingers,</l>
                   </lg>
-                  <lg type="stanza" id="d0e223">
-                     <l id="d0e224">coming back, and reaching back to find his own</l>
-                     <l id="d0e226">in this graveyard slowly burying itself in stone.</l>
+                  <lg type="stanza">
+                     <l>coming back, and reaching back to find his own</l>
+                     <l>in this graveyard slowly burying itself in stone.</l>
                   </lg>
                </body>
-               <back id="d0e228">
-                  <byline id="d0e229">Ciaran Carson</byline>
+               <back>
+                  <byline>Ciaran Carson</byline>
                </back>
             </text>
-            <text id="d0e231">
-               <front id="d0e232">
-                  <titlePage id="d0e233">
-                     <docTitle id="d0e234">
-                        <titlePart type="main" id="d0e235">THE ISLAND REVISITED</titlePart>
+            <text>
+               <front>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">THE ISLAND REVISITED</titlePart>
                      </docTitle>
                   </titlePage>
                </front>
-               <body id="d0e237">
-                  <lg type="stanza" id="d0e238">
-                     <l n="1" id="d0e239">I open</l>
-                     <l id="d0e241">the clean lines</l>
+               <body>
+                  <lg type="stanza">
+                     <l n="1">I open</l>
+                     <l>the clean lines</l>
                   </lg>
-                  <lg type="stanza" id="d0e243">
-                     <l id="d0e244">of the barred gate</l>
-                     <l id="d0e246">I left unlatched.</l>
+                  <lg type="stanza">
+                     <l>of the barred gate</l>
+                     <l>I left unlatched.</l>
                   </lg>
-                  <lg type="stanza" id="d0e248">
-                     <l id="d0e249">The walls are pitched</l>
-                     <l id="d0e251">white against the moon;</l>
+                  <lg type="stanza">
+                     <l>The walls are pitched</l>
+                     <l>white against the moon;</l>
                   </lg>
-                  <lg type="stanza" id="d0e253">
-                     <l id="d0e254">the half-</l>
-                     <l id="d0e256">door swings back</l>
+                  <lg type="stanza">
+                     <l>the half-</l>
+                     <l>door swings back</l>
                   </lg>
-                  <lg type="stanza" id="d0e258">
-                     <l id="d0e259">to let me in.</l>
-                     <l id="d0e261">The lamp stills</l>
+                  <lg type="stanza">
+                     <l>to let me in.</l>
+                     <l>The lamp stills</l>
                   </lg>
-                  <lg type="stanza" id="d0e263">
-                     <l id="d0e264">me in</l>
-                     <l id="d0e266">spilled light. </l>
+                  <lg type="stanza">
+                     <l>me in</l>
+                     <l>spilled light. </l>
                   </lg>
-                  <lg type="stanza" id="d0e268">
-                     <l id="d0e269">I draw back</l>
-                     <l id="d0e271">the sheets</l>
+                  <lg type="stanza">
+                     <l>I draw back</l>
+                     <l>the sheets</l>
                   </lg>
-                  <lg type="stanza" id="d0e273">
-                     <l id="d0e274">of your pain</l>
-                     <l id="d0e276">and watch</l>
+                  <lg type="stanza">
+                     <l>of your pain</l>
+                     <l>and watch</l>
                   </lg>
-                  <lg type="stanza" id="d0e278">
-                     <l id="d0e279">your child, my child,</l>
-                     <l id="d0e281">break free.</l>
+                  <lg type="stanza">
+                     <l>your child, my child,</l>
+                     <l>break free.</l>
                   </lg>
                </body>
-               <back id="d0e283">
-                  <byline id="d0e284">Ciaran Carson</byline>
+               <back>
+                  <byline>Ciaran Carson</byline>
                </back>
             </text>
-            <text id="d0e286">
-               <front id="d0e287">
-                  <titlePage id="d0e288">
-                     <docTitle id="d0e289">
-                        <titlePart type="main" id="d0e290">WHEEL</titlePart>
+            <text>
+               <front>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">WHEEL</titlePart>
                      </docTitle>
                   </titlePage>
                </front>
-               <body id="d0e292">
-                  <lg type="stanza" id="d0e293">
-                     <l n="1" id="d0e294">Through course of time</l>
-                     <l id="d0e296">the wheel has run down.</l>
+               <body>
+                  <lg type="stanza">
+                     <l n="1">Through course of time</l>
+                     <l>the wheel has run down.</l>
                   </lg>
-                  <lg type="stanza" id="d0e298">
-                     <l id="d0e299">The millrace is a choke</l>
-                     <l id="d0e301">of earth, a whisper of weeds.</l>
+                  <lg type="stanza">
+                     <l>The millrace is a choke</l>
+                     <l>of earth, a whisper of weeds.</l>
                   </lg>
-                  <lg type="stanza" id="d0e303">
-                     <l id="d0e304">These rotted slats</l>
-                     <l id="d0e306">were once tongue for clattering water</l>
-                     <l id="d0e308">that spun a fine sheet,</l>
+                  <lg type="stanza">
+                     <l>These rotted slats</l>
+                     <l>were once tongue for clattering water</l>
+                     <l>that spun a fine sheet,</l>
                   </lg>
-                  <lg type="stanza" id="d0e310">
-                     <l id="d0e311">driving power</l>
-                     <l id="d0e313">for mill and linen loom.</l>
+                  <lg type="stanza">
+                     <l>driving power</l>
+                     <l>for mill and linen loom.</l>
                   </lg>
-                  <lg type="stanza" id="d0e315">
-                     <l id="d0e316">I touch the rusted hoop</l>
-                     <l id="d0e318">that collars warped wood;</l>
+                  <lg type="stanza">
+                     <l>I touch the rusted hoop</l>
+                     <l>that collars warped wood;</l>
                   </lg>
-                  <lg type="stanza" id="d0e320">
-                     <l id="d0e321">half-afraid,</l>
-                     <l id="d0e323">step inside, then begin to stride,</l>
+                  <lg type="stanza">
+                     <l>half-afraid,</l>
+                     <l>step inside, then begin to stride,</l>
                   </lg>
-                  <lg type="stanza" id="d0e325">
-                     <l id="d0e326">leaning all my weight; tread,</l>
-                     <l id="d0e328">till the wheel answers</l>
-                     <l id="d0e330">with a racking cough</l>
+                  <lg type="stanza">
+                     <l>leaning all my weight; tread,</l>
+                     <l>till the wheel answers</l>
+                     <l>with a racking cough</l>
                   </lg>
-                  <lg type="stanza" id="d0e332">
-                     <l id="d0e333">and a scrape that shudders spine;</l>
-                     <l id="d0e335">swings. </l>
+                  <lg type="stanza">
+                     <l>and a scrape that shudders spine;</l>
+                     <l>swings. </l>
                   </lg>
-                  <lg type="stanza" id="d0e337">
-                     <l id="d0e338">I am its water; its voice mine,</l>
-                     <l id="d0e340">spilling down the throat of a century.</l>
+                  <lg type="stanza">
+                     <l>I am its water; its voice mine,</l>
+                     <l>spilling down the throat of a century.</l>
                   </lg>
-                  <lg type="stanza" id="d0e342">
-                     <l id="d0e343">The wheel turns.</l>
-                     <l id="d0e345">The past springs to life.</l>
+                  <lg type="stanza">
+                     <l>The wheel turns.</l>
+                     <l>The past springs to life.</l>
                   </lg>
                </body>
-               <back id="d0e347">
-                  <byline id="d0e348">Ciaran Carson</byline>
+               <back>
+                  <byline>Ciaran Carson</byline>
                </back>
             </text>
-            <text id="d0e350">
-               <front id="d0e351">
-                  <titlePage id="d0e352">
-                     <docTitle id="d0e353">
-                        <titlePart type="main" id="d0e354">POST MORTEM ON A MASS GRAVE</titlePart>
+            <text>
+               <front>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">POST MORTEM ON A MASS GRAVE</titlePart>
                      </docTitle>
                   </titlePage>
                </front>
-               <body id="d0e356">
-                  <lg type="stanza" id="d0e357">
-                     <l n="1" id="d0e358">Having cut</l>
-                     <l id="d0e360">the fresh trees on their grave</l>
+               <body>
+                  <lg type="stanza">
+                     <l n="1">Having cut</l>
+                     <l>the fresh trees on their grave</l>
                   </lg>
-                  <lg type="stanza" id="d0e362">
-                     <l id="d0e363">we found the soil</l>
-                     <l id="d0e365">kind to the spade,</l>
+                  <lg type="stanza">
+                     <l>we found the soil</l>
+                     <l>kind to the spade,</l>
                   </lg>
-                  <lg type="stanza" id="d0e367">
-                     <l id="d0e368">the bodies</l>
-                     <l id="d0e370">well-preserved.</l>
+                  <lg type="stanza">
+                     <l>the bodies</l>
+                     <l>well-preserved.</l>
                   </lg>
-                  <lg type="stanza" id="d0e372">
-                     <l id="d0e373">Reading a date</l>
-                     <l id="d0e375">between the lines,</l>
+                  <lg type="stanza">
+                     <l>Reading a date</l>
+                     <l>between the lines,</l>
                   </lg>
-                  <lg type="stanza" id="d0e377">
-                     <l id="d0e378">this man's stump</l>
-                     <l id="d0e380">is evidence of frostbite.</l>
+                  <lg type="stanza">
+                     <l>this man's stump</l>
+                     <l>is evidence of frostbite.</l>
                   </lg>
-                  <lg type="stanza" id="d0e382">
-                     <l id="d0e383">That was the year</l>
-                     <l id="d0e385">the snow killed the wheat.</l>
+                  <lg type="stanza">
+                     <l>That was the year</l>
+                     <l>the snow killed the wheat.</l>
                   </lg>
-                  <lg type="stanza" id="d0e387">
-                     <l id="d0e388">This man's tongue</l>
-                     <l id="d0e390">protrudes from his teeth.</l>
+                  <lg type="stanza">
+                     <l>This man's tongue</l>
+                     <l>protrudes from his teeth.</l>
                   </lg>
-                  <lg type="stanza" id="d0e392">
-                     <l id="d0e393">That was the year</l>
-                     <l id="d0e395">of the drought.</l>
+                  <lg type="stanza">
+                     <l>That was the year</l>
+                     <l>of the drought.</l>
                   </lg>
-                  <lg type="stanza" id="d0e397">
-                     <l id="d0e398">We then</l>
-                     <l id="d0e400">gathered the shot,</l>
-                     <l id="d0e402"> (it has, we note,</l>
-                     <l id="d0e404">the appearance of grey seed),</l>
+                  <lg type="stanza">
+                     <l>We then</l>
+                     <l>gathered the shot,</l>
+                     <l> (it has, we note,</l>
+                     <l>the appearance of grey seed),</l>
                   </lg>
-                  <lg type="stanza" id="d0e406">
-                     <l id="d0e407">marking the holes</l>
-                     <l id="d0e409">where the bullets found their heads.</l>
+                  <lg type="stanza">
+                     <l>marking the holes</l>
+                     <l>where the bullets found their heads.</l>
                   </lg>
-                  <lg type="stanza" id="d0e411">
-                     <l id="d0e412">the M.O. makes a clean cut</l>
-                     <l id="d0e414">between one man's ribs,</l>
+                  <lg type="stanza">
+                     <l>the M.O. makes a clean cut</l>
+                     <l>between one man's ribs,</l>
                   </lg>
-                  <lg type="stanza" id="d0e416">
-                     <l id="d0e417">examines the heart,</l>
-                     <l id="d0e419">washes clean is hands.</l>
+                  <lg type="stanza">
+                     <l>examines the heart,</l>
+                     <l>washes clean is hands.</l>
                   </lg>
-                  <lg type="stanza" id="d0e421">
-                     <l id="d0e422">No need -</l>
-                     <l id="d0e424">The blood has long since dried.</l>
+                  <lg type="stanza">
+                     <l>No need -</l>
+                     <l>The blood has long since dried.</l>
                   </lg>
                </body>
-               <back id="d0e426">
-                  <byline id="d0e427">Ciaran Carson</byline>
+               <back>
+                  <byline>Ciaran Carson</byline>
                </back>
             </text>
-            <text id="d0e429">
-               <front id="d0e430">
-                  <titlePage id="d0e431">
-                     <docTitle id="d0e432">
-                        <titlePart type="main" id="d0e433">THE CLOCKWORK PIGEON</titlePart>
+            <text>
+               <front>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">THE CLOCKWORK PIGEON</titlePart>
                      </docTitle>
                   </titlePage>
                </front>
-               <body id="d0e435">
-                  <lg type="stanza" id="d0e436">
-                     <l n="1" id="d0e437">How long have our wars</l>
-                     <l id="d0e439">struggled to get off ground? </l>
-                     <l id="d0e441">Once we used wax from our ears, </l>
-                     <l id="d0e443">we must have flown</l>
+               <body>
+                  <lg type="stanza">
+                     <l n="1">How long have our wars</l>
+                     <l>struggled to get off ground? </l>
+                     <l>Once we used wax from our ears, </l>
+                     <l>we must have flown</l>
                   </lg>
-                  <lg type="stanza" id="d0e445">
-                     <l id="d0e446">close to the sun, were drowned. </l>
-                     <l id="d0e448">Yet still we tried to breed</l>
-                     <l id="d0e450">success, scrambling fire</l>
-                     <l id="d0e452">with heavy water, sowed the seed, </l>
+                  <lg type="stanza">
+                     <l>close to the sun, were drowned. </l>
+                     <l>Yet still we tried to breed</l>
+                     <l>success, scrambling fire</l>
+                     <l>with heavy water, sowed the seed, </l>
                   </lg>
-                  <lg type="stanza" id="d0e454">
-                     <l id="d0e455">holding our ears against next year's</l>
-                     <l id="d0e457">explosion. Our battery hens</l>
-                     <l id="d0e459">have left their broken shells</l>
-                     <l id="d0e461">over half a hemisphere. </l>
+                  <lg type="stanza">
+                     <l>holding our ears against next year's</l>
+                     <l>explosion. Our battery hens</l>
+                     <l>have left their broken shells</l>
+                     <l>over half a hemisphere. </l>
                   </lg>
-                  <lg type="stanza" id="d0e463">
-                     <l id="d0e464">Then the black-out and the silence</l>
-                     <l id="d0e466">as we hatched a new plot. </l>
-                     <l id="d0e468">Our light bulbs mushroomed overnight, </l>
-                     <l id="d0e470">we dug for the underground. </l>
+                  <lg type="stanza">
+                     <l>Then the black-out and the silence</l>
+                     <l>as we hatched a new plot. </l>
+                     <l>Our light bulbs mushroomed overnight, </l>
+                     <l>we dug for the underground. </l>
                   </lg>
-                  <lg type="stanza" id="d0e472">
-                     <l id="d0e473">Our radar screened our exile. </l>
-                     <l id="d0e475">So, the first Pigeon Transplant. </l>
-                     <l id="d0e477">We released it to the outside rain</l>
-                     <l id="d0e479">and huddled against the next missile, </l>
+                  <lg type="stanza">
+                     <l>Our radar screened our exile. </l>
+                     <l>So, the first Pigeon Transplant. </l>
+                     <l>We released it to the outside rain</l>
+                     <l>and huddled against the next missile, </l>
                   </lg>
-                  <lg type="stanza" id="d0e481">
-                     <l id="d0e482">deaf to the cluck of its transistor brain, </l>
-                     <l id="d0e484">as it came home to roost</l>
-                     <l id="d0e486">its metal head, the whirring</l>
-                     <l id="d0e488">of our ears which were its wings.</l>
+                  <lg type="stanza">
+                     <l>deaf to the cluck of its transistor brain, </l>
+                     <l>as it came home to roost</l>
+                     <l>its metal head, the whirring</l>
+                     <l>of our ears which were its wings.</l>
                   </lg>
                </body>
-               <back id="d0e490">
-                  <byline id="d0e491">Ciaran Carson</byline>
+               <back>
+                  <byline>Ciaran Carson</byline>
                </back>
             </text>
          </group>
