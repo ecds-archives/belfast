@@ -1,431 +1,432 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title>Carson Workshops</title>
-            <author>Ciaran Carson</author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>Staff</name>
-            </respStmt>
-         </titleStmt>
-         <extent>20Kb</extent>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
-               <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
-               <p>1996 Emory University. Permission is granted to 
+
+<TEI.2 id="carson1_1038">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Carson Workshops</title>
+        <author>Ciaran Carson</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Staff</name>
+        </respStmt>
+      </titleStmt>
+      <extent>20Kb</extent>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia</addrLine>
+        </address>
+        <availability>
+          <p id="carson1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the 
 contributions to the work claimed by Emory University for non-profit 
 educational purposes, provided this header is included in its 
 entirety.  For inquiries about commercial uses, contact either: 
 Electronic Poetry Project or Lewis H. Beck Center for Electronic  
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>2000</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Irish Poets</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>Belfast Group Sheets, Special Collections, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
-         </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>2000</date>
-            <respStmt>
-               <name>Katherine Ellison</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <front/>
-      <group>
-         <group>
-            <head>POEMS BY CIARAN CARSON</head>
-            <docDate>1966-1972</docDate>
-            <docAuthor>Ciaran Carson</docAuthor>
-            <argument>
-               <p>Workshop Poems</p>
-               <list type="simple">
-                  <head/>
-                  <item>Letter from Alaska</item>
-                  <item>Aranmore Island</item>
-                  <item>The Island Revisited</item>
-                  <item>Wheel</item>
-                  <item>Post Mortem on a Mass Grave</item>
-                  <item>The Clockwork Pigeon</item>
-               </list>
-            </argument>
-            <text>
-               <front>
-                  <titlePage>
-                     <docTitle>
-                        <titlePart type="main">LETTER FROM ALASKA</titlePart>
-                     </docTitle>
-                  </titlePage>
-               </front>
-               <body>
-                  <lg type="stanza">
-                     <l n="1">Silence is for miles around</l>
-                     <l>an undistinguished white.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>To fish</l>
-                     <l>is to break new ground.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>This is our lifeline:</l>
-                     <l>breaking white</l>
-                     <l>to find a deeper blue.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Yesterday,</l>
-                     <l>we thought of you,</l>
-                     <l>all those miles away.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Our letter may have trouble,</l>
-                     <l>getting through:</l>
-                     <l>the snow covers everything.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Land and sea</l>
-                     <l>have lost all meaning -</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>we build from what we see.</l>
-                     <l>our igloos keep us warm.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Our needs are small.</l>
-                     <l>This is the world's last infinity.</l>
-                     <l>Here, you get away from it all.</l>
-                  </lg>
-               </body>
-               <back>
-                  <byline>Ciaran Carson</byline>
-               </back>
-            </text>
-            <text>
-               <front>
-                  <titlePage>
-                     <docTitle>
-                        <titlePart type="main">ARANMORE ISLAND</titlePart>
-                     </docTitle>
-                  </titlePage>
-               </front>
-               <body>
-                  <lg type="stanza">
-                     <head>1. Erratics</head>
-                     <l n="1">If sheep were stone,</l>
-                     <l>these stones have dropped dead</l>
-                     <l>in one another's tracks.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Their pebbles are rounded up</l>
-                     <l>from the droppings of the last Ice Age</l>
-                     <l>where ice drifted in packs</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>from farther north,</l>
-                     <l>fleecing the ground for foothold</l>
-                     <l>then going back,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>perching these stones in high places;</l>
-                     <l>and coming back</l>
-                     <l>again and again, each time I find my traces</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>following each other back like sheep.</l>
-                     <l>They are not stones but clouds</l>
-                     <l>counting one another to sleep.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <head>2. The Fault</head>
-                     <l>The fault was in the stone.  It seems</l>
-                     <l>no love could be attached</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>to this bare rock adrift</l>
-                     <l>from land. We always watched</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>and build our walls against the draught.</l>
-                     <l>Yet our doors are left unlatched</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>expecting always some lost kin</l>
-                     <l>to come with what the wind blows in.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <head>3. American Wake</head>
-                     <l>All their days seem stone</l>
-                     <l>they've piled on stone.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Their walls are nets for native soil</l>
-                     <l>that will not settle down.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Each year another man will sail</l>
-                     <l>out west to break new ground,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>and break the knots</l>
-                     <l>their women spun in rosaries of net.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Each year another man recovers</l>
-                     <l>the lines that slipped his fingers,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>coming back, and reaching back to find his own</l>
-                     <l>in this graveyard slowly burying itself in stone.</l>
-                  </lg>
-               </body>
-               <back>
-                  <byline>Ciaran Carson</byline>
-               </back>
-            </text>
-            <text>
-               <front>
-                  <titlePage>
-                     <docTitle>
-                        <titlePart type="main">THE ISLAND REVISITED</titlePart>
-                     </docTitle>
-                  </titlePage>
-               </front>
-               <body>
-                  <lg type="stanza">
-                     <l n="1">I open</l>
-                     <l>the clean lines</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>of the barred gate</l>
-                     <l>I left unlatched.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>The walls are pitched</l>
-                     <l>white against the moon;</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>the half-</l>
-                     <l>door swings back</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>to let me in.</l>
-                     <l>The lamp stills</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>me in</l>
-                     <l>spilled light. </l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>I draw back</l>
-                     <l>the sheets</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>of your pain</l>
-                     <l>and watch</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>your child, my child,</l>
-                     <l>break free.</l>
-                  </lg>
-               </body>
-               <back>
-                  <byline>Ciaran Carson</byline>
-               </back>
-            </text>
-            <text>
-               <front>
-                  <titlePage>
-                     <docTitle>
-                        <titlePart type="main">WHEEL</titlePart>
-                     </docTitle>
-                  </titlePage>
-               </front>
-               <body>
-                  <lg type="stanza">
-                     <l n="1">Through course of time</l>
-                     <l>the wheel has run down.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>The millrace is a choke</l>
-                     <l>of earth, a whisper of weeds.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>These rotted slats</l>
-                     <l>were once tongue for clattering water</l>
-                     <l>that spun a fine sheet,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>driving power</l>
-                     <l>for mill and linen loom.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>I touch the rusted hoop</l>
-                     <l>that collars warped wood;</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>half-afraid,</l>
-                     <l>step inside, then begin to stride,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>leaning all my weight; tread,</l>
-                     <l>till the wheel answers</l>
-                     <l>with a racking cough</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>and a scrape that shudders spine;</l>
-                     <l>swings. </l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>I am its water; its voice mine,</l>
-                     <l>spilling down the throat of a century.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>The wheel turns.</l>
-                     <l>The past springs to life.</l>
-                  </lg>
-               </body>
-               <back>
-                  <byline>Ciaran Carson</byline>
-               </back>
-            </text>
-            <text>
-               <front>
-                  <titlePage>
-                     <docTitle>
-                        <titlePart type="main">POST MORTEM ON A MASS GRAVE</titlePart>
-                     </docTitle>
-                  </titlePage>
-               </front>
-               <body>
-                  <lg type="stanza">
-                     <l n="1">Having cut</l>
-                     <l>the fresh trees on their grave</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>we found the soil</l>
-                     <l>kind to the spade,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>the bodies</l>
-                     <l>well-preserved.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Reading a date</l>
-                     <l>between the lines,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>this man's stump</l>
-                     <l>is evidence of frostbite.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>That was the year</l>
-                     <l>the snow killed the wheat.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>This man's tongue</l>
-                     <l>protrudes from his teeth.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>That was the year</l>
-                     <l>of the drought.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>We then</l>
-                     <l>gathered the shot,</l>
-                     <l> (it has, we note,</l>
-                     <l>the appearance of grey seed),</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>marking the holes</l>
-                     <l>where the bullets found their heads.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>the M.O. makes a clean cut</l>
-                     <l>between one man's ribs,</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>examines the heart,</l>
-                     <l>washes clean is hands.</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>No need -</l>
-                     <l>The blood has long since dried.</l>
-                  </lg>
-               </body>
-               <back>
-                  <byline>Ciaran Carson</byline>
-               </back>
-            </text>
-            <text>
-               <front>
-                  <titlePage>
-                     <docTitle>
-                        <titlePart type="main">THE CLOCKWORK PIGEON</titlePart>
-                     </docTitle>
-                  </titlePage>
-               </front>
-               <body>
-                  <lg type="stanza">
-                     <l n="1">How long have our wars</l>
-                     <l>struggled to get off ground? </l>
-                     <l>Once we used wax from our ears, </l>
-                     <l>we must have flown</l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>close to the sun, were drowned. </l>
-                     <l>Yet still we tried to breed</l>
-                     <l>success, scrambling fire</l>
-                     <l>with heavy water, sowed the seed, </l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>holding our ears against next year's</l>
-                     <l>explosion. Our battery hens</l>
-                     <l>have left their broken shells</l>
-                     <l>over half a hemisphere. </l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Then the black-out and the silence</l>
-                     <l>as we hatched a new plot. </l>
-                     <l>Our light bulbs mushroomed overnight, </l>
-                     <l>we dug for the underground. </l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>Our radar screened our exile. </l>
-                     <l>So, the first Pigeon Transplant. </l>
-                     <l>We released it to the outside rain</l>
-                     <l>and huddled against the next missile, </l>
-                  </lg>
-                  <lg type="stanza">
-                     <l>deaf to the cluck of its transistor brain, </l>
-                     <l>as it came home to roost</l>
-                     <l>its metal head, the whirring</l>
-                     <l>of our ears which were its wings.</l>
-                  </lg>
-               </body>
-               <back>
-                  <byline>Ciaran Carson</byline>
-               </back>
-            </text>
-         </group>
+        </availability>
+        <date>2000</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Irish Poets</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Belfast Group Sheets, Special Collections, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p id="carson1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change>
+        <date>2000</date>
+        <respStmt>
+          <name>Katherine Ellison</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="carson1_1037">
+    <front id="carson1_103"/>
+    <group id="carson1_1036">
+      <group id="carson1_1035">
+        <head>POEMS BY CIARAN CARSON</head>
+        <docDate>1966-1972</docDate>
+        <docAuthor>Ciaran Carson</docAuthor>
+        <argument>
+          <p id="carson1_104">Workshop Poems</p>
+          <list type="simple">
+            <head/>
+            <item>Letter from Alaska</item>
+            <item>Aranmore Island</item>
+            <item>The Island Revisited</item>
+            <item>Wheel</item>
+            <item>Post Mortem on a Mass Grave</item>
+            <item>The Clockwork Pigeon</item>
+          </list>
+        </argument>
+        <text id="carson1_109">
+          <front id="carson1_106">
+            <titlePage id="carson1_105">
+              <docTitle>
+                <titlePart type="main">LETTER FROM ALASKA</titlePart>
+              </docTitle>
+            </titlePage>
+          </front>
+          <body id="carson1_107">
+            <lg type="stanza">
+              <l n="1">Silence is for miles around</l>
+              <l>an undistinguished white.</l>
+            </lg>
+            <lg type="stanza">
+              <l>To fish</l>
+              <l>is to break new ground.</l>
+            </lg>
+            <lg type="stanza">
+              <l>This is our lifeline:</l>
+              <l>breaking white</l>
+              <l>to find a deeper blue.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Yesterday,</l>
+              <l>we thought of you,</l>
+              <l>all those miles away.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Our letter may have trouble,</l>
+              <l>getting through:</l>
+              <l>the snow covers everything.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Land and sea</l>
+              <l>have lost all meaning -</l>
+            </lg>
+            <lg type="stanza">
+              <l>we build from what we see.</l>
+              <l>our igloos keep us warm.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Our needs are small.</l>
+              <l>This is the world's last infinity.</l>
+              <l>Here, you get away from it all.</l>
+            </lg>
+          </body>
+          <back id="carson1_108">
+            <byline>Ciaran Carson</byline>
+          </back>
+        </text>
+        <text id="carson1_1014">
+          <front id="carson1_1011">
+            <titlePage id="carson1_1010">
+              <docTitle>
+                <titlePart type="main">ARANMORE ISLAND</titlePart>
+              </docTitle>
+            </titlePage>
+          </front>
+          <body id="carson1_1012">
+            <lg type="stanza">
+              <head>1. Erratics</head>
+              <l n="1">If sheep were stone,</l>
+              <l>these stones have dropped dead</l>
+              <l>in one another's tracks.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Their pebbles are rounded up</l>
+              <l>from the droppings of the last Ice Age</l>
+              <l>where ice drifted in packs</l>
+            </lg>
+            <lg type="stanza">
+              <l>from farther north,</l>
+              <l>fleecing the ground for foothold</l>
+              <l>then going back,</l>
+            </lg>
+            <lg type="stanza">
+              <l>perching these stones in high places;</l>
+              <l>and coming back</l>
+              <l>again and again, each time I find my traces</l>
+            </lg>
+            <lg type="stanza">
+              <l>following each other back like sheep.</l>
+              <l>They are not stones but clouds</l>
+              <l>counting one another to sleep.</l>
+            </lg>
+            <lg type="stanza">
+              <head>2. The Fault</head>
+              <l>The fault was in the stone.  It seems</l>
+              <l>no love could be attached</l>
+            </lg>
+            <lg type="stanza">
+              <l>to this bare rock adrift</l>
+              <l>from land. We always watched</l>
+            </lg>
+            <lg type="stanza">
+              <l>and build our walls against the draught.</l>
+              <l>Yet our doors are left unlatched</l>
+            </lg>
+            <lg type="stanza">
+              <l>expecting always some lost kin</l>
+              <l>to come with what the wind blows in.</l>
+            </lg>
+            <lg type="stanza">
+              <head>3. American Wake</head>
+              <l>All their days seem stone</l>
+              <l>they've piled on stone.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Their walls are nets for native soil</l>
+              <l>that will not settle down.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Each year another man will sail</l>
+              <l>out west to break new ground,</l>
+            </lg>
+            <lg type="stanza">
+              <l>and break the knots</l>
+              <l>their women spun in rosaries of net.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Each year another man recovers</l>
+              <l>the lines that slipped his fingers,</l>
+            </lg>
+            <lg type="stanza">
+              <l>coming back, and reaching back to find his own</l>
+              <l>in this graveyard slowly burying itself in stone.</l>
+            </lg>
+          </body>
+          <back id="carson1_1013">
+            <byline>Ciaran Carson</byline>
+          </back>
+        </text>
+        <text id="carson1_1019">
+          <front id="carson1_1016">
+            <titlePage id="carson1_1015">
+              <docTitle>
+                <titlePart type="main">THE ISLAND REVISITED</titlePart>
+              </docTitle>
+            </titlePage>
+          </front>
+          <body id="carson1_1017">
+            <lg type="stanza">
+              <l n="1">I open</l>
+              <l>the clean lines</l>
+            </lg>
+            <lg type="stanza">
+              <l>of the barred gate</l>
+              <l>I left unlatched.</l>
+            </lg>
+            <lg type="stanza">
+              <l>The walls are pitched</l>
+              <l>white against the moon;</l>
+            </lg>
+            <lg type="stanza">
+              <l>the half-</l>
+              <l>door swings back</l>
+            </lg>
+            <lg type="stanza">
+              <l>to let me in.</l>
+              <l>The lamp stills</l>
+            </lg>
+            <lg type="stanza">
+              <l>me in</l>
+              <l>spilled light. </l>
+            </lg>
+            <lg type="stanza">
+              <l>I draw back</l>
+              <l>the sheets</l>
+            </lg>
+            <lg type="stanza">
+              <l>of your pain</l>
+              <l>and watch</l>
+            </lg>
+            <lg type="stanza">
+              <l>your child, my child,</l>
+              <l>break free.</l>
+            </lg>
+          </body>
+          <back id="carson1_1018">
+            <byline>Ciaran Carson</byline>
+          </back>
+        </text>
+        <text id="carson1_1024">
+          <front id="carson1_1021">
+            <titlePage id="carson1_1020">
+              <docTitle>
+                <titlePart type="main">WHEEL</titlePart>
+              </docTitle>
+            </titlePage>
+          </front>
+          <body id="carson1_1022">
+            <lg type="stanza">
+              <l n="1">Through course of time</l>
+              <l>the wheel has run down.</l>
+            </lg>
+            <lg type="stanza">
+              <l>The millrace is a choke</l>
+              <l>of earth, a whisper of weeds.</l>
+            </lg>
+            <lg type="stanza">
+              <l>These rotted slats</l>
+              <l>were once tongue for clattering water</l>
+              <l>that spun a fine sheet,</l>
+            </lg>
+            <lg type="stanza">
+              <l>driving power</l>
+              <l>for mill and linen loom.</l>
+            </lg>
+            <lg type="stanza">
+              <l>I touch the rusted hoop</l>
+              <l>that collars warped wood;</l>
+            </lg>
+            <lg type="stanza">
+              <l>half-afraid,</l>
+              <l>step inside, then begin to stride,</l>
+            </lg>
+            <lg type="stanza">
+              <l>leaning all my weight; tread,</l>
+              <l>till the wheel answers</l>
+              <l>with a racking cough</l>
+            </lg>
+            <lg type="stanza">
+              <l>and a scrape that shudders spine;</l>
+              <l>swings. </l>
+            </lg>
+            <lg type="stanza">
+              <l>I am its water; its voice mine,</l>
+              <l>spilling down the throat of a century.</l>
+            </lg>
+            <lg type="stanza">
+              <l>The wheel turns.</l>
+              <l>The past springs to life.</l>
+            </lg>
+          </body>
+          <back id="carson1_1023">
+            <byline>Ciaran Carson</byline>
+          </back>
+        </text>
+        <text id="carson1_1029">
+          <front id="carson1_1026">
+            <titlePage id="carson1_1025">
+              <docTitle>
+                <titlePart type="main">POST MORTEM ON A MASS GRAVE</titlePart>
+              </docTitle>
+            </titlePage>
+          </front>
+          <body id="carson1_1027">
+            <lg type="stanza">
+              <l n="1">Having cut</l>
+              <l>the fresh trees on their grave</l>
+            </lg>
+            <lg type="stanza">
+              <l>we found the soil</l>
+              <l>kind to the spade,</l>
+            </lg>
+            <lg type="stanza">
+              <l>the bodies</l>
+              <l>well-preserved.</l>
+            </lg>
+            <lg type="stanza">
+              <l>Reading a date</l>
+              <l>between the lines,</l>
+            </lg>
+            <lg type="stanza">
+              <l>this man's stump</l>
+              <l>is evidence of frostbite.</l>
+            </lg>
+            <lg type="stanza">
+              <l>That was the year</l>
+              <l>the snow killed the wheat.</l>
+            </lg>
+            <lg type="stanza">
+              <l>This man's tongue</l>
+              <l>protrudes from his teeth.</l>
+            </lg>
+            <lg type="stanza">
+              <l>That was the year</l>
+              <l>of the drought.</l>
+            </lg>
+            <lg type="stanza">
+              <l>We then</l>
+              <l>gathered the shot,</l>
+              <l> (it has, we note,</l>
+              <l>the appearance of grey seed),</l>
+            </lg>
+            <lg type="stanza">
+              <l>marking the holes</l>
+              <l>where the bullets found their heads.</l>
+            </lg>
+            <lg type="stanza">
+              <l>the M.O. makes a clean cut</l>
+              <l>between one man's ribs,</l>
+            </lg>
+            <lg type="stanza">
+              <l>examines the heart,</l>
+              <l>washes clean is hands.</l>
+            </lg>
+            <lg type="stanza">
+              <l>No need -</l>
+              <l>The blood has long since dried.</l>
+            </lg>
+          </body>
+          <back id="carson1_1028">
+            <byline>Ciaran Carson</byline>
+          </back>
+        </text>
+        <text id="carson1_1034">
+          <front id="carson1_1031">
+            <titlePage id="carson1_1030">
+              <docTitle>
+                <titlePart type="main">THE CLOCKWORK PIGEON</titlePart>
+              </docTitle>
+            </titlePage>
+          </front>
+          <body id="carson1_1032">
+            <lg type="stanza">
+              <l n="1">How long have our wars</l>
+              <l>struggled to get off ground? </l>
+              <l>Once we used wax from our ears, </l>
+              <l>we must have flown</l>
+            </lg>
+            <lg type="stanza">
+              <l>close to the sun, were drowned. </l>
+              <l>Yet still we tried to breed</l>
+              <l>success, scrambling fire</l>
+              <l>with heavy water, sowed the seed, </l>
+            </lg>
+            <lg type="stanza">
+              <l>holding our ears against next year's</l>
+              <l>explosion. Our battery hens</l>
+              <l>have left their broken shells</l>
+              <l>over half a hemisphere. </l>
+            </lg>
+            <lg type="stanza">
+              <l>Then the black-out and the silence</l>
+              <l>as we hatched a new plot. </l>
+              <l>Our light bulbs mushroomed overnight, </l>
+              <l>we dug for the underground. </l>
+            </lg>
+            <lg type="stanza">
+              <l>Our radar screened our exile. </l>
+              <l>So, the first Pigeon Transplant. </l>
+              <l>We released it to the outside rain</l>
+              <l>and huddled against the next missile, </l>
+            </lg>
+            <lg type="stanza">
+              <l>deaf to the cluck of its transistor brain, </l>
+              <l>as it came home to roost</l>
+              <l>its metal head, the whirring</l>
+              <l>of our ears which were its wings.</l>
+            </lg>
+          </body>
+          <back id="carson1_1033">
+            <byline>Ciaran Carson</byline>
+          </back>
+        </text>
       </group>
-   </text>
+    </group>
+  </text>
 </TEI.2>
