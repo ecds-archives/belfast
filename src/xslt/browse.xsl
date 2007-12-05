@@ -7,10 +7,10 @@
     <xsl:param name="id"/>
     <xsl:param name="defaultindent">5</xsl:param>	  
     
-    <xsl:variable name="url_suffix"><xsl:if test="$id">&amp;doctitle=<xsl:value-of select="$id"/></xsl:if></xsl:variable>
+    <xsl:variable name="url_suffix"><xsl:if test="$id">&amp;id=<xsl:value-of select="$id"/></xsl:if></xsl:variable>
     
     <xsl:template match="/">
-        <xsl:apply-templates/> <!-- get everything -->
+        <xsl:apply-templates/> 
     </xsl:template>
     
     <xsl:template match="group/group">
@@ -18,7 +18,7 @@
         <xsl:value-of select="head"/><xsl:text>, Date: </xsl:text><xsl:value-of select="docDate"/>
         </xsl:element>
         <!-- <xsl:call-template name="toc"/> -->
-        <xsl:apply-templates select="text"/>
+    <xsl:apply-templates select="text"/>
     </xsl:template>
   <!--  
     <xsl:template name="toc" mode="toc">
@@ -31,13 +31,14 @@
         
         </xsl:template> -->
     
-    <xsl:template match="argument"/> <!-- do nothing with argument -->
+   <!-- <xsl:template match="argument"/> --><!-- do nothing with argument -->
     
     <xsl:template match="text">
         <xsl:element name="h4"><xsl:value-of select="front//titlePart"/></xsl:element>
+        <xsl:apply-templates/>
     </xsl:template>
    
-    <xsl:template match="//body">Debug: Body matched.
+    <xsl:template match="body">
         <xsl:element name="p">
         <xsl:apply-templates select="lg"/>
         </xsl:element>
@@ -50,11 +51,28 @@
         </xsl:element>  <!-- p -->
     </xsl:template>
  
+     <xsl:template match="lg">
+         <xsl:element name="p">
+             <xsl:apply-templates/>
+         </xsl:element>
+     </xsl:template>
     
+  <!--  <xsl:template match="l">
+        <xsl:apply-templates/>
+        <xsl:element name="br"/>
+    </xsl:template>
+  --> 
+    <xsl:template match="lg/head">
+        <xsl:element name="p">
+            <xsl:attribute name="class">head</xsl:attribute>
+        <xsl:apply-templates/>
+        </xsl:element>
+        
+    </xsl:template>
     <!-- line  -->
     <!--   Indentation should be specified in format rend="indent#", where # is
         number of spaces to indent.  --> 
-    <xsl:template match="l">Debug: in line template
+    <xsl:template match="l">
         <!-- retrieve any specified indentation -->
         <xsl:if test="@rend">
             <xsl:variable name="rend">
@@ -62,7 +80,7 @@
             </xsl:variable>
             <xsl:variable name="indent">
                 <xsl:choose>
-                    <xsl:when test="$rend='indent'">		
+                    <xsl:when test="$rend='indent'"> 		
                         <!-- if no number is specified, use a default setting -->
                         <xsl:value-of select="$defaultindent"/>
                     </xsl:when>
@@ -79,6 +97,7 @@
         <xsl:apply-templates/>
         <xsl:element name="br"/>
     </xsl:template>
+    
     
     <xsl:template match="back">
         <xsl:element name="span">
