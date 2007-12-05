@@ -1,0 +1,33 @@
+body {background: #ffffcc; 
+    color: #000000;  background-color:#ffffcc;
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    }
+    
+a {text-decoration:underline;}
+
+a:link {color: #0000CC;  
+        background-color:inherit;} 
+
+a:vlink {color: #CC0033;  
+         background-color:inherit;}
+
+div.headimage {text-align:center; 
+               margin:auto;
+        }
+
+div.uppernav {text-align:center;
+                font-size:smaller;}
+
+div.lowernav {text-align:center;
+              font-size:smaller;
+              margin: 2em;}
+              
+div.content {margin: 2em;
+            }
+            
+span.byline {text-align: right;}       
+
+p.head { font-weight: bold; font-size: 115%; }
+p.subhead { font-weight: bold; font-size: 105%; }
+p.argument { width: 60%; }
+p.epigraph,p.trailer,p.byline,p.dedication { font-style: italic; font-size: 90%; }
