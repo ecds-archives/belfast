@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Irish Poets</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Belfast Group Sheets, Special Collections, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
+        <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1195,7 +1195,7 @@ THE ADULTERER</titlePart>
               <head>BILLIE HOLIDAY</head>
               <head>(An Epitaph)</head>
               <l>DEATH, LIKE ALL YOUR HABITS, CAME TO STAY,</l>
-              <l>DARED FACE YOUR MUSIC, TOOK YOU BREATH AWAY.</l>
+              <l>DARED FACE YOUR MUSIC, TOOK YOUR BREATH AWAY.</l>
             </lg>
             <lg type="stanza">
               <head>III</head>
@@ -1922,7 +1922,7 @@ THE ADULTERER</titlePart>
             <item>Nausicaa</item>
             <item>The Freemartin</item>
             <item>Narcissus</item>
-            <item>Dr. Johnson Dying</item>
+            <item>Dr Johnson Dying</item>
             <item>In a Convent Cemetery</item>
             <item>Remembrance Day</item>
           </list>
@@ -2118,7 +2118,7 @@ THE ADULTERER</titlePart>
           <front id="longley1_10235">
             <titlePage id="longley1_10234">
               <docTitle>
-                <titlePart type="main">IN A CONVENT CEMETARY</titlePart>
+                <titlePart type="main">IN A CONVENT CEMETERY</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -2507,7 +2507,7 @@ THE ADULTERER</titlePart>
             <titlePage id="longley1_10272">
               <docTitle>
                 <titlePart type="main">
-                  <del>EPITHALAMION WALLER</del>
+                  <del>EPITHALAMION</del>
                 </titlePart>
               </docTitle>
             </titlePage>
@@ -2945,7 +2945,7 @@ eclipse</del>
           <body id="longley1_10301">
             <lg type="stanza">
               <l n="1">
-                <del>Ah,the image or the image's performance - </del>
+                <del>Ah, the image or the image's performance - </del>
               </l>
               <l>
                 <del>The love poem or the love?  Though your proximity</del>

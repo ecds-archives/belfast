@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Irish Poets</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Belfast Group Sheets, Manuscript, Archives and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
+        <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -64,8 +64,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <head/>
             <item>Boy Driving His Father to Confession</item>
             <item>To a Wine Jar</item>
-            <item>On Hogarth's Engraving "Pit Ticket for the Royal Sport" </item>
-            <item>Synge on Aran</item>
+            <item>On Hogarth's Engraving "Pit Ticket for the Royal Sport"</item>
+            <item>Synge on the Aran</item>
             <item>Blackberry-Picking</item>
             <item>Saint Francis and the Birds</item>
             <item>At a Potato Digging</item>
@@ -75,7 +75,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front id="heaney1_106">
             <titlePage id="heaney1_105">
               <docTitle>
-                <titlePart type="main">BOY DRIVING HIS FATHER TO CONFESSION </titlePart>
+                <titlePart type="main">BOY DRIVING HIS FATHER TO CONFESSION</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -123,7 +123,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front id="heaney1_1011">
             <titlePage id="heaney1_1010">
               <docTitle>
-                <titlePart type="main">TO A WINE JAR  </titlePart>
+                <titlePart type="main">TO A WINE JAR</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -176,7 +176,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front id="heaney1_1017">
             <titlePage id="heaney1_1016">
               <docTitle>
-                <titlePart type="main">ON HOGARTH'S ENGRAVING "PIT TICKET FOR THE ROYAL SPORT". </titlePart>
+                <titlePart type="main">ON HOGARTH'S ENGRAVING "PIT TICKET FOR THE ROYAL SPORT".</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -222,7 +222,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front id="heaney1_1022">
             <titlePage id="heaney1_1021">
               <docTitle>
-                <titlePart type="main">SYNGE ON THE ARAN </titlePart>
+                <titlePart type="main">SYNGE ON THE ARAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1329,9 +1329,9 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Round stem and snout, then a light</l>
             </lg>
             <lg type="stanza">
-              <l>That sent the pump up in flame. </l>
-              <l>It cooled, we lifted her latch. </l>
-              <l>Her entrance was wet, but she came. </l>
+              <l>That sent the pump up in flame.</l>
+              <l>It cooled, we lifted her latch.</l>
+              <l>Her entrance was wet, but she came.</l>
             </lg>
           </body>
           <back id="heaney1_10136">
@@ -1368,7 +1368,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front id="heaney1_10144">
             <titlePage id="heaney1_10143">
               <docTitle>
-                <titlePart type="main"> REQUIEM FOR THE IRISH REBELS </titlePart>
+                <titlePart type="main"> REQUIEM FOR THE IRISH REBELS</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1378,12 +1378,12 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </epigraph>
             <lg type="stanza">
               <l n="1">The pockets of our great-coats full of barley</l>
-              <l> (No kitchens on the run, no striking camp) </l>
-              <l>We moved quick and sudden in our own country. </l>
-              <l>The priest lay behind ditches with the tramp. </l>
+              <l> (No kitchens on the run, no striking camp)</l>
+              <l>We moved quick and sudden in our own country.</l>
+              <l>The priest lay behind ditches with the tramp.</l>
               <l>A people, hardly marching - on the hike -</l>
-              <l>We found new tactics happening each day: </l>
-              <l>Horsemen and horse fell to the twelve foot pike, </l>
+              <l>We found new tactics happening each day:</l>
+              <l>Horsemen and horse fell to the twelve foot pike,</l>
               <l>We'd stampede cattle into infantry, </l>
               <l>Retreat through hedges where cavalry must be thrown</l>
               <l>Until, on Vinegar Hill, the fatal conclave: </l>
@@ -1498,7 +1498,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <p id="heaney1_10164">Workshop Poems</p>
           <list type="simple">
             <head/>
-            <item>Oh Brave New Bull . . . </item>
+            <item>Oh Brave New Bull . . .</item>
             <item>Mid-Term Break</item>
             <item>A Pillar of the Community</item>
             <item>MacKenna's Saturday Night</item>
@@ -4251,7 +4251,6 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Last Mummer</item>
             <item>Gifts of Rain</item>
             <item>The Tollund Man</item>
-            <item>Personal Helicon</item>
             <item>Westering</item>
           </list>
         </argument>
