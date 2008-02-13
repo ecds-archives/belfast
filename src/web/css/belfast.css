@@ -3,16 +3,19 @@ body {background: #ffffcc;
     font-family: Verdana, Arial, Helvetica, sans-serif; 
     }
     
-a {text-decoration:underline;}
+a {text-decoration: underline;}
+
+a.footnote {vertical-align: super;}
 
 a:link {color: #0000CC;  
         background-color:inherit;} 
 
 a:vlink {color: #CC0033;  
          background-color:inherit;}
+         
 
-div.headimage {text-align:center; 
-               margin:auto;
+div.headimage {text-align: center; 
+               margin: auto;
         }
 
 div.uppernav {text-align:center;
@@ -22,10 +25,24 @@ div.lowernav {text-align:center;
               font-size:smaller;
               margin: 2em;}
               
-div.content {margin: 2em;
+div.content {margin: auto;
+            width: 735px;
             }
             
-span.byline {text-align: right;}       
+div.poemcontent {margin: auto;
+                text-align: left;
+                width: 725px;}
+            
+span.byline {text-align: right;}
+span.add {color:green; background-color:#ffffcc;}
+span.gap {font-size: 85%;
+            color:gray; 
+            background-color:#ffffcc;}
+span.del {color:red;
+            background-color:#ffffcc;
+            }            
+
+h3 a {text-decoration:none;}
 
 p.head { font-weight: bold; font-size: 115%; }
 p.subhead { font-weight: bold; font-size: 105%; }

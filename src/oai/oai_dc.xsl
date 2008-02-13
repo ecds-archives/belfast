@@ -15,6 +15,7 @@
   <!-- match the top-level element in a tamino response & jump to the
   relevant portion (in order to skip tamino messages & cursor
   information) -->
+  <!-- not using tamino
   <xsl:template match="ino:response" mode="ListIdentifiers">
     <xsl:apply-templates select="//div2" mode="ListIdentifiers"/>
   </xsl:template>
@@ -22,14 +23,14 @@
   <xsl:template match="ino:response">
     <xsl:apply-templates select="//div2"/>
   </xsl:template>
-
+-->
   <!-- list identifiers : header information only -->
-  <xsl:template match="div2" mode="ListIdentifiers">
+  <xsl:template match="TEI" mode="ListIdentifiers">
     <xsl:call-template name="header"/>
   </xsl:template>
 
   <!-- get or list records : full information (header & metadata) -->
-  <xsl:template match="div2">
+  <xsl:template match="TEI">
     <record>
       <xsl:call-template name="header"/>
       <metadata>
@@ -58,14 +59,15 @@
     <!-- FIXME: make sure case of type is set correctly? -->
     <setSpec><xsl:value-of select="concat(@type, 's')"/></setSpec>
     <!-- volume # -->
-    <xsl:apply-templates select="bibl/biblScope[@type='volume']" mode="set"/>
+    <xsl:apply-templates select="group" mode="set"/>
 
   </xsl:element>
 </xsl:template>
 
 
 <!-- convert volume # from biblScope into correct setSpec -->
-<xsl:template match="biblScope[@type='volume']" mode="set">
+<!--
+  <xsl:template match="biblScope[@type='volume']" mode="set">
   <xsl:variable name="num">
     <xsl:choose>
       <xsl:when test="contains(., ' ')">
@@ -76,26 +78,22 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:variable>
-
   <xsl:call-template name="setSpec">
     <xsl:with-param name="name" select="concat('Volume ', $num)"/>
   </xsl:call-template>
 </xsl:template>
-
-<!-- article title -->
-<xsl:template match="div2/head">
+-->
+<!-- workshop title -->
+<xsl:template match="group/head">
   <xsl:element name="dc:title"><xsl:value-of select="."/></xsl:element>
 </xsl:template>
 
 <!-- source = original publication information -->
-<xsl:template match="div2/bibl">
+<xsl:template match="TEI//sourceDesc">
   <xsl:element name="dc:source">
-    <xsl:value-of select="title"/>, <xsl:value-of
-    select="biblScope[@type='volume']"/>, <xsl:value-of
-    select="biblScope[@type='issue']"/>, <xsl:value-of
-    select="biblScope[@type='pages']"/>.</xsl:element>
-    <!-- pick up the date -->
-    <xsl:apply-templates select="date"/> 
+    <xsl:value-of select="."/></xsl:element>
+    <!-- pick up the date --><!-- Date is not in sourceDesc, but in each workshop -->
+    <xsl:apply-templates select="//group/docDate"/> 
 
     <!-- pick up the ark -->
     <xsl:apply-templates select="idno"/> 
@@ -103,8 +101,8 @@
   </xsl:template>
 
 
-  <!-- article date -->
-  <xsl:template match="div2/bibl/date">
+  <!-- workshop date -->
+  <xsl:template match="group/docDate">
     <xsl:element name="dc:date"><xsl:value-of select="."/></xsl:element>
   </xsl:template>
 
@@ -131,31 +129,30 @@
   <xsl:template match="seriesStmt/title">
     <xsl:element name="dc:relation"><xsl:value-of select="."/></xsl:element>
 
-    <xsl:element name="dc:relation">http://beck.library.emory.edu/iln/</xsl:element>
+    <xsl:element name="dc:relation">http://beck.library.emory.edu/belfast/</xsl:element>
   </xsl:template>
 
   <!-- description -->
-  <xsl:template name="description">
+ <!-- <xsl:template name="description">
     <xsl:variable name="figure_count"><xsl:value-of select="count(figure)"/></xsl:variable>
     <xsl:element name="dc:description"><xsl:value-of
     select="bibl/extent"/> <xsl:if test="$figure_count > 0">,
     <xsl:value-of select="$figure_count"/> illustration<xsl:if
     test="$figure_count > 1">s</xsl:if>: <xsl:apply-templates select="figure" mode="description"/></xsl:if>.</xsl:element>
 
-  </xsl:template>
+  </xsl:template> -->
 
   <!-- mode = description : only output figure titles in list for description -->
-  <xsl:template match="figure" mode="description">
+<!--  <xsl:template match="figure" mode="description">
     "<xsl:value-of select="head"/>"<xsl:if
   test="following-sibling::figure">, </xsl:if>
-</xsl:template>
+</xsl:template> -->
 
 <!-- identifier -->
 <!-- Note: this url is not yet firmly in place, but eventually it should be ... -->
 <xsl:template name="identifier">
   <xsl:element
-    name="dc:identifier">http://beckptolemy.library.emory.edu/iln/browse.php?id=<xsl:value-of
-  select="@id"/></xsl:element>
+    name="dc:identifier">http://beck.library.emory.edu/belfast/browse.php?id=<xsl:value-of select="@id"/></xsl:element>
 </xsl:template>
 
   <!-- ark identifier -->

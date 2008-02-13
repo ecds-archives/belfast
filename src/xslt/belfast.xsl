@@ -30,18 +30,19 @@
     </xsl:template>
     
     <xsl:template match="group">
+        <xsl:variable name="grpid"><xsl:value-of select="./@id"></xsl:value-of></xsl:variable>
         <xsl:element name="ul">
            <xsl:for-each select=".">
                 <xsl:element name="li"><xsl:text>Workshop: </xsl:text>
                 <xsl:element name="a">
-                    <xsl:attribute name="href">browse.php?id=<xsl:apply-templates select="head/@id"/></xsl:attribute>
+                    <xsl:attribute name="href">browse.php?id=<xsl:value-of select="$grpid"/></xsl:attribute>
                     <xsl:apply-templates select="head"/></xsl:element><!-- end a -->
             <xsl:element name="ul">
-                <xsl:for-each select="titlePart">
+                <xsl:for-each select="./text">
                     <xsl:element name="li">
                     <xsl:element name="a">
-                        <xsl:attribute name="href">browse.php?id=<xsl:apply-templates select="@id"/></xsl:attribute>
-                     <xsl:apply-templates select="."/></xsl:element><!-- end a -->
+                        <xsl:attribute name="href">browse.php?id=<xsl:value-of select="$grpid"/>&amp;doctitle=<xsl:value-of select="./@id"/></xsl:attribute>
+                     <xsl:apply-templates select="front//titlePart"/></xsl:element><!-- end a -->
                     </xsl:element> <!-- end item -->
                     </xsl:for-each>
             </xsl:element> <!-- end poem list -->

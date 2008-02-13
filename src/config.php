@@ -14,9 +14,9 @@ $base_url = "http://$server$base_path";
 
 // root directory and url where the website resides
 // production version
-/* $basedir = "/home/httpd/html/beck/belfast";
+/* $basedir = "/home/httpd/html/beck/BelfastGroup";
 $server = "beck.library.emory.edu";
-$base_path = "belfast";
+$base_path = "BelfastGroup";
 $base_url = "http://$server$base_path/";
 */
 

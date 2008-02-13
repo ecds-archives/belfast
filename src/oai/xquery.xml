@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xquery>
     <declare><![CDATA[
-        declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
 	declare namespace xs="http://www.w3.org/2001/XMLSchema"
 	declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
       ]]>
     </declare>
     <for><![CDATA[
-        for $a in input()/TEI.2//div1/div2
+        for $a in /TEI.2//group/group
       ]]>
     </for>
     <let><![CDATA[
@@ -22,54 +21,11 @@
     <where>
  <!-- DEFAULT query is used when a set is not requested and should return all records -->
       <set setSpec="DEFAULT" />                   
-      <set setSpec="Articles"><![CDATA[
-          $a/@type = 'Article'
+      <set setSpec="Workshop"><![CDATA[
+          $a
           ]]>
       </set>
-      <set setSpec="Illustrations"><![CDATA[
-          $a/@type = 'Illustration'
-         ]]>                        
-      </set>
-      <set setSpec="vol38"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '38')
-          ]]>
-      </set>
-      <set setSpec="vol39"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '39')
-          ]]>
-      </set>
-      <set setSpec="vol40"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '40')
-          ]]>
-      </set>
-      <set setSpec="vol41"><![CDATA[
-          contains($a/bibl[1]/biblScope[@type='volume'], '41')
-          ]]>
-      </set>
-      <set setSpec="vol42"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '42')
-          ]]>
-      </set>
-      <set setSpec="vol43"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '43')
-          ]]>
-      </set>
-      <set setSpec="vol44"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '44')
-          ]]>
-      </set>
-      <set setSpec="vol45"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '45')
-          ]]>
-      </set>
-      <set setSpec="vol46"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '46')
-          ]]>
-      </set>
-      <set setSpec="vol47"><![CDATA[
-          contains($a/bibl/biblScope[@type='volume'], '47')
-          ]]>
-      </set>
+      
       <from><![CDATA[
          $time >= xs:dateTime("?")
          ]]>
@@ -81,25 +37,25 @@
     </where>
 <!-- default result : return for GetRecord or ListRecords -->
     <return><![CDATA[
-         return <div2>
-		 {$a/@id}
-		 {$a/@type}
-		 {$a/head}
-		 {$a/bibl}
-		 {for $b in $a/p/figure return $b}
-                 {$root/TEI.2/teiHeader}
-                 <LastModified>{$time}</LastModified>
-	        </div2>
+         return 
+         <TEI>
+		 {$root/TEI.2/teiHeader}
+		 <group>
+		 {$a}
+         <LastModified>{$time}</LastModified>
+	        </group>
+	        </TEI>
        ]]>                
      </return>
 <!-- result to return for ListIdentifiers -->
     <return verb="ListIdentifiers"><![CDATA[
-        return <div2>
+        return <group>
                 {$a/@id}
-                {$a/@type}
-                {$a/bibl}
+                {$a/text//titlePart}
+                {$a/docAuthor}
+                {$a/docDate}
                 <LastModified>{$time}</LastModified>
-               </div2>
+               </group>
       ]]>                
     </return>
   </xquery>

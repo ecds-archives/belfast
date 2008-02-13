@@ -27,12 +27,11 @@
 For example, enter <b>driv*</b> to match <b>drive</b>, <b>driving</b>, and
 <b>driven</b>.</li>
 <li>Multiple words are allowed.<br>
-For example, enter <b>South Carolina</b> or <b>far from
-satisfactory</b> to match those exact strings.</li>
+For example, enter <b>Personal Helicon</b> or <b>best of all</b> to match those exact strings.</li>
 
 <li>Asterisks may also be used with multiple words.<br>
-For example, enter <b>*th Carolina</b> to match both
-<b>North Carolina</b> and <b>South Carolina</b>.</li>
+For example, enter <b>potato*</b> to match both
+<b>potato</b> and <b>potatoes</b>.</li>
 </ul>
 </p>
 

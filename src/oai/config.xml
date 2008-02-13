@@ -1,5 +1,5 @@
 <repository>
-  <name>Illustrated London News @Emory University</name>
+  <name>Belfast Group @Emory University</name>
   <adminEmail>beckctr@emory.edu</adminEmail>
   <protocolVersion>2.0</protocolVersion>
   <granularity>seconds</granularity>
@@ -36,52 +36,19 @@
 
   <!-- connection settings for xml database -->
   <connectionParameters>
-    <xmldb type="tamino">
-      <host>vip.library.emory.edu</host>
-      <database>ILN</database> 
-      <collection>iln</collection> 
+    <xmldb type="exist">
+      <host>wilson.library.emory.edu</host>
+      <database>db</database> 
+      <collection>belfast</collection> 
       <debug>false</debug>
     </xmldb>          
   </connectionParameters>
 
   <sets>
     <!--set must be listed here and defined with in each metadata queries doc-->
-    <set name="Articles" setSpec="Articles">
-       <description>Articles from the Illustrated London News</description>
+    <set name="Workshops" setSpec="Workshops">
+       <description>Poetry workshops from the Belfast Group</description>
     </set>
-    <set name="Illustrations" setSpec="Illustrations">
-        <description>Illustrations from the Illustrated London News</description>
-    </set> <!-- not using these sets yet           
-    <set name="Volume 38" setSpec="vol38">
-       <description>Volume 38, 1861</description>
-    </set>
-    <set name="Volume 39" setSpec="vol39">
-       <description>Volume 39</description>
-    </set>
-    <set name="Volume 40" setSpec="vol40">
-       <description>Volume 40</description>
-    </set>
-    <set name="Volume 41" setSpec="vol41">
-       <description>Volume 41</description>
-    </set>
-    <set name="Volume 42" setSpec="vol42">
-       <description>Volume 42</description>
-    </set>
-    <set name="Volume 43" setSpec="vol43">
-       <description>Volume 43</description>
-    </set>
-    <set name="Volume 44" setSpec="vol44">
-       <description>Volume 44</description>
-    </set>
-    <set name="Volume 45" setSpec="vol45">
-       <description>Volume 45</description>
-    </set>
-    <set name="Volume 46" setSpec="vol46">
-       <description>Volume 46</description>
-    </set>
-    <set name="Volume 47" setSpec="vol47">
-       <description>Volume 47</description>
-    </set> -->
   </sets>
 
   <metadataFormats>

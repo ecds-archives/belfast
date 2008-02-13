@@ -25,7 +25,7 @@ $options = array();
 if ($kw) 
   array_push($options, "text &= '$kw'");
 if ($doctitle)
-  array_push($options, "text//titlepart &= '$doctitle'");
+  array_push($options, "text/@id &= '$doctitle'");
 if ($auth)
   array_push($options, "docAuthor &= '$auth'");
 
@@ -33,7 +33,7 @@ if ($auth)
 // there must be at least one search parameter for this to work
 if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
-    print("DEBUG: Searchfilter is $searchfilter\n");
+   // print("DEBUG: Searchfilter is $searchfilter\n");
 
 // construct xquery
 $xquery = "for \$a in /TEI.2/text/group/group$searchfilter
@@ -42,7 +42,7 @@ order by \$matchcount descending
 return <group>
 {\$a/@id}
 {\$a/head}
-{\$a//titlePart}
+{\$a/text}
 ";
 if ($kw)
   $xquery .= "<hits>{\$matchcount}</hits>";
@@ -69,8 +69,8 @@ $xmldb->xquery($xquery, $pos, $max);
     print "<li>document contains keyword(s) '$kw'</li>";
   if ($doctitle)
     print "<li>title matches '$doctitle'</li>";
-  if ($date)
-    print "<li>date matches '$date'</li>";
+  if ($auth)
+    print "<li>author matches '$auth'</li>";
  
   print "</ul>";
   
