@@ -2469,9 +2469,7 @@ THE ADULTERER</titlePart>
           <front id="longley1_10268">
             <titlePage id="longley1_10267">
               <docTitle>
-                <titlePart type="main">
-                  <del>ELEGY FOR FATS WALLER</del>
-                </titlePart>
+                <titlePart type="main">ELEGY FOR FATS WALLER</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -2506,9 +2504,7 @@ THE ADULTERER</titlePart>
           <front id="longley1_10273">
             <titlePage id="longley1_10272">
               <docTitle>
-                <titlePart type="main">
-                  <del>EPITHALAMION</del>
-                </titlePart>
+                <titlePart type="main">EPITHALAMION</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -2615,7 +2611,7 @@ THE ADULTERER</titlePart>
             <titlePage id="longley1_10277">
               <docTitle>
                 <titlePart type="main">
-                  <del>EN ROUTE</del>
+                  <title>EN ROUTE</title>
                 </titlePart>
               </docTitle>
             </titlePage>
