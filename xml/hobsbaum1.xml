@@ -1,5 +1,4 @@
-
-<TEI.2 id="hobsbaum1_1050">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="hobsbaum1_1050">
   <teiHeader type="text">
     <fileDesc>
       <titleStmt>
@@ -11,13 +10,13 @@
         </respStmt>
       </titleStmt>
       <extent>54 Kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="hobsbaum1_1040">http://pid.emory.edu/ark:/25593/17kx0</idno>
+            <idno type="ark" n="hobsbaum1_1047">http://pid.emory.edu/ark:/25593/17kz4</idno>
+            <availability>
           <p id="hobsbaum1_101">1999 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
@@ -25,9 +24,7 @@ educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either:
 Electronic Poetry Project or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Irish Poets</title>
       </seriesStmt>
@@ -35,13 +32,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="hobsbaum1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1999</date>
         <respStmt>
           <name>Jason Lemon</name>
@@ -49,15 +44,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
-    </revisionDesc>
+         <change><date>December 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="hobsbaum1_1049">
     <front id="hobsbaum1_103"/>
     <group id="hobsbaum1_1048">
       <group id="hobsbaum1_1040">
         <head>POEMS BY PHILIP HOBSBAUM</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Philip Hobsbaum</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="hobsbaum1_104">Workshop Poems</p>
           <list type="simple">
@@ -71,6 +72,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Cock of the Walk</item>
           </list>
         </argument>
+        
         <text id="hobsbaum1_109">
           <front id="hobsbaum1_106">
             <titlePage id="hobsbaum1_105">
@@ -134,8 +136,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_108">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-        <text id="hobsbaum1_1014">
+        </text><text id="hobsbaum1_1014">
           <front id="hobsbaum1_1011">
             <titlePage id="hobsbaum1_1010">
               <docTitle>
@@ -166,8 +167,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_1013">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-        <text id="hobsbaum1_1019">
+        </text><text id="hobsbaum1_1019">
           <front id="hobsbaum1_1016">
             <titlePage id="hobsbaum1_1015">
               <docTitle>
@@ -204,8 +204,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_1018">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-        <text id="hobsbaum1_1024">
+        </text><text id="hobsbaum1_1024">
           <front id="hobsbaum1_1021">
             <titlePage id="hobsbaum1_1020">
               <docTitle>
@@ -242,8 +241,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_1023">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-        <text id="hobsbaum1_1029">
+        </text><text id="hobsbaum1_1029">
           <front id="hobsbaum1_1026">
             <titlePage id="hobsbaum1_1025">
               <docTitle>
@@ -276,8 +274,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_1028">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-        <text id="hobsbaum1_1034">
+        </text><text id="hobsbaum1_1034">
           <front id="hobsbaum1_1031">
             <titlePage id="hobsbaum1_1030">
               <docTitle>
@@ -307,8 +304,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_1033">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-        <text id="hobsbaum1_1039">
+        </text><text id="hobsbaum1_1039">
           <front id="hobsbaum1_1036">
             <titlePage id="hobsbaum1_1035">
               <docTitle>
@@ -368,12 +364,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_1038">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="hobsbaum1_1047">
         <head>POEMS BY PHILIP HOBSBAUM</head>
-        <docDate>1963-1972</docDate>
         <docAuthor>Philip Hobsbaum</docAuthor>
+        <docDate>1963-1972</docDate>
         <argument>
           <p id="hobsbaum1_1041">Workshop Poems</p>
           <list type="simple">
@@ -381,6 +376,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Study in a Minor Key</item>
           </list>
         </argument>
+        
         <text id="hobsbaum1_1046">
           <front id="hobsbaum1_1043">
             <titlePage id="hobsbaum1_1042">
@@ -401,7 +397,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>playing at such a place was a well-intentioned mistake.</l>
             </lg>
             <lg type="stanza">
-              <l n="1" rend="indent6">Poor Fritz, poor Fritzchen, Fr&#x00e9;d&#x00e9;ric Chopin, I</l>
+              <l n="1" rend="indent6">Poor Fritz, poor Fritzchen, Frédéric Chopin, I</l>
               <l rend="indent6">Man my resources to play all the night through,</l>
               <l rend="indent6">Flex my wrist as a singer might draw in breath</l>
               <l rend="indent6">Pausing before her first irresolute note -</l>
@@ -480,7 +476,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l n="1" rend="indent6">Make them dream now as, long ago, when a boy</l>
               <l rend="indent6">I humbled the bright heads to the schoolroom floor,</l>
               <l rend="indent6">Lulling their master, my father Nicholas,</l>
-              <l rend="indent6">Or in the Chauss&#x00e9;e d'Antin, after the play</l>
+              <l rend="indent6">Or in the Chaussée d'Antin, after the play</l>
               <l rend="indent6">When knots of vivid talkers decked my room, I</l>
               <l rend="indent6">Tempered for reverie, not revelry, lit</l>
               <l rend="indent6">The yellow candles by the piano, sat</l>
@@ -511,7 +507,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l n="1" rend="indent6">Dark as a gypsy with her Indian eyes,</l>
               <l rend="indent6">Chocolate hair in great braids coiled round her head,</l>
-              <l rend="indent6">Solemn at soir&#x00e9;es, gazing into the fire,</l>
+              <l rend="indent6">Solemn at soirées, gazing into the fire,</l>
               <l rend="indent6">Refusing ices, settled with her cigar,</l>
               <l rend="indent6">Set on a sofa, squat in red pantaloons,</l>
               <l rend="indent6">Repelling curtly between two puffs of smoke</l>
@@ -609,7 +605,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
             <lg type="stanza">
               <l n="1" rend="indent6">'Drink up your soup.   I can't pour it down your throat.</l>
-              <l rend="indent6">Don't forget lunch.   The ni&#x00f1;a could make a stew</l>
+              <l rend="indent6">Don't forget lunch.   The niña could make a stew</l>
               <l rend="indent6">If you only let her alone.   Well, what now?'</l>
               <l rend="indent6">'I am choking, love.'</l>
               <l rend="indent29">'Take off your muffler, then.'</l>
@@ -625,7 +621,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent6">'Why fret yourself?'   Why not rest?'</l>
               <l rend="indent44">'How can I rest?</l>
               <l rend="indent6">The ghostly fathers of the chartreuse last night</l>
-              <l rend="indent6">Filed past my bed in a funeral cort&#x00e9;ge.</l>
+              <l rend="indent6">Filed past my bed in a funeral cortége.</l>
               <l rend="indent6">They carried a coffin which they said was mine.'</l>
               <l rend="indent6">'A nightmare!   The doctors come this afternoon.'</l>
               <l rend="indent6">'Ah, dearest, they would kill me.   When they came first</l>
@@ -717,7 +713,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent6">Orchestras and roast beef, but nothing more.</l>
               <l rend="indent6">Look at these beldames, sporting ribbons and stars,</l>
               <l rend="indent6">Consider their cattle, standing in the field -</l>
-              <l rend="indent6">&#x00c4;&#x00a2;a a plus d'intelligence que les Anglais.</l>
+              <l rend="indent6">Ä¢a a plus d'intelligence que les Anglais.</l>
               <l rend="indent6">Some nations give annuities for great art,</l>
               <l rend="indent6">These should pay me for doing no work at all,</l>
               <l rend="indent6">Not here, not in this urinal of a place,</l>
@@ -746,8 +742,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="hobsbaum1_1045">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
     </group>
   </text>
 </TEI.2>

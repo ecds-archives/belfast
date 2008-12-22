@@ -1,5 +1,4 @@
-
-<TEI.2 id="simmons1_1072">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="simmons1_1072">
   <teiHeader type="text">
     <fileDesc>
       <titleStmt>
@@ -11,13 +10,13 @@
         </respStmt>
       </titleStmt>
       <extent>43 Kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="simmons1_1035">http://pid.emory.edu/ark:/25593/17md1</idno>
+            <idno type="ark" n="simmons1_1069">http://pid.emory.edu/ark:/25593/17mf5</idno>
+            <availability>
           <p id="simmons1_101">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
@@ -25,9 +24,7 @@ educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either:
 Electronic Poetry Project or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Irish Poets</title>
       </seriesStmt>
@@ -35,13 +32,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="simmons1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1999</date>
         <respStmt>
           <name>Jason Lemon</name>
@@ -49,15 +44,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
-    </revisionDesc>
+         <change><date>December 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="simmons1_1071">
     <front id="simmons1_103"/>
     <group id="simmons1_1070">
       <group id="simmons1_1035">
         <head>POEMS BY JAMES SIMMONS</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>James Simmons</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="simmons1_104">Workshop Poems</p>
           <list type="simple">
@@ -70,6 +71,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Ulster Soldier Boy</item>
           </list>
         </argument>
+        
         <text id="simmons1_109">
           <front id="simmons1_106">
             <titlePage id="simmons1_105">
@@ -115,8 +117,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_108">
             <byline>James Simmons</byline>
           </back>
-        </text>
-        <text id="simmons1_1014">
+        </text><text id="simmons1_1014">
           <front id="simmons1_1011">
             <titlePage id="simmons1_1010">
               <docTitle>
@@ -169,8 +170,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1013">
             <byline>James Simmons</byline>
           </back>
-        </text>
-        <text id="simmons1_1019">
+        </text><text id="simmons1_1019">
           <front id="simmons1_1016">
             <titlePage id="simmons1_1015">
               <docTitle>
@@ -209,8 +209,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1018">
             <byline>James Simmons</byline>
           </back>
-        </text>
-        <text id="simmons1_1024">
+        </text><text id="simmons1_1024">
           <front id="simmons1_1021">
             <titlePage id="simmons1_1020">
               <docTitle>
@@ -298,8 +297,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1023">
             <byline>James Simmons</byline>
           </back>
-        </text>
-        <text id="simmons1_1029">
+        </text><text id="simmons1_1029">
           <front id="simmons1_1026">
             <titlePage id="simmons1_1025">
               <docTitle>
@@ -360,8 +358,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1028">
             <byline>James Simmons</byline>
           </back>
-        </text>
-        <text id="simmons1_1034">
+        </text><text id="simmons1_1034">
           <front id="simmons1_1031">
             <titlePage id="simmons1_1030">
               <docTitle>
@@ -410,12 +407,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1033">
             <byline>James Simmons</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="simmons1_1069">
         <head>POEMS BY JAMES SIMMONS</head>
-        <docDate>1963-1968</docDate>
         <docAuthor>James Simmons</docAuthor>
+        <docDate>1963-1968</docDate>
         <argument>
           <p id="simmons1_1036">Workshop Poems</p>
           <list type="simple">
@@ -427,6 +423,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Soliloquy for a Ghost</item>
           </list>
         </argument>
+        
         <text id="simmons1_1041">
           <front id="simmons1_1038">
             <titlePage id="simmons1_1037">
@@ -456,8 +453,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1040">
             <byline>JAMES SIMMONS</byline>
           </back>
-        </text>
-        <text id="simmons1_1046">
+        </text><text id="simmons1_1046">
           <front id="simmons1_1043">
             <titlePage id="simmons1_1042">
               <docTitle>
@@ -518,8 +514,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1045">
             <byline>JAMES SIMMONS</byline>
           </back>
-        </text>
-        <text id="simmons1_1051">
+        </text><text id="simmons1_1051">
           <front id="simmons1_1048">
             <titlePage id="simmons1_1047">
               <docTitle>
@@ -560,8 +555,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1050">
             <byline>JAMES SIMMONS</byline>
           </back>
-        </text>
-        <text id="simmons1_1057">
+        </text><text id="simmons1_1057">
           <front id="simmons1_1053">
             <titlePage id="simmons1_1052">
               <docTitle>
@@ -648,8 +642,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1056">
             <byline>JAMES SIMMONS</byline>
           </back>
-        </text>
-        <text id="simmons1_1062">
+        </text><text id="simmons1_1062">
           <front id="simmons1_1059">
             <titlePage id="simmons1_1058">
               <docTitle>
@@ -685,8 +678,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1061">
             <byline>JAMES SIMMONS</byline>
           </back>
-        </text>
-        <text id="simmons1_1068">
+        </text><text id="simmons1_1068">
           <front id="simmons1_1064">
             <titlePage id="simmons1_1063">
               <docTitle>
@@ -730,8 +722,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="simmons1_1067">
             <byline>JAMES SIMMONS</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
     </group>
   </text>
 </TEI.2>

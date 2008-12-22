@@ -1,5 +1,4 @@
-
-<TEI.2 id="heaney1_10445">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="heaney1_10445">
   <teiHeader type="text">
     <fileDesc>
       <titleStmt>
@@ -11,13 +10,22 @@
         </respStmt>
       </titleStmt>
       <extent>270 Kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="heaney1_1041">http://pid.emory.edu/ark:/25593/17kjg</idno>
+            <idno type="ark" n="heaney1_1078">http://pid.emory.edu/ark:/25593/17kkm</idno>
+            <idno type="ark" n="heaney1_10116">http://pid.emory.edu/ark:/25593/17kmr</idno>
+            <idno type="ark" n="heaney1_10163">http://pid.emory.edu/ark:/25593/17knw</idno>
+            <idno type="ark" n="heaney1_10199">http://pid.emory.edu/ark:/25593/17kp1</idno>
+            <idno type="ark" n="heaney1_10236">http://pid.emory.edu/ark:/25593/17kq5</idno>
+            <idno type="ark" n="heaney1_10269">http://pid.emory.edu/ark:/25593/17kr9</idno>
+            <idno type="ark" n="heaney1_10365">http://pid.emory.edu/ark:/25593/17ksf</idno>
+            <idno type="ark" n="heaney1_10407">http://pid.emory.edu/ark:/25593/17ktk</idno>
+            <idno type="ark" n="heaney1_10415">http://pid.emory.edu/ark:/25593/17kvq</idno>
+            <idno type="ark" n="heaney1_10442">http://pid.emory.edu/ark:/25593/17kwv</idno>
+            <availability>
           <p id="heaney1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the 
 contributions to the work claimed by Emory University for non-profit 
@@ -25,9 +33,7 @@ educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either: 
 Electronic Poetry Project or Lewis H. Beck Center for Electronic  
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2000</date>
-      </publicationStmt>
+        </availability><date>2000</date></publicationStmt>
       <seriesStmt>
         <title>Irish Poets</title>
       </seriesStmt>
@@ -35,13 +41,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="heaney1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2000</date>
         <respStmt>
           <name>Katherine Ellison</name>
@@ -49,15 +53,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
-    </revisionDesc>
+         <change><date>December 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="heaney1_10444">
     <front id="heaney1_103"/>
     <group id="heaney1_10443">
       <group id="heaney1_1041">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="heaney1_104">Workshop Poems</p>
           <list type="simple">
@@ -71,6 +81,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>At a Potato Digging</item>
           </list>
         </argument>
+        
         <text id="heaney1_109">
           <front id="heaney1_106">
             <titlePage id="heaney1_105">
@@ -118,8 +129,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_108">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1015">
+        </text><text id="heaney1_1015">
           <front id="heaney1_1011">
             <titlePage id="heaney1_1010">
               <docTitle>
@@ -171,8 +181,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1014">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1020">
+        </text><text id="heaney1_1020">
           <front id="heaney1_1017">
             <titlePage id="heaney1_1016">
               <docTitle>
@@ -217,8 +226,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1019">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1025">
+        </text><text id="heaney1_1025">
           <front id="heaney1_1022">
             <titlePage id="heaney1_1021">
               <docTitle>
@@ -250,8 +258,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1024">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1030">
+        </text><text id="heaney1_1030">
           <front id="heaney1_1027">
             <titlePage id="heaney1_1026">
               <docTitle>
@@ -294,8 +301,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1029">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1035">
+        </text><text id="heaney1_1035">
           <front id="heaney1_1032">
             <titlePage id="heaney1_1031">
               <docTitle>
@@ -326,8 +332,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1034">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1040">
+        </text><text id="heaney1_1040">
           <front id="heaney1_1037">
             <titlePage id="heaney1_1036">
               <docTitle>
@@ -427,12 +432,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1039">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_1078">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="heaney1_1042">Workshop Poems</p>
           <list type="simple">
@@ -446,6 +450,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Scaffolding</item>
           </list>
         </argument>
+        
         <text id="heaney1_1047">
           <front id="heaney1_1044">
             <titlePage id="heaney1_1043">
@@ -506,8 +511,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1046">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1052">
+        </text><text id="heaney1_1052">
           <front id="heaney1_1049">
             <titlePage id="heaney1_1048">
               <docTitle>
@@ -557,8 +561,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1051">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1057">
+        </text><text id="heaney1_1057">
           <front id="heaney1_1054">
             <titlePage id="heaney1_1053">
               <docTitle>
@@ -592,8 +595,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1056">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1062">
+        </text><text id="heaney1_1062">
           <front id="heaney1_1059">
             <titlePage id="heaney1_1058">
               <docTitle>
@@ -668,8 +670,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1061">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1067">
+        </text><text id="heaney1_1067">
           <front id="heaney1_1064">
             <titlePage id="heaney1_1063">
               <docTitle>
@@ -706,8 +707,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1066">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1072">
+        </text><text id="heaney1_1072">
           <front id="heaney1_1069">
             <titlePage id="heaney1_1068">
               <docTitle>
@@ -744,8 +744,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1071">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1077">
+        </text><text id="heaney1_1077">
           <front id="heaney1_1074">
             <titlePage id="heaney1_1073">
               <docTitle>
@@ -778,12 +777,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1076">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10116">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="heaney1_1079">Workshop Poems</p>
           <list type="simple">
@@ -797,6 +795,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Salmon Fisher to the Salmon</item>
           </list>
         </argument>
+        
         <text id="heaney1_1084">
           <front id="heaney1_1081">
             <titlePage id="heaney1_1080">
@@ -828,8 +827,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1083">
             <byline>SEAMUS HEANEY</byline>
           </back>
-        </text>
-        <text id="heaney1_1089">
+        </text><text id="heaney1_1089">
           <front id="heaney1_1086">
             <titlePage id="heaney1_1085">
               <docTitle>
@@ -860,8 +858,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1088">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1094">
+        </text><text id="heaney1_1094">
           <front id="heaney1_1091">
             <titlePage id="heaney1_1090">
               <docTitle>
@@ -914,8 +911,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1093">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_1099">
+        </text><text id="heaney1_1099">
           <front id="heaney1_1096">
             <titlePage id="heaney1_1095">
               <docTitle>
@@ -969,8 +965,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_1098">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10105">
+        </text><text id="heaney1_10105">
           <front id="heaney1_10101">
             <titlePage id="heaney1_10100">
               <docTitle>
@@ -1016,8 +1011,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10104">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10110">
+        </text><text id="heaney1_10110">
           <front id="heaney1_10107">
             <titlePage id="heaney1_10106">
               <docTitle>
@@ -1060,8 +1054,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10109">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10115">
+        </text><text id="heaney1_10115">
           <front id="heaney1_10112">
             <titlePage id="heaney1_10111">
               <docTitle>
@@ -1104,12 +1097,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10114">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10163">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="heaney1_10117">Workshop Poems</p>
           <list type="simple">
@@ -1124,6 +1116,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Orange Drums, Tyrone 1966</item>
           </list>
         </argument>
+        
         <text id="heaney1_10122">
           <front id="heaney1_10119">
             <titlePage id="heaney1_10118">
@@ -1180,8 +1173,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10121">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10127">
+        </text><text id="heaney1_10127">
           <front id="heaney1_10124">
             <titlePage id="heaney1_10123">
               <docTitle>
@@ -1260,8 +1252,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10126">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10132">
+        </text><text id="heaney1_10132">
           <front id="heaney1_10129">
             <titlePage id="heaney1_10128">
               <docTitle>
@@ -1303,8 +1294,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10131">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10137">
+        </text><text id="heaney1_10137">
           <front id="heaney1_10134">
             <titlePage id="heaney1_10133">
               <docTitle>
@@ -1337,8 +1327,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10136">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10142">
+        </text><text id="heaney1_10142">
           <front id="heaney1_10139">
             <titlePage id="heaney1_10138">
               <docTitle>
@@ -1363,8 +1352,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10141">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10148">
+        </text><text id="heaney1_10148">
           <front id="heaney1_10144">
             <titlePage id="heaney1_10143">
               <docTitle>
@@ -1396,8 +1384,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10147">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10152">
+        </text><text id="heaney1_10152">
           <front id="heaney1_10149"/>
           <body id="heaney1_10151">
             <p id="heaney1_10150">
@@ -1418,8 +1405,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               </l>
             </lg>
           </body>
-        </text>
-        <text id="heaney1_10157">
+        </text><text id="heaney1_10157">
           <front id="heaney1_10154">
             <titlePage id="heaney1_10153">
               <docTitle>
@@ -1456,8 +1442,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10156">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10162">
+        </text><text id="heaney1_10162">
           <front id="heaney1_10159">
             <titlePage id="heaney1_10158">
               <docTitle>
@@ -1488,12 +1473,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10161">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10199">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="heaney1_10164">Workshop Poems</p>
           <list type="simple">
@@ -1507,6 +1491,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Obituary</item>
           </list>
         </argument>
+        
         <text id="heaney1_10169">
           <front id="heaney1_10166">
             <titlePage id="heaney1_10165">
@@ -1572,8 +1557,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10168">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10174">
+        </text><text id="heaney1_10174">
           <front id="heaney1_10171">
             <titlePage id="heaney1_10170">
               <docTitle>
@@ -1624,8 +1608,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10173">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10178">
+        </text><text id="heaney1_10178">
           <front id="heaney1_10176">
             <titlePage id="heaney1_10175">
               <docTitle>
@@ -1665,8 +1648,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>His back, his soul, with honest toil. </l>
             </lg>
           </body>
-        </text>
-        <text id="heaney1_10183">
+        </text><text id="heaney1_10183">
           <front id="heaney1_10180">
             <titlePage id="heaney1_10179">
               <docTitle>
@@ -1695,8 +1677,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10182">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10188">
+        </text><text id="heaney1_10188">
           <front id="heaney1_10185">
             <titlePage id="heaney1_10184">
               <docTitle>
@@ -1739,8 +1720,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10187">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10193">
+        </text><text id="heaney1_10193">
           <front id="heaney1_10190">
             <titlePage id="heaney1_10189">
               <docTitle>
@@ -1763,8 +1743,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10192">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10198">
+        </text><text id="heaney1_10198">
           <front id="heaney1_10195">
             <titlePage id="heaney1_10194">
               <docTitle>
@@ -1810,12 +1789,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10197">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10236">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="heaney1_10200">Workshop Poems</p>
           <list type="simple">
@@ -1829,6 +1807,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Men's Confessions</item>
           </list>
         </argument>
+        
         <text id="heaney1_10205">
           <front id="heaney1_10202">
             <titlePage id="heaney1_10201">
@@ -1864,8 +1843,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10204">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10210">
+        </text><text id="heaney1_10210">
           <front id="heaney1_10207">
             <titlePage id="heaney1_10206">
               <docTitle>
@@ -1918,8 +1896,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10209">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10215">
+        </text><text id="heaney1_10215">
           <front id="heaney1_10212">
             <titlePage id="heaney1_10211">
               <docTitle>
@@ -1967,8 +1944,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10214">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10220">
+        </text><text id="heaney1_10220">
           <front id="heaney1_10217">
             <titlePage id="heaney1_10216">
               <docTitle>
@@ -2049,8 +2025,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10219">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10225">
+        </text><text id="heaney1_10225">
           <front id="heaney1_10222">
             <titlePage id="heaney1_10221">
               <docTitle>
@@ -2103,8 +2078,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10224">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10230">
+        </text><text id="heaney1_10230">
           <front id="heaney1_10227">
             <titlePage id="heaney1_10226">
               <docTitle>
@@ -2141,8 +2115,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10229">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10235">
+        </text><text id="heaney1_10235">
           <front id="heaney1_10232">
             <titlePage id="heaney1_10231">
               <docTitle>
@@ -2179,12 +2152,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10234">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10269">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="heaney1_10237">Workshop Poems</p>
           <list type="simple">
@@ -2197,6 +2169,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>A Winter's Tale</item>
           </list>
         </argument>
+        
         <text id="heaney1_10242">
           <front id="heaney1_10239">
             <titlePage id="heaney1_10238">
@@ -2265,8 +2238,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10241">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10247">
+        </text><text id="heaney1_10247">
           <front id="heaney1_10244">
             <titlePage id="heaney1_10243">
               <docTitle>
@@ -2291,8 +2263,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10246">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10252">
+        </text><text id="heaney1_10252">
           <front id="heaney1_10249">
             <titlePage id="heaney1_10248">
               <docTitle>
@@ -2319,8 +2290,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10251">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10258">
+        </text><text id="heaney1_10258">
           <front id="heaney1_10254">
             <titlePage id="heaney1_10253">
               <docTitle>
@@ -2393,8 +2363,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10257">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10263">
+        </text><text id="heaney1_10263">
           <front id="heaney1_10260">
             <titlePage id="heaney1_10259">
               <docTitle>
@@ -2456,8 +2425,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10262">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10268">
+        </text><text id="heaney1_10268">
           <front id="heaney1_10265">
             <titlePage id="heaney1_10264">
               <docTitle>
@@ -2518,12 +2486,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10267">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10365">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="heaney1_10270">Workshop Poems by Seamus Heaney</p>
           <list type="simple">
@@ -2535,8 +2502,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Personal Helicon</item>
             <item>Antaeus</item>
           </list>
-        </argument>
-        <argument>
+        </argument><argument>
           <p id="heaney1_10271">Workshop Poems by Brendan Kennelly</p>
           <list type="simple">
             <head/>
@@ -2547,8 +2513,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Light Dying</item>
             <item>The Dummies</item>
           </list>
-        </argument>
-        <argument>
+        </argument><argument>
           <p id="heaney1_10272">Workshop Poems by Michael Longley</p>
           <list type="simple">
             <head/>
@@ -2559,6 +2524,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Persephone</item>
           </list>
         </argument>
+        
         <text id="heaney1_10277">
           <front id="heaney1_10274">
             <titlePage id="heaney1_10273">
@@ -2609,8 +2575,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10276">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10282">
+        </text><text id="heaney1_10282">
           <front id="heaney1_10279">
             <titlePage id="heaney1_10278">
               <docTitle>
@@ -2638,8 +2603,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10281">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10287">
+        </text><text id="heaney1_10287">
           <front id="heaney1_10284">
             <titlePage id="heaney1_10283">
               <docTitle>
@@ -2688,8 +2652,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10286">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10292">
+        </text><text id="heaney1_10292">
           <front id="heaney1_10289">
             <titlePage id="heaney1_10288">
               <docTitle>
@@ -2745,8 +2708,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10291">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10298">
+        </text><text id="heaney1_10298">
           <front id="heaney1_10294">
             <titlePage id="heaney1_10293">
               <docTitle>
@@ -2792,8 +2754,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10297">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10303">
+        </text><text id="heaney1_10303">
           <front id="heaney1_10300">
             <titlePage id="heaney1_10299">
               <docTitle>
@@ -2836,8 +2797,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10302">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10308">
+        </text><text id="heaney1_10308">
           <front id="heaney1_10305">
             <head>POEMS BY BRENDAN KENNELLY:</head>
             <titlePage id="heaney1_10304">
@@ -2921,8 +2881,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10307">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text>
-        <text id="heaney1_10313">
+        </text><text id="heaney1_10313">
           <front id="heaney1_10310">
             <titlePage id="heaney1_10309">
               <docTitle>
@@ -2985,8 +2944,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10312">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text>
-        <text id="heaney1_10318">
+        </text><text id="heaney1_10318">
           <front id="heaney1_10315">
             <titlePage id="heaney1_10314">
               <docTitle>
@@ -3045,8 +3003,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10317">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text>
-        <text id="heaney1_10323">
+        </text><text id="heaney1_10323">
           <front id="heaney1_10320">
             <titlePage id="heaney1_10319">
               <docTitle>
@@ -3097,8 +3054,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10322">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text>
-        <text id="heaney1_10329">
+        </text><text id="heaney1_10329">
           <front id="heaney1_10325">
             <titlePage id="heaney1_10324">
               <docTitle>
@@ -3174,8 +3130,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10328">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text>
-        <text id="heaney1_10334">
+        </text><text id="heaney1_10334">
           <front id="heaney1_10331">
             <titlePage id="heaney1_10330">
               <docTitle>
@@ -3218,8 +3173,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10333">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text>
-        <text id="heaney1_10339">
+        </text><text id="heaney1_10339">
           <front id="heaney1_10336">
             <head>POEMS BY MICHAEL LONGLEY:</head>
             <titlePage id="heaney1_10335">
@@ -3251,8 +3205,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10338">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="heaney1_10344">
+        </text><text id="heaney1_10344">
           <front id="heaney1_10341">
             <titlePage id="heaney1_10340">
               <docTitle>
@@ -3414,8 +3367,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10343">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="heaney1_10349">
+        </text><text id="heaney1_10349">
           <front id="heaney1_10346">
             <titlePage id="heaney1_10345">
               <docTitle>
@@ -3449,8 +3401,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10348">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="heaney1_10354">
+        </text><text id="heaney1_10354">
           <front id="heaney1_10351">
             <titlePage id="heaney1_10350">
               <docTitle>
@@ -3489,8 +3440,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10353">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="heaney1_10359">
+        </text><text id="heaney1_10359">
           <front id="heaney1_10356">
             <titlePage id="heaney1_10355">
               <docTitle>
@@ -3519,8 +3469,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10358">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="heaney1_10364">
+        </text><text id="heaney1_10364">
           <front id="heaney1_10361">
             <titlePage id="heaney1_10360">
               <docTitle>
@@ -3560,12 +3509,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10363">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10407">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="heaney1_10366">Workshop Poems</p>
           <list type="simple">
@@ -3580,6 +3528,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Bye-Child</item>
           </list>
         </argument>
+        
         <text id="heaney1_10371">
           <front id="heaney1_10368">
             <titlePage id="heaney1_10367">
@@ -3629,8 +3578,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10370">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10376">
+        </text><text id="heaney1_10376">
           <front id="heaney1_10373">
             <titlePage id="heaney1_10372">
               <docTitle>
@@ -3673,8 +3621,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10375">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10381">
+        </text><text id="heaney1_10381">
           <front id="heaney1_10378">
             <titlePage id="heaney1_10377">
               <docTitle>
@@ -3711,8 +3658,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10380">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10386">
+        </text><text id="heaney1_10386">
           <front id="heaney1_10383">
             <titlePage id="heaney1_10382">
               <docTitle>
@@ -3753,8 +3699,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10385">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10391">
+        </text><text id="heaney1_10391">
           <front id="heaney1_10388">
             <titlePage id="heaney1_10387">
               <docTitle>
@@ -3812,8 +3757,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10390">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10396">
+        </text><text id="heaney1_10396">
           <front id="heaney1_10393">
             <titlePage id="heaney1_10392">
               <docTitle>
@@ -3867,8 +3811,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10395">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10401">
+        </text><text id="heaney1_10401">
           <front id="heaney1_10398">
             <titlePage id="heaney1_10397">
               <docTitle>
@@ -3911,8 +3854,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10400">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10406">
+        </text><text id="heaney1_10406">
           <front id="heaney1_10403">
             <titlePage id="heaney1_10402">
               <docTitle>
@@ -3974,12 +3916,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10405">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10415">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="heaney1_10408">Workshop Poems</p>
           <list type="simple">
@@ -3987,6 +3928,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>A Lough Neagh Sequence</item>
           </list>
         </argument>
+        
         <text id="heaney1_10414">
           <front id="heaney1_10410">
             <titlePage id="heaney1_10409">
@@ -4237,12 +4179,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10413">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="heaney1_10442">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Seamus Heaney</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="heaney1_10416">Workshop Poems</p>
           <list type="simple">
@@ -4254,6 +4195,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Westering</item>
           </list>
         </argument>
+        
         <text id="heaney1_10421">
           <front id="heaney1_10418">
             <titlePage id="heaney1_10417">
@@ -4297,8 +4239,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10420">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10426">
+        </text><text id="heaney1_10426">
           <front id="heaney1_10423">
             <titlePage id="heaney1_10422">
               <docTitle>
@@ -4398,8 +4339,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10425">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10431">
+        </text><text id="heaney1_10431">
           <front id="heaney1_10428">
             <titlePage id="heaney1_10427">
               <docTitle>
@@ -4516,8 +4456,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10430">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10436">
+        </text><text id="heaney1_10436">
           <front id="heaney1_10433">
             <titlePage id="heaney1_10432">
               <docTitle>
@@ -4599,8 +4538,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10435">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-        <text id="heaney1_10441">
+        </text><text id="heaney1_10441">
           <front id="heaney1_10438">
             <titlePage id="heaney1_10437">
               <docTitle>
@@ -4667,8 +4605,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="heaney1_10440">
             <byline>Seamus Heaney</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
     </group>
   </text>
 </TEI.2>

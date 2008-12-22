@@ -1,5 +1,4 @@
-
-<TEI.2 id="longley1_10356">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="longley1_10356">
   <teiHeader type="text">
     <fileDesc>
       <titleStmt>
@@ -11,13 +10,20 @@
         </respStmt>
       </titleStmt>
       <extent>200 Kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="longley1_1042">http://pid.emory.edu/ark:/25593/17m0c</idno>
+            <idno type="ark" n="longley1_1079">http://pid.emory.edu/ark:/25593/17m1h</idno>
+            <idno type="ark" n="longley1_10120">http://pid.emory.edu/ark:/25593/17m2n</idno>
+            <idno type="ark" n="longley1_10158">http://pid.emory.edu/ark:/25593/17m3s</idno>
+            <idno type="ark" n="longley1_10202">http://pid.emory.edu/ark:/25593/17m4x</idno>
+            <idno type="ark" n="longley1_10244">http://pid.emory.edu/ark:/25593/17m52</idno>
+            <idno type="ark" n="longley1_10282">http://pid.emory.edu/ark:/25593/17m66</idno>
+            <idno type="ark" n="longley1_10316">http://pid.emory.edu/ark:/25593/17m7b</idno>
+            <idno type="ark" n="longley1_10353">http://pid.emory.edu/ark:/25593/17m8g</idno>
+            <availability>
           <p id="longley1_101">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
@@ -25,9 +31,7 @@ educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either:
 Electronic Poetry Project or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Irish Poets</title>
       </seriesStmt>
@@ -35,13 +39,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="longley1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1999</date>
         <respStmt>
           <name>Jason Lemon</name>
@@ -49,7 +51,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
-    </revisionDesc>
+         <change><date>December 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="longley1_10355">
     <front id="longley1_103"/>
@@ -73,6 +81,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Adulterer</item>
           </list>
         </argument>
+        
         <text id="longley1_108">
           <front id="longley1_106">
             <titlePage id="longley1_105">
@@ -113,8 +122,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Epics of the muscle-bound. </l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1012">
+        </text><text id="longley1_1012">
           <front id="longley1_1010">
             <titlePage id="longley1_109">
               <docTitle>
@@ -152,8 +160,7 @@ THREE POSTHUMOUS PIECES	</titlePart>
               <l>An inspiration in its way. </l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1016">
+        </text><text id="longley1_1016">
           <front id="longley1_1014">
             <titlePage id="longley1_1013">
               <docTitle>
@@ -196,8 +203,7 @@ THE ISLAND</titlePart>
               <l>We shall reach the horizon and diappear.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1020">
+        </text><text id="longley1_1020">
           <front id="longley1_1018">
             <titlePage id="longley1_1017">
               <docTitle>
@@ -244,8 +250,7 @@ CASUALITY</titlePart>
               <l>Other than the wind or rain.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1024">
+        </text><text id="longley1_1024">
           <front id="longley1_1022">
             <titlePage id="longley1_1021">
               <docTitle>
@@ -301,8 +306,7 @@ BADGER</titlePart>
               <l>The trees they tilted.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1028">
+        </text><text id="longley1_1028">
           <front id="longley1_1026">
             <titlePage id="longley1_1025">
               <docTitle>
@@ -342,8 +346,7 @@ BADGER</titlePart>
               <l>If these things were said.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1032">
+        </text><text id="longley1_1032">
           <front id="longley1_1030">
             <titlePage id="longley1_1029">
               <docTitle>
@@ -366,8 +369,7 @@ KINGFISHER</titlePart>
               <l>The water boatman crawls.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1036">
+        </text><text id="longley1_1036">
           <front id="longley1_1034">
             <titlePage id="longley1_1033">
               <docTitle>
@@ -395,8 +397,7 @@ KINGFISHER</titlePart>
               <l>For bed-bugs the beds.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_1041">
+        </text><text id="longley1_1041">
           <front id="longley1_1038">
             <titlePage id="longley1_1037">
               <docTitle>
@@ -440,8 +441,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1040">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_1079">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
@@ -459,6 +459,7 @@ THE ADULTERER</titlePart>
             <item>Christopher at Birth</item>
           </list>
         </argument>
+        
         <text id="longley1_1048">
           <front id="longley1_1045">
             <titlePage id="longley1_1044">
@@ -508,8 +509,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1047">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1053">
+        </text><text id="longley1_1053">
           <front id="longley1_1050">
             <titlePage id="longley1_1049">
               <docTitle>
@@ -582,8 +582,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1052">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1058">
+        </text><text id="longley1_1058">
           <front id="longley1_1055">
             <titlePage id="longley1_1054">
               <docTitle>
@@ -614,8 +613,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1057">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1063">
+        </text><text id="longley1_1063">
           <front id="longley1_1060">
             <titlePage id="longley1_1059">
               <docTitle>
@@ -712,8 +710,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1062">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1068">
+        </text><text id="longley1_1068">
           <front id="longley1_1065">
             <titlePage id="longley1_1064">
               <docTitle>
@@ -780,8 +777,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1067">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1073">
+        </text><text id="longley1_1073">
           <front id="longley1_1070">
             <titlePage id="longley1_1069">
               <docTitle>
@@ -824,8 +820,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1072">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1078">
+        </text><text id="longley1_1078">
           <front id="longley1_1075">
             <titlePage id="longley1_1074">
               <docTitle>
@@ -870,8 +865,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1077">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_10120">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
@@ -889,6 +883,7 @@ THE ADULTERER</titlePart>
             <item>Words for Jazz Perhaps</item>
           </list>
         </argument>
+        
         <text id="longley1_1085">
           <front id="longley1_1082">
             <titlePage id="longley1_1081">
@@ -924,8 +919,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1084">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1090">
+        </text><text id="longley1_1090">
           <front id="longley1_1087">
             <titlePage id="longley1_1086">
               <docTitle>
@@ -973,8 +967,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1089">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_1095">
+        </text><text id="longley1_1095">
           <front id="longley1_1092">
             <titlePage id="longley1_1091">
               <docTitle>
@@ -1019,8 +1012,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1094">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10100">
+        </text><text id="longley1_10100">
           <front id="longley1_1097">
             <titlePage id="longley1_1096">
               <docTitle>
@@ -1060,8 +1052,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_1099">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10105">
+        </text><text id="longley1_10105">
           <front id="longley1_10102">
             <titlePage id="longley1_10101">
               <docTitle>
@@ -1089,8 +1080,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10104">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10112">
+        </text><text id="longley1_10112">
           <front id="longley1_10109">
             <titlePage id="longley1_10106">
               <docTitle>
@@ -1154,8 +1144,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10111">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10119">
+        </text><text id="longley1_10119">
           <front id="longley1_10116">
             <titlePage id="longley1_10113">
               <docTitle>
@@ -1232,8 +1221,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10118">
             <byline>MICHAEL LONGLEY.</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_10158">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
@@ -1253,6 +1241,7 @@ THE ADULTERER</titlePart>
             <item>Man Friday</item>
           </list>
         </argument>
+        
         <text id="longley1_10125">
           <front id="longley1_10123">
             <titlePage id="longley1_10122">
@@ -1287,8 +1276,7 @@ THE ADULTERER</titlePart>
               <l>Gradual as flowers, gradual as rust. </l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10129">
+        </text><text id="longley1_10129">
           <front id="longley1_10127">
             <titlePage id="longley1_10126">
               <docTitle>
@@ -1316,8 +1304,7 @@ THE ADULTERER</titlePart>
               <l>It's all of air that ferries him. </l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10133">
+        </text><text id="longley1_10133">
           <front id="longley1_10131">
             <titlePage id="longley1_10130">
               <docTitle>
@@ -1387,8 +1374,7 @@ THE ADULTERER</titlePart>
               <l>They lift their skirts like blinds across your eyes. </l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10137">
+        </text><text id="longley1_10137">
           <front id="longley1_10135">
             <titlePage id="longley1_10134">
               <docTitle>
@@ -1430,8 +1416,7 @@ THE ADULTERER</titlePart>
               <l>The wolf treading its circuits towards sleep. </l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10141">
+        </text><text id="longley1_10141">
           <front id="longley1_10139">
             <titlePage id="longley1_10138">
               <docTitle>
@@ -1457,8 +1442,7 @@ THE ADULTERER</titlePart>
               <l>We drew together by easy stages.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10145">
+        </text><text id="longley1_10145">
           <front id="longley1_10143">
             <titlePage id="longley1_10142">
               <docTitle>
@@ -1501,8 +1485,7 @@ THE ADULTERER</titlePart>
               </lg>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10149">
+        </text><text id="longley1_10149">
           <front id="longley1_10147">
             <titlePage id="longley1_10146">
               <docTitle>
@@ -1534,8 +1517,7 @@ THE ADULTERER</titlePart>
               <l>His weatherproof enormous head at home.</l>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10153">
+        </text><text id="longley1_10153">
           <front id="longley1_10151">
             <titlePage id="longley1_10150">
               <docTitle>
@@ -1575,8 +1557,7 @@ THE ADULTERER</titlePart>
               </lg>
             </lg>
           </body>
-        </text>
-        <text id="longley1_10157">
+        </text><text id="longley1_10157">
           <front id="longley1_10155">
             <titlePage id="longley1_10154">
               <docTitle>
@@ -1602,8 +1583,7 @@ THE ADULTERER</titlePart>
               <l>Footprint follow footprint through my head.</l>
             </lg>
           </body>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_10202">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
@@ -1622,6 +1602,7 @@ THE ADULTERER</titlePart>
             <item>Barracuda</item>
           </list>
         </argument>
+        
         <text id="longley1_10166">
           <front id="longley1_10163">
             <titlePage id="longley1_10160">
@@ -1654,8 +1635,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10165">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10171">
+        </text><text id="longley1_10171">
           <front id="longley1_10168">
             <titlePage id="longley1_10167">
               <docTitle>
@@ -1684,8 +1664,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10170">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10176">
+        </text><text id="longley1_10176">
           <front id="longley1_10173">
             <titlePage id="longley1_10172">
               <docTitle>
@@ -1733,8 +1712,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10175">
             <byline>MICHAEL LONGLEY.</byline>
           </back>
-        </text>
-        <text id="longley1_10181">
+        </text><text id="longley1_10181">
           <front id="longley1_10178">
             <titlePage id="longley1_10177">
               <docTitle>
@@ -1767,8 +1745,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10180">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10186">
+        </text><text id="longley1_10186">
           <front id="longley1_10183">
             <titlePage id="longley1_10182">
               <docTitle>
@@ -1805,8 +1782,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10185">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10191">
+        </text><text id="longley1_10191">
           <front id="longley1_10188">
             <titlePage id="longley1_10187">
               <docTitle>
@@ -1834,8 +1810,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10190">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10196">
+        </text><text id="longley1_10196">
           <front id="longley1_10193">
             <titlePage id="longley1_10192">
               <docTitle>
@@ -1880,8 +1855,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10195">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10201">
+        </text><text id="longley1_10201">
           <front id="longley1_10198">
             <titlePage id="longley1_10197">
               <docTitle>
@@ -1907,12 +1881,11 @@ THE ADULTERER</titlePart>
           <back id="longley1_10200">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_10244">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Michael Longley</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="longley1_10203">Workshop Poems</p>
           <list type="simple">
@@ -1927,6 +1900,7 @@ THE ADULTERER</titlePart>
             <item>Remembrance Day</item>
           </list>
         </argument>
+        
         <text id="longley1_10208">
           <front id="longley1_10205">
             <titlePage id="longley1_10204">
@@ -1956,8 +1930,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10207">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10213">
+        </text><text id="longley1_10213">
           <front id="longley1_10210">
             <titlePage id="longley1_10209">
               <docTitle>
@@ -1988,8 +1961,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10212">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10218">
+        </text><text id="longley1_10218">
           <front id="longley1_10215">
             <titlePage id="longley1_10214">
               <docTitle>
@@ -2012,8 +1984,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10217">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10223">
+        </text><text id="longley1_10223">
           <front id="longley1_10220">
             <titlePage id="longley1_10219">
               <docTitle>
@@ -2046,8 +2017,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10222">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10228">
+        </text><text id="longley1_10228">
           <front id="longley1_10225">
             <titlePage id="longley1_10224">
               <docTitle>
@@ -2076,8 +2046,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10227">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10233">
+        </text><text id="longley1_10233">
           <front id="longley1_10230">
             <titlePage id="longley1_10229">
               <docTitle>
@@ -2113,8 +2082,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10232">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10238">
+        </text><text id="longley1_10238">
           <front id="longley1_10235">
             <titlePage id="longley1_10234">
               <docTitle>
@@ -2141,8 +2109,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10237">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10243">
+        </text><text id="longley1_10243">
           <front id="longley1_10240">
             <titlePage id="longley1_10239">
               <docTitle>
@@ -2185,12 +2152,11 @@ THE ADULTERER</titlePart>
           <back id="longley1_10242">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_10282">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Michael Longley</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="longley1_10245">Workshop Poems</p>
           <list type="simple">
@@ -2204,6 +2170,7 @@ THE ADULTERER</titlePart>
             <item>En Route</item>
           </list>
         </argument>
+        
         <text id="longley1_10250">
           <front id="longley1_10247">
             <titlePage id="longley1_10246">
@@ -2277,8 +2244,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10249">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="longley1_10255">
+        </text><text id="longley1_10255">
           <front id="longley1_10252">
             <titlePage id="longley1_10251">
               <docTitle>
@@ -2325,8 +2291,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10254">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="longley1_10260">
+        </text><text id="longley1_10260">
           <front id="longley1_10257">
             <titlePage id="longley1_10256">
               <docTitle>
@@ -2357,8 +2322,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10259">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-        <text id="longley1_10266">
+        </text><text id="longley1_10266">
           <front id="longley1_10262">
             <titlePage id="longley1_10261">
               <docTitle>
@@ -2464,8 +2428,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10265">
             <byline>Michael Longley.</byline>
           </back>
-        </text>
-        <text id="longley1_10271">
+        </text><text id="longley1_10271">
           <front id="longley1_10268">
             <titlePage id="longley1_10267">
               <docTitle>
@@ -2499,8 +2462,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10270">
             <byline>Michael Longley.</byline>
           </back>
-        </text>
-        <text id="longley1_10276">
+        </text><text id="longley1_10276">
           <front id="longley1_10273">
             <titlePage id="longley1_10272">
               <docTitle>
@@ -2605,8 +2567,7 @@ THE ADULTERER</titlePart>
           <back id="longley1_10275">
             <byline>Michael Longley.</byline>
           </back>
-        </text>
-        <text id="longley1_10281">
+        </text><text id="longley1_10281">
           <front id="longley1_10278">
             <titlePage id="longley1_10277">
               <docTitle>
@@ -2669,12 +2630,11 @@ THE ADULTERER</titlePart>
           <back id="longley1_10280">
             <byline>Michael Longley</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_10316">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docDate>1963-1966</docDate>
         <docAuthor>Michael Longley</docAuthor>
+        <docDate>1963-1966</docDate>
         <argument>
           <p id="longley1_10283">Workshop Poems</p>
           <list type="simple">
@@ -2687,6 +2647,7 @@ THE ADULTERER</titlePart>
             <item>The Hebrides</item>
           </list>
         </argument>
+        
         <text id="longley1_10288">
           <front id="longley1_10285">
             <titlePage id="longley1_10284">
@@ -2805,8 +2766,7 @@ eclipse</del>
           <back id="longley1_10287">
             <byline><date>9.xii.64</date>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10293">
+        </text><text id="longley1_10293">
           <front id="longley1_10290">
             <titlePage id="longley1_10289">
               <docTitle>
@@ -2869,8 +2829,7 @@ eclipse</del>
           <back id="longley1_10292">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10298">
+        </text><text id="longley1_10298">
           <front id="longley1_10295">
             <titlePage id="longley1_10294">
               <docTitle>
@@ -2929,8 +2888,7 @@ eclipse</del>
           <back id="longley1_10297">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10303">
+        </text><text id="longley1_10303">
           <front id="longley1_10300">
             <titlePage id="longley1_10299">
               <docTitle>
@@ -2983,8 +2941,7 @@ eclipse</del>
           <back id="longley1_10302">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10308">
+        </text><text id="longley1_10308">
           <front id="longley1_10305">
             <titlePage id="longley1_10304">
               <docTitle>
@@ -3055,8 +3012,7 @@ eclipse</del>
           <back id="longley1_10307">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10315">
+        </text><text id="longley1_10315">
           <front id="longley1_10312">
             <titlePage id="longley1_10309">
               <docTitle>
@@ -3251,8 +3207,7 @@ eclipse</del>
           <back id="longley1_10314">
             <byline><date>22.xi.64.</date>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="longley1_10353">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
@@ -3270,6 +3225,7 @@ eclipse</del>
             <item>Caravan</item>
           </list>
         </argument>
+        
         <text id="longley1_10322">
           <front id="longley1_10319">
             <titlePage id="longley1_10318">
@@ -3295,8 +3251,7 @@ eclipse</del>
           <back id="longley1_10321">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10327">
+        </text><text id="longley1_10327">
           <front id="longley1_10324">
             <titlePage id="longley1_10323">
               <docTitle>
@@ -3319,8 +3274,7 @@ eclipse</del>
           <back id="longley1_10326">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10332">
+        </text><text id="longley1_10332">
           <front id="longley1_10329">
             <titlePage id="longley1_10328">
               <docTitle>
@@ -3393,8 +3347,7 @@ eclipse</del>
           <back id="longley1_10331">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10337">
+        </text><text id="longley1_10337">
           <front id="longley1_10334">
             <titlePage id="longley1_10333">
               <docTitle>
@@ -3423,8 +3376,7 @@ eclipse</del>
           <back id="longley1_10336">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10342">
+        </text><text id="longley1_10342">
           <front id="longley1_10339">
             <titlePage id="longley1_10338">
               <docTitle>
@@ -3457,8 +3409,7 @@ eclipse</del>
           <back id="longley1_10341">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10347">
+        </text><text id="longley1_10347">
           <front id="longley1_10344">
             <titlePage id="longley1_10343">
               <docTitle>
@@ -3561,8 +3512,7 @@ eclipse</del>
           <back id="longley1_10346">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-        <text id="longley1_10352">
+        </text><text id="longley1_10352">
           <front id="longley1_10349">
             <titlePage id="longley1_10348">
               <docTitle>
@@ -3612,8 +3562,7 @@ eclipse</del>
             <byline>(29.xii.70)</byline>
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
     </group>
   </text>
 </TEI.2>

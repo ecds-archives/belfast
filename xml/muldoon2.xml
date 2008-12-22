@@ -1,5 +1,4 @@
-
-<TEI.2 id="muldoon2_10124">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="muldoon2_10124">
   <teiHeader type="text">
     <fileDesc>
       <titleStmt>
@@ -11,13 +10,14 @@
         </respStmt>
       </titleStmt>
       <extent>63 Kb</extent>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="muldoon2_1040">http://pid.emory.edu/ark:/25593/17m9m</idno>
+            <idno type="ark" n="muldoon2_1079">http://pid.emory.edu/ark:/25593/17mbr</idno>
+            <idno type="ark" n="muldoon2_10121">http://pid.emory.edu/ark:/25593/17mcw</idno>
+            <availability>
           <p id="muldoon2_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the 
 contributions to the work claimed by Emory University for non-profit 
@@ -25,9 +25,7 @@ educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either: 
 Electronic Poetry Project or Lewis H. Beck Center for Electronic  
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2000</date>
-      </publicationStmt>
+        </availability><date>2000</date></publicationStmt>
       <seriesStmt>
         <title>Irish Poets</title>
       </seriesStmt>
@@ -35,13 +33,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="muldoon2_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2000</date>
         <respStmt>
           <name>Katherine Ellison</name>
@@ -49,15 +45,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
-    </revisionDesc>
+         <change><date>December 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="muldoon2_10123">
     <front id="muldoon2_103"/>
     <group id="muldoon2_10122">
       <group id="muldoon2_1040">
         <head>POEMS BY PAUL MULDOON</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Paul Muldoon</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="muldoon2_104">Workshop Poems</p>
           <list type="simple">
@@ -71,6 +73,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Party Piece</item>
           </list>
         </argument>
+        
         <text id="muldoon2_109">
           <front id="muldoon2_106">
             <titlePage id="muldoon2_105">
@@ -114,8 +117,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_108">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1014">
+        </text><text id="muldoon2_1014">
           <front id="muldoon2_1011">
             <titlePage id="muldoon2_1010">
               <docTitle>
@@ -168,8 +170,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1013">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1019">
+        </text><text id="muldoon2_1019">
           <front id="muldoon2_1016">
             <titlePage id="muldoon2_1015">
               <docTitle>
@@ -212,8 +213,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1018">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1024">
+        </text><text id="muldoon2_1024">
           <front id="muldoon2_1021">
             <titlePage id="muldoon2_1020">
               <docTitle>
@@ -253,8 +253,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1023">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1029">
+        </text><text id="muldoon2_1029">
           <front id="muldoon2_1026">
             <titlePage id="muldoon2_1025">
               <docTitle>
@@ -309,8 +308,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1028">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1034">
+        </text><text id="muldoon2_1034">
           <front id="muldoon2_1031">
             <titlePage id="muldoon2_1030">
               <docTitle>
@@ -354,8 +352,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1033">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1039">
+        </text><text id="muldoon2_1039">
           <front id="muldoon2_1036">
             <titlePage id="muldoon2_1035">
               <docTitle>
@@ -410,12 +407,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1038">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
       <group id="muldoon2_1079">
         <head>POEMS BY PAUL MULDOON</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Paul Muldoon</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="muldoon2_1041">Workshop Poems</p>
           <list type="simple">
@@ -431,6 +427,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Leaving the Island</item>
           </list>
         </argument>
+        
         <text id="muldoon2_1046">
           <front id="muldoon2_1043">
             <titlePage id="muldoon2_1042">
@@ -469,8 +466,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1045">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1050">
+        </text><text id="muldoon2_1050">
           <front id="muldoon2_1048">
             <titlePage id="muldoon2_1047">
               <docTitle>
@@ -499,8 +495,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>To watch your mucous lips withdraw.</l>
             </lg>
           </body>
-        </text>
-        <text id="muldoon2_1054">
+        </text><text id="muldoon2_1054">
           <front id="muldoon2_1052">
             <titlePage id="muldoon2_1051">
               <docTitle>
@@ -536,8 +531,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Stream from the mountainsides.</l>
             </lg>
           </body>
-        </text>
-        <text id="muldoon2_1058">
+        </text><text id="muldoon2_1058">
           <front id="muldoon2_1056">
             <titlePage id="muldoon2_1055">
               <docTitle>
@@ -577,8 +571,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Towards our bodies where they dream.</l>
             </lg>
           </body>
-        </text>
-        <text id="muldoon2_1062">
+        </text><text id="muldoon2_1062">
           <front id="muldoon2_1060">
             <titlePage id="muldoon2_1059">
               <docTitle>
@@ -624,8 +617,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Live to cast the shadow of my head.</l>
             </lg>
           </body>
-        </text>
-        <text id="muldoon2_1066">
+        </text><text id="muldoon2_1066">
           <front id="muldoon2_1064">
             <titlePage id="muldoon2_1063">
               <docTitle>
@@ -665,8 +657,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Will a god trust in the world.</l>
             </lg>
           </body>
-        </text>
-        <text id="muldoon2_1070">
+        </text><text id="muldoon2_1070">
           <front id="muldoon2_1068">
             <titlePage id="muldoon2_1067">
               <docTitle>
@@ -702,8 +693,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Separate and memorable.</l>
             </lg>
           </body>
-        </text>
-        <text id="muldoon2_1074">
+        </text><text id="muldoon2_1074">
           <front id="muldoon2_1072">
             <titlePage id="muldoon2_1071">
               <docTitle>
@@ -745,8 +735,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>It in paper. Leave it on your step.</l>
             </lg>
           </body>
-        </text>
-        <text id="muldoon2_1078">
+        </text><text id="muldoon2_1078">
           <front id="muldoon2_1076">
             <titlePage id="muldoon2_1075">
               <docTitle>
@@ -799,12 +788,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <dateline>Lough Derg 1969.</dateline>
             </closer>
           </body>
-        </text>
-      </group>
+        </text></group>
       <group id="muldoon2_10121">
         <head>POEMS BY PAUL MULDOON</head>
-        <docDate>1966-1972</docDate>
         <docAuthor>Paul Muldoon</docAuthor>
+        <docDate>1966-1972</docDate>
         <argument>
           <p id="muldoon2_1080">Workshop Poems</p>
           <list type="simple">
@@ -819,6 +807,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Electric Orchard</item>
           </list>
         </argument>
+        
         <text id="muldoon2_1085">
           <front id="muldoon2_1082">
             <titlePage id="muldoon2_1081">
@@ -851,8 +840,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1084">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1090">
+        </text><text id="muldoon2_1090">
           <front id="muldoon2_1087">
             <titlePage id="muldoon2_1086">
               <docTitle>
@@ -889,8 +877,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1089">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_1095">
+        </text><text id="muldoon2_1095">
           <front id="muldoon2_1092">
             <titlePage id="muldoon2_1091">
               <docTitle>
@@ -919,8 +906,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1094">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_10100">
+        </text><text id="muldoon2_10100">
           <front id="muldoon2_1097">
             <titlePage id="muldoon2_1096">
               <docTitle>
@@ -965,8 +951,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_1099">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_10105">
+        </text><text id="muldoon2_10105">
           <front id="muldoon2_10102">
             <titlePage id="muldoon2_10101">
               <docTitle>
@@ -997,8 +982,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_10104">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_10110">
+        </text><text id="muldoon2_10110">
           <front id="muldoon2_10107">
             <titlePage id="muldoon2_10106">
               <docTitle>
@@ -1046,8 +1030,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_10109">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_10115">
+        </text><text id="muldoon2_10115">
           <front id="muldoon2_10112">
             <titlePage id="muldoon2_10111">
               <docTitle>
@@ -1084,8 +1067,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_10114">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-        <text id="muldoon2_10120">
+        </text><text id="muldoon2_10120">
           <front id="muldoon2_10117">
             <titlePage id="muldoon2_10116">
               <docTitle>
@@ -1170,8 +1152,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <back id="muldoon2_10119">
             <byline>Paul Muldoon</byline>
           </back>
-        </text>
-      </group>
+        </text></group>
     </group>
   </text>
 </TEI.2>
