@@ -5,7 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 $xsl    = "xslt/browse.xsl";
@@ -79,8 +79,8 @@ print '<div class="poemcontent">
 
 
 
- //$xsl_params = array ('id' => $id);
-  $xmldb->xslTransform($xsl);
+ $xsl_params = array ('doctitle' => $doctitle);
+  $xmldb->xslTransform($xsl, $xsl_params);
   $xmldb->printResult();
   
   

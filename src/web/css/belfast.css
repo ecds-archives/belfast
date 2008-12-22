@@ -32,6 +32,9 @@ div.content {margin: auto;
 div.poemcontent {margin: auto;
                 text-align: left;
                 width: 725px;}
+
+div.bookmark {font-size: 90%;
+              }
             
 span.byline {text-align: right;}
 span.add {color:green; background-color:#ffffcc;}

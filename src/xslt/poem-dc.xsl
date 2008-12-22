@@ -3,10 +3,10 @@
 		xmlns:dc="http://purl.org/dc/elements/1.1/"
 		xmlns:dcterms="http://purl.org/dc/terms"
                 version="1.0">
-  <!-- This stylesheet creates Dublin core metadata for each workshop page -->
+  <!-- This stylesheet creates Dublin core metadata for each poem when only the poem is presented, as in a search result. -->
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
-  <xsl:variable name="siteurl">belfast</xsl:variable>
+  <xsl:variable name="siteurl">BelfastGroup</xsl:variable>
 
   <xsl:template match="/">
     <dc>

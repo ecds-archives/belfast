@@ -6,7 +6,10 @@
   <!-- This stylesheet creates Dublin core metadata for each workshop page -->
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
-  <xsl:variable name="siteurl">belfast</xsl:variable>
+  <xsl:variable name="siteurl">BelfastGroup</xsl:variable>
+
+<!-- use to match workshop group and persistent identifier --> 
+  <xsl:key name="pid" match="idno" use="@n"/>
 
   <xsl:template match="/">
     <dc>
@@ -56,6 +59,7 @@
   
   <xsl:template match="//group/group"> <!-- for a workshop -->
     <!-- electronic publication date: Per advice of LA -->
+    <xsl:variable name="id" select="@id"/>
     <xsl:element name="dcterms:created">
       <xsl:value-of select="docDate"/>
     </xsl:element>
@@ -73,6 +77,11 @@
     <xsl:element name="dc:identifier">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>/browse.php?id=<xsl:value-of select="./@id"/>      
+    </xsl:element>
+
+
+    <xsl:element name="dc:identifier">
+      <xsl:value-of select="key('pid', $id)"/>
     </xsl:element>
 
     <xsl:element name="dc:creator">

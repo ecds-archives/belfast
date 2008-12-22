@@ -5,10 +5,16 @@
     
     <xsl:output method="xml" omit-xml-declaration="yes"/>
 
-    <xsl:param name="defaultindent">5</xsl:param>	  
+    <xsl:param name="defaultindent">5</xsl:param>
+    <xsl:param name="doctitle"/> <!-- set for poem, not for group -->
+    <!-- use key to match id for bookmark -->
+    <xsl:key name="pid" match="idno" use="@n"/>
     
     <xsl:template match="/"> 
         <xsl:apply-templates/> 
+	<xsl:if test="$doctitle=''">
+	<xsl:call-template name="bookmark"/>
+	</xsl:if>
     </xsl:template>
     
     <xsl:template match="TEI/teiHeader"/> <!-- do nothing the header -->
@@ -31,7 +37,6 @@
         <xsl:apply-templates select="argument"/>
         
         <xsl:apply-templates select="text"/>
-        
     </xsl:template>
     
     <xsl:template match="list">
@@ -221,4 +226,12 @@
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
+
+    
+    <xsl:template name="bookmark">
+      <xsl:variable name="id"><xsl:value-of select="//group/group/@id"/></xsl:variable><xsl:element name="hr"/>
+      <xsl:element name="div"><xsl:attribute name="class">bookmark</xsl:attribute>
+    <xsl:text>Bookmark this workshop: </xsl:text><xsl:value-of select="key('pid', $id)"/>
+      </xsl:element> 
+    </xsl:template> 
 </xsl:stylesheet>
