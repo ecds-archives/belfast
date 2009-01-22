@@ -218,7 +218,7 @@
         <xsl:variable name="uppercase">ABCDEFGHIJKLMNOPQRSTUVWXYZ</xsl:variable>
         
         <xsl:variable name="uc_title"><xsl:value-of select="translate($title,
-            $lowercase, $uppercase)"/></xsl:variable>
+            $lowercase, $uppercase)"  disable-output-escaping="yes"/></xsl:variable>
         
         <xsl:for-each select="//text">
             <xsl:if test="normalize-space(front/titlePage/docTitle/titlePart) = $uc_title">
