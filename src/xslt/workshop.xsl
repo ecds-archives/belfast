@@ -60,22 +60,19 @@
     </xsl:choose>
     <br/>
 </p>
-<!--  <xsl:text>DEBUG1: view = </xsl:text><xsl:value-of select="$view"/> -->
     <xsl:apply-templates/>
     <xsl:call-template name="endnotes"/>
   </xsl:template>
 
-  <xsl:template match="div[@class='content']"><!-- <xsl:text>DEBUG: content matched!</xsl:text> -->
-    <h3><xsl:apply-templates select="head"/></h3>
-    <xsl:apply-templates/>
+  <xsl:template match="div[@class='content']/head">
+    <h3><xsl:value-of select="."/></h3>
     </xsl:template>
 
-    <xsl:template match="div[@class='workshops']"><!--<xsl:text>DEBUG: group matched!</xsl:text> -->
+    <xsl:template match="div[@class='workshops']">
       <h4><xsl:apply-templates select="head"/></h4>
          <xsl:choose>
        <!-- pamphlets with digital editions (id = link) -->
       <xsl:when test="$view = 'digitaled'">
-<!--  <xsl:text>DEBUG2: view = </xsl:text><xsl:value-of select="$view"/> -->
         <xsl:apply-templates select="workshop[name/@id]">
           <xsl:sort select="name"/>
         </xsl:apply-templates> 
@@ -83,7 +80,6 @@
 
       <!-- all pamphlets -->
       <xsl:otherwise>
-<!--  <xsl:text>DEBUG3: view = </xsl:text><xsl:value-of select="$view"/> -->
         <xsl:apply-templates select="workshop">
           <xsl:sort select="name"/>
         </xsl:apply-templates> 

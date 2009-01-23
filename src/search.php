@@ -5,7 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 include_once("common_functions.php");
 
 
-$exist_args{"debug"} =  true;
+$exist_args{"debug"} =  false;
 $xmldb = new xmlDbConnection($exist_args);
 $xsl    = "xslt/belfast.xsl";
 
