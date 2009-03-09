@@ -5,7 +5,7 @@
   <granularity>seconds</granularity>
   <earliestDatestamp>1970-01-01T00:00:00Z</earliestDatestamp>
 
-  <validateOutput>true</validateOutput>
+  <validateOutput>false</validateOutput>
 
   <identifier>
     <delimiter>:</delimiter>
@@ -17,7 +17,7 @@
     <repositoryIdentifier>
 <!-- note: this uri is also used for request script location  -->
        <uri>oai.library.emory.edu</uri>
-       <collection>iln</collection>
+       <collection>belfast</collection>
 <!-- note: setting this to true will use collection name for the
      request script location instead of the actual script name and path -->
        <useCollectionAsScriptName>true</useCollectionAsScriptName>
@@ -38,17 +38,19 @@
   <connectionParameters>
     <xmldb type="exist">
       <host>wilson.library.emory.edu</host>
-      <database>db</database> 
-      <collection>belfast</collection> 
+      <!-- <host>bohr.library.emory.edu</host> --> <!-- production -->
+      <port>8080</port>
+      <database>belfast</database> 
+      <collection></collection> 
       <debug>false</debug>
     </xmldb>          
   </connectionParameters>
 
   <sets>
     <!--set must be listed here and defined with in each metadata queries doc-->
-    <set name="Workshops" setSpec="Workshops">
+  <!--  <set name="Workshops" setSpec="Workshops">
        <description>Poetry workshops from the Belfast Group</description>
-    </set>
+    </set> -->
   </sets>
 
   <metadataFormats>
@@ -61,7 +63,15 @@
       <record_prefix>dc</record_prefix>
       <recordNamespace>http://purl.org/dc/elements/1.1</recordNamespace>
       <xslt>oai_dc.xsl</xslt>
-    </metadataFormat>                       
+    </metadataFormat> 
+    <metadataFormat name="oai_mods">
+      <schema>http://www.loc.gov/standards/mods/v3/mods-3-0.xsd</schema>
+      <metadataNamespace>http://www.loc.gov/mods/v3</metadataNamespace>
+      <record_prefix>mods</record_prefix>
+      <recordNamespace></recordNamespace>
+      <xslt>oai_mods.xsl</xslt>
+    </metadataFormat>            
   </metadataFormats>
-
+                      
+  
 </repository>
