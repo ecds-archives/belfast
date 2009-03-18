@@ -74,6 +74,8 @@
       <xsl:apply-templates select="head"/>, <xsl:value-of select="docDate"/>
     </xsl:element>
 
+   <xsl:element name="dc:date"><xsl:value-of select="docDate"/></xsl:element>
+
     <xsl:element name="dc:identifier">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>/browse.php?id=<xsl:value-of select="./@id"/>      
@@ -90,6 +92,13 @@
 
   </xsl:template>
   
+ <!-- series : is part of / relation -->
+  <xsl:template match="seriesStmt/title">
+    <xsl:element name="dc:relation"><xsl:value-of select="."/></xsl:element>
+
+    <xsl:element name="dc:relation">http://beck.library.emory.edu/belfast/</xsl:element>
+  </xsl:template>
+
 
   <!-- formatting for bibl elements, to generate a nice citation. -->
  <!-- not needed
