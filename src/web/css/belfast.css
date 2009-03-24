@@ -1,7 +1,7 @@
 body {background: #ffffcc; 
     color: #000000;  background-color:#ffffcc;
     font-family: Verdana, Arial, Helvetica, sans-serif; 
-    }
+    font-size:medium;}
     
 a {text-decoration: underline;}
 
@@ -36,6 +36,11 @@ div.poemcontent {margin: auto;
 div.bookmark {font-size: 90%;
               }
             
+div.img-right {float:right;
+               clear:left;
+              }
+
+
 span.byline {text-align: right;}
 span.add {color:green; background-color:#ffffcc;}
 span.gap {font-size: 85%;
@@ -50,4 +55,5 @@ h3 a {text-decoration:none;}
 p.head { font-weight: bold; font-size: 115%; }
 p.subhead { font-weight: bold; font-size: 105%; }
 p.argument { width: 60%; }
-p.epigraph,p.trailer,p.byline,p.dedication { font-style: italic; font-size: 90%; }
+p.epigraph,p.trailer,p.byline,p.dedication,p.caption { font-style: italic; font-size: 90%; }
+

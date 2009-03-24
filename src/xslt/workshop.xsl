@@ -80,14 +80,12 @@
 
       <!-- all pamphlets -->
       <xsl:otherwise>
-        <xsl:apply-templates select="workshop">
-          <xsl:sort select="name"/>
-        </xsl:apply-templates> 
+        <xsl:apply-templates/>
       </xsl:otherwise> 
 	 </xsl:choose>
     </xsl:template>
 
-      <xsl:template match="workshop">
+   <xsl:template match="workshop">
     <div class="workshop">
       <xsl:choose>
         <xsl:when test="name[@id]">
@@ -101,6 +99,29 @@
         </xsl:otherwise>
       </xsl:choose> 
     </div><br/>
+  </xsl:template>
+
+  <xsl:template match="div[@class='img-right']">
+ <xsl:element name="div">
+      <xsl:attribute name="class"><xsl:value-of select="./@class"/></xsl:attribute>
+      <xsl:attribute name="style">width:<xsl:value-of select="//img/@width "/></xsl:attribute>
+      <xsl:apply-templates/>
+    </xsl:element>
+  </xsl:template>
+
+  <xsl:template match="a">
+    <xsl:copy-of select="."/>
+  </xsl:template>
+
+  <xsl:template match="img">
+    <xsl:copy-of select="."/>
+  </xsl:template>
+
+  <xsl:template match="p">
+    <xsl:element name="p">
+      <xsl:attribute name="class"><xsl:value-of select="./@class"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </xsl:element> 
   </xsl:template>
 
   <xsl:template match="name">

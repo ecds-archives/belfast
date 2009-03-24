@@ -256,7 +256,7 @@
      <xsl:element name="div">
        <xsl:attribute name="class">poweredby</xsl:attribute>
        <a href="http://www.bosrup.com/web/overlib/">
-         <img src="images/overLib.gif" width="88" height="31" alt="Popups by overLIB" border="0"/></a> 
+         <img src="web/images/overLib.gif" width="88" height="31" alt="Popups by overLIB" border="0"/></a> 
        <!-- link / image from overLib website -->
      </xsl:element>
       <!-- FIXME: permanent location for this image? -->

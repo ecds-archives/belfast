@@ -17,13 +17,13 @@ function getCSS () {
   else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
   
   $css = "web/css/belfast.css"; 
-  if ($browser == "MSIE") {
+  /* if ($browser == "MSIE") {
     if ($os == "mac") {
       $css = "web/css/iln-iemac.css";
     } else if ($os == "win") {
       $css = "web/css/iln-iewin.css";
     }
-  }
+    }*/
   //  return "$base_url/$css";
   return "$css";
 }
