@@ -52,8 +52,8 @@
      hyperlinking to notes at the bottom of document) -->
 <xsl:param name="use-popups">true</xsl:param>
   <!-- parameters used with popups -->
-  <xsl:param name="overlib-url">scripts/overlib.js</xsl:param>	<!-- path to overlib -->
-  <xsl:param name="popup-captions">false</xsl:param>	<!-- display captions, eg. 'Footnote 1' -->
+  <xsl:param name="overlib-url">web/js/overlib.js</xsl:param>	<!-- path to overlib -->
+  <xsl:param name="popup-captions">true</xsl:param>	<!-- display captions, eg. 'Footnote 1' -->
   <xsl:param name="popup-width">300</xsl:param>	<!--  standard width for pop-up -->
   <xsl:param name="sticky-popups">true</xsl:param>	<!-- make popup stay open : true/false  -->
   <!-- make pop-ups stay (necessary if there are any links within footnotes) -->

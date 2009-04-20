@@ -3,6 +3,7 @@
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
    <title>Belfast Group | Workshop List</title>
    <link rel="stylesheet" type="text/css" href="web/css/belfast.css">
+   <script type="text/javascript" src="web/js/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
 </head>
 <body>
 

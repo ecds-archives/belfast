@@ -69,10 +69,10 @@
     </xsl:template>
 
     <xsl:template match="div[@class='workshops']">
-      <h4><xsl:apply-templates select="head"/></h4>
          <xsl:choose>
        <!-- pamphlets with digital editions (id = link) -->
       <xsl:when test="$view = 'digitaled'">
+      <h4><xsl:apply-templates select="head"/></h4>
         <xsl:apply-templates select="workshop[name/@id]">
           <xsl:sort select="name"/>
         </xsl:apply-templates> 
@@ -80,7 +80,8 @@
 
       <!-- all pamphlets -->
       <xsl:otherwise>
-        <xsl:apply-templates/>
+      <h4><xsl:apply-templates select="head"/></h4>
+        <xsl:apply-templates select="workshop | div"/>
       </xsl:otherwise> 
 	 </xsl:choose>
     </xsl:template>
