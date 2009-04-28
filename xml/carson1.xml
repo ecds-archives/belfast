@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>Carson Workshops</title>
-        <author>Ciaran Carson</author>
+        <author><name type="person" reg="Carson, Ciaran, 1948-">Ciaran Carson</name></author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Staff</name>
@@ -17,7 +17,7 @@
         <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-	<idno type="ark" n="carson1_1035">http://pid.emory.edu/ark:/25593/17k5z</idno>
+	<idno type="ark" n="carson1_1035">http://pid.emory.edu/ark:/25593/1bc0v</idno>
         <availability>
           <p id="carson1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the 
