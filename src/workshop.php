@@ -28,6 +28,7 @@ print transform("web/xml/workshop.xml", "xslt/workshop.xsl", $params);
 print "</div>";
 
 include("web/xml/lowernav.xml");
+include_once("web/xml/google-trackbelfast.xml");
 
 ?>
 

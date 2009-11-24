@@ -13,7 +13,8 @@
   <xsl:key name="pid" match="idno" use="@n"/>
 
   <xsl:include href="xmldbOAI/xsl/response.xsl"/>
- 
+ <xsl:variable name="reg_name"><xsl:value-of select="//author/name/@reg"/></xsl:variable>
+
   <!-- list identifiers : header information only -->
   <xsl:template match="TEI" mode="ListIdentifiers">
     <xsl:call-template name="header"/>
@@ -38,10 +39,10 @@
     <xsl:element name="header">            
     <xsl:element name="identifier">
       <!-- identifier prefix is passed in as a parameter; should be defined in config file -->
-      <xsl:value-of select="concat($prefix, @id)" /> 
+      <xsl:value-of select="concat($prefix, .//group/@id)" /> 
     </xsl:element>
     <xsl:element name="datestamp">
-      <xsl:value-of select="LastModified"/>
+      <xsl:value-of select=".//LastModified"/>
     </xsl:element>
   </xsl:element>
 </xsl:template>
@@ -51,7 +52,7 @@
 <xsl:template match="group">
   <xsl:element name="dc:title"><xsl:value-of select="head"/></xsl:element>
   <xsl:element name="dc:date"><xsl:value-of select="docDate"/></xsl:element>
-  <xsl:element name="dc:creator"><xsl:value-of select="docAuthor"/></xsl:element>
+  <xsl:element name="dc:creator"><xsl:value-of select="../teiHeader/fileDesc/titleStmt/author/name/@reg"/></xsl:element>
   <xsl:for-each select=".">
      <xsl:variable name="id" select="@id"/>
         <xsl:element name="dc:identifier">
@@ -100,10 +101,9 @@
 
 
 <!-- identifier -->
-<!-- Note: this url is not yet firmly in place, but eventually it should be ... -->
 <xsl:template name="identifier">
   <xsl:element
-    name="dc:identifier">http://beck.library.emory.edu/belfast/browse.php?id=<xsl:value-of select="@id"/></xsl:element>
+    name="dc:identifier">http://beck.library.emory.edu/BelfastGroup/browse.php?id=<xsl:value-of select="@id"/></xsl:element>
 </xsl:template>
 
   <!-- ark identifier -->

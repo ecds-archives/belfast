@@ -4,4 +4,6 @@
     <a href="web/html/overview.html">Overview</a> | <a href="workshop.php">Workshop List</a> | <a href="web/html/bios.html">Biographies</a> | <a href="searchform.php">Search</a> | <a href="index.html">Home</a>
     <hr/>
     <a href="http://beck.library.emory.edu">Beck Center</a> | <a href="http://marbl.library.emory.edu">Manuscript, Archives and Rare Book Library</a> | <a href="http://web.library.emory.edu">Woodruff Library</a> | <a href="http://www.emory.edu">Emory University</a> 
+<hr/>
+ <div class="poweredby"><a href="http://www.tei-c.org/"><img src="http://www.tei-c.org/About/Badges/powered-by-TEI.png" alt="Powered by TEI" border="0"/></a></div>
 </div>

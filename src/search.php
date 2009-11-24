@@ -25,7 +25,7 @@ $options = array();
 if ($kw) 
   array_push($options, "text &= '$kw'");
 if ($doctitle)
-  array_push($options, "text/@id &= '$doctitle'");
+  array_push($options, "text//docTitle &= '$doctitle'");
 if ($auth)
   array_push($options, "docAuthor &= '$auth'");
 
@@ -33,7 +33,7 @@ if ($auth)
 // there must be at least one search parameter for this to work
 if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
-   // print("DEBUG: Searchfilter is $searchfilter\n");
+  // print("DEBUG: Searchfilter is $searchfilter\n");
 
 // construct xquery
 $xquery = "for \$a in /TEI.2/text/group/group$searchfilter
@@ -92,6 +92,7 @@ You may want to broaden your search or consult the search tips for suggestions.<
 print "<hr>";  
 print "</div>";  
 include("web/xml/lowernav.xml"); 
+include_once("web/xml/google-trackbelfast.xml");
 ?>
 
 

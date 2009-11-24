@@ -21,7 +21,7 @@
   
   <xsl:template match="fileDesc">
     <xsl:element name="dc:creator">
-      <xsl:apply-templates select="titleStmt/author"/>
+      <xsl:apply-templates select="titleStmt/author/name/@reg"/>
     </xsl:element>
         <xsl:element name="dc:contributor">
       <xsl:text>Lewis H. Beck Center</xsl:text>

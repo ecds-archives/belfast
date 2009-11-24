@@ -87,7 +87,7 @@
     </xsl:element>
 
     <xsl:element name="dc:creator">
-      <xsl:apply-templates select="docAuthor"/>
+      <xsl:apply-templates select="//teiHeader/fileDesc/titleStmt/author/name/@reg"/>
     </xsl:element>
 
   </xsl:template>
@@ -96,7 +96,7 @@
   <xsl:template match="seriesStmt/title">
     <xsl:element name="dc:relation"><xsl:value-of select="."/></xsl:element>
 
-    <xsl:element name="dc:relation">http://beck.library.emory.edu/belfast/</xsl:element>
+    <xsl:element name="dc:relation">http://beck.library.emory.edu/BelfastGroup/</xsl:element>
   </xsl:template>
 
 

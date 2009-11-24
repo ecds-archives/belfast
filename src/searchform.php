@@ -10,6 +10,7 @@ include("web/xml/searchhead.xml");
 include("web/xml/uppernav.xml");
 include("searchoptions.php");
 include("xml/lowernav.xml");
+include_once("web/xml/google-trackbelfast.xml");
 ?>
 
 </body>

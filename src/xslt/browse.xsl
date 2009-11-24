@@ -231,7 +231,7 @@
     <xsl:template name="bookmark">
       <xsl:variable name="id"><xsl:value-of select="//group/group/@id"/></xsl:variable><xsl:element name="hr"/>
       <xsl:element name="div"><xsl:attribute name="class">bookmark</xsl:attribute>
-    <xsl:text>Bookmark this workshop: </xsl:text><xsl:value-of select="key('pid', $id)"/>
+    <xsl:text>Permanent URL for this workshop: </xsl:text><xsl:element name="a"><xsl:attribute name="rel">bookmark</xsl:attribute><xsl:attribute name="href"><xsl:value-of select="key('pid', $id)"/></xsl:attribute><xsl:value-of select="key('pid', $id)"/></xsl:element>
       </xsl:element> 
     </xsl:template> 
 </xsl:stylesheet>

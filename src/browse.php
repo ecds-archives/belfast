@@ -87,6 +87,7 @@ print '<div class="poemcontent">
 print "<hr>";  
 print "</div>";  
 include("web/xml/lowernav.xml"); 
+include_once("web/xml/google-trackbelfast.xml");
 ?>
 
 

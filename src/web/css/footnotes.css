@@ -1,0 +1,26 @@
+/* skeleton styles for footnotes; used in conjunction with footnotes.xsl */
+
+/* footnote link in text */
+a.footnote { font-size: 75% /* 65% */; vertical-align: text-top; text-decoration: none; padding-left: 1px; padding-right: 5px; font-weight: normal; display: inline;}
+a.footnote:visited { }
+
+/* all footnotes at end of text */
+div.endnote { border-top: 1px solid; margin-top: 1in; } 
+div.endnote p  { margin-left: 0px; text-indent: 0em; padding-left: 0em; /* font-size: 90%; */ } 
+div.endnote h2 { /* font-size: 90%; */}
+div.endnote table { font-size: inherit; margin-left: 1cm; }
+span.endnote-caption { font-weight: bold; padding-right: 5px;}
+span.fn-pagen { width: 15px; /* note: seems to ignore this */}
+
+
+/* overlib : popup footnote styles */
+.footnotefg { background-color: #ffffff;  }	/* overlib default: #CCCCFF */
+.footnotebg { background-color: #5A698A; } /* overlib default: #333399 */
+.footnotetext { color: #000000;  } /* overlib default color: #000000 */
+.footnotecaption { font-weight: bold; color: #ffffff; }   /* overlib default color: #FFFFFF */
+.closefonttext { text-align: right; font-weight: bold; }
+.closefonttext a { color: #ffffff; }
+
+/* link back to overlib site */
+div.poweredby { /*width: 100%;*/ text-align: right; }
+
