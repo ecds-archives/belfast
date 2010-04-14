@@ -1,30 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="longley1_10356">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="longley1_10356">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title> Longley Workshops</title>
-        <author><name type="person" reg="Longley, Michael, 1939-">Michael Longley</name></author>
+        <author><name type="person">
+          <choice>
+            <sic>Michael Longley</sic>
+            <reg>Longley, Michael, 1939-</reg>
+          </choice></name></author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Staff</name>
         </respStmt>
       </titleStmt>
       <extent>200 Kb</extent>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
-            <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-            <idno type="ark" n="longley1_1042">http://pid.emory.edu/ark:/25593/17m0c</idno>
-            <idno type="ark" n="longley1_1079">http://pid.emory.edu/ark:/25593/17m1h</idno>
-            <idno type="ark" n="longley1_10120">http://pid.emory.edu/ark:/25593/17m2n</idno>
-            <idno type="ark" n="longley1_10158">http://pid.emory.edu/ark:/25593/17m3s</idno>
-            <idno type="ark" n="longley1_10202">http://pid.emory.edu/ark:/25593/17m4x</idno>
-            <idno type="ark" n="longley1_10244">http://pid.emory.edu/ark:/25593/17m52</idno>
-            <idno type="ark" n="longley1_10282">http://pid.emory.edu/ark:/25593/17m66</idno>
-            <idno type="ark" n="longley1_10316">http://pid.emory.edu/ark:/25593/17m7b</idno>
-            <idno type="ark" n="longley1_10353">http://pid.emory.edu/ark:/25593/17m8g</idno>
-            <availability>
-          <p id="longley1_101">1996 Emory University. Permission is granted to
+        </address><idno type="ark" n="longley1_1042">http://pid.emory.edu/ark:/25593/17m0c</idno><idno type="ark" n="longley1_1079">http://pid.emory.edu/ark:/25593/17m1h</idno><idno type="ark" n="longley1_10120">http://pid.emory.edu/ark:/25593/17m2n</idno><idno type="ark" n="longley1_10158">http://pid.emory.edu/ark:/25593/17m3s</idno><idno type="ark" n="longley1_10202">http://pid.emory.edu/ark:/25593/17m4x</idno><idno type="ark" n="longley1_10244">http://pid.emory.edu/ark:/25593/17m52</idno><idno type="ark" n="longley1_10282">http://pid.emory.edu/ark:/25593/17m66</idno><idno type="ark" n="longley1_10316">http://pid.emory.edu/ark:/25593/17m7b</idno><idno type="ark" n="longley1_10353">http://pid.emory.edu/ark:/25593/17m8g</idno><availability>
+          <p xml:id="longley1_101">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
 educational purposes, provided this header is included in its
@@ -38,36 +30,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <sourceDesc>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="longley1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="longley1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>1999</date>
-        <respStmt>
-          <name>Jason Lemon</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-         <change><date>December 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="longley1_10355">
-    <front id="longley1_103"/>
-    <group id="longley1_10354">
-      <group id="longley1_1042">
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Jason Lemon</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change xmlns="http://www.tei-c.org/ns/1.0"><date>December 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="longley1_10355">
+    <front xml:id="longley1_103"/>
+    <group xml:id="longley1_10354">
+      <group xml:id="longley1_1042">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="longley1_104">Workshop Poems</p>
+          <p xml:id="longley1_104">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Altera Cithera</item>
@@ -82,15 +57,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="longley1_108">
-          <front id="longley1_106">
-            <titlePage id="longley1_105">
+        <text xml:id="longley1_108">
+          <front xml:id="longley1_106">
+            <titlePage xml:id="longley1_105">
               <docTitle>
                 <titlePart type="main">ALTERA CITHERA</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_107">
+          <body xml:id="longley1_107">
             <lg type="stanza">
               <l n="1">A change of tune, then,</l>
               <l>On another zither,</l>
@@ -122,16 +97,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Epics of the muscle-bound. </l>
             </lg>
           </body>
-        </text><text id="longley1_1012">
-          <front id="longley1_1010">
-            <titlePage id="longley1_109">
+        </text><text xml:id="longley1_1012">
+          <front xml:id="longley1_1010">
+            <titlePage xml:id="longley1_109">
               <docTitle>
                 <titlePart type="main"> 
 THREE POSTHUMOUS PIECES	</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1011">
+          <body xml:id="longley1_1011">
             <lg type="stanza">
               <head>1</head>
               <l n="1">In lieu of my famous last words or</l>
@@ -160,16 +135,16 @@ THREE POSTHUMOUS PIECES	</titlePart>
               <l>An inspiration in its way. </l>
             </lg>
           </body>
-        </text><text id="longley1_1016">
-          <front id="longley1_1014">
-            <titlePage id="longley1_1013">
+        </text><text xml:id="longley1_1016">
+          <front xml:id="longley1_1014">
+            <titlePage xml:id="longley1_1013">
               <docTitle>
                 <titlePart type="main"> 
 THE ISLAND</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1015">
+          <body xml:id="longley1_1015">
             <lg type="stanza">
               <l n="1">The one saddle and bit on the island</l>
               <l>We set aside for every second Sunday</l>
@@ -203,16 +178,16 @@ THE ISLAND</titlePart>
               <l>We shall reach the horizon and diappear.</l>
             </lg>
           </body>
-        </text><text id="longley1_1020">
-          <front id="longley1_1018">
-            <titlePage id="longley1_1017">
+        </text><text xml:id="longley1_1020">
+          <front xml:id="longley1_1018">
+            <titlePage xml:id="longley1_1017">
               <docTitle>
                 <titlePart type="main"> 
 CASUALITY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1019">
+          <body xml:id="longley1_1019">
             <lg type="stanza">
               <l n="1">Its decline was gradual.</l>
               <l>A sequence of explorations</l>
@@ -250,16 +225,16 @@ CASUALITY</titlePart>
               <l>Other than the wind or rain.</l>
             </lg>
           </body>
-        </text><text id="longley1_1024">
-          <front id="longley1_1022">
-            <titlePage id="longley1_1021">
+        </text><text xml:id="longley1_1024">
+          <front xml:id="longley1_1022">
+            <titlePage xml:id="longley1_1021">
               <docTitle>
                 <titlePart type="main"> 
 BADGER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1023">
+          <body xml:id="longley1_1023">
             <lg type="stanza">
               <head>1</head>
               <l n="1">Pushing the wedge of his body</l>
@@ -306,15 +281,15 @@ BADGER</titlePart>
               <l>The trees they tilted.</l>
             </lg>
           </body>
-        </text><text id="longley1_1028">
-          <front id="longley1_1026">
-            <titlePage id="longley1_1025">
+        </text><text xml:id="longley1_1028">
+          <front xml:id="longley1_1026">
+            <titlePage xml:id="longley1_1025">
               <docTitle>
                 <titlePart type="main">HEDGEHOG</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1027">
+          <body xml:id="longley1_1027">
             <lg type="stanza">
               <l n="1">To begin with, the hedgehog does not</l>
               <l>- Forgive me, John Clare -</l>
@@ -346,16 +321,16 @@ BADGER</titlePart>
               <l>If these things were said.</l>
             </lg>
           </body>
-        </text><text id="longley1_1032">
-          <front id="longley1_1030">
-            <titlePage id="longley1_1029">
+        </text><text xml:id="longley1_1032">
+          <front xml:id="longley1_1030">
+            <titlePage xml:id="longley1_1029">
               <docTitle>
                 <titlePart type="main"> 
 KINGFISHER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1031">
+          <body xml:id="longley1_1031">
             <lg type="stanza">
               <l n="1">A knife-thrower</l>
               <l>Hurling himself, a rainbow</l>
@@ -369,15 +344,15 @@ KINGFISHER</titlePart>
               <l>The water boatman crawls.</l>
             </lg>
           </body>
-        </text><text id="longley1_1036">
-          <front id="longley1_1034">
-            <titlePage id="longley1_1033">
+        </text><text xml:id="longley1_1036">
+          <front xml:id="longley1_1034">
+            <titlePage xml:id="longley1_1033">
               <docTitle>
                 <titlePart type="main">ROBIN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1035">
+          <body xml:id="longley1_1035">
             <lg type="stanza">
               <l n="1">Its breast a warning,</l>
               <l>A small fire</l>
@@ -397,16 +372,16 @@ KINGFISHER</titlePart>
               <l>For bed-bugs the beds.</l>
             </lg>
           </body>
-        </text><text id="longley1_1041">
-          <front id="longley1_1038">
-            <titlePage id="longley1_1037">
+        </text><text xml:id="longley1_1041">
+          <front xml:id="longley1_1038">
+            <titlePage xml:id="longley1_1037">
               <docTitle>
                 <titlePart type="main"> 
 THE ADULTERER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1039">
+          <body xml:id="longley1_1039">
             <lg type="stanza">
               <l n="1">I have laid my adulteries</l>
               <l>Beneath the floorboards, then resettled</l>
@@ -438,16 +413,16 @@ THE ADULTERER</titlePart>
               <l>I've been meaning to get mended.</l>
             </lg>
           </body>
-          <back id="longley1_1040">
+          <back xml:id="longley1_1040">
             <byline>MICHAEL LONGLEY</byline>
           </back>
         </text></group>
-      <group id="longley1_1079">
+      <group xml:id="longley1_1079">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="longley1_1043">Workshop Poems</p>
+          <p xml:id="longley1_1043">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Circe</item>
@@ -460,15 +435,15 @@ THE ADULTERER</titlePart>
           </list>
         </argument>
         
-        <text id="longley1_1048">
-          <front id="longley1_1045">
-            <titlePage id="longley1_1044">
+        <text xml:id="longley1_1048">
+          <front xml:id="longley1_1045">
+            <titlePage xml:id="longley1_1044">
               <docTitle>
                 <titlePart type="main">CIRCE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1046">
+          <body xml:id="longley1_1046">
             <lg type="stanza">
               <l n="1">The cries of the shipwrecked enter my head.</l>
               <l>On wildest nights when the torn sky confides</l>
@@ -506,18 +481,18 @@ THE ADULTERER</titlePart>
               <l>I extend the sea, its idioms.</l>
             </lg>
           </body>
-          <back id="longley1_1047">
+          <back xml:id="longley1_1047">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1053">
-          <front id="longley1_1050">
-            <titlePage id="longley1_1049">
+        </text><text xml:id="longley1_1053">
+          <front xml:id="longley1_1050">
+            <titlePage xml:id="longley1_1049">
               <docTitle>
                 <titlePart type="main">THE ORNITHOLOGICAL SECTION</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1051">
+          <body xml:id="longley1_1051">
             <lg type="stanza">
               <l n="1">Birds, such heavenly bric-a-brac</l>
               <l>Without their guts, without their fears,</l>
@@ -579,18 +554,18 @@ THE ADULTERER</titlePart>
               <l>Where science ends and love begins.</l>
             </lg>
           </body>
-          <back id="longley1_1052">
+          <back xml:id="longley1_1052">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1058">
-          <front id="longley1_1055">
-            <titlePage id="longley1_1054">
+        </text><text xml:id="longley1_1058">
+          <front xml:id="longley1_1055">
+            <titlePage xml:id="longley1_1054">
               <docTitle>
                 <titlePart type="main">ORPHEUS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1056">
+          <body xml:id="longley1_1056">
             <lg type="stanza">
               <l n="1">The drumlins roll like waves above it all.</l>
               <l>Round my feet, like small change for a fare,</l>
@@ -610,18 +585,18 @@ THE ADULTERER</titlePart>
               <l>As I put their lives into my own words.</l>
             </lg>
           </body>
-          <back id="longley1_1057">
+          <back xml:id="longley1_1057">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1063">
-          <front id="longley1_1060">
-            <titlePage id="longley1_1059">
+        </text><text xml:id="longley1_1063">
+          <front xml:id="longley1_1060">
+            <titlePage xml:id="longley1_1059">
               <docTitle>
                 <titlePart type="main">A PERSONAL STATEMENT</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1061">
+          <body xml:id="longley1_1061">
             <lg type="stanza">
               <l n="1" rend="indent4">Since you, Mind, think to diagnose</l>
               <l rend="indent12">Experience</l>
@@ -707,18 +682,18 @@ THE ADULTERER</titlePart>
               <l rend="indent12">Believe my eyes.</l>
             </lg>
           </body>
-          <back id="longley1_1062">
+          <back xml:id="longley1_1062">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1068">
-          <front id="longley1_1065">
-            <titlePage id="longley1_1064">
+        </text><text xml:id="longley1_1068">
+          <front xml:id="longley1_1065">
+            <titlePage xml:id="longley1_1064">
               <docTitle>
                 <titlePart type="main">THE CENTAURS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1066">
+          <body xml:id="longley1_1066">
             <lg type="stanza">
               <l n="1">The sergeant, an arrow in his back,</l>
               <l>Who crawled, bleeding, up the dusty street,</l>
@@ -774,18 +749,18 @@ THE ADULTERER</titlePart>
               <l>The causeways growing into bridges.</l>
             </lg>
           </body>
-          <back id="longley1_1067">
+          <back xml:id="longley1_1067">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1073">
-          <front id="longley1_1070">
-            <titlePage id="longley1_1069">
+        </text><text xml:id="longley1_1073">
+          <front xml:id="longley1_1070">
+            <titlePage xml:id="longley1_1069">
               <docTitle>
                 <titlePart type="main">THE HOUSEWIFE'S TESTAMENT</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1071">
+          <body xml:id="longley1_1071">
             <lg type="stanza">
               <l n="1">Sons and daughters, my irreconcilables,</l>
               <l>Stay: nephews and nieces, old enemies,</l>
@@ -817,18 +792,18 @@ THE ADULTERER</titlePart>
               <l>The moths be glutted on my tapestries.</l>
             </lg>
           </body>
-          <back id="longley1_1072">
+          <back xml:id="longley1_1072">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1078">
-          <front id="longley1_1075">
-            <titlePage id="longley1_1074">
+        </text><text xml:id="longley1_1078">
+          <front xml:id="longley1_1075">
+            <titlePage xml:id="longley1_1074">
               <docTitle>
                 <titlePart type="main">CHRISTOPHER AT BIRTH</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1076">
+          <body xml:id="longley1_1076">
             <lg type="stanza">
               <l n="1">Your uncle, totem and curator bends</l>
               <l>Above your cot.  It is you I want to see.</l>
@@ -862,16 +837,16 @@ THE ADULTERER</titlePart>
               <l>The wolf treading its circuits towards sleep.</l>
             </lg>
           </body>
-          <back id="longley1_1077">
+          <back xml:id="longley1_1077">
             <byline>MICHAEL LONGLEY</byline>
           </back>
         </text></group>
-      <group id="longley1_10120">
+      <group xml:id="longley1_10120">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="longley1_1080">Workshop Poems</p>
+          <p xml:id="longley1_1080">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Dr. Johnson on the Hebrides</item>
@@ -884,15 +859,15 @@ THE ADULTERER</titlePart>
           </list>
         </argument>
         
-        <text id="longley1_1085">
-          <front id="longley1_1082">
-            <titlePage id="longley1_1081">
+        <text xml:id="longley1_1085">
+          <front xml:id="longley1_1082">
+            <titlePage xml:id="longley1_1081">
               <docTitle>
                 <titlePart type="main">DR. JOHNSON ON THE HEBRIDES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1083">
+          <body xml:id="longley1_1083">
             <lg type="stanza">
               <l n="1">The Hebridean gales mere sycophants,</l>
               <l>So many loyal Boswells at his heel -</l>
@@ -916,18 +891,18 @@ THE ADULTERER</titlePart>
               <l>His weatherproof enormous head at home.</l>
             </lg>
           </body>
-          <back id="longley1_1084">
+          <back xml:id="longley1_1084">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1090">
-          <front id="longley1_1087">
-            <titlePage id="longley1_1086">
+        </text><text xml:id="longley1_1090">
+          <front xml:id="longley1_1087">
+            <titlePage xml:id="longley1_1086">
               <docTitle>
                 <titlePart type="main">LEAVING INISHMORE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1088">
+          <body xml:id="longley1_1088">
             <lg type="stanza">
               <l n="1">Rain and sunlight and the boat between then</l>
               <l>Shifted whole hillsides through the afternoon -</l>
@@ -964,18 +939,18 @@ THE ADULTERER</titlePart>
               <l>Vitae of sailors and the sick at heart.</l>
             </lg>
           </body>
-          <back id="longley1_1089">
+          <back xml:id="longley1_1089">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_1095">
-          <front id="longley1_1092">
-            <titlePage id="longley1_1091">
+        </text><text xml:id="longley1_1095">
+          <front xml:id="longley1_1092">
+            <titlePage xml:id="longley1_1091">
               <docTitle>
                 <titlePart type="main">CAMOUFLAGE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1093">
+          <body xml:id="longley1_1093">
             <lg type="stanza">
               <l n="1">Our towns decayed, our gardens overgrown,</l>
               <l>Weather we lament, the ivy creeping -</l>
@@ -1009,18 +984,18 @@ THE ADULTERER</titlePart>
               <l>To a change of colour, a risk taken.</l>
             </lg>
           </body>
-          <back id="longley1_1094">
+          <back xml:id="longley1_1094">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10100">
-          <front id="longley1_1097">
-            <titlePage id="longley1_1096">
+        </text><text xml:id="longley1_10100">
+          <front xml:id="longley1_1097">
+            <titlePage xml:id="longley1_1096">
               <docTitle>
                 <titlePart type="main">PERSEPHONE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_1098">
+          <body xml:id="longley1_1098">
             <lg type="stanza">
               <head>1</head>
               <l n="1">I see as through a skylight in my brain</l>
@@ -1049,18 +1024,18 @@ THE ADULTERER</titlePart>
               <l>Their footsteps borrow silence from the snow.</l>
             </lg>
           </body>
-          <back id="longley1_1099">
+          <back xml:id="longley1_1099">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10105">
-          <front id="longley1_10102">
-            <titlePage id="longley1_10101">
+        </text><text xml:id="longley1_10105">
+          <front xml:id="longley1_10102">
+            <titlePage xml:id="longley1_10101">
               <docTitle>
                 <titlePart type="main">TO DEREK MAHON</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10103">
+          <body xml:id="longley1_10103">
             <lg type="stanza">
               <l n="1">You alone read every birthmark,</l>
               <l>Only for you the tale it tells -</l>
@@ -1077,21 +1052,21 @@ THE ADULTERER</titlePart>
               <l>And lares of the poet's soul.</l>
             </lg>
           </body>
-          <back id="longley1_10104">
+          <back xml:id="longley1_10104">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10112">
-          <front id="longley1_10109">
-            <titlePage id="longley1_10106">
+        </text><text xml:id="longley1_10112">
+          <front xml:id="longley1_10109">
+            <titlePage xml:id="longley1_10106">
               <docTitle>
                 <titlePart type="main">A WORKING HOLIDAY</titlePart>
               </docTitle>
             </titlePage>
-            <div1 id="longley1_10108" type="dedication">
-              <p id="longley1_10107">(For Colin Middleton)</p>
+            <div1 xml:id="longley1_10108" type="dedication">
+              <p xml:id="longley1_10107">(For Colin Middleton)</p>
             </div1>
           </front>
-          <body id="longley1_10110">
+          <body xml:id="longley1_10110">
             <lg type="stanza">
               <l n="1"> Water through the window, the light and shade</l>
               <l>Fill up my head once more as I distil</l>
@@ -1141,21 +1116,21 @@ THE ADULTERER</titlePart>
               <l>Would be too frail to stomach all of us.</l>
             </lg>
           </body>
-          <back id="longley1_10111">
+          <back xml:id="longley1_10111">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10119">
-          <front id="longley1_10116">
-            <titlePage id="longley1_10113">
+        </text><text xml:id="longley1_10119">
+          <front xml:id="longley1_10116">
+            <titlePage xml:id="longley1_10113">
               <docTitle>
                 <titlePart type="main">WORDS FOR JAZZ PERHAPS</titlePart>
               </docTitle>
             </titlePage>
-            <div1 id="longley1_10115" type="dedication">
-              <p id="longley1_10114">(For Solly Lipsitz)</p>
+            <div1 xml:id="longley1_10115" type="dedication">
+              <p xml:id="longley1_10114">(For Solly Lipsitz)</p>
             </div1>
           </front>
-          <body id="longley1_10117">
+          <body xml:id="longley1_10117">
             <lg type="stanza">
               <head>I</head>
               <head>Elegy for Fats Waller</head>
@@ -1218,16 +1193,16 @@ THE ADULTERER</titlePart>
               <l>Each longed-for holiday, each terminal.</l>
             </lg>
           </body>
-          <back id="longley1_10118">
+          <back xml:id="longley1_10118">
             <byline>MICHAEL LONGLEY.</byline>
           </back>
         </text></group>
-      <group id="longley1_10158">
+      <group xml:id="longley1_10158">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="longley1_10121">Workshop Poems</p>
+          <p xml:id="longley1_10121">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Emily Dickinson</item>
@@ -1242,15 +1217,15 @@ THE ADULTERER</titlePart>
           </list>
         </argument>
         
-        <text id="longley1_10125">
-          <front id="longley1_10123">
-            <titlePage id="longley1_10122">
+        <text xml:id="longley1_10125">
+          <front xml:id="longley1_10123">
+            <titlePage xml:id="longley1_10122">
               <docTitle>
                 <titlePart type="main">EMILY DICKINSON</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10124">
+          <body xml:id="longley1_10124">
             <lg type="stanza">
               <l n="1">Emily Dickinson, I think of you</l>
               <l>Wakening early each morning to write, </l>
@@ -1276,15 +1251,15 @@ THE ADULTERER</titlePart>
               <l>Gradual as flowers, gradual as rust. </l>
             </lg>
           </body>
-        </text><text id="longley1_10129">
-          <front id="longley1_10127">
-            <titlePage id="longley1_10126">
+        </text><text xml:id="longley1_10129">
+          <front xml:id="longley1_10127">
+            <titlePage xml:id="longley1_10126">
               <docTitle>
                 <titlePart type="main">THE OSPREY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10128">
+          <body xml:id="longley1_10128">
             <lg type="stanza">
               <l n="1">To whom certain water talents -- </l>
               <l>Webbed feet, oils - do not occur, </l>
@@ -1304,15 +1279,15 @@ THE ADULTERER</titlePart>
               <l>It's all of air that ferries him. </l>
             </lg>
           </body>
-        </text><text id="longley1_10133">
-          <front id="longley1_10131">
-            <titlePage id="longley1_10130">
+        </text><text xml:id="longley1_10133">
+          <front xml:id="longley1_10131">
+            <titlePage xml:id="longley1_10130">
               <docTitle>
                 <titlePart type="main">IN MEMORIAM</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10132">
+          <body xml:id="longley1_10132">
             <lg type="stanza">
               <l n="1">My father, let no similes eclipse</l>
               <l>Where crosses like some forest simplified</l>
@@ -1374,15 +1349,15 @@ THE ADULTERER</titlePart>
               <l>They lift their skirts like blinds across your eyes. </l>
             </lg>
           </body>
-        </text><text id="longley1_10137">
-          <front id="longley1_10135">
-            <titlePage id="longley1_10134">
+        </text><text xml:id="longley1_10137">
+          <front xml:id="longley1_10135">
+            <titlePage xml:id="longley1_10134">
               <docTitle>
                 <titlePart type="main">CHRISTOPHER AT BIRTH</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10136">
+          <body xml:id="longley1_10136">
             <lg type="stanza">
               <l n="1">Your uncle, totem and curator bends</l>
               <l>Above your cot.  It is you I want to see. </l>
@@ -1416,15 +1391,15 @@ THE ADULTERER</titlePart>
               <l>The wolf treading its circuits towards sleep. </l>
             </lg>
           </body>
-        </text><text id="longley1_10141">
-          <front id="longley1_10139">
-            <titlePage id="longley1_10138">
+        </text><text xml:id="longley1_10141">
+          <front xml:id="longley1_10139">
+            <titlePage xml:id="longley1_10138">
               <docTitle>
                 <titlePart type="main">GATHERING MUSHROOMS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10140">
+          <body xml:id="longley1_10140">
             <lg type="pair">
               <l n="1">Exhaled at dawn with the cattle's breath</l>
               <l>Out of the reticent illfitting earth,</l>
@@ -1442,15 +1417,15 @@ THE ADULTERER</titlePart>
               <l>We drew together by easy stages.</l>
             </lg>
           </body>
-        </text><text id="longley1_10145">
-          <front id="longley1_10143">
-            <titlePage id="longley1_10142">
+        </text><text xml:id="longley1_10145">
+          <front xml:id="longley1_10143">
+            <titlePage xml:id="longley1_10142">
               <docTitle>
                 <titlePart type="main">PERSEPHONE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10144">
+          <body xml:id="longley1_10144">
             <lg type="section">
               <head>I</head>
               <lg type="pair">
@@ -1485,15 +1460,15 @@ THE ADULTERER</titlePart>
               </lg>
             </lg>
           </body>
-        </text><text id="longley1_10149">
-          <front id="longley1_10147">
-            <titlePage id="longley1_10146">
+        </text><text xml:id="longley1_10149">
+          <front xml:id="longley1_10147">
+            <titlePage xml:id="longley1_10146">
               <docTitle>
                 <titlePart type="main">DR. JOHNSON ON THE HEBRIDES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10148">
+          <body xml:id="longley1_10148">
             <lg type="stanza">
               <l n="1">The Hebridean gales mere sycophants, </l>
               <l>So many loyal Boswells at his heel - </l>
@@ -1517,15 +1492,15 @@ THE ADULTERER</titlePart>
               <l>His weatherproof enormous head at home.</l>
             </lg>
           </body>
-        </text><text id="longley1_10153">
-          <front id="longley1_10151">
-            <titlePage id="longley1_10150">
+        </text><text xml:id="longley1_10153">
+          <front xml:id="longley1_10151">
+            <titlePage xml:id="longley1_10150">
               <docTitle>
                 <titlePart type="main">REMEMBRANCE DAY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10152">
+          <body xml:id="longley1_10152">
             <lg type="section">
               <head>1</head>
               <lg type="pair">
@@ -1557,15 +1532,15 @@ THE ADULTERER</titlePart>
               </lg>
             </lg>
           </body>
-        </text><text id="longley1_10157">
-          <front id="longley1_10155">
-            <titlePage id="longley1_10154">
+        </text><text xml:id="longley1_10157">
+          <front xml:id="longley1_10155">
+            <titlePage xml:id="longley1_10154">
               <docTitle>
                 <titlePart type="main">MAN FRIDAY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10156">
+          <body xml:id="longley1_10156">
             <lg type="pair">
               <l n="1">So much is implied on that furthest strand - </l>
               <l>The stranger's face of course, his outstretched hand,</l>
@@ -1584,12 +1559,12 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
         </text></group>
-      <group id="longley1_10202">
+      <group xml:id="longley1_10202">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="longley1_10159">Workshop Poem</p>
+          <p xml:id="longley1_10159">Workshop Poem</p>
           <list type="simple">
             <head/>
             <item>A Headstone</item>
@@ -1603,18 +1578,18 @@ THE ADULTERER</titlePart>
           </list>
         </argument>
         
-        <text id="longley1_10166">
-          <front id="longley1_10163">
-            <titlePage id="longley1_10160">
+        <text xml:id="longley1_10166">
+          <front xml:id="longley1_10163">
+            <titlePage xml:id="longley1_10160">
               <docTitle>
                 <titlePart type="main">A HEADSTONE</titlePart>
               </docTitle>
             </titlePage>
-            <div1 id="longley1_10162" type="inscription">
-              <p id="longley1_10161">(Inscribed 'This stone claims five graves')</p>
+            <div1 xml:id="longley1_10162" type="inscription">
+              <p xml:id="longley1_10161">(Inscribed 'This stone claims five graves')</p>
             </div1>
           </front>
-          <body id="longley1_10164">
+          <body xml:id="longley1_10164">
             <lg type="stanza">
               <l n="1">It told us, through the histories it lacked,</l>
               <l>That always it grows harder to make clear</l>
@@ -1632,18 +1607,18 @@ THE ADULTERER</titlePart>
               <l>Prolonged by love, till death mislaid his dead.</l>
             </lg>
           </body>
-          <back id="longley1_10165">
+          <back xml:id="longley1_10165">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10171">
-          <front id="longley1_10168">
-            <titlePage id="longley1_10167">
+        </text><text xml:id="longley1_10171">
+          <front xml:id="longley1_10168">
+            <titlePage xml:id="longley1_10167">
               <docTitle>
                 <titlePart type="main">MAN FRIDAY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10169">
+          <body xml:id="longley1_10169">
             <lg type="stanza">
               <l n="1">So much is implied on that furthest strand -</l>
               <l>The stranger's face of course, his outstretched hand,</l>
@@ -1661,18 +1636,18 @@ THE ADULTERER</titlePart>
               <l>Footprint follow footprint through my head.</l>
             </lg>
           </body>
-          <back id="longley1_10170">
+          <back xml:id="longley1_10170">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10176">
-          <front id="longley1_10173">
-            <titlePage id="longley1_10172">
+        </text><text xml:id="longley1_10176">
+          <front xml:id="longley1_10173">
+            <titlePage xml:id="longley1_10172">
               <docTitle>
                 <titlePart type="main">OUT OF THE SEA</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10174">
+          <body xml:id="longley1_10174">
             <lg type="part">
               <head>1. Seahorses</head>
               <lg type="stanza">
@@ -1709,18 +1684,18 @@ THE ADULTERER</titlePart>
               </lg>
             </lg>
           </body>
-          <back id="longley1_10175">
+          <back xml:id="longley1_10175">
             <byline>MICHAEL LONGLEY.</byline>
           </back>
-        </text><text id="longley1_10181">
-          <front id="longley1_10178">
-            <titlePage id="longley1_10177">
+        </text><text xml:id="longley1_10181">
+          <front xml:id="longley1_10178">
+            <titlePage xml:id="longley1_10177">
               <docTitle>
                 <titlePart type="main">HOMAGE TO BUSTER KEATON</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10179">
+          <body xml:id="longley1_10179">
             <lg type="stanza">
               <l n="1">You are sheriff of our town -</l>
               <l>Your movements silvery,</l>
@@ -1742,18 +1717,18 @@ THE ADULTERER</titlePart>
               <l>Like a solar system.</l>
             </lg>
           </body>
-          <back id="longley1_10180">
+          <back xml:id="longley1_10180">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10186">
-          <front id="longley1_10183">
-            <titlePage id="longley1_10182">
+        </text><text xml:id="longley1_10186">
+          <front xml:id="longley1_10183">
+            <titlePage xml:id="longley1_10182">
               <docTitle>
                 <titlePart type="main">FANNY HILL</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10184">
+          <body xml:id="longley1_10184">
             <lg type="stanza">
               <l n="1">And yet, who could tidy away</l>
               <l>The paraphernalia</l>
@@ -1779,18 +1754,18 @@ THE ADULTERER</titlePart>
               <l>As to a landing</l>
             </lg>
           </body>
-          <back id="longley1_10185">
+          <back xml:id="longley1_10185">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10191">
-          <front id="longley1_10188">
-            <titlePage id="longley1_10187">
+        </text><text xml:id="longley1_10191">
+          <front xml:id="longley1_10188">
+            <titlePage xml:id="longley1_10187">
               <docTitle>
                 <titlePart type="main">KLONDIKE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10189">
+          <body xml:id="longley1_10189">
             <lg type="stanza">
               <l n="1">At one with the dusty prospectors</l>
               <l>And safe now from whooping indians,</l>
@@ -1807,18 +1782,18 @@ THE ADULTERER</titlePart>
               <l>Emerging in the bottom of my pan.</l>
             </lg>
           </body>
-          <back id="longley1_10190">
+          <back xml:id="longley1_10190">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10196">
-          <front id="longley1_10193">
-            <titlePage id="longley1_10192">
+        </text><text xml:id="longley1_10196">
+          <front xml:id="longley1_10193">
+            <titlePage xml:id="longley1_10192">
               <docTitle>
                 <titlePart type="main">JOURNEY OUT OF ESSEX</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10194">
+          <body xml:id="longley1_10194">
             <lg type="stanza">
               <l n="1">Or, John Clare's Escape</l>
               <l>From the Madhouse.</l>
@@ -1852,18 +1827,18 @@ THE ADULTERER</titlePart>
               <l>Helpston and the pole star.</l>
             </lg>
           </body>
-          <back id="longley1_10195">
+          <back xml:id="longley1_10195">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10201">
-          <front id="longley1_10198">
-            <titlePage id="longley1_10197">
+        </text><text xml:id="longley1_10201">
+          <front xml:id="longley1_10198">
+            <titlePage xml:id="longley1_10197">
               <docTitle>
                 <titlePart type="main">BARRACUDA</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10199">
+          <body xml:id="longley1_10199">
             <lg type="stanza">
               <l n="1">It's the wading on skeleton's legs</l>
               <l>For a split second that gets me -</l>
@@ -1878,16 +1853,16 @@ THE ADULTERER</titlePart>
               <l>To think about, to break their teeth on.</l>
             </lg>
           </body>
-          <back id="longley1_10200">
+          <back xml:id="longley1_10200">
             <byline>MICHAEL LONGLEY</byline>
           </back>
         </text></group>
-      <group id="longley1_10244">
+      <group xml:id="longley1_10244">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="longley1_10203">Workshop Poems</p>
+          <p xml:id="longley1_10203">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Gathering Mushrooms</item>
@@ -1901,15 +1876,15 @@ THE ADULTERER</titlePart>
           </list>
         </argument>
         
-        <text id="longley1_10208">
-          <front id="longley1_10205">
-            <titlePage id="longley1_10204">
+        <text xml:id="longley1_10208">
+          <front xml:id="longley1_10205">
+            <titlePage xml:id="longley1_10204">
               <docTitle>
                 <titlePart type="main">GATHERING MUSHROOMS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10206">
+          <body xml:id="longley1_10206">
             <lg type="stanza">
               <l n="1">Exhaled at dawn with the cattle's breath</l>
               <l>Out of the reticent illfitting earth,</l>
@@ -1927,18 +1902,18 @@ THE ADULTERER</titlePart>
               <l>We drew together by easy stages.</l>
             </lg>
           </body>
-          <back id="longley1_10207">
+          <back xml:id="longley1_10207">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10213">
-          <front id="longley1_10210">
-            <titlePage id="longley1_10209">
+        </text><text xml:id="longley1_10213">
+          <front xml:id="longley1_10210">
+            <titlePage xml:id="longley1_10209">
               <docTitle>
                 <titlePart type="main">TO BIX BEIDERBECKE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10211">
+          <body xml:id="longley1_10211">
             <lg type="stanza">
               <l n="1">In hotel rooms, in digs you went to school.</l>
               <l>These dead were voices from the floor below</l>
@@ -1958,18 +1933,18 @@ THE ADULTERER</titlePart>
               <l>That parabola from blues to barrelhouse.</l>
             </lg>
           </body>
-          <back id="longley1_10212">
+          <back xml:id="longley1_10212">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10218">
-          <front id="longley1_10215">
-            <titlePage id="longley1_10214">
+        </text><text xml:id="longley1_10218">
+          <front xml:id="longley1_10215">
+            <titlePage xml:id="longley1_10214">
               <docTitle>
                 <titlePart type="main">NAUSICAA</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10216">
+          <body xml:id="longley1_10216">
             <lg type="stanza">
               <l n="1">You scarcely raise a finger to the tide.</l>
               <l>Pavilions, those days-off at the seaside</l>
@@ -1981,18 +1956,18 @@ THE ADULTERER</titlePart>
               <l>The ocean gathers where your shoulder turns.</l>
             </lg>
           </body>
-          <back id="longley1_10217">
+          <back xml:id="longley1_10217">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10223">
-          <front id="longley1_10220">
-            <titlePage id="longley1_10219">
+        </text><text xml:id="longley1_10223">
+          <front xml:id="longley1_10220">
+            <titlePage xml:id="longley1_10219">
               <docTitle>
                 <titlePart type="main">THE FREEMARTIN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10221">
+          <body xml:id="longley1_10221">
             <lg type="stanza">
               <l n="1">Comes into her own</l>
               <l>(Her barren increments,</l>
@@ -2014,18 +1989,18 @@ THE ADULTERER</titlePart>
               <l>In byres and stables.</l>
             </lg>
           </body>
-          <back id="longley1_10222">
+          <back xml:id="longley1_10222">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10228">
-          <front id="longley1_10225">
-            <titlePage id="longley1_10224">
+        </text><text xml:id="longley1_10228">
+          <front xml:id="longley1_10225">
+            <titlePage xml:id="longley1_10224">
               <docTitle>
                 <titlePart type="main">NARCISSUS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10226">
+          <body xml:id="longley1_10226">
             <lg type="stanza">
               <l n="1">Unweatherbeaten as the moon my face</l>
               <l>Among the waterlogged, the commonplace,</l>
@@ -2043,18 +2018,18 @@ THE ADULTERER</titlePart>
               <l>My face as sole survivor floats above.</l>
             </lg>
           </body>
-          <back id="longley1_10227">
+          <back xml:id="longley1_10227">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10233">
-          <front id="longley1_10230">
-            <titlePage id="longley1_10229">
+        </text><text xml:id="longley1_10233">
+          <front xml:id="longley1_10230">
+            <titlePage xml:id="longley1_10229">
               <docTitle>
                 <titlePart type="main">DR JOHNSON DYING</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10231">
+          <body xml:id="longley1_10231">
             <lg type="stanza">
               <l n="1">"...an imagining that the dropsical</l>
               <l>collection of water which oppressed</l>
@@ -2079,18 +2054,18 @@ THE ADULTERER</titlePart>
               <l>Washing his pockmarked body like a reef.</l>
             </lg>
           </body>
-          <back id="longley1_10232">
+          <back xml:id="longley1_10232">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10238">
-          <front id="longley1_10235">
-            <titlePage id="longley1_10234">
+        </text><text xml:id="longley1_10238">
+          <front xml:id="longley1_10235">
+            <titlePage xml:id="longley1_10234">
               <docTitle>
                 <titlePart type="main">IN A CONVENT CEMETERY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10236">
+          <body xml:id="longley1_10236">
             <lg type="stanza">
               <l n="1">Although they've been gone for ages</l>
               <l>On their morning walk just beyond</l>
@@ -2106,18 +2081,18 @@ THE ADULTERER</titlePart>
               <l>our maidenhair, your night-dresses.</l>
             </lg>
           </body>
-          <back id="longley1_10237">
+          <back xml:id="longley1_10237">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10243">
-          <front id="longley1_10240">
-            <titlePage id="longley1_10239">
+        </text><text xml:id="longley1_10243">
+          <front xml:id="longley1_10240">
+            <titlePage xml:id="longley1_10239">
               <docTitle>
                 <titlePart type="main">REMEMBRANCE DAY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10241">
+          <body xml:id="longley1_10241">
             <lg type="stanza">
               <head>1</head>
               <lg type="stanza">
@@ -2149,16 +2124,16 @@ THE ADULTERER</titlePart>
               </lg>
             </lg>
           </body>
-          <back id="longley1_10242">
+          <back xml:id="longley1_10242">
             <byline>MICHAEL LONGLEY</byline>
           </back>
         </text></group>
-      <group id="longley1_10282">
+      <group xml:id="longley1_10282">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="longley1_10245">Workshop Poems</p>
+          <p xml:id="longley1_10245">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>In Memoriam</item>
@@ -2171,15 +2146,15 @@ THE ADULTERER</titlePart>
           </list>
         </argument>
         
-        <text id="longley1_10250">
-          <front id="longley1_10247">
-            <titlePage id="longley1_10246">
+        <text xml:id="longley1_10250">
+          <front xml:id="longley1_10247">
+            <titlePage xml:id="longley1_10246">
               <docTitle>
                 <titlePart type="main">IN MEMORIAM</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10248">
+          <body xml:id="longley1_10248">
             <lg type="stanza">
               <l n="1">My father, let no similes eclipse</l>
               <l>Where crosses like some forest simplified</l>
@@ -2241,18 +2216,18 @@ THE ADULTERER</titlePart>
               <l>They lift their skirts like blinds across your eyes. </l>
             </lg>
           </body>
-          <back id="longley1_10249">
+          <back xml:id="longley1_10249">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="longley1_10255">
-          <front id="longley1_10252">
-            <titlePage id="longley1_10251">
+        </text><text xml:id="longley1_10255">
+          <front xml:id="longley1_10252">
+            <titlePage xml:id="longley1_10251">
               <docTitle>
                 <titlePart type="main">CHRISTOPHER AT BIRTH</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10253">
+          <body xml:id="longley1_10253">
             <lg type="stanza">
               <l n="1">Your uncle, totem and curator bends</l>
               <l>Above your cot.  It is you I want to see. </l>
@@ -2261,7 +2236,7 @@ THE ADULTERER</titlePart>
               <l>My surprised compassion to loyalty. </l>
               <l>Your mother tells me you are my godson. </l>
             </lg>
-            <note anchored="yes" place="left" resp="unknown" type="handwritten">You would know</note>
+            <note anchored="true" place="left" resp="#unknown" type="handwritten">You would know</note>
             <lg type="stanza">
               <l>The previous room still moulds your shape</l>
               <l>Which lies unwashed, out of its element, </l>
@@ -2286,20 +2261,20 @@ THE ADULTERER</titlePart>
               <l>Our cat at home blinking by the fender, </l>
               <l>The wolf treading its circuits towards sleep. </l>
             </lg>
-            <note anchored="yes" resp="encoder">[Encoder's note: On the poem worksheet, the last line of the first stanza, "Your mother tells me you are my godson" has been underlined.  The phrase "You would know" has been written in the left margin.]</note>
+            <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the last line of the first stanza, "Your mother tells me you are my godson" has been underlined.  The phrase "You would know" has been written in the left margin.]</note>
           </body>
-          <back id="longley1_10254">
+          <back xml:id="longley1_10254">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="longley1_10260">
-          <front id="longley1_10257">
-            <titlePage id="longley1_10256">
+        </text><text xml:id="longley1_10260">
+          <front xml:id="longley1_10257">
+            <titlePage xml:id="longley1_10256">
               <docTitle>
                 <titlePart type="main">FREEZE-UP</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10258">
+          <body xml:id="longley1_10258">
             <lg type="stanza">
               <l n="1">The freeze-up annexes the sea even, </l>
               <l>Putting out over the waves its platform.</l>
@@ -2308,7 +2283,7 @@ THE ADULTERER</titlePart>
               <l>Directs to our home<add>s</add> the birds of heaven. </l>
               <l>They come on farfetched winds to keep us warm. </l>
             </lg>
-            <note anchored="yes" place="left" resp="unknown" type="handwritten comment">Romantic</note>
+            <note anchored="true" place="left" resp="#unknown" type="handwrittencomment">Romantic</note>
             <lg type="stanza">
               <l>Bribing these with bounty, we would rather</l>
               <l>Forget our hopes of thaw when spring will clean</l>
@@ -2317,14 +2292,14 @@ THE ADULTERER</titlePart>
               <l>The bittern whom this different weather</l>
               <l>Cupboarded in ice like a specimen. </l>
             </lg>
-            <note anchored="yes" resp="encoder">[Encoder's note: On the poem worksheet, the word "Romantic" has been handwritten in the left margin near the final line of the first stanza.]</note>
+            <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the word "Romantic" has been handwritten in the left margin near the final line of the first stanza.]</note>
           </body>
-          <back id="longley1_10259">
+          <back xml:id="longley1_10259">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="longley1_10266">
-          <front id="longley1_10262">
-            <titlePage id="longley1_10261">
+        </text><text xml:id="longley1_10266">
+          <front xml:id="longley1_10262">
+            <titlePage xml:id="longley1_10261">
               <docTitle>
                 <titlePart type="main">
                   <del>SAINT FRANCIS TO THE BIRDS</del>
@@ -2332,9 +2307,9 @@ THE ADULTERER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10264">
+          <body xml:id="longley1_10264">
             <epigraph>
-              <p id="longley1_10263">
+              <p xml:id="longley1_10263">
                 <del>(with apologies to S. Heaney Esq.)</del>
               </p>
             </epigraph>
@@ -2361,7 +2336,7 @@ THE ADULTERER</titlePart>
               </l>
               <l>
                 <del>He dressed the primrose in its frock</del>
-                <note anchored="yes" place="right" resp="unknown" type="handwritten">upside down with its leg showing</note>
+                <note anchored="true" place="right" resp="#unknown" type="handwritten">upside down with its leg showing</note>
               </l>
               <l>
                 <del>And closed the chestnut in its purse:</del>
@@ -2423,20 +2398,20 @@ THE ADULTERER</titlePart>
                 <del>Last birds above our broken homes. </del>
               </l>
             </lg>
-            <note anchored="yes" resp="encoder">[Encoder's note: On the poem worksheet, the phrase "in its frock" has been underlined, with "upside down with its leg showing" handwritten in the right margin.]</note>
+            <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the phrase "in its frock" has been underlined, with "upside down with its leg showing" handwritten in the right margin.]</note>
           </body>
-          <back id="longley1_10265">
+          <back xml:id="longley1_10265">
             <byline>Michael Longley.</byline>
           </back>
-        </text><text id="longley1_10271">
-          <front id="longley1_10268">
-            <titlePage id="longley1_10267">
+        </text><text xml:id="longley1_10271">
+          <front xml:id="longley1_10268">
+            <titlePage xml:id="longley1_10267">
               <docTitle>
                 <titlePart type="main">ELEGY FOR FATS WALLER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10269">
+          <body xml:id="longley1_10269">
             <lg type="stanza">
               <l n="1">Lighting up, lest all our hearts should break,</l>
               <l>His fiftieth cigarette of the day, </l>
@@ -2459,18 +2434,18 @@ THE ADULTERER</titlePart>
               <l>THE SHOOK, THE SHAKE, THE SHEIK OF ARABY. </l>
             </lg>
           </body>
-          <back id="longley1_10270">
+          <back xml:id="longley1_10270">
             <byline>Michael Longley.</byline>
           </back>
-        </text><text id="longley1_10276">
-          <front id="longley1_10273">
-            <titlePage id="longley1_10272">
+        </text><text xml:id="longley1_10276">
+          <front xml:id="longley1_10273">
+            <titlePage xml:id="longley1_10272">
               <docTitle>
                 <titlePart type="main">EPITHALAMION</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10274">
+          <body xml:id="longley1_10274">
             <lg type="stanza">
               <l n="1" rend="indent5">These are the small hours when</l>
               <l>Moths by their fatal appetite</l>
@@ -2562,14 +2537,14 @@ THE ADULTERER</titlePart>
               <l rend="indent5">Like flags that linger on</l>
               <l>The sky when king and queen are gone. </l>
             </lg>
-            <note anchored="yes" resp="encoder">[Encoder's note: On the poem worksheet, the typed word "Which" in the third line has been crossed out, and the word "that" handwritten in the left margin.]</note>
+            <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the typed word "Which" in the third line has been crossed out, and the word "that" handwritten in the left margin.]</note>
           </body>
-          <back id="longley1_10275">
+          <back xml:id="longley1_10275">
             <byline>Michael Longley.</byline>
           </back>
-        </text><text id="longley1_10281">
-          <front id="longley1_10278">
-            <titlePage id="longley1_10277">
+        </text><text xml:id="longley1_10281">
+          <front xml:id="longley1_10278">
+            <titlePage xml:id="longley1_10277">
               <docTitle>
                 <titlePart type="main">
                   <title>EN ROUTE</title>
@@ -2577,7 +2552,7 @@ THE ADULTERER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10279">
+          <body xml:id="longley1_10279">
             <lg type="stanza">
               <l n="1">Amateur witches and professional virgins, </l>
               <l>Sirens and shepherdesses - all new areas</l>
@@ -2627,16 +2602,16 @@ THE ADULTERER</titlePart>
               <l>Your bodies comprising the long way home. </l>
             </lg>
           </body>
-          <back id="longley1_10280">
+          <back xml:id="longley1_10280">
             <byline>Michael Longley</byline>
           </back>
         </text></group>
-      <group id="longley1_10316">
+      <group xml:id="longley1_10316">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="longley1_10283">Workshop Poems</p>
+          <p xml:id="longley1_10283">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>No Continuing City</item>
@@ -2648,17 +2623,17 @@ THE ADULTERER</titlePart>
           </list>
         </argument>
         
-        <text id="longley1_10288">
-          <front id="longley1_10285">
-            <titlePage id="longley1_10284">
+        <text xml:id="longley1_10288">
+          <front xml:id="longley1_10285">
+            <titlePage xml:id="longley1_10284">
               <docTitle>
                 <titlePart type="main">NO CONTINUING CITY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10286">
+          <body xml:id="longley1_10286">
             <epigraph>
-              <q direct="unspecified">For here we have no continuing city...</q>
+              <q>For here we have no continuing city...</q>
               <bibl>Saint Paul to the Hebrews</bibl>
             </epigraph>
             <lg type="stanza">
@@ -2761,20 +2736,20 @@ eclipse</del>
               <l>(I embody bed and breakfast) -</l>
               <l>To eat and drink me out of house and home. </l>
             </lg>
-            <note anchored="yes" resp="encoder">[Encoder's note: On the poem worksheet, the phrase "From collision to eclipse" has been marked by parenthesis, and moved from the end of the fourth stanza to the beginning of the fifth stanza.]</note>
+            <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the phrase "From collision to eclipse" has been marked by parenthesis, and moved from the end of the fourth stanza to the beginning of the fifth stanza.]</note>
           </body>
-          <back id="longley1_10287">
+          <back xml:id="longley1_10287">
             <byline><date>9.xii.64</date>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10293">
-          <front id="longley1_10290">
-            <titlePage id="longley1_10289">
+        </text><text xml:id="longley1_10293">
+          <front xml:id="longley1_10290">
+            <titlePage xml:id="longley1_10289">
               <docTitle>
                 <titlePart type="main">A SLIGHT ADULTERY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10291">
+          <body xml:id="longley1_10291">
             <lg type="stanza">
               <l n="1">
                 <del>Because we sleep apart these nights </del>
@@ -2826,18 +2801,18 @@ eclipse</del>
               </l>
             </lg>
           </body>
-          <back id="longley1_10292">
+          <back xml:id="longley1_10292">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10298">
-          <front id="longley1_10295">
-            <titlePage id="longley1_10294">
+        </text><text xml:id="longley1_10298">
+          <front xml:id="longley1_10295">
+            <titlePage xml:id="longley1_10294">
               <docTitle>
                 <titlePart type="main">THE JOURNEY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10296">
+          <body xml:id="longley1_10296">
             <lg type="stanza">
               <l n="1">
                 <del>It is as though a journey were being made</del>
@@ -2885,18 +2860,18 @@ eclipse</del>
               </l>
             </lg>
           </body>
-          <back id="longley1_10297">
+          <back xml:id="longley1_10297">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10303">
-          <front id="longley1_10300">
-            <titlePage id="longley1_10299">
+        </text><text xml:id="longley1_10303">
+          <front xml:id="longley1_10300">
+            <titlePage xml:id="longley1_10299">
               <docTitle>
                 <titlePart type="main">TO EDNA</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10301">
+          <body xml:id="longley1_10301">
             <lg type="stanza">
               <l n="1">
                 <del>Ah, the image or the image's performance - </del>
@@ -2938,12 +2913,12 @@ eclipse</del>
               </l>
             </lg>
           </body>
-          <back id="longley1_10302">
+          <back xml:id="longley1_10302">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10308">
-          <front id="longley1_10305">
-            <titlePage id="longley1_10304">
+        </text><text xml:id="longley1_10308">
+          <front xml:id="longley1_10305">
+            <titlePage xml:id="longley1_10304">
               <docTitle>
                 <titlePart type="main">
                   <del>HER MIME OF THE LAME SEAGULL</del>
@@ -2951,7 +2926,7 @@ eclipse</del>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10306">
+          <body xml:id="longley1_10306">
             <lg type="stanza">
               <l n="1">
                 <del>Some things come too soon for words, </del>
@@ -3009,21 +2984,21 @@ eclipse</del>
               </l>
             </lg>
           </body>
-          <back id="longley1_10307">
+          <back xml:id="longley1_10307">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10315">
-          <front id="longley1_10312">
-            <titlePage id="longley1_10309">
+        </text><text xml:id="longley1_10315">
+          <front xml:id="longley1_10312">
+            <titlePage xml:id="longley1_10309">
               <docTitle>
                 <titlePart type="main">THE HEBRIDES</titlePart>
               </docTitle>
             </titlePage>
-            <div1 id="longley1_10311" type="dedication">
-              <p id="longley1_10310">(For Eavan Boland)</p>
+            <div1 xml:id="longley1_10311" type="dedication">
+              <p xml:id="longley1_10310">(For Eavan Boland)</p>
             </div1>
           </front>
-          <body id="longley1_10313">
+          <body xml:id="longley1_10313">
             <lg type="section">
               <head>I.</head>
               <lg type="stanza">
@@ -3204,16 +3179,16 @@ eclipse</del>
               </lg>
             </lg>
           </body>
-          <back id="longley1_10314">
+          <back xml:id="longley1_10314">
             <byline><date>22.xi.64.</date>MICHAEL LONGLEY</byline>
           </back>
         </text></group>
-      <group id="longley1_10353">
+      <group xml:id="longley1_10353">
         <head>POEMS BY MICHAEL LONGLEY</head>
         <docAuthor>Michael Longley</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="longley1_10317">Workshop Poems</p>
+          <p xml:id="longley1_10317">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>To the Poets</item>
@@ -3226,15 +3201,15 @@ eclipse</del>
           </list>
         </argument>
         
-        <text id="longley1_10322">
-          <front id="longley1_10319">
-            <titlePage id="longley1_10318">
+        <text xml:id="longley1_10322">
+          <front xml:id="longley1_10319">
+            <titlePage xml:id="longley1_10318">
               <docTitle>
                 <titlePart type="main">TO THE POETS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10320">
+          <body xml:id="longley1_10320">
             <lg type="stanza">
               <l n="1">The dying fall, the death spasm,</l>
               <l>Last words and catechism -</l>
@@ -3248,18 +3223,18 @@ eclipse</del>
               <l>The nose flute and the penis sheath.</l>
             </lg>
           </body>
-          <back id="longley1_10321">
+          <back xml:id="longley1_10321">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10327">
-          <front id="longley1_10324">
-            <titlePage id="longley1_10323">
+        </text><text xml:id="longley1_10327">
+          <front xml:id="longley1_10324">
+            <titlePage xml:id="longley1_10323">
               <docTitle>
                 <titlePart type="main">MOUNTAIN SWIM</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10325">
+          <body xml:id="longley1_10325">
             <lg type="stanza">
               <l n="1">Hill top and valley floor we sway between,</l>
               <l>Our bodies sustained as by a hammock,</l>
@@ -3271,18 +3246,18 @@ eclipse</del>
               <l>Asleep in its excrement like a child.</l>
             </lg>
           </body>
-          <back id="longley1_10326">
+          <back xml:id="longley1_10326">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10332">
-          <front id="longley1_10329">
-            <titlePage id="longley1_10328">
+        </text><text xml:id="longley1_10332">
+          <front xml:id="longley1_10329">
+            <titlePage xml:id="longley1_10328">
               <docTitle>
                 <titlePart type="main">A NATIVITY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10330">
+          <body xml:id="longley1_10330">
             <lg type="part">
               <head>Dog</head>
               <lg type="stanza">
@@ -3344,18 +3319,18 @@ eclipse</del>
               </lg>
             </lg>
           </body>
-          <back id="longley1_10331">
+          <back xml:id="longley1_10331">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10337">
-          <front id="longley1_10334">
-            <titlePage id="longley1_10333">
+        </text><text xml:id="longley1_10337">
+          <front xml:id="longley1_10334">
+            <titlePage xml:id="longley1_10333">
               <docTitle>
                 <titlePart type="main">MISCARRIAGE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10335">
+          <body xml:id="longley1_10335">
             <lg type="stanza">
               <l n="1">A stunned cabin boy</l>
               <l>Steering your ship to the bottom,</l>
@@ -3373,18 +3348,18 @@ eclipse</del>
               <l>My son or my daughter.</l>
             </lg>
           </body>
-          <back id="longley1_10336">
+          <back xml:id="longley1_10336">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10342">
-          <front id="longley1_10339">
-            <titlePage id="longley1_10338">
+        </text><text xml:id="longley1_10342">
+          <front xml:id="longley1_10339">
+            <titlePage xml:id="longley1_10338">
               <docTitle>
                 <titlePart type="main">THE NORTH</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10340">
+          <body xml:id="longley1_10340">
             <lg type="stanza">
               <l n="1">There are no landmarks round here,</l>
               <l>Only immeasurable shifts</l>
@@ -3406,18 +3381,18 @@ eclipse</del>
               <l>Carved on what can't be eaten.</l>
             </lg>
           </body>
-          <back id="longley1_10341">
+          <back xml:id="longley1_10341">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10347">
-          <front id="longley1_10344">
-            <titlePage id="longley1_10343">
+        </text><text xml:id="longley1_10347">
+          <front xml:id="longley1_10344">
+            <titlePage xml:id="longley1_10343">
               <docTitle>
                 <titlePart type="main">LARES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10345">
+          <body xml:id="longley1_10345">
             <lg type="part">
               <head>Farls</head>
               <lg type="stanza">
@@ -3509,18 +3484,18 @@ eclipse</del>
               </lg>
             </lg>
           </body>
-          <back id="longley1_10346">
+          <back xml:id="longley1_10346">
             <byline>MICHAEL LONGLEY</byline>
           </back>
-        </text><text id="longley1_10352">
-          <front id="longley1_10349">
-            <titlePage id="longley1_10348">
+        </text><text xml:id="longley1_10352">
+          <front xml:id="longley1_10349">
+            <titlePage xml:id="longley1_10348">
               <docTitle>
                 <titlePart type="main">CARAVAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="longley1_10350">
+          <body xml:id="longley1_10350">
             <lg type="stanza">
               <l n="1">A rickety chimney suggests</l>
               <l>The diminutive stove,</l>
@@ -3558,11 +3533,11 @@ eclipse</del>
               <l>Hung outside the door to dry.</l>
             </lg>
           </body>
-          <back id="longley1_10351">
+          <back xml:id="longley1_10351">
             <byline>(29.xii.70)</byline>
             <byline>MICHAEL LONGLEY</byline>
           </back>
         </text></group>
     </group>
   </text>
-</TEI.2>
+</TEI>

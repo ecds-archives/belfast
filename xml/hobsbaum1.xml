@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="hobsbaum1_1050">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hobsbaum1_1050">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title> Hobsbaum Workshops</title>
-        <author><name type="person" reg="Hobsbaum, Philip">Philip Hobsbaum</name></author>
+        <author><name type="person">
+          <choice>
+            <sic>Philip Hobsbaum</sic>
+            <reg>Hobsbaum, Philip</reg>
+          </choice>
+  </name></author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Staff</name>
         </respStmt>
       </titleStmt>
       <extent>54 Kb</extent>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
-            <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-            <idno type="ark" n="hobsbaum1_1040">http://pid.emory.edu/ark:/25593/17kx0</idno>
-            <idno type="ark" n="hobsbaum1_1047">http://pid.emory.edu/ark:/25593/17kz4</idno>
-            <availability>
-          <p id="hobsbaum1_101">1999 Emory University. Permission is granted to
+        </address><idno type="ark" n="hobsbaum1_1040">http://pid.emory.edu/ark:/25593/17kx0</idno><idno type="ark" n="hobsbaum1_1047">http://pid.emory.edu/ark:/25593/17kz4</idno><availability>
+          <p xml:id="hobsbaum1_101">1999 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
 educational purposes, provided this header is included in its
@@ -31,36 +31,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <sourceDesc>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="hobsbaum1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="hobsbaum1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>1999</date>
-        <respStmt>
-          <name>Jason Lemon</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-         <change><date>December 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="hobsbaum1_1049">
-    <front id="hobsbaum1_103"/>
-    <group id="hobsbaum1_1048">
-      <group id="hobsbaum1_1040">
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>1999</date><label>Staff</label><name>Jason Lemon</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change xmlns="http://www.tei-c.org/ns/1.0"><date>December 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="hobsbaum1_1049">
+    <front xml:id="hobsbaum1_103"/>
+    <group xml:id="hobsbaum1_1048">
+      <group xml:id="hobsbaum1_1040">
         <head>POEMS BY PHILIP HOBSBAUM</head>
         <docAuthor>Philip Hobsbaum</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="hobsbaum1_104">Workshop Poems</p>
+          <p xml:id="hobsbaum1_104">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Dead End</item>
@@ -73,15 +56,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="hobsbaum1_109">
-          <front id="hobsbaum1_106">
-            <titlePage id="hobsbaum1_105">
+        <text xml:id="hobsbaum1_109">
+          <front xml:id="hobsbaum1_106">
+            <titlePage xml:id="hobsbaum1_105">
               <docTitle>
                 <titlePart type="main">DEAD END</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_107">
+          <body xml:id="hobsbaum1_107">
             <lg type="stanza">
               <l n="1">We once lodged in that street.</l>
               <l>The roofs</l>
@@ -133,18 +116,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>We never knew.</l>
             </lg>
           </body>
-          <back id="hobsbaum1_108">
+          <back xml:id="hobsbaum1_108">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text><text id="hobsbaum1_1014">
-          <front id="hobsbaum1_1011">
-            <titlePage id="hobsbaum1_1010">
+        </text><text xml:id="hobsbaum1_1014">
+          <front xml:id="hobsbaum1_1011">
+            <titlePage xml:id="hobsbaum1_1010">
               <docTitle>
                 <titlePart type="main">DERRY CITY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_1012">
+          <body xml:id="hobsbaum1_1012">
             <lg type="stanza">
               <l n="1">The guns still poke out of decaying walls,</l>
               <l>Though trained on nothing, remembering the past.</l>
@@ -164,18 +147,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>The siege of Derry is not lifted yet.</l>
             </lg>
           </body>
-          <back id="hobsbaum1_1013">
+          <back xml:id="hobsbaum1_1013">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text><text id="hobsbaum1_1019">
-          <front id="hobsbaum1_1016">
-            <titlePage id="hobsbaum1_1015">
+        </text><text xml:id="hobsbaum1_1019">
+          <front xml:id="hobsbaum1_1016">
+            <titlePage xml:id="hobsbaum1_1015">
               <docTitle>
                 <titlePart type="main">THE RIDING-MISTRESS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_1017">
+          <body xml:id="hobsbaum1_1017">
             <lg type="stanza">
               <l n="1">You've the whip hand all right.   They're driven hard,</l>
               <l>Those friends who gather round to hear you censure</l>
@@ -201,18 +184,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>The observer thinks, but what a swamp within!</l>
             </lg>
           </body>
-          <back id="hobsbaum1_1018">
+          <back xml:id="hobsbaum1_1018">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text><text id="hobsbaum1_1024">
-          <front id="hobsbaum1_1021">
-            <titlePage id="hobsbaum1_1020">
+        </text><text xml:id="hobsbaum1_1024">
+          <front xml:id="hobsbaum1_1021">
+            <titlePage xml:id="hobsbaum1_1020">
               <docTitle>
                 <titlePart type="main">A FALSE MARTYR</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_1022">
+          <body xml:id="hobsbaum1_1022">
             <lg type="stanza">
               <l n="1">'It wasn't me.   I wasn't there'</l>
               <l>And then your eyes begin to shift</l>
@@ -238,18 +221,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>You had the fun.    Admit your fault.</l>
             </lg>
           </body>
-          <back id="hobsbaum1_1023">
+          <back xml:id="hobsbaum1_1023">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text><text id="hobsbaum1_1029">
-          <front id="hobsbaum1_1026">
-            <titlePage id="hobsbaum1_1025">
+        </text><text xml:id="hobsbaum1_1029">
+          <front xml:id="hobsbaum1_1026">
+            <titlePage xml:id="hobsbaum1_1025">
               <docTitle>
                 <titlePart type="main">UNDERGRADUATE PARTY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_1027">
+          <body xml:id="hobsbaum1_1027">
             <lg type="stanza">
               <l n="1">Static, or nearly so, seen through the haze,</l>
               <l>Forms slowly sheel, and, in a leisured trance,</l>
@@ -271,18 +254,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>That I'm not going to Maggie's farm no more.</l>
             </lg>
           </body>
-          <back id="hobsbaum1_1028">
+          <back xml:id="hobsbaum1_1028">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text><text id="hobsbaum1_1034">
-          <front id="hobsbaum1_1031">
-            <titlePage id="hobsbaum1_1030">
+        </text><text xml:id="hobsbaum1_1034">
+          <front xml:id="hobsbaum1_1031">
+            <titlePage xml:id="hobsbaum1_1030">
               <docTitle>
                 <titlePart type="main">STOUT PERSON'S MEDITATION ON SEX</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_1032">
+          <body xml:id="hobsbaum1_1032">
             <lg type="stanza">
               <l n="1">Miss Rafferty, in my General Class, eats chocolates,</l>
               <l>Gets fatter every day, longs for a man</l>
@@ -301,18 +284,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>There's hope for me but none for Miss Rafferty.</l>
             </lg>
           </body>
-          <back id="hobsbaum1_1033">
+          <back xml:id="hobsbaum1_1033">
             <byline>Philip Hobsbaum</byline>
           </back>
-        </text><text id="hobsbaum1_1039">
-          <front id="hobsbaum1_1036">
-            <titlePage id="hobsbaum1_1035">
+        </text><text xml:id="hobsbaum1_1039">
+          <front xml:id="hobsbaum1_1036">
+            <titlePage xml:id="hobsbaum1_1035">
               <docTitle>
                 <titlePart type="main">COCK OF THE WALK</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_1037">
+          <body xml:id="hobsbaum1_1037">
             <lg type="stanza">
               <l n="1">'How ar'you?   Howya doin'?'   Not so well</l>
               <l>As you, pint in one hand, fag in the other,</l>
@@ -361,31 +344,31 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>For cock of the walk to beat his last retreat.</l>
             </lg>
           </body>
-          <back id="hobsbaum1_1038">
+          <back xml:id="hobsbaum1_1038">
             <byline>Philip Hobsbaum</byline>
           </back>
         </text></group>
-      <group id="hobsbaum1_1047">
+      <group xml:id="hobsbaum1_1047">
         <head>POEMS BY PHILIP HOBSBAUM</head>
         <docAuthor>Philip Hobsbaum</docAuthor>
         <docDate>1963-1972</docDate>
         <argument>
-          <p id="hobsbaum1_1041">Workshop Poems</p>
+          <p xml:id="hobsbaum1_1041">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Study in a Minor Key</item>
           </list>
         </argument>
         
-        <text id="hobsbaum1_1046">
-          <front id="hobsbaum1_1043">
-            <titlePage id="hobsbaum1_1042">
+        <text xml:id="hobsbaum1_1046">
+          <front xml:id="hobsbaum1_1043">
+            <titlePage xml:id="hobsbaum1_1042">
               <docTitle>
                 <titlePart type="main">STUDY IN A MINOR KEY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="hobsbaum1_1044">
+          <body xml:id="hobsbaum1_1044">
             <opener>
               <dateline>Guildhall, London.   November 16, 1848</dateline>
             </opener>
@@ -739,10 +722,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent6">Embrace the blackness, lose myself in the night.</l>
             </lg>
           </body>
-          <back id="hobsbaum1_1045">
+          <back xml:id="hobsbaum1_1045">
             <byline>Philip Hobsbaum</byline>
           </back>
         </text></group>
     </group>
   </text>
-</TEI.2>
+</TEI>

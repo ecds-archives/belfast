@@ -1,32 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="heaney1_10445">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="heaney1_10445">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>Heaney Workshops</title>
-        <author><name type="person" reg="Heaney, Seamus, 1939-">Seamus Heaney</name></author>
+        <author><name type="person">
+          <choice>
+            <sic>Seamus Heaney</sic>
+            <reg>Heaney, Seamus, 1939-</reg>
+          </choice>
+          </name></author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Staff</name>
         </respStmt>
       </titleStmt>
       <extent>270 Kb</extent>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
-            <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-            <idno type="ark" n="heaney1_1041">http://pid.emory.edu/ark:/25593/17kjg</idno>
-            <idno type="ark" n="heaney1_1078">http://pid.emory.edu/ark:/25593/17kkm</idno>
-            <idno type="ark" n="heaney1_10116">http://pid.emory.edu/ark:/25593/17kmr</idno>
-            <idno type="ark" n="heaney1_10163">http://pid.emory.edu/ark:/25593/17knw</idno>
-            <idno type="ark" n="heaney1_10199">http://pid.emory.edu/ark:/25593/17kp1</idno>
-            <idno type="ark" n="heaney1_10236">http://pid.emory.edu/ark:/25593/17kq5</idno>
-            <idno type="ark" n="heaney1_10269">http://pid.emory.edu/ark:/25593/17kr9</idno>
-            <idno type="ark" n="heaney1_10365">http://pid.emory.edu/ark:/25593/17ksf</idno>
-            <idno type="ark" n="heaney1_10407">http://pid.emory.edu/ark:/25593/17ktk</idno>
-            <idno type="ark" n="heaney1_10415">http://pid.emory.edu/ark:/25593/17kvq</idno>
-            <idno type="ark" n="heaney1_10442">http://pid.emory.edu/ark:/25593/17kwv</idno>
-            <availability>
-          <p id="heaney1_101">1996 Emory University. Permission is granted to 
+        </address><idno type="ark" n="heaney1_1041">http://pid.emory.edu/ark:/25593/17kjg</idno><idno type="ark" n="heaney1_1078">http://pid.emory.edu/ark:/25593/17kkm</idno><idno type="ark" n="heaney1_10116">http://pid.emory.edu/ark:/25593/17kmr</idno><idno type="ark" n="heaney1_10163">http://pid.emory.edu/ark:/25593/17knw</idno><idno type="ark" n="heaney1_10199">http://pid.emory.edu/ark:/25593/17kp1</idno><idno type="ark" n="heaney1_10236">http://pid.emory.edu/ark:/25593/17kq5</idno><idno type="ark" n="heaney1_10269">http://pid.emory.edu/ark:/25593/17kr9</idno><idno type="ark" n="heaney1_10365">http://pid.emory.edu/ark:/25593/17ksf</idno><idno type="ark" n="heaney1_10407">http://pid.emory.edu/ark:/25593/17ktk</idno><idno type="ark" n="heaney1_10415">http://pid.emory.edu/ark:/25593/17kvq</idno><idno type="ark" n="heaney1_10442">http://pid.emory.edu/ark:/25593/17kwv</idno><availability>
+          <p xml:id="heaney1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the 
 contributions to the work claimed by Emory University for non-profit 
 educational purposes, provided this header is included in its 
@@ -40,36 +31,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <sourceDesc>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="heaney1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="heaney1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>2000</date>
-        <respStmt>
-          <name>Katherine Ellison</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-         <change><date>December 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="heaney1_10444">
-    <front id="heaney1_103"/>
-    <group id="heaney1_10443">
-      <group id="heaney1_1041">
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2000</date><label>Staff</label><name>Katherine Ellison</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change xmlns="http://www.tei-c.org/ns/1.0"><date>December 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="heaney1_10444">
+    <front xml:id="heaney1_103"/>
+    <group xml:id="heaney1_10443">
+      <group xml:id="heaney1_1041">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="heaney1_104">Workshop Poems</p>
+          <p xml:id="heaney1_104">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Boy Driving His Father to Confession</item>
@@ -82,15 +56,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_109">
-          <front id="heaney1_106">
-            <titlePage id="heaney1_105">
+        <text xml:id="heaney1_109">
+          <front xml:id="heaney1_106">
+            <titlePage xml:id="heaney1_105">
               <docTitle>
                 <titlePart type="main">BOY DRIVING HIS FATHER TO CONFESSION</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_107">
+          <body xml:id="heaney1_107">
             <lg type="stanza">
               <l n="1"> Four times now I have seen you as another </l>
               <l> Man, a grown-up friend, less than a father; </l>
@@ -126,21 +100,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Who gropes as awkwardly to know his father. </l>
             </lg>
           </body>
-          <back id="heaney1_108">
+          <back xml:id="heaney1_108">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1015">
-          <front id="heaney1_1011">
-            <titlePage id="heaney1_1010">
+        </text><text xml:id="heaney1_1015">
+          <front xml:id="heaney1_1011">
+            <titlePage xml:id="heaney1_1010">
               <docTitle>
                 <titlePart type="main">TO A WINE JAR</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1013">
+          <body xml:id="heaney1_1013">
             <lg type="stanza">
               <epigraph>
-                <p id="heaney1_1012">(Translated from Horace, Odes III, xxi.)</p>
+                <p xml:id="heaney1_1012">(Translated from Horace, Odes III, xxi.)</p>
               </epigraph>
               <l n="1">When Manlius was consul you were filled,</l>
               <l>Venerable pitcher, and I was born. </l>
@@ -178,18 +152,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Till Pheobus, returning, routs the morning star.</l>
             </lg>
           </body>
-          <back id="heaney1_1014">
+          <back xml:id="heaney1_1014">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1020">
-          <front id="heaney1_1017">
-            <titlePage id="heaney1_1016">
+        </text><text xml:id="heaney1_1020">
+          <front xml:id="heaney1_1017">
+            <titlePage xml:id="heaney1_1016">
               <docTitle>
                 <titlePart type="main">ON HOGARTH'S ENGRAVING "PIT TICKET FOR THE ROYAL SPORT".</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1018">
+          <body xml:id="heaney1_1018">
             <lg type="stanza">
               <l n="1">A shadow lurches on the sandy ring,</l>
               <l>The crowd elbows and grunts. Coarse bodies sweat</l>
@@ -223,18 +197,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Easing the daily pain with daily blood. </l>
             </lg>
           </body>
-          <back id="heaney1_1019">
+          <back xml:id="heaney1_1019">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1025">
-          <front id="heaney1_1022">
-            <titlePage id="heaney1_1021">
+        </text><text xml:id="heaney1_1025">
+          <front xml:id="heaney1_1022">
+            <titlePage xml:id="heaney1_1021">
               <docTitle>
                 <titlePart type="main">SYNGE ON THE ARAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1023">
+          <body xml:id="heaney1_1023">
             <lg type="stanza">
               <l n="1">Salt off the sea whets</l>
               <l>the blades of four winds.</l>
@@ -255,18 +229,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>and dipped in the keening sea. </l>
             </lg>
           </body>
-          <back id="heaney1_1024">
+          <back xml:id="heaney1_1024">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1030">
-          <front id="heaney1_1027">
-            <titlePage id="heaney1_1026">
+        </text><text xml:id="heaney1_1030">
+          <front xml:id="heaney1_1027">
+            <titlePage xml:id="heaney1_1026">
               <docTitle>
                 <titlePart type="main">BLACKBERRY-PICKING</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1028">
+          <body xml:id="heaney1_1028">
             <lg type="stanza">
               <l n="1">Late August, given heavy rain and sun</l>
               <l>For a full week, the blackberries would ripen</l>
@@ -298,18 +272,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Each year I hoped they'd keep, knew they would not. </l>
             </lg>
           </body>
-          <back id="heaney1_1029">
+          <back xml:id="heaney1_1029">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1035">
-          <front id="heaney1_1032">
-            <titlePage id="heaney1_1031">
+        </text><text xml:id="heaney1_1035">
+          <front xml:id="heaney1_1032">
+            <titlePage xml:id="heaney1_1031">
               <docTitle>
                 <titlePart type="main">SAINT FRANCIS AND THE BIRDS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1033">
+          <body xml:id="heaney1_1033">
             <lg type="stanza">
               <l n="1">When Francis preached love to the birds</l>
               <l>They listened, fluttered, throttled up</l>
@@ -329,18 +303,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>His argument true, his tone light. </l>
             </lg>
           </body>
-          <back id="heaney1_1034">
+          <back xml:id="heaney1_1034">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1040">
-          <front id="heaney1_1037">
-            <titlePage id="heaney1_1036">
+        </text><text xml:id="heaney1_1040">
+          <front xml:id="heaney1_1037">
+            <titlePage xml:id="heaney1_1036">
               <docTitle>
                 <titlePart type="main">AT A POTATO DIGGING</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1038">
+          <body xml:id="heaney1_1038">
             <lg type="stanza">
               <head>I</head>
               <l n="1">A mechanical digger wrecks the drill,</l>
@@ -429,16 +403,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Libations of cold tea, scatter crusts.</l>
             </lg>
           </body>
-          <back id="heaney1_1039">
+          <back xml:id="heaney1_1039">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_1078">
+      <group xml:id="heaney1_1078">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="heaney1_1042">Workshop Poems</p>
+          <p xml:id="heaney1_1042">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Digging</item>
@@ -451,15 +425,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_1047">
-          <front id="heaney1_1044">
-            <titlePage id="heaney1_1043">
+        <text xml:id="heaney1_1047">
+          <front xml:id="heaney1_1044">
+            <titlePage xml:id="heaney1_1043">
               <docTitle>
                 <titlePart type="main">DIGGING</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1045">
+          <body xml:id="heaney1_1045">
             <lg type="stanza">
               <l n="1">Between my finger and my thumb</l>
               <l>The squat pen rests;  snug as a gun.</l>
@@ -508,18 +482,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>I'll dig with it.</l>
             </lg>
           </body>
-          <back id="heaney1_1046">
+          <back xml:id="heaney1_1046">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1052">
-          <front id="heaney1_1049">
-            <titlePage id="heaney1_1048">
+        </text><text xml:id="heaney1_1052">
+          <front xml:id="heaney1_1049">
+            <titlePage xml:id="heaney1_1048">
               <docTitle>
                 <titlePart type="main">DEATH OF A NATURALIST</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1050">
+          <body xml:id="heaney1_1050">
             <lg type="stanza">
               <l n="1">All year the flax-dam festered in the heart</l>
               <l>Of the townland;  green and heavy-headed</l>
@@ -558,18 +532,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>That if I dipped my hand the spawn would clutch it.</l>
             </lg>
           </body>
-          <back id="heaney1_1051">
+          <back xml:id="heaney1_1051">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1057">
-          <front id="heaney1_1054">
-            <titlePage id="heaney1_1053">
+        </text><text xml:id="heaney1_1057">
+          <front xml:id="heaney1_1054">
+            <titlePage xml:id="heaney1_1053">
               <docTitle>
                 <titlePart type="main">STORM ON THE ISLAND</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1055">
+          <body xml:id="heaney1_1055">
             <lg type="stanza">
               <l n="1">We are prepared:  we build our houses squat,</l>
               <l>Sink walls in rock and roof them with good slate. </l>
@@ -592,18 +566,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Strange, it is a huge nothing that we fear. </l>
             </lg>
           </body>
-          <back id="heaney1_1056">
+          <back xml:id="heaney1_1056">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1062">
-          <front id="heaney1_1059">
-            <titlePage id="heaney1_1058">
+        </text><text xml:id="heaney1_1062">
+          <front xml:id="heaney1_1059">
+            <titlePage xml:id="heaney1_1058">
               <docTitle>
                 <titlePart type="main">SOLILOQUY FOR AN OLD RESIDENT</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1060">
+          <body xml:id="heaney1_1060">
             <lg type="stanza">
               <l n="1">The place has gone down badly.  Not like then.</l>
             </lg>
@@ -667,18 +641,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>These new proprietors are much to blame.</l>
             </lg>
           </body>
-          <back id="heaney1_1061">
+          <back xml:id="heaney1_1061">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1067">
-          <front id="heaney1_1064">
-            <titlePage id="heaney1_1063">
+        </text><text xml:id="heaney1_1067">
+          <front xml:id="heaney1_1064">
+            <titlePage xml:id="heaney1_1063">
               <docTitle>
                 <titlePart type="main">WRITER AND TEACHER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1065">
+          <body xml:id="heaney1_1065">
             <lg type="stanza">
               <l n="1">A humble master of two trades</l>
               <l>Who keeps to his own room, evades</l>
@@ -704,18 +678,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>But the pupils are his masterpiece. </l>
             </lg>
           </body>
-          <back id="heaney1_1066">
+          <back xml:id="heaney1_1066">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1072">
-          <front id="heaney1_1069">
-            <titlePage id="heaney1_1068">
+        </text><text xml:id="heaney1_1072">
+          <front xml:id="heaney1_1069">
+            <titlePage xml:id="heaney1_1068">
               <docTitle>
                 <titlePart type="main">YOUNG BACHELOR</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1070">
+          <body xml:id="heaney1_1070">
             <lg type="stanza">
               <l n="1">From the mantel piece my lecture programme stares, </l>
               <l>Five days all neatly chopped up into squares. </l>
@@ -741,18 +715,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>I need the stricter discipline of love.</l>
             </lg>
           </body>
-          <back id="heaney1_1071">
+          <back xml:id="heaney1_1071">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1077">
-          <front id="heaney1_1074">
-            <titlePage id="heaney1_1073">
+        </text><text xml:id="heaney1_1077">
+          <front xml:id="heaney1_1074">
+            <titlePage xml:id="heaney1_1073">
               <docTitle>
                 <titlePart type="main">SCAFFOLDING</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1075">
+          <body xml:id="heaney1_1075">
             <lg type="stanza">
               <l n="1">Masons, when they start upon a building, </l>
               <l>Are careful to test out the scaffolding; </l>
@@ -774,16 +748,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Confident that we have built our wall.</l>
             </lg>
           </body>
-          <back id="heaney1_1076">
+          <back xml:id="heaney1_1076">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10116">
+      <group xml:id="heaney1_10116">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="heaney1_1079">Workshop Poems</p>
+          <p xml:id="heaney1_1079">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>The Diviner</item>
@@ -796,15 +770,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_1084">
-          <front id="heaney1_1081">
-            <titlePage id="heaney1_1080">
+        <text xml:id="heaney1_1084">
+          <front xml:id="heaney1_1081">
+            <titlePage xml:id="heaney1_1080">
               <docTitle>
                 <titlePart type="main">THE DIVINER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1082">
+          <body xml:id="heaney1_1082">
             <lg type="stanza">
               <l n="1">Cut from the green hedge a forked hazel stick</l>
               <l>That he held tight by the arms of the V: </l>
@@ -824,18 +798,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>He gripped the expectant wrists.  The hazel stirred. </l>
             </lg>
           </body>
-          <back id="heaney1_1083">
+          <back xml:id="heaney1_1083">
             <byline>SEAMUS HEANEY</byline>
           </back>
-        </text><text id="heaney1_1089">
-          <front id="heaney1_1086">
-            <titlePage id="heaney1_1085">
+        </text><text xml:id="heaney1_1089">
+          <front xml:id="heaney1_1086">
+            <titlePage xml:id="heaney1_1085">
               <docTitle>
                 <titlePart type="main">GRAVITIES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1087">
+          <body xml:id="heaney1_1087">
             <lg type="stanza">
               <l n="1">High-riding kites appear to range quite freely</l>
               <l>Though reined by strings, strict and invisible. </l>
@@ -855,18 +829,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>by wearing Irish mould next to his feet. </l>
             </lg>
           </body>
-          <back id="heaney1_1088">
+          <back xml:id="heaney1_1088">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1094">
-          <front id="heaney1_1091">
-            <titlePage id="heaney1_1090">
+        </text><text xml:id="heaney1_1094">
+          <front xml:id="heaney1_1091">
+            <titlePage xml:id="heaney1_1090">
               <docTitle>
                 <titlePart type="main">ANCESTRAL PHOTOGRAPH</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1092">
+          <body xml:id="heaney1_1092">
             <lg type="stanza">
               <l n="1">Jaws puff round and solid as a turnip,</l>
               <l>Dead eyes are statue's and the upper lip</l>
@@ -908,20 +882,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Take your uncle's portrait to the attic. </l>
             </lg>
           </body>
-          <back id="heaney1_1093">
+          <back xml:id="heaney1_1093">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_1099">
-          <front id="heaney1_1096">
-            <titlePage id="heaney1_1095">
+        </text><text xml:id="heaney1_1099">
+          <front xml:id="heaney1_1096">
+            <titlePage xml:id="heaney1_1095">
               <docTitle>
                 <titlePart type="main">FOR THE COMMANDER OF "THE ELIZA"</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_1097">
+          <body xml:id="heaney1_1097">
             <epigraph>
-              <q direct="unspecified">. . . . the others, with emaciated faces and prominent, staring eyeballs, were evidently in an advanced state of starvation. The officer in charge reported the incident to Sir James Dombrain, the Inspector General . . . . . and Sir James "very inconveniently," wrote Routh, "interfered."</q>
+              <q>. . . . the others, with emaciated faces and prominent, staring eyeballs, were evidently in an advanced state of starvation. The officer in charge reported the incident to Sir James Dombrain, the Inspector General . . . . . and Sir James "very inconveniently," wrote Routh, "interfered."</q>
               <bibl>Cecil Woodham-Smith: The Great Hunger.</bibl>
             </epigraph>
             <lg type="stanza">
@@ -962,20 +936,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Are too lavish" were the words, I think. </l>
             </lg>
           </body>
-          <back id="heaney1_1098">
+          <back xml:id="heaney1_1098">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10105">
-          <front id="heaney1_10101">
-            <titlePage id="heaney1_10100">
+        </text><text xml:id="heaney1_10105">
+          <front xml:id="heaney1_10101">
+            <titlePage xml:id="heaney1_10100">
               <docTitle>
                 <titlePart type="main">PERSONAL HELICON</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10103">
+          <body xml:id="heaney1_10103">
             <epigraph>
-              <p id="heaney1_10102">(For Michael Longley)</p>
+              <p xml:id="heaney1_10102">(For Michael Longley)</p>
             </epigraph>
             <lg type="stanza">
               <l n="1">As a child, they could not keep me from wells</l>
@@ -1008,18 +982,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>To see myself, to set the darkness echoing.</l>
             </lg>
           </body>
-          <back id="heaney1_10104">
+          <back xml:id="heaney1_10104">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10110">
-          <front id="heaney1_10107">
-            <titlePage id="heaney1_10106">
+        </text><text xml:id="heaney1_10110">
+          <front xml:id="heaney1_10107">
+            <titlePage xml:id="heaney1_10106">
               <docTitle>
                 <titlePart type="main">GIRLS BATHING, GALWAY 1965</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10108">
+          <body xml:id="heaney1_10108">
             <lg type="stanza">
               <l n="1">The swell foams where they float and crawl,</l>
               <l>A catherine-wheel of arm and hand. </l>
@@ -1051,18 +1025,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>So Venus comes, matter-of-fact. </l>
             </lg>
           </body>
-          <back id="heaney1_10109">
+          <back xml:id="heaney1_10109">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10115">
-          <front id="heaney1_10112">
-            <titlePage id="heaney1_10111">
+        </text><text xml:id="heaney1_10115">
+          <front xml:id="heaney1_10112">
+            <titlePage xml:id="heaney1_10111">
               <docTitle>
                 <titlePart type="main">THE SALMON FISHER TO THE SALMON</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10113">
+          <body xml:id="heaney1_10113">
             <lg type="stanza">
               <l n="1" rend="indent3">The ridged lip set upstream, you flail</l>
               <l>Inland again;  your exile in the sea</l>
@@ -1094,16 +1068,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent3">I will turn home fish-smelling, scaly. </l>
             </lg>
           </body>
-          <back id="heaney1_10114">
+          <back xml:id="heaney1_10114">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10163">
+      <group xml:id="heaney1_10163">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="heaney1_10117">Workshop Poems</p>
+          <p xml:id="heaney1_10117">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Elegy for an Unborn Child</item>
@@ -1117,15 +1091,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_10122">
-          <front id="heaney1_10119">
-            <titlePage id="heaney1_10118">
+        <text xml:id="heaney1_10122">
+          <front xml:id="heaney1_10119">
+            <titlePage xml:id="heaney1_10118">
               <docTitle>
                 <titlePart type="main">ELEGY FOR AN UNBORN CHILD</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10120">
+          <body xml:id="heaney1_10120">
             <lg type="stanza">
               <head>I</head>
               <l n="1">Your mother walks light as an empty creel</l>
@@ -1170,20 +1144,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>White waves riding home on a wintry lough. </l>
             </lg>
           </body>
-          <back id="heaney1_10121">
+          <back xml:id="heaney1_10121">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10127">
-          <front id="heaney1_10124">
-            <titlePage id="heaney1_10123">
+        </text><text xml:id="heaney1_10127">
+          <front xml:id="heaney1_10124">
+            <titlePage xml:id="heaney1_10123">
               <docTitle>
                 <titlePart type="main">TRIPTYCH FOR THE EASTER BATTLERS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10125">
+          <body xml:id="heaney1_10125">
             <epigraph>
-              <q direct="unspecified">(Cock-fights, or 'battles', are still held in parts of the country on Easter Monday, despite severe legislation to the contrary.")</q>
+              <q>(Cock-fights, or 'battles', are still held in parts of the country on Easter Monday, despite severe legislation to the contrary.")</q>
             </epigraph>
             <lg type="stanza">
               <head>I</head>
@@ -1249,18 +1223,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>And airborne cocks, buoyant on their own blood. </l>
             </lg>
           </body>
-          <back id="heaney1_10126">
+          <back xml:id="heaney1_10126">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10132">
-          <front id="heaney1_10129">
-            <titlePage id="heaney1_10128">
+        </text><text xml:id="heaney1_10132">
+          <front xml:id="heaney1_10129">
+            <titlePage xml:id="heaney1_10128">
               <docTitle>
                 <titlePart type="main">HOMAGE TO PIETER BRUEGHEL</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10130">
+          <body xml:id="heaney1_10130">
             <lg type="stanza">
               <l n="1">Those six blind beggars still grope to a fall</l>
               <l>And strain themselves grotesquely towards hurt -</l>
@@ -1291,18 +1265,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Spread out, unbuttoned, grateful, under trees. </l>
             </lg>
           </body>
-          <back id="heaney1_10131">
+          <back xml:id="heaney1_10131">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10137">
-          <front id="heaney1_10134">
-            <titlePage id="heaney1_10133">
+        </text><text xml:id="heaney1_10137">
+          <front xml:id="heaney1_10134">
+            <titlePage xml:id="heaney1_10133">
               <docTitle>
                 <titlePart type="main">PERSEPHONE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10135">
+          <body xml:id="heaney1_10135">
             <lg type="stanza">
               <l n="1">So winter closed its fist</l>
               <l>And got it stuck in the pump. </l>
@@ -1324,18 +1298,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Her entrance was wet, but she came.</l>
             </lg>
           </body>
-          <back id="heaney1_10136">
+          <back xml:id="heaney1_10136">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10142">
-          <front id="heaney1_10139">
-            <titlePage id="heaney1_10138">
+        </text><text xml:id="heaney1_10142">
+          <front xml:id="heaney1_10139">
+            <titlePage xml:id="heaney1_10138">
               <docTitle>
                 <titlePart type="main">ROOKERY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10140">
+          <body xml:id="heaney1_10140">
             <lg type="stanza">
               <l n="1">Here they come, freckling the sunset, </l>
               <l>The slow big sailers bearing down</l>
@@ -1349,20 +1323,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Else to do now only settle. </l>
             </lg>
           </body>
-          <back id="heaney1_10141">
+          <back xml:id="heaney1_10141">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10148">
-          <front id="heaney1_10144">
-            <titlePage id="heaney1_10143">
+        </text><text xml:id="heaney1_10148">
+          <front xml:id="heaney1_10144">
+            <titlePage xml:id="heaney1_10143">
               <docTitle>
                 <titlePart type="main"> REQUIEM FOR THE IRISH REBELS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10146">
+          <body xml:id="heaney1_10146">
             <epigraph>
-              <p id="heaney1_10145">(Wexford, 1798)</p>
+              <p xml:id="heaney1_10145">(Wexford, 1798)</p>
             </epigraph>
             <lg type="stanza">
               <l n="1">The pockets of our great-coats full of barley</l>
@@ -1381,13 +1355,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>And in August barley grew up out of the grave. </l>
             </lg>
           </body>
-          <back id="heaney1_10147">
+          <back xml:id="heaney1_10147">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10152">
-          <front id="heaney1_10149"/>
-          <body id="heaney1_10151">
-            <p id="heaney1_10150">
+        </text><text xml:id="heaney1_10152">
+          <front xml:id="heaney1_10149"/>
+          <body xml:id="heaney1_10151">
+            <p xml:id="heaney1_10150">
               <unclear reason="illegible"/>
             </p>
             <lg type="stanza">
@@ -1405,15 +1379,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               </l>
             </lg>
           </body>
-        </text><text id="heaney1_10157">
-          <front id="heaney1_10154">
-            <titlePage id="heaney1_10153">
+        </text><text xml:id="heaney1_10157">
+          <front xml:id="heaney1_10154">
+            <titlePage xml:id="heaney1_10153">
               <docTitle>
                 <titlePart type="main">THE PENINSULA</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10155">
+          <body xml:id="heaney1_10155">
             <lg type="stanza">
               <l n="1">When you have nothing more to say, just drive</l>
               <l>For a day all round the peninsula; </l>
@@ -1439,18 +1413,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Water and ground in their extremity. </l>
             </lg>
           </body>
-          <back id="heaney1_10156">
+          <back xml:id="heaney1_10156">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10162">
-          <front id="heaney1_10159">
-            <titlePage id="heaney1_10158">
+        </text><text xml:id="heaney1_10162">
+          <front xml:id="heaney1_10159">
+            <titlePage xml:id="heaney1_10158">
               <docTitle>
                 <titlePart type="main">ORANGE DRUMS, TYRONE 1966</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10160">
+          <body xml:id="heaney1_10160">
             <lg type="stanza">
               <l n="1">The lambeg balloons at this belly, weighs</l>
               <l>His back on his haunches, lodging thunder</l>
@@ -1470,16 +1444,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>The air is pounding like a stethoscope. </l>
             </lg>
           </body>
-          <back id="heaney1_10161">
+          <back xml:id="heaney1_10161">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10199">
+      <group xml:id="heaney1_10199">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="heaney1_10164">Workshop Poems</p>
+          <p xml:id="heaney1_10164">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Oh Brave New Bull . . .</item>
@@ -1492,15 +1466,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_10169">
-          <front id="heaney1_10166">
-            <titlePage id="heaney1_10165">
+        <text xml:id="heaney1_10169">
+          <front xml:id="heaney1_10166">
+            <titlePage xml:id="heaney1_10165">
               <docTitle>
                 <titlePart type="main">OH BRAVE NEW BULL . . .</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10167">
+          <body xml:id="heaney1_10167">
             <lg type="stanza">
               <l n="1">Kellys kept an unlicensed bull, well away</l>
               <l>From the road: one risked a fine, but had to pay</l>
@@ -1554,18 +1528,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>He chose the labelled seed for his glass pump. </l>
             </lg>
           </body>
-          <back id="heaney1_10168">
+          <back xml:id="heaney1_10168">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10174">
-          <front id="heaney1_10171">
-            <titlePage id="heaney1_10170">
+        </text><text xml:id="heaney1_10174">
+          <front xml:id="heaney1_10171">
+            <titlePage xml:id="heaney1_10170">
               <docTitle>
                 <titlePart type="main">MID-TERM BREAK</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10172">
+          <body xml:id="heaney1_10172">
             <lg type="stanza">
               <l n="1">I sat all morning in the college sick bay</l>
               <l>Counting bells knelling classes to a close. </l>
@@ -1605,18 +1579,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>A four foot box, a foot for every year. </l>
             </lg>
           </body>
-          <back id="heaney1_10173">
+          <back xml:id="heaney1_10173">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10178">
-          <front id="heaney1_10176">
-            <titlePage id="heaney1_10175">
+        </text><text xml:id="heaney1_10178">
+          <front xml:id="heaney1_10176">
+            <titlePage xml:id="heaney1_10175">
               <docTitle>
                 <titlePart type="main">A PILLAR OF THE COMMUNITY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10177">
+          <body xml:id="heaney1_10177">
             <lg type="stanza">
               <l n="1">MacKenna, his dungarees </l>
               <l>Stiff and stinking of sour pigmeal, </l>
@@ -1648,15 +1622,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>His back, his soul, with honest toil. </l>
             </lg>
           </body>
-        </text><text id="heaney1_10183">
-          <front id="heaney1_10180">
-            <titlePage id="heaney1_10179">
+        </text><text xml:id="heaney1_10183">
+          <front xml:id="heaney1_10180">
+            <titlePage xml:id="heaney1_10179">
               <docTitle>
                 <titlePart type="main">MACKENNA'S SATURDAY NIGHT</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10181">
+          <body xml:id="heaney1_10181">
             <lg type="stanza">
               <l n="1">Mouth loose like an open waistband</l>
               <l>On a porter belly, to-night</l>
@@ -1674,18 +1648,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Reels home as a good husband should. </l>
             </lg>
           </body>
-          <back id="heaney1_10182">
+          <back xml:id="heaney1_10182">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10188">
-          <front id="heaney1_10185">
-            <titlePage id="heaney1_10184">
+        </text><text xml:id="heaney1_10188">
+          <front xml:id="heaney1_10185">
+            <titlePage xml:id="heaney1_10184">
               <docTitle>
                 <titlePart type="main">TURKEYS OBSERVED</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10186">
+          <body xml:id="heaney1_10186">
             <lg type="stanza">
               <l n="1">One observes them, one expects them, </l>
               <l>Blue breasted in their indifferent mortuary, </l>
@@ -1717,18 +1691,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Of plumage and perpindicularity. </l>
             </lg>
           </body>
-          <back id="heaney1_10187">
+          <back xml:id="heaney1_10187">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10193">
-          <front id="heaney1_10190">
-            <titlePage id="heaney1_10189">
+        </text><text xml:id="heaney1_10193">
+          <front xml:id="heaney1_10190">
+            <titlePage xml:id="heaney1_10189">
               <docTitle>
                 <titlePart type="main">THE INDOMITABLE IRISHRY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10191">
+          <body xml:id="heaney1_10191">
             <lg type="stanza">
               <l n="1">Slept (with a boast) on the parquet floor beneath</l>
               <l>A liquor-lurched couch at a Hampstead Heath</l>
@@ -1740,18 +1714,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Played to full houses, came out in paperbacks. </l>
             </lg>
           </body>
-          <back id="heaney1_10192">
+          <back xml:id="heaney1_10192">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10198">
-          <front id="heaney1_10195">
-            <titlePage id="heaney1_10194">
+        </text><text xml:id="heaney1_10198">
+          <front xml:id="heaney1_10195">
+            <titlePage xml:id="heaney1_10194">
               <docTitle>
                 <titlePart type="main">OBITUARY </titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10196">
+          <body xml:id="heaney1_10196">
             <lg type="stanza">
               <l n="1">Henry MacWilliams, childless widower</l>
               <l>Of seventy three, lingered and died lonely</l>
@@ -1786,16 +1760,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>To a grassy grave that boasts no headstone.</l>
             </lg>
           </body>
-          <back id="heaney1_10197">
+          <back xml:id="heaney1_10197">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10236">
+      <group xml:id="heaney1_10236">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
-          <p id="heaney1_10200">Workshop Poems</p>
+          <p xml:id="heaney1_10200">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Taking Stock: 5/4/'64</item>
@@ -1808,15 +1782,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_10205">
-          <front id="heaney1_10202">
-            <titlePage id="heaney1_10201">
+        <text xml:id="heaney1_10205">
+          <front xml:id="heaney1_10202">
+            <titlePage xml:id="heaney1_10201">
               <docTitle>
                 <titlePart type="main">TAKING STOCK: 5/4/'64</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10203">
+          <body xml:id="heaney1_10203">
             <lg type="stanza">
               <l n="1">A year has gone, twelve salaries have been spent</l>
               <l>And not a penny saved; each month pounds went</l>
@@ -1840,18 +1814,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>And time's blade sinks in surely to the hilt. </l>
             </lg>
           </body>
-          <back id="heaney1_10204">
+          <back xml:id="heaney1_10204">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10210">
-          <front id="heaney1_10207">
-            <titlePage id="heaney1_10206">
+        </text><text xml:id="heaney1_10210">
+          <front xml:id="heaney1_10207">
+            <titlePage xml:id="heaney1_10206">
               <docTitle>
                 <titlePart type="main">TWICE SHY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10208">
+          <body xml:id="heaney1_10208">
             <lg type="stanza">
               <l n="1">Her scarf a la Bardot,</l>
               <l>In suede flats for the walk, </l>
@@ -1893,18 +1867,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Along the embankment walk. </l>
             </lg>
           </body>
-          <back id="heaney1_10209">
+          <back xml:id="heaney1_10209">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10215">
-          <front id="heaney1_10212">
-            <titlePage id="heaney1_10211">
+        </text><text xml:id="heaney1_10215">
+          <front xml:id="heaney1_10212">
+            <titlePage xml:id="heaney1_10211">
               <docTitle>
                 <titlePart type="main">THE EARLY PURGES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10213">
+          <body xml:id="heaney1_10213">
             <lg type="stanza">
               <l n="1">I was six when I first saw kittens drown.</l>
               <l>Dan Taggart pitched them, 'the scraggy wee shits,' </l>
@@ -1941,18 +1915,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>But on well-run farms pests have to be kept down. </l>
             </lg>
           </body>
-          <back id="heaney1_10214">
+          <back xml:id="heaney1_10214">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10220">
-          <front id="heaney1_10217">
-            <titlePage id="heaney1_10216">
+        </text><text xml:id="heaney1_10220">
+          <front xml:id="heaney1_10217">
+            <titlePage xml:id="heaney1_10216">
               <docTitle>
                 <titlePart type="main">IN GLENELLY VALLEY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10218">
+          <body xml:id="heaney1_10218">
             <epigraph>
               <l>
                 <del type="overstrike">And I was taught to feel, perhaps too much,</del>
@@ -2022,18 +1996,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>They all waved happily as I drove for town. </l>
             </lg>
           </body>
-          <back id="heaney1_10219">
+          <back xml:id="heaney1_10219">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10225">
-          <front id="heaney1_10222">
-            <titlePage id="heaney1_10221">
+        </text><text xml:id="heaney1_10225">
+          <front xml:id="heaney1_10222">
+            <titlePage xml:id="heaney1_10221">
               <docTitle>
                 <titlePart type="main">EX-CHAMP</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10223">
+          <body xml:id="heaney1_10223">
             <lg type="stanza">
               <l n="1">At first there were short bouts</l>
               <l> With people and old poems</l>
@@ -2075,18 +2049,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>The ex-champ was a thug. </l>
             </lg>
           </body>
-          <back id="heaney1_10224">
+          <back xml:id="heaney1_10224">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10230">
-          <front id="heaney1_10227">
-            <titlePage id="heaney1_10226">
+        </text><text xml:id="heaney1_10230">
+          <front xml:id="heaney1_10227">
+            <titlePage xml:id="heaney1_10226">
               <docTitle>
                 <titlePart type="main">THE EVANGELIST</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10228">
+          <body xml:id="heaney1_10228">
             <lg type="stanza">
               <l n="1">Sucking his tooth, savouring salvation</l>
               <l>As a lozenge, he sentries picture queues, </l>
@@ -2112,18 +2086,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Poor fear-drunk driftwood from a tide of booze.</l>
             </lg>
           </body>
-          <back id="heaney1_10229">
+          <back xml:id="heaney1_10229">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10235">
-          <front id="heaney1_10232">
-            <titlePage id="heaney1_10231">
+        </text><text xml:id="heaney1_10235">
+          <front xml:id="heaney1_10232">
+            <titlePage xml:id="heaney1_10231">
               <docTitle>
                 <titlePart type="main">MEN'S CONFESSIONS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10233">
+          <body xml:id="heaney1_10233">
             <lg type="stanza">
               <l n="1">Bat-winged dusk; in the chill nave</l>
               <l>Subdued and tight-lipped farmers sit</l>
@@ -2149,16 +2123,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>And noses out grace like an old fox.</l>
             </lg>
           </body>
-          <back id="heaney1_10234">
+          <back xml:id="heaney1_10234">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10269">
+      <group xml:id="heaney1_10269">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="heaney1_10237">Workshop Poems</p>
+          <p xml:id="heaney1_10237">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>At Ardboe Point</item>
@@ -2170,15 +2144,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_10242">
-          <front id="heaney1_10239">
-            <titlePage id="heaney1_10238">
+        <text xml:id="heaney1_10242">
+          <front xml:id="heaney1_10239">
+            <titlePage xml:id="heaney1_10238">
               <docTitle>
                 <titlePart type="main">AT ARDBOE POINT</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10240">
+          <body xml:id="heaney1_10240">
             <lg type="stanza">
               <l n="1">Right along the lough shore</l>
               <l>A smoke of flies</l>
@@ -2235,18 +2209,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>As the last veil on a dancer.</l>
             </lg>
           </body>
-          <back id="heaney1_10241">
+          <back xml:id="heaney1_10241">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10247">
-          <front id="heaney1_10244">
-            <titlePage id="heaney1_10243">
+        </text><text xml:id="heaney1_10247">
+          <front xml:id="heaney1_10244">
+            <titlePage xml:id="heaney1_10243">
               <docTitle>
                 <titlePart type="main">GOOD-NIGHT</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10245">
+          <body xml:id="heaney1_10245">
             <lg type="stanza">
               <l n="1">A latch lifting, an edged cave of light</l>
               <l>Opens across the yard.  Out of the low door</l>
@@ -2260,18 +2234,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>And cancels everything behind her. </l>
             </lg>
           </body>
-          <back id="heaney1_10246">
+          <back xml:id="heaney1_10246">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10252">
-          <front id="heaney1_10249">
-            <titlePage id="heaney1_10248">
+        </text><text xml:id="heaney1_10252">
+          <front xml:id="heaney1_10249">
+            <titlePage xml:id="heaney1_10248">
               <docTitle>
                 <titlePart type="main">THE CROWING MAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10250">
+          <body xml:id="heaney1_10250">
             <lg type="stanza">
               <l n="1">A tramp whom parents made crow</l>
               <l>Like a cock for his victuals. </l>
@@ -2287,21 +2261,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Revenge.  Go on then.  Bellow.</l>
             </lg>
           </body>
-          <back id="heaney1_10251">
+          <back xml:id="heaney1_10251">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10258">
-          <front id="heaney1_10254">
-            <titlePage id="heaney1_10253">
+        </text><text xml:id="heaney1_10258">
+          <front xml:id="heaney1_10254">
+            <titlePage xml:id="heaney1_10253">
               <docTitle>
                 <titlePart type="main">SHORE WOMAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10256">
+          <body xml:id="heaney1_10256">
             <lg type="stanza">
               <epigraph>
-                <p id="heaney1_10255">Man to the hills, woman to the shore. (Gaelic proverb)</p>
+                <p xml:id="heaney1_10255">Man to the hills, woman to the shore. (Gaelic proverb)</p>
               </epigraph>
               <l n="1">I have crossed the dunes with their whistling bent</l>
               <l>Where dry loose sand was riddling round the air</l>
@@ -2360,18 +2334,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>A membrane between moonlight and my shadow.</l>
             </lg>
           </body>
-          <back id="heaney1_10257">
+          <back xml:id="heaney1_10257">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10263">
-          <front id="heaney1_10260">
-            <titlePage id="heaney1_10259">
+        </text><text xml:id="heaney1_10263">
+          <front xml:id="heaney1_10260">
+            <titlePage xml:id="heaney1_10259">
               <docTitle>
                 <titlePart type="main">YANK</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10261">
+          <body xml:id="heaney1_10261">
             <lg type="stanza">
               <l n="1">Kennedy thought he'd test him from the start</l>
               <l>And never slackened but the old arm shot out</l>
@@ -2422,18 +2396,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>In Kennedy's unwatching oarsman's eye.</l>
             </lg>
           </body>
-          <back id="heaney1_10262">
+          <back xml:id="heaney1_10262">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10268">
-          <front id="heaney1_10265">
-            <titlePage id="heaney1_10264">
+        </text><text xml:id="heaney1_10268">
+          <front xml:id="heaney1_10265">
+            <titlePage xml:id="heaney1_10264">
               <docTitle>
                 <titlePart type="main">A WINTER'S TALE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10266">
+          <body xml:id="heaney1_10266">
             <lg type="stanza">
               <l n="1">A pallor in the headlights'</l>
               <l>Range wavered and disappeared. </l>
@@ -2483,16 +2457,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Sleep.  Smiled.  Uncradled her breasts.</l>
             </lg>
           </body>
-          <back id="heaney1_10267">
+          <back xml:id="heaney1_10267">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10365">
+      <group xml:id="heaney1_10365">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="heaney1_10270">Workshop Poems by Seamus Heaney</p>
+          <p xml:id="heaney1_10270">Workshop Poems by Seamus Heaney</p>
           <list type="simple">
             <head/>
             <item>Death of a Naturalist</item>
@@ -2503,7 +2477,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Antaeus</item>
           </list>
         </argument><argument>
-          <p id="heaney1_10271">Workshop Poems by Brendan Kennelly</p>
+          <p xml:id="heaney1_10271">Workshop Poems by Brendan Kennelly</p>
           <list type="simple">
             <head/>
             <item>The After-Child</item>
@@ -2514,7 +2488,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Dummies</item>
           </list>
         </argument><argument>
-          <p id="heaney1_10272">Workshop Poems by Michael Longley</p>
+          <p xml:id="heaney1_10272">Workshop Poems by Michael Longley</p>
           <list type="simple">
             <head/>
             <item>The Osprey</item>
@@ -2525,15 +2499,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_10277">
-          <front id="heaney1_10274">
-            <titlePage id="heaney1_10273">
+        <text xml:id="heaney1_10277">
+          <front xml:id="heaney1_10274">
+            <titlePage xml:id="heaney1_10273">
               <docTitle>
                 <titlePart type="main">DEATH OF A NATURALIST</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10275">
+          <body xml:id="heaney1_10275">
             <lg type="stanza">
               <l n="1">All year the flax-dam festered in the heart</l>
               <l>Of the townland; green and heavy headed</l>
@@ -2572,18 +2546,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>That if I dipped my hand the spawn would clutch it. </l>
             </lg>
           </body>
-          <back id="heaney1_10276">
+          <back xml:id="heaney1_10276">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10282">
-          <front id="heaney1_10279">
-            <titlePage id="heaney1_10278">
+        </text><text xml:id="heaney1_10282">
+          <front xml:id="heaney1_10279">
+            <titlePage xml:id="heaney1_10278">
               <docTitle>
                 <titlePart type="main">LOVERS ON ARAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10280">
+          <body xml:id="heaney1_10280">
             <lg type="stanza">
               <l n="1">The timeless waves, bright sifting, broken glass, </l>
               <l>Came dazzling around, in the rocks, </l>
@@ -2600,18 +2574,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Sea broke on land to full identity. </l>
             </lg>
           </body>
-          <back id="heaney1_10281">
+          <back xml:id="heaney1_10281">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10287">
-          <front id="heaney1_10284">
-            <titlePage id="heaney1_10283">
+        </text><text xml:id="heaney1_10287">
+          <front xml:id="heaney1_10284">
+            <titlePage xml:id="heaney1_10283">
               <docTitle>
                 <titlePart type="main">FOLLOWER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10285">
+          <body xml:id="heaney1_10285">
             <lg type="stanza">
               <l n="1">My father worked with a horse-plough, </l>
               <l>His shoulders globed like a full sail strung</l>
@@ -2649,18 +2623,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Behind me, and will not go away. </l>
             </lg>
           </body>
-          <back id="heaney1_10286">
+          <back xml:id="heaney1_10286">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10292">
-          <front id="heaney1_10289">
-            <titlePage id="heaney1_10288">
+        </text><text xml:id="heaney1_10292">
+          <front xml:id="heaney1_10289">
+            <titlePage xml:id="heaney1_10288">
               <docTitle>
                 <titlePart type="main">ELEGY FOR A STILL-BORN CHILD</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10290">
+          <body xml:id="heaney1_10290">
             <lg type="stanza">
               <head>I</head>
               <l n="1">You mother walks light as an empty creel</l>
@@ -2705,21 +2679,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>White waves riding home on a wintry lough. </l>
             </lg>
           </body>
-          <back id="heaney1_10291">
+          <back xml:id="heaney1_10291">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10298">
-          <front id="heaney1_10294">
-            <titlePage id="heaney1_10293">
+        </text><text xml:id="heaney1_10298">
+          <front xml:id="heaney1_10294">
+            <titlePage xml:id="heaney1_10293">
               <docTitle>
                 <titlePart type="main">PERSONAL HELICON</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10296">
+          <body xml:id="heaney1_10296">
             <lg type="stanza">
               <epigraph>
-                <p id="heaney1_10295">For Michael Longley</p>
+                <p xml:id="heaney1_10295">For Michael Longley</p>
               </epigraph>
               <l n="1">As a child, they could not keep me from wells</l>
               <l>And old pumps with buckets and windlasses. </l>
@@ -2751,18 +2725,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>To see myself, to set the darkness echoing. </l>
             </lg>
           </body>
-          <back id="heaney1_10297">
+          <back xml:id="heaney1_10297">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10303">
-          <front id="heaney1_10300">
-            <titlePage id="heaney1_10299">
+        </text><text xml:id="heaney1_10303">
+          <front xml:id="heaney1_10300">
+            <titlePage xml:id="heaney1_10299">
               <docTitle>
                 <titlePart type="main">ANTAEUS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10301">
+          <body xml:id="heaney1_10301">
             <lg type="stanza">
               <l n="1" rend="indent7">WhenI lie on the ground</l>
               <l>I rise flushed like a rose in the morning. </l>
@@ -2794,19 +2768,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent7">My elevation, my fall.</l>
             </lg>
           </body>
-          <back id="heaney1_10302">
+          <back xml:id="heaney1_10302">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10308">
-          <front id="heaney1_10305">
+        </text><text xml:id="heaney1_10308">
+          <front xml:id="heaney1_10305">
             <head>POEMS BY BRENDAN KENNELLY:</head>
-            <titlePage id="heaney1_10304">
+            <titlePage xml:id="heaney1_10304">
               <docTitle>
                 <titlePart type="main">THE AFTER-CHILD</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10306">
+          <body xml:id="heaney1_10306">
             <lg type="stanza">
               <l n="1">The red heart of the wild boy</l>
               <l>Loved the line of trees in the stormy glen, </l>
@@ -2878,18 +2852,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Like other men. </l>
             </lg>
           </body>
-          <back id="heaney1_10307">
+          <back xml:id="heaney1_10307">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text><text id="heaney1_10313">
-          <front id="heaney1_10310">
-            <titlePage id="heaney1_10309">
+        </text><text xml:id="heaney1_10313">
+          <front xml:id="heaney1_10310">
+            <titlePage xml:id="heaney1_10309">
               <docTitle>
                 <titlePart type="main">THE BLIND MAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10311">
+          <body xml:id="heaney1_10311">
             <lg type="stanza">
               <l n="1">Dark from birth,</l>
               <l>And therefore spared the shock</l>
@@ -2941,18 +2915,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Acknowledging the light I've been denied. </l>
             </lg>
           </body>
-          <back id="heaney1_10312">
+          <back xml:id="heaney1_10312">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text><text id="heaney1_10318">
-          <front id="heaney1_10315">
-            <titlePage id="heaney1_10314">
+        </text><text xml:id="heaney1_10318">
+          <front xml:id="heaney1_10315">
+            <titlePage xml:id="heaney1_10314">
               <docTitle>
                 <titlePart type="main">MARLOWE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10316">
+          <body xml:id="heaney1_10316">
             <lg type="stanza">
               <l n="1">There was a quarrel about the bill</l>
               <l>Of reckoning, not paid until</l>
@@ -3000,21 +2974,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>When the blood poured from Marlowe's head. </l>
             </lg>
           </body>
-          <back id="heaney1_10317">
+          <back xml:id="heaney1_10317">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text><text id="heaney1_10323">
-          <front id="heaney1_10320">
-            <titlePage id="heaney1_10319">
+        </text><text xml:id="heaney1_10323">
+          <front xml:id="heaney1_10320">
+            <titlePage xml:id="heaney1_10319">
               <docTitle>
                 <titlePart type="main">THE GOOD</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10321">
+          <body xml:id="heaney1_10321">
             <lg type="stanza">
               <epigraph>
-                <q direct="unspecified">(For Eavan)</q>
+                <q>(For Eavan)</q>
               </epigraph>
               <l n="1">The good are vulnerable</l>
               <l>As any bird in flight, </l>
@@ -3051,21 +3025,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Among my friends. </l>
             </lg>
           </body>
-          <back id="heaney1_10322">
+          <back xml:id="heaney1_10322">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text><text id="heaney1_10329">
-          <front id="heaney1_10325">
-            <titlePage id="heaney1_10324">
+        </text><text xml:id="heaney1_10329">
+          <front xml:id="heaney1_10325">
+            <titlePage xml:id="heaney1_10324">
               <docTitle>
                 <titlePart type="main">LIGHT DYING</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10327">
+          <body xml:id="heaney1_10327">
             <lg type="stanza">
               <epigraph>
-                <p id="heaney1_10326">In Memoriam Frank O'Connor (Michael O'Donovan)</p>
+                <p xml:id="heaney1_10326">In Memoriam Frank O'Connor (Michael O'Donovan)</p>
               </epigraph>
               <l n="1">Climbing the last steps to your house, I knew</l>
               <l>That I would find you in your chair, </l>
@@ -3127,18 +3101,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Light dying promises the ligth re-born. </l>
             </lg>
           </body>
-          <back id="heaney1_10328">
+          <back xml:id="heaney1_10328">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text><text id="heaney1_10334">
-          <front id="heaney1_10331">
-            <titlePage id="heaney1_10330">
+        </text><text xml:id="heaney1_10334">
+          <front xml:id="heaney1_10331">
+            <titlePage xml:id="heaney1_10330">
               <docTitle>
                 <titlePart type="main">THE DUMMIES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10332">
+          <body xml:id="heaney1_10332">
             <lg type="stanza">
               <l n="1">Their restless hands articulate desire</l>
               <l>In frantic gestures of meaning, </l>
@@ -3170,19 +3144,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Is islanded in darkness of the city lanes. </l>
             </lg>
           </body>
-          <back id="heaney1_10333">
+          <back xml:id="heaney1_10333">
             <byline>Brendan Kennelly</byline>
           </back>
-        </text><text id="heaney1_10339">
-          <front id="heaney1_10336">
+        </text><text xml:id="heaney1_10339">
+          <front xml:id="heaney1_10336">
             <head>POEMS BY MICHAEL LONGLEY:</head>
-            <titlePage id="heaney1_10335">
+            <titlePage xml:id="heaney1_10335">
               <docTitle>
                 <titlePart type="main">THE OSPREY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10337">
+          <body xml:id="heaney1_10337">
             <lg type="stanza">
               <l n="1">To whom certain water talents -</l>
               <l>Webbed feet, oils - do not occur, </l>
@@ -3202,18 +3176,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>It's all of air that ferries him. </l>
             </lg>
           </body>
-          <back id="heaney1_10338">
+          <back xml:id="heaney1_10338">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="heaney1_10344">
-          <front id="heaney1_10341">
-            <titlePage id="heaney1_10340">
+        </text><text xml:id="heaney1_10344">
+          <front xml:id="heaney1_10341">
+            <titlePage xml:id="heaney1_10340">
               <docTitle>
                 <titlePart type="main">THE HEBRIDES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10342">
+          <body xml:id="heaney1_10342">
             <lg type="stanza">
               <head>I</head>
               <l n="1">The winds' enclosure, Atlantic's premises, </l>
@@ -3364,18 +3338,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent17">Of vertigo.</l>
             </lg>
           </body>
-          <back id="heaney1_10343">
+          <back xml:id="heaney1_10343">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="heaney1_10349">
-          <front id="heaney1_10346">
-            <titlePage id="heaney1_10345">
+        </text><text xml:id="heaney1_10349">
+          <front xml:id="heaney1_10346">
+            <titlePage xml:id="heaney1_10345">
               <docTitle>
                 <titlePart type="main">ELEGY FOR FATS WALLER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10347">
+          <body xml:id="heaney1_10347">
             <lg type="stanza">
               <l n="1">Lighting up, lest all our hearts should break,</l>
               <l>His fiftieth cigarette of the day, </l>
@@ -3398,18 +3372,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>THE SHOOK, THE SHAKE, THE SHEIK OF ARABY. </l>
             </lg>
           </body>
-          <back id="heaney1_10348">
+          <back xml:id="heaney1_10348">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="heaney1_10354">
-          <front id="heaney1_10351">
-            <titlePage id="heaney1_10350">
+        </text><text xml:id="heaney1_10354">
+          <front xml:id="heaney1_10351">
+            <titlePage xml:id="heaney1_10350">
               <docTitle>
                 <titlePart type="main">DR JOHNSON DYING</titlePart>
               </docTitle>
             </titlePage>
             <epigraph>
-              <q direct="unspecified">
+              <q>
                 <l>"...and imagining that the dropsical</l>
                 <l>collection of water which oppressed</l>
                 <l>him might be drawn off by making</l>
@@ -3421,7 +3395,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <bibl>- Boswell's Life of Johnson</bibl>
             </epigraph>
           </front>
-          <body id="heaney1_10352">
+          <body xml:id="heaney1_10352">
             <lg type="stanza">
               <l n="1">There was no place to go but his own head</l>
               <l>Where hard luck lodged as in an orphanage</l>
@@ -3437,18 +3411,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Washing his pockmarked body like a reef. </l>
             </lg>
           </body>
-          <back id="heaney1_10353">
+          <back xml:id="heaney1_10353">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="heaney1_10359">
-          <front id="heaney1_10356">
-            <titlePage id="heaney1_10355">
+        </text><text xml:id="heaney1_10359">
+          <front xml:id="heaney1_10356">
+            <titlePage xml:id="heaney1_10355">
               <docTitle>
                 <titlePart type="main">GATHERING MUSHROOMS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10357">
+          <body xml:id="heaney1_10357">
             <lg type="stanza">
               <l n="1">Exhaled at dawn with the cattle's breath</l>
               <l>Out of the reticent illfitting earth, </l>
@@ -3466,18 +3440,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>We drew together by easy stages. </l>
             </lg>
           </body>
-          <back id="heaney1_10358">
+          <back xml:id="heaney1_10358">
             <byline>Michael Longley</byline>
           </back>
-        </text><text id="heaney1_10364">
-          <front id="heaney1_10361">
-            <titlePage id="heaney1_10360">
+        </text><text xml:id="heaney1_10364">
+          <front xml:id="heaney1_10361">
+            <titlePage xml:id="heaney1_10360">
               <docTitle>
                 <titlePart type="main">PERSEPHONE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10362">
+          <body xml:id="heaney1_10362">
             <lg type="stanza">
               <head>I</head>
               <l n="1">I see as through a skylight in my brain</l>
@@ -3506,16 +3480,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Their footsteps borrow silence from the snow.</l>
             </lg>
           </body>
-          <back id="heaney1_10363">
+          <back xml:id="heaney1_10363">
             <byline>Michael Longley</byline>
           </back>
         </text></group>
-      <group id="heaney1_10407">
+      <group xml:id="heaney1_10407">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="heaney1_10366">Workshop Poems</p>
+          <p xml:id="heaney1_10366">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Icon</item>
@@ -3529,15 +3503,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_10371">
-          <front id="heaney1_10368">
-            <titlePage id="heaney1_10367">
+        <text xml:id="heaney1_10371">
+          <front xml:id="heaney1_10368">
+            <titlePage xml:id="heaney1_10367">
               <docTitle>
                 <titlePart type="main">ICON</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10369">
+          <body xml:id="heaney1_10369">
             <lg type="stanza">
               <l n="1">Here is Patrick</l>
               <l>Banishing the serpents, </l>
@@ -3575,18 +3549,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Paralysed round his staff.</l>
             </lg>
           </body>
-          <back id="heaney1_10370">
+          <back xml:id="heaney1_10370">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10376">
-          <front id="heaney1_10373">
-            <titlePage id="heaney1_10372">
+        </text><text xml:id="heaney1_10376">
+          <front xml:id="heaney1_10373">
+            <titlePage xml:id="heaney1_10372">
               <docTitle>
                 <titlePart type="main">LIMBO</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10374">
+          <body xml:id="heaney1_10374">
             <lg type="stanza">
               <l n="1">Fishermen at Ballyshannon</l>
               <l>Netted an infant last night</l>
@@ -3618,18 +3592,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Smart and cannot fish there.</l>
             </lg>
           </body>
-          <back id="heaney1_10375">
+          <back xml:id="heaney1_10375">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10381">
-          <front id="heaney1_10378">
-            <titlePage id="heaney1_10377">
+        </text><text xml:id="heaney1_10381">
+          <front xml:id="heaney1_10378">
+            <titlePage xml:id="heaney1_10377">
               <docTitle>
                 <titlePart type="main">WEDDING DAY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10379">
+          <body xml:id="heaney1_10379">
             <lg type="stanza">
               <l n="1">Oh my love I am afraid. </l>
               <l>The sound has stopped in the day</l>
@@ -3655,18 +3629,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Let me sleep on your breast to the airport.</l>
             </lg>
           </body>
-          <back id="heaney1_10380">
+          <back xml:id="heaney1_10380">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10386">
-          <front id="heaney1_10383">
-            <titlePage id="heaney1_10382">
+        </text><text xml:id="heaney1_10386">
+          <front xml:id="heaney1_10383">
+            <titlePage xml:id="heaney1_10382">
               <docTitle>
                 <titlePart type="main">THE LAST MUMMER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10384">
+          <body xml:id="heaney1_10384">
             <lg type="stanza">
               <l n="1">Carries a stone in his pocket, </l>
               <l>An ash-plant under his arm. </l>
@@ -3696,18 +3670,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Clatters down off the slates.</l>
             </lg>
           </body>
-          <back id="heaney1_10385">
+          <back xml:id="heaney1_10385">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10391">
-          <front id="heaney1_10388">
-            <titlePage id="heaney1_10387">
+        </text><text xml:id="heaney1_10391">
+          <front xml:id="heaney1_10388">
+            <titlePage xml:id="heaney1_10387">
               <docTitle>
                 <titlePart type="main">HIGH STREET, BELFAST, 1786</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10389">
+          <body xml:id="heaney1_10389">
             <lg type="stanza">
               <l n="1">Here are men in tricorn hats</l>
               <l>And lownecked belles, all full of chat, </l>
@@ -3754,18 +3728,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>In the tang of possibility.</l>
             </lg>
           </body>
-          <back id="heaney1_10390">
+          <back xml:id="heaney1_10390">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10396">
-          <front id="heaney1_10393">
-            <titlePage id="heaney1_10392">
+        </text><text xml:id="heaney1_10396">
+          <front xml:id="heaney1_10393">
+            <titlePage xml:id="heaney1_10392">
               <docTitle>
                 <titlePart type="main">TWEED</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10394">
+          <body xml:id="heaney1_10394">
             <lg type="stanza">
               <epigraph>
                 <l>How different are the words <hi rend="bold">home</hi>, <hi rend="bold">Christ</hi>, <hi rend="bold">ale</hi>,</l>
@@ -3808,18 +3782,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>A stiff cloth with flecks like blood.</l>
             </lg>
           </body>
-          <back id="heaney1_10395">
+          <back xml:id="heaney1_10395">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10401">
-          <front id="heaney1_10398">
-            <titlePage id="heaney1_10397">
+        </text><text xml:id="heaney1_10401">
+          <front xml:id="heaney1_10398">
+            <titlePage xml:id="heaney1_10397">
               <docTitle>
                 <titlePart type="main">DAWN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10399">
+          <body xml:id="heaney1_10399">
             <lg type="stanza">
               <l n="1">Somebody lets up a blind. </l>
               <l>The shrub at the window</l>
@@ -3851,18 +3825,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Acres of their crisp delicate turrets.</l>
             </lg>
           </body>
-          <back id="heaney1_10400">
+          <back xml:id="heaney1_10400">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10406">
-          <front id="heaney1_10403">
-            <titlePage id="heaney1_10402">
+        </text><text xml:id="heaney1_10406">
+          <front xml:id="heaney1_10403">
+            <titlePage xml:id="heaney1_10402">
               <docTitle>
                 <titlePart type="main">BYE-CHILD</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10404">
+          <body xml:id="heaney1_10404">
             <lg type="stanza">
               <l n="1">When the tilley lamp glowed, </l>
               <l>A yolk of light</l>
@@ -3913,33 +3887,33 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Travelled beyond love.</l>
             </lg>
           </body>
-          <back id="heaney1_10405">
+          <back xml:id="heaney1_10405">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10415">
+      <group xml:id="heaney1_10415">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="heaney1_10408">Workshop Poems</p>
+          <p xml:id="heaney1_10408">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>A Lough Neagh Sequence</item>
           </list>
         </argument>
         
-        <text id="heaney1_10414">
-          <front id="heaney1_10410">
-            <titlePage id="heaney1_10409">
+        <text xml:id="heaney1_10414">
+          <front xml:id="heaney1_10410">
+            <titlePage xml:id="heaney1_10409">
               <docTitle>
                 <titlePart type="main">A LOUGH NEAGH SEQUENCE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10412">
+          <body xml:id="heaney1_10412">
             <epigraph>
-              <p id="heaney1_10411">(For the fishermen)</p>
+              <p xml:id="heaney1_10411">(For the fishermen)</p>
             </epigraph>
             <lg n="1" type="section">
               <head>1. Vision</head>
@@ -4176,16 +4150,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               </lg>
             </lg>
           </body>
-          <back id="heaney1_10413">
+          <back xml:id="heaney1_10413">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
-      <group id="heaney1_10442">
+      <group xml:id="heaney1_10442">
         <head>POEMS BY SEAMUS HEANEY</head>
         <docAuthor>Seamus Heaney</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="heaney1_10416">Workshop Poems</p>
+          <p xml:id="heaney1_10416">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Servant Boy</item>
@@ -4196,15 +4170,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="heaney1_10421">
-          <front id="heaney1_10418">
-            <titlePage id="heaney1_10417">
+        <text xml:id="heaney1_10421">
+          <front xml:id="heaney1_10418">
+            <titlePage xml:id="heaney1_10417">
               <docTitle>
                 <titlePart type="main">SERVANT BOY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10419">
+          <body xml:id="heaney1_10419">
             <lg type="stanza">
               <l n="1">He is wintering out</l>
               <l>the back-end of a bad year, </l>
@@ -4236,18 +4210,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>carrying the warm eggs.</l>
             </lg>
           </body>
-          <back id="heaney1_10420">
+          <back xml:id="heaney1_10420">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10426">
-          <front id="heaney1_10423">
-            <titlePage id="heaney1_10422">
+        </text><text xml:id="heaney1_10426">
+          <front xml:id="heaney1_10423">
+            <titlePage xml:id="heaney1_10422">
               <docTitle>
                 <titlePart type="main">THE LAST MUMMER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10424">
+          <body xml:id="heaney1_10424">
             <lg type="stanza">
               <head>I</head>
               <l n="1">Carries a stone in his pocket, </l>
@@ -4336,18 +4310,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>into the summer grazing.</l>
             </lg>
           </body>
-          <back id="heaney1_10425">
+          <back xml:id="heaney1_10425">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10431">
-          <front id="heaney1_10428">
-            <titlePage id="heaney1_10427">
+        </text><text xml:id="heaney1_10431">
+          <front xml:id="heaney1_10428">
+            <titlePage xml:id="heaney1_10427">
               <docTitle>
                 <titlePart type="main">GIFTS OF RAIN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10429">
+          <body xml:id="heaney1_10429">
             <lg type="stanza">
               <head>I</head>
               <l n="1">Cloudburst and steady downpour now</l>
@@ -4453,18 +4427,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>hoarder of common ground.</l>
             </lg>
           </body>
-          <back id="heaney1_10430">
+          <back xml:id="heaney1_10430">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10436">
-          <front id="heaney1_10433">
-            <titlePage id="heaney1_10432">
+        </text><text xml:id="heaney1_10436">
+          <front xml:id="heaney1_10433">
+            <titlePage xml:id="heaney1_10432">
               <docTitle>
                 <titlePart type="main">THE TOLLUND MAN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10434">
+          <body xml:id="heaney1_10434">
             <lg type="stanza">
               <head>I</head>
               <l n="1">Some day I will go to Aarhus</l>
@@ -4535,18 +4509,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Unhappy and at home.</l>
             </lg>
           </body>
-          <back id="heaney1_10435">
+          <back xml:id="heaney1_10435">
             <byline>Seamus Heaney</byline>
           </back>
-        </text><text id="heaney1_10441">
-          <front id="heaney1_10438">
-            <titlePage id="heaney1_10437">
+        </text><text xml:id="heaney1_10441">
+          <front xml:id="heaney1_10438">
+            <titlePage xml:id="heaney1_10437">
               <docTitle>
                 <titlePart type="main">WESTERING</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="heaney1_10439">
+          <body xml:id="heaney1_10439">
             <lg type="stanza">
               <l n="1">I sit under Rand McNally's</l>
               <l>"Official Map of the Moon" -</l>
@@ -4602,10 +4576,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Christ weighing by his hands.</l>
             </lg>
           </body>
-          <back id="heaney1_10440">
+          <back xml:id="heaney1_10440">
             <byline>Seamus Heaney</byline>
           </back>
         </text></group>
     </group>
   </text>
-</TEI.2>
+</TEI>

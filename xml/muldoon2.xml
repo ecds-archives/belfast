@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="muldoon2_10124">
-  <teiHeader type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="muldoon2_10124">
+  <teiHeader><fileDesc>
       <titleStmt>
         <title>Muldoon Workshops</title>
-        <author><name type="person" reg="Muldoon, Paul">Paul Muldoon</name></author>
+        <author><name type="person">
+          <choice>
+            <sic>Paul Muldoon</sic>
+            <reg>Muldoon, Paul</reg>
+            </choice>
+          </name></author>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>Staff</name>
         </respStmt>
       </titleStmt>
       <extent>63 Kb</extent>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
-            <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address>
-            <idno type="ark" n="muldoon2_1040">http://pid.emory.edu/ark:/25593/17m9m</idno>
-            <idno type="ark" n="muldoon2_1079">http://pid.emory.edu/ark:/25593/17mbr</idno>
-            <idno type="ark" n="muldoon2_10121">http://pid.emory.edu/ark:/25593/17mcw</idno>
-            <availability>
-          <p id="muldoon2_101">1996 Emory University. Permission is granted to 
+        </address><idno type="ark" n="muldoon2_1040">http://pid.emory.edu/ark:/25593/17m9m</idno><idno type="ark" n="muldoon2_1079">http://pid.emory.edu/ark:/25593/17mbr</idno><idno type="ark" n="muldoon2_10121">http://pid.emory.edu/ark:/25593/17mcw</idno><availability>
+          <p xml:id="muldoon2_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the 
 contributions to the work claimed by Emory University for non-profit 
 educational purposes, provided this header is included in its 
@@ -32,36 +31,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <sourceDesc>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="muldoon2_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="muldoon2_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>2000</date>
-        <respStmt>
-          <name>Katherine Ellison</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-         <change><date>December 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="muldoon2_10123">
-    <front id="muldoon2_103"/>
-    <group id="muldoon2_10122">
-      <group id="muldoon2_1040">
+            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2000</date><label>Staff</label><name>Katherine Ellison</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change xmlns="http://www.tei-c.org/ns/1.0"><date>December 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="muldoon2_10123">
+    <front xml:id="muldoon2_103"/>
+    <group xml:id="muldoon2_10122">
+      <group xml:id="muldoon2_1040">
         <head>POEMS BY PAUL MULDOON</head>
         <docAuthor>Paul Muldoon</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="muldoon2_104">Workshop Poems</p>
+          <p xml:id="muldoon2_104">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Blowing Eggs</item>
@@ -74,15 +56,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="muldoon2_109">
-          <front id="muldoon2_106">
-            <titlePage id="muldoon2_105">
+        <text xml:id="muldoon2_109">
+          <front xml:id="muldoon2_106">
+            <titlePage xml:id="muldoon2_105">
               <docTitle>
                 <titlePart type="main">BLOWING EGGS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_107">
+          <body xml:id="muldoon2_107">
             <lg type="stanza">
               <l n="1">This is not the nest</l>
               <l>That has been pulling itself together</l>
@@ -114,18 +96,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>These his wrists, surprised and stained.</l>
             </lg>
           </body>
-          <back id="muldoon2_108">
+          <back xml:id="muldoon2_108">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1014">
-          <front id="muldoon2_1011">
-            <titlePage id="muldoon2_1010">
+        </text><text xml:id="muldoon2_1014">
+          <front xml:id="muldoon2_1011">
+            <titlePage xml:id="muldoon2_1010">
               <docTitle>
                 <titlePart type="main">THE RADIO HORSE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1012">
+          <body xml:id="muldoon2_1012">
             <lg type="stanza">
               <l n="1">I believed in those plains</l>
               <l>Without grass or sky,</l>
@@ -155,7 +137,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>That clatters, thunders by,</l>
               <l>Then thins and thins.</l>
               <l>I believed in your riding all night</l>
-              <l>Lathered by <corr sic="tour">your</corr> own sweat,</l>
+              <l>Lathered by <choice><corr>your</corr><sic>tour</sic></choice> own sweat,</l>
               <l>Your dressing as boys</l>
             </lg>
             <lg type="stanza">
@@ -167,18 +149,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>By horses' thrown shoes.</l>
             </lg>
           </body>
-          <back id="muldoon2_1013">
+          <back xml:id="muldoon2_1013">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1019">
-          <front id="muldoon2_1016">
-            <titlePage id="muldoon2_1015">
+        </text><text xml:id="muldoon2_1019">
+          <front xml:id="muldoon2_1016">
+            <titlePage xml:id="muldoon2_1015">
               <docTitle>
                 <titlePart type="main">THE FIELD HOSPITAL</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1017">
+          <body xml:id="muldoon2_1017">
             <lg type="stanza">
               <l n="1">Taking, giving back their lives</l>
               <l>By the strength of our bare hands,</l>
@@ -210,18 +192,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Like medals given the brave.</l>
             </lg>
           </body>
-          <back id="muldoon2_1018">
+          <back xml:id="muldoon2_1018">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1024">
-          <front id="muldoon2_1021">
-            <titlePage id="muldoon2_1020">
+        </text><text xml:id="muldoon2_1024">
+          <front xml:id="muldoon2_1021">
+            <titlePage xml:id="muldoon2_1020">
               <docTitle>
                 <titlePart type="main">ON A DOG OF UNLIKE EYES</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1022">
+          <body xml:id="muldoon2_1022">
             <lg type="stanza">
               <l n="1">'Within forty-eight hours Washkansky was speaking;</l>
               <l>within seventy-two he was eating scrambled eggs.'</l>
@@ -250,18 +232,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Our hens eating their own eggs.</l>
             </lg>
           </body>
-          <back id="muldoon2_1023">
+          <back xml:id="muldoon2_1023">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1029">
-          <front id="muldoon2_1026">
-            <titlePage id="muldoon2_1025">
+        </text><text xml:id="muldoon2_1029">
+          <front xml:id="muldoon2_1026">
+            <titlePage xml:id="muldoon2_1025">
               <docTitle>
                 <titlePart type="main">THE LOST TRIBE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1027">
+          <body xml:id="muldoon2_1027">
             <lg type="stanza">
               <l n="1">Has it been only two years</l>
               <l>Since the river went on fire?</l>
@@ -305,18 +287,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Your father had learned to fly?</l>
             </lg>
           </body>
-          <back id="muldoon2_1028">
+          <back xml:id="muldoon2_1028">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1034">
-          <front id="muldoon2_1031">
-            <titlePage id="muldoon2_1030">
+        </text><text xml:id="muldoon2_1034">
+          <front xml:id="muldoon2_1031">
+            <titlePage xml:id="muldoon2_1030">
               <docTitle>
                 <titlePart type="main">THE UPRIVER INCIDENT</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1032">
+          <body xml:id="muldoon2_1032">
             <lg type="stanza">
               <l n="1">He thanked his parents for keeping still</l>
               <l>And left them sleeping, deaf and blind</l>
@@ -349,18 +331,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>After their heavy meal.</l>
             </lg>
           </body>
-          <back id="muldoon2_1033">
+          <back xml:id="muldoon2_1033">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1039">
-          <front id="muldoon2_1036">
-            <titlePage id="muldoon2_1035">
+        </text><text xml:id="muldoon2_1039">
+          <front xml:id="muldoon2_1036">
+            <titlePage xml:id="muldoon2_1035">
               <docTitle>
                 <titlePart type="main">PARTY PIECE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1037">
+          <body xml:id="muldoon2_1037">
             <lg type="stanza">
               <l n="1">The girl alone in the wood's</l>
               <l>Corner had just then filled her</l>
@@ -370,7 +352,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>A child's head hung at her waist.</l>
               <l>He would have raped and killed her</l>
               <l>Had this happened in the past,</l>
-              <l>Not yet telling <corr sic="wring">wrong</corr> from right.</l>
+              <l>Not yet telling <choice><corr>wrong</corr><sic>wring</sic></choice> from right.</l>
               <l>Since the world had grown older</l>
               <l>He approached and introduced</l>
               <l>Himself as some more to eat,</l>
@@ -404,16 +386,16 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Pain's edge where we take shelter.</l>
             </lg>
           </body>
-          <back id="muldoon2_1038">
+          <back xml:id="muldoon2_1038">
             <byline>Paul Muldoon</byline>
           </back>
         </text></group>
-      <group id="muldoon2_1079">
+      <group xml:id="muldoon2_1079">
         <head>POEMS BY PAUL MULDOON</head>
         <docAuthor>Paul Muldoon</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="muldoon2_1041">Workshop Poems</p>
+          <p xml:id="muldoon2_1041">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Stillborn</item>
@@ -428,15 +410,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="muldoon2_1046">
-          <front id="muldoon2_1043">
-            <titlePage id="muldoon2_1042">
+        <text xml:id="muldoon2_1046">
+          <front xml:id="muldoon2_1043">
+            <titlePage xml:id="muldoon2_1042">
               <docTitle>
                 <titlePart type="main">STILLBORN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1044">
+          <body xml:id="muldoon2_1044">
             <lg type="stanza">
               <l n="1">You were first.</l>
               <l>The ewe lapped ochre and lake</l>
@@ -463,18 +445,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Better dead with your delph head floating.</l>
             </lg>
           </body>
-          <back id="muldoon2_1045">
+          <back xml:id="muldoon2_1045">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1050">
-          <front id="muldoon2_1048">
-            <titlePage id="muldoon2_1047">
+        </text><text xml:id="muldoon2_1050">
+          <front xml:id="muldoon2_1048">
+            <titlePage xml:id="muldoon2_1047">
               <docTitle>
                 <titlePart type="main">SNAIL</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1049">
+          <body xml:id="muldoon2_1049">
             <lg type="stanza">
               <l n="1">I guessed the letter must be yours.</l>
               <l>I recognised the cuttle ink,</l>
@@ -495,15 +477,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>To watch your mucous lips withdraw.</l>
             </lg>
           </body>
-        </text><text id="muldoon2_1054">
-          <front id="muldoon2_1052">
-            <titlePage id="muldoon2_1051">
+        </text><text xml:id="muldoon2_1054">
+          <front xml:id="muldoon2_1052">
+            <titlePage xml:id="muldoon2_1051">
               <docTitle>
                 <titlePart type="main">JANUARY</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1053">
+          <body xml:id="muldoon2_1053">
             <lg type="stanza">
               <l n="1">Snow sticks to the ribs</l>
               <l>Of a broken barrel.</l>
@@ -531,15 +513,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Stream from the mountainsides.</l>
             </lg>
           </body>
-        </text><text id="muldoon2_1058">
-          <front id="muldoon2_1056">
-            <titlePage id="muldoon2_1055">
+        </text><text xml:id="muldoon2_1058">
+          <front xml:id="muldoon2_1056">
+            <titlePage xml:id="muldoon2_1055">
               <docTitle>
                 <titlePart type="main">POEM AT EIGHTEEN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1057">
+          <body xml:id="muldoon2_1057">
             <lg type="stanza">
               <l n="1">The bed defined me,</l>
               <l>Eight hours each day</l>
@@ -571,15 +553,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Towards our bodies where they dream.</l>
             </lg>
           </body>
-        </text><text id="muldoon2_1062">
-          <front id="muldoon2_1060">
-            <titlePage id="muldoon2_1059">
+        </text><text xml:id="muldoon2_1062">
+          <front xml:id="muldoon2_1060">
+            <titlePage xml:id="muldoon2_1059">
               <docTitle>
                 <titlePart type="main">HAWK</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1061">
+          <body xml:id="muldoon2_1061">
             <lg type="stanza">
               <l n="1">This hawk has always been dressed</l>
               <l>To kill. It would hold</l>
@@ -617,15 +599,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Live to cast the shadow of my head.</l>
             </lg>
           </body>
-        </text><text id="muldoon2_1066">
-          <front id="muldoon2_1064">
-            <titlePage id="muldoon2_1063">
+        </text><text xml:id="muldoon2_1066">
+          <front xml:id="muldoon2_1064">
+            <titlePage xml:id="muldoon2_1063">
               <docTitle>
                 <titlePart type="main">HEDGEHOG</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1065">
+          <body xml:id="muldoon2_1065">
             <lg type="stanza">
               <l n="1">The snail moves</l>
               <l>Like a hovercraft,</l>
@@ -657,15 +639,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Will a god trust in the world.</l>
             </lg>
           </body>
-        </text><text id="muldoon2_1070">
-          <front id="muldoon2_1068">
-            <titlePage id="muldoon2_1067">
+        </text><text xml:id="muldoon2_1070">
+          <front xml:id="muldoon2_1068">
+            <titlePage xml:id="muldoon2_1067">
               <docTitle>
                 <titlePart type="main">SEANCHAS</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1069">
+          <body xml:id="muldoon2_1069">
             <lg type="stanza">
               <l n="1">Coming here, we were like that mountain whose base</l>
               <l>We kept sidestepping. Thinking ourselves superior.</l>
@@ -693,15 +675,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Separate and memorable.</l>
             </lg>
           </body>
-        </text><text id="muldoon2_1074">
-          <front id="muldoon2_1072">
-            <titlePage id="muldoon2_1071">
+        </text><text xml:id="muldoon2_1074">
+          <front xml:id="muldoon2_1072">
+            <titlePage xml:id="muldoon2_1071">
               <docTitle>
                 <titlePart type="main">UNBORN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1073">
+          <body xml:id="muldoon2_1073">
             <lg type="stanza">
               <l n="1">It has become a part</l>
               <l>Of me. I might try to abort</l>
@@ -735,15 +717,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>It in paper. Leave it on your step.</l>
             </lg>
           </body>
-        </text><text id="muldoon2_1078">
-          <front id="muldoon2_1076">
-            <titlePage id="muldoon2_1075">
+        </text><text xml:id="muldoon2_1078">
+          <front xml:id="muldoon2_1076">
+            <titlePage xml:id="muldoon2_1075">
               <docTitle>
                 <titlePart type="main">LEAVING THE ISLAND</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1077">
+          <body xml:id="muldoon2_1077">
             <lg type="stanza">
               <head>(a)</head>
               <l n="1">'No moon can exert</l>
@@ -789,12 +771,12 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </closer>
           </body>
         </text></group>
-      <group id="muldoon2_10121">
+      <group xml:id="muldoon2_10121">
         <head>POEMS BY PAUL MULDOON</head>
         <docAuthor>Paul Muldoon</docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
-          <p id="muldoon2_1080">Workshop Poems</p>
+          <p xml:id="muldoon2_1080">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Wind and Tree</item>
@@ -808,15 +790,15 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </list>
         </argument>
         
-        <text id="muldoon2_1085">
-          <front id="muldoon2_1082">
-            <titlePage id="muldoon2_1081">
+        <text xml:id="muldoon2_1085">
+          <front xml:id="muldoon2_1082">
+            <titlePage xml:id="muldoon2_1081">
               <docTitle>
                 <titlePart type="main">WIND AND TREE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1083">
+          <body xml:id="muldoon2_1083">
             <lg type="stanza">
               <l n="1">In the way that most of the wind</l>
               <l>Happens where there are trees,</l>
@@ -837,18 +819,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>I tell new weather.</l>
             </lg>
           </body>
-          <back id="muldoon2_1084">
+          <back xml:id="muldoon2_1084">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1090">
-          <front id="muldoon2_1087">
-            <titlePage id="muldoon2_1086">
+        </text><text xml:id="muldoon2_1090">
+          <front xml:id="muldoon2_1087">
+            <titlePage xml:id="muldoon2_1086">
               <docTitle>
                 <titlePart type="main">HEDGES IN WINTER</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1088">
+          <body xml:id="muldoon2_1088">
             <lg type="stanza">
               <l n="1">Every year they have driven stake after stake after stake</l>
               <l>Deeper into the cold heart of the hill.</l>
@@ -874,18 +856,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Only his deliberate hand, a bird pretending a broken wing.</l>
             </lg>
           </body>
-          <back id="muldoon2_1089">
+          <back xml:id="muldoon2_1089">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_1095">
-          <front id="muldoon2_1092">
-            <titlePage id="muldoon2_1091">
+        </text><text xml:id="muldoon2_1095">
+          <front xml:id="muldoon2_1092">
+            <titlePage xml:id="muldoon2_1091">
               <docTitle>
                 <titlePart type="main">CUCKOO CORN</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1093">
+          <body xml:id="muldoon2_1093">
             <lg type="stanza">
               <l n="1">That seed that goes into the ground</l>
               <l>After the first cuckoo</l>
@@ -903,18 +885,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Knowing of cuckoo corn, of seed and season.</l>
             </lg>
           </body>
-          <back id="muldoon2_1094">
+          <back xml:id="muldoon2_1094">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_10100">
-          <front id="muldoon2_1097">
-            <titlePage id="muldoon2_1096">
+        </text><text xml:id="muldoon2_10100">
+          <front xml:id="muldoon2_1097">
+            <titlePage xml:id="muldoon2_1096">
               <docTitle>
                 <titlePart type="main">SIESTA</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_1098">
+          <body xml:id="muldoon2_1098">
             <lg type="stanza">
               <l n="1">Father took me to one side,</l>
               <l>Like the spider takes the fly.</l>
@@ -948,18 +930,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>I never broke the sharping stone.</l>
             </lg>
           </body>
-          <back id="muldoon2_1099">
+          <back xml:id="muldoon2_1099">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_10105">
-          <front id="muldoon2_10102">
-            <titlePage id="muldoon2_10101">
+        </text><text xml:id="muldoon2_10105">
+          <front xml:id="muldoon2_10102">
+            <titlePage xml:id="muldoon2_10101">
               <docTitle>
                 <titlePart type="main">VAMPIRE</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_10103">
+          <body xml:id="muldoon2_10103">
             <lg type="stanza">
               <l n="1">Seeing the bird in winter reflected in the sheet of ice,</l>
               <l>She recalls that she once covered her walls,</l>
@@ -979,18 +961,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>The top repeatedly punctured by a thirsting bird.</l>
             </lg>
           </body>
-          <back id="muldoon2_10104">
+          <back xml:id="muldoon2_10104">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_10110">
-          <front id="muldoon2_10107">
-            <titlePage id="muldoon2_10106">
+        </text><text xml:id="muldoon2_10110">
+          <front xml:id="muldoon2_10107">
+            <titlePage xml:id="muldoon2_10106">
               <docTitle>
                 <titlePart type="main">GRASS WIDOW</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_10108">
+          <body xml:id="muldoon2_10108">
             <lg type="stanza">
               <l n="1" rend="indent4">And of course I cried</l>
               <l>As I watched him go away</l>
@@ -1027,18 +1009,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>The Gulf Stream warming my heart.</l>
             </lg>
           </body>
-          <back id="muldoon2_10109">
+          <back xml:id="muldoon2_10109">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_10115">
-          <front id="muldoon2_10112">
-            <titlePage id="muldoon2_10111">
+        </text><text xml:id="muldoon2_10115">
+          <front xml:id="muldoon2_10112">
+            <titlePage xml:id="muldoon2_10111">
               <docTitle>
                 <titlePart type="main">THE INDIANS ON ALCATRAZ</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_10113">
+          <body xml:id="muldoon2_10113">
             <lg type="stanza">
               <l n="1">Through time their sharp features have softened and blurred</l>
               <l>As if they still inhabited the middle distance,</l>
@@ -1064,18 +1046,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Leaves me more grateful for the fact that they never attack after dark.</l>
             </lg>
           </body>
-          <back id="muldoon2_10114">
+          <back xml:id="muldoon2_10114">
             <byline>Paul Muldoon</byline>
           </back>
-        </text><text id="muldoon2_10120">
-          <front id="muldoon2_10117">
-            <titlePage id="muldoon2_10116">
+        </text><text xml:id="muldoon2_10120">
+          <front xml:id="muldoon2_10117">
+            <titlePage xml:id="muldoon2_10116">
               <docTitle>
                 <titlePart type="main">THE ELECTRIC ORCHARD</titlePart>
               </docTitle>
             </titlePage>
           </front>
-          <body id="muldoon2_10118">
+          <body xml:id="muldoon2_10118">
             <lg type="stanza">
               <l n="1">The early electric people domesticated the wild ass;</l>
               <l>They had experience of falling off.</l>
@@ -1149,10 +1131,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Electrocution, falling, innocence.</l>
             </lg>
           </body>
-          <back id="muldoon2_10119">
+          <back xml:id="muldoon2_10119">
             <byline>Paul Muldoon</byline>
           </back>
         </text></group>
     </group>
   </text>
-</TEI.2>
+</TEI>
