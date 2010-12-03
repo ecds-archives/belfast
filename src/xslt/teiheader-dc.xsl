@@ -14,7 +14,8 @@
 
   <xsl:template match="/">
     <dc>
-      <xsl:apply-templates select="//tei:TEI"/> <!-- get everything below this -->
+      <xsl:apply-templates select="//tei:teiHeader"/> <!-- get everything below this -->
+      <xsl:apply-templates select="//tei:group"/>
       <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
@@ -27,7 +28,7 @@
   <xsl:template match="tei:titleStmt"/><!-- do nothing with this -->
   <xsl:template match="tei:extent"/>
   
-  <xsl:template match="tei:fileDesc"><xsl:text>DEBUG: fileDesc element matched</xsl:text>
+  <xsl:template match="tei:fileDesc">
     <xsl:element name="dc:contributor">
       <xsl:text>Lewis H. Beck Center</xsl:text>
     </xsl:element>
@@ -58,7 +59,7 @@
     
   </xsl:template>
   
-  <xsl:template match="//tei:group/tei:group"> <!-- for a workshop -->
+  <xsl:template match="//tei:group"> <!-- for a workshop -->
     <!-- electronic publication date: Per advice of LA -->
     <xsl:variable name="id" select="@xml:id"/>
     <xsl:element name="dcterms:created">
@@ -88,7 +89,7 @@
     </xsl:element>
 
     <xsl:element name="dc:creator">
-      <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author/tei:name/@reg"/>
+      <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author/tei:name/tei:choice/tei:reg"/>
     </xsl:element>
 
   </xsl:template>

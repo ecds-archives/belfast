@@ -18,7 +18,7 @@
 	</xsl:if>
     </xsl:template>
     
-    <xsl:template match="tei:TEI/tei:teiHeader"/> <!-- do nothing the header -->
+    <xsl:template match="tei:teiHeader"/> <!-- do nothing the header -->
 
     
     <xsl:template match="tei:group/tei:group">

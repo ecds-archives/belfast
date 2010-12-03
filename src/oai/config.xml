@@ -37,9 +37,9 @@
   <!-- connection settings for xml database -->
   <connectionParameters>
     <xmldb type="exist">
-      <host>wilson.library.emory.edu</host>
-      <!-- <host>bohr.library.emory.edu</host> --> <!-- production -->
-      <port>8080</port>
+      <!-- <host>wilson.library.emory.edu</host> -->
+      <host>bohr.library.emory.edu</host> <!-- production -->
+      <port>7080</port>
       <database>belfast</database> 
       <collection></collection> 
       <debug>false</debug>

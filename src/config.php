@@ -19,8 +19,8 @@ $base_path = "BelfastGroup";
  }
  else {
 $server = "kamina.library.emory.edu";
-$base_path = "/~cdunne/belfast";
-$basedir = "/Users/cdunne/belfast"; 
+$base_path = "/~ahickco/belfast";
+$basedir = "/home/ahickco/belfast"; 
  }
 $base_url = "http://$server$base_path"; 
 
