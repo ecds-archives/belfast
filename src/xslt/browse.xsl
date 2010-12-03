@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
     xmlns:exist="http://exist.sourceforge.net/NS/exist"
+    xmlns:tei="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="exist">
     
     <xsl:output method="xml" omit-xml-declaration="yes"/>
@@ -8,7 +9,7 @@
     <xsl:param name="defaultindent">5</xsl:param>
     <xsl:param name="doctitle"/> <!-- set for poem, not for group -->
     <!-- use key to match id for bookmark -->
-    <xsl:key name="pid" match="idno" use="@n"/>
+    <xsl:key name="pid" match="tei:idno" use="@n"/>
     
     <xsl:template match="/"> 
         <xsl:apply-templates/> 
@@ -17,35 +18,35 @@
 	</xsl:if>
     </xsl:template>
     
-    <xsl:template match="TEI/teiHeader"/> <!-- do nothing the header -->
+    <xsl:template match="tei:TEI/tei:teiHeader"/> <!-- do nothing the header -->
 
     
-    <xsl:template match="group/group">
-        <xsl:element name="h2">
-            <xsl:value-of select="head" />
+    <xsl:template match="tei:group/tei:group">
+         <xsl:element name="h2">
+            <xsl:value-of select="tei:head" />
         </xsl:element>
         
         <xsl:element name="p"> 
             <xsl:element name="b">
                 Workshop Date: </xsl:element>
-            <xsl:value-of select="docDate" />
+            <xsl:value-of select="tei:docDate" />
             <xsl:element name="br"/>
             <xsl:element name="b">Poet: </xsl:element>
-            <xsl:value-of select="docAuthor"/>
+            <xsl:value-of select="tei:docAuthor"/>
         </xsl:element>
         
-        <xsl:apply-templates select="argument"/>
+        <xsl:apply-templates select="tei:argument"/>
         
-        <xsl:apply-templates select="text"/>
+        <xsl:apply-templates select="tei:text"/>
     </xsl:template>
     
-    <xsl:template match="list">
+    <xsl:template match="tei:list">
         <xsl:element name="ul">
-            <xsl:apply-templates select="item" />
+            <xsl:apply-templates select="tei:item" />
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="list/item">
+    <xsl:template match="tei:list/tei:item">
         <xsl:element name="li">
             <xsl:element name="a">
                 <xsl:attribute name="href">#<xsl:call-template name="get-id">
@@ -57,7 +58,7 @@
         </xsl:element>  <!-- li -->
     </xsl:template>
     
-    <xsl:template match="hi">
+    <xsl:template match="tei:hi">
         <xsl:choose>
             <xsl:when test="@rend = 'bold'">
                 <xsl:element name="b">
@@ -74,7 +75,7 @@
     
     
     <!-- text = poem -->
-    <xsl:template match="text">
+    <xsl:template match="tei:text">
         
         <xsl:element name="hr">
             <xsl:attribute name="width">50%</xsl:attribute>
@@ -82,15 +83,15 @@
         </xsl:element>
         <xsl:element name="h3">
             <xsl:element name="a">
-                <xsl:attribute name="name"><xsl:value-of select="@id"/></xsl:attribute>
-                <xsl:value-of select=".//titlePart"/>
+                <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                <xsl:value-of select=".//tei:titlePart"/>
             </xsl:element> <!-- a -->
         </xsl:element> <!-- h3 -->
-        <xsl:apply-templates select="body"/>
-        <xsl:apply-templates select="back"/>
+        <xsl:apply-templates select="tei:body"/>
+        <xsl:apply-templates select="tei:back"/>
     </xsl:template>
     
-    <xsl:template match="epigraph">
+    <xsl:template match="tei:epigraph">
         <xsl:element name="p">
             <xsl:element name="i">
                 <xsl:apply-templates/>
@@ -99,7 +100,7 @@
     </xsl:template>
     
     
-    <xsl:template match="head">
+    <xsl:template match="tei:head">
         <xsl:choose>
             <xsl:when test="@rend = 'center'">
                 <xsl:element name="center">
@@ -117,13 +118,13 @@
         </xsl:choose>
     </xsl:template>
     
-    <xsl:template match="lg">
+    <xsl:template match="tei:lg">
         <xsl:element name="p">
             <xsl:apply-templates />
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="hi">
+    <xsl:template match="tei:hi">
         <xsl:choose>
             <xsl:when test="@rend = 'bold'">
                 <xsl:element name="b">
@@ -141,7 +142,7 @@
     <!-- line  -->
     <!--   Indentation should be specified in format rend="indent#", where # is
         number of spaces to indent.  --> 
-    <xsl:template match="l">
+    <xsl:template match="tei:l">
         <!-- retrieve any specified indentation -->
         <xsl:if test="@rend">
             <xsl:variable name="rend">
@@ -168,27 +169,27 @@
     </xsl:template>
     
     
-    <xsl:template match="back">
+    <xsl:template match="tei:back">
         <xsl:element name="span">
             <xsl:attribute name="class">byline</xsl:attribute>
-            <xsl:value-of select="byline"/>
+            <xsl:value-of select="tei:byline"/>
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="add">
+    <xsl:template match="tei:add">
         <xsl:element name="span">
             <xsl:attribute name="class">add</xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="gap">
+    <xsl:template match="tei:gap">
         <xsl:element name="span"><xsl:attribute name="class">gap</xsl:attribute>
         <xsl:text>[</xsl:text><xsl:value-of select="@reason"/><xsl:text>]</xsl:text>
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="del">
+    <xsl:template match="tei:del">
         <xsl:element name="span">
             <xsl:attribute name="class">del</xsl:attribute>
             <xsl:apply-templates/>
@@ -220,16 +221,16 @@
         <xsl:variable name="uc_title"><xsl:value-of select="translate($title,
             $lowercase, $uppercase)"  disable-output-escaping="yes"/></xsl:variable>
         
-        <xsl:for-each select="//text">
-            <xsl:if test="normalize-space(front/titlePage/docTitle/titlePart) = $uc_title">
-                <xsl:value-of select="@id"/>
+        <xsl:for-each select="//tei:text">
+            <xsl:if test="normalize-space(tei:front/tei:titlePage/tei:docTitle/tei:titlePart) = $uc_title">
+                <xsl:value-of select="@xml:id"/>
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
 
     
     <xsl:template name="bookmark">
-      <xsl:variable name="id"><xsl:value-of select="//group/group/@id"/></xsl:variable><xsl:element name="hr"/>
+      <xsl:variable name="id"><xsl:value-of select="//tei:group/tei:group/@xml:id"/></xsl:variable><xsl:element name="hr"/>
       <xsl:element name="div"><xsl:attribute name="class">bookmark</xsl:attribute>
     <xsl:text>Permanent URL for this workshop: </xsl:text><xsl:element name="a"><xsl:attribute name="rel">bookmark</xsl:attribute><xsl:attribute name="href"><xsl:value-of select="key('pid', $id)"/></xsl:attribute><xsl:value-of select="key('pid', $id)"/></xsl:element>
       </xsl:element> 

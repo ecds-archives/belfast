@@ -1,7 +1,7 @@
 <?php
 
 /* Configuration settings for entire site */
-$in_production = true;
+$in_production = false;
 
 // set level of php error reporting -- turn off warnings when in production
 if ($in_production) { 
@@ -18,9 +18,9 @@ $server = "beck.library.emory.edu";
 $base_path = "BelfastGroup";
  }
  else {
-$server = "wilson.library.emory.edu";
-$base_path = "/~ahickco/belfast";
-$basedir = "/home/ahickco/public_html/belfast"; 
+$server = "kamina.library.emory.edu";
+$base_path = "/~cdunne/belfast";
+$basedir = "/Users/cdunne/belfast"; 
  }
 $base_url = "http://$server$base_path"; 
 

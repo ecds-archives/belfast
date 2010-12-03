@@ -5,7 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
 $xsl    = "xslt/browse.xsl";
@@ -20,8 +20,9 @@ $doctitle = $_REQUEST["doctitle"];
 // construct xquery
 if ($id) {
 if (empty($doctitle)) {
-$for = 'for $a in /TEI.2/text/group/group[@id="' . "$id" . '"]';
-$let = 'let $hdr := root($a)/TEI.2/teiHeader';
+$for = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
+for $a in /tei:TEI/tei:text/tei:group/tei:group[@xml:id="' . "$id" . '"]';
+$let = 'let $hdr := root($a)/tei:TEI/tei:teiHeader';
 $return = 'return 
 <TEI>
 {$hdr}
@@ -32,10 +33,10 @@ $return = 'return
     }
 
 elseif ($doctitle) {
-$for = 'for $b in /TEI.2/text/group/group[@id="' . "$id" . '"]';
-$let = 'let $a := $b/text[@id &= "' . "$doctitle" . '"]
-let $hdr := root($a)/TEI.2/teiHeader
-let $date := $a/ancestor::group/docDate';
+$for = 'for $b in /tei:TEI/tei:text/tei:group/tei:group[@xml:id="' . "$id" . '"]';
+$let = 'let $a := $b/tei:text[@xml:id &= "' . "$doctitle" . '"]
+let $hdr := root($a)/tei:TEI/tei:teiHeader
+let $date := $a/ancestor::tei:group/tei:docDate';
 $return = 'return 
 <TEI>
 {$hdr}

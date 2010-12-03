@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 		xmlns:dc="http://purl.org/dc/elements/1.1/"
 		xmlns:dcterms="http://purl.org/dc/terms"
+	<!--	xmlns:tei="http://www.tei-c.org/ns/1.0" -->
                 version="1.0">
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
@@ -25,7 +26,7 @@
   <xsl:template match="dc:*">
     <xsl:element name="meta">
       <xsl:attribute name="name">
-        <xsl:value-of select="concat('DC.', local-name())"/>
+        <xsl:value-of select="concat('DC.', local-name())"/> <!-- should tei: precede concat? -->
       </xsl:attribute>
       <xsl:choose>
         <xsl:when test="local-name() = 'format'">
