@@ -17,12 +17,12 @@
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address><idno type="ark" n="heaney1_1041">http://pid.emory.edu/ark:/25593/17kjg</idno><idno type="ark" n="heaney1_1078">http://pid.emory.edu/ark:/25593/17kkm</idno><idno type="ark" n="heaney1_10116">http://pid.emory.edu/ark:/25593/17kmr</idno><idno type="ark" n="heaney1_10163">http://pid.emory.edu/ark:/25593/17knw</idno><idno type="ark" n="heaney1_10199">http://pid.emory.edu/ark:/25593/17kp1</idno><idno type="ark" n="heaney1_10236">http://pid.emory.edu/ark:/25593/17kq5</idno><idno type="ark" n="heaney1_10269">http://pid.emory.edu/ark:/25593/17kr9</idno><idno type="ark" n="heaney1_10365">http://pid.emory.edu/ark:/25593/17ksf</idno><idno type="ark" n="heaney1_10407">http://pid.emory.edu/ark:/25593/17ktk</idno><idno type="ark" n="heaney1_10415">http://pid.emory.edu/ark:/25593/17kvq</idno><idno type="ark" n="heaney1_10442">http://pid.emory.edu/ark:/25593/17kwv</idno><availability>
-          <p xml:id="heaney1_101">1996 Emory University. Permission is granted to 
-download, transmit, or otherwise reproduce, distribute or display the 
-contributions to the work claimed by Emory University for non-profit 
-educational purposes, provided this header is included in its 
-entirety.  For inquiries about commercial uses, contact either: 
-Electronic Poetry Project or Lewis H. Beck Center for Electronic  
+          <p xml:id="heaney1_101">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the
+contributions to the work claimed by Emory University for non-profit
+educational purposes, provided this header is included in its
+entirety.  For inquiries about commercial uses, contact either:
+Electronic Poetry Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
         </availability><date>2000</date></publicationStmt>
       <seriesStmt>
@@ -55,7 +55,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>At a Potato Digging</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_109">
           <front xml:id="heaney1_106">
             <titlePage xml:id="heaney1_105">
@@ -101,7 +101,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_108">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1015">
           <front xml:id="heaney1_1011">
@@ -114,9 +114,9 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <body xml:id="heaney1_1013">
             <lg type="stanza">
               <epigraph>
-                <p xml:id="heaney1_1012">(Translated from Horace, Odes III, xxi.)</p>
+                <p xml:id="heaney1_1012">(Translated from <name ref="http://viaf.org/viaf/100227522" type="person">Horace</name>, Odes III, xxi.)</p>
               </epigraph>
-              <l n="1">When Manlius was consul you were filled,</l>
+              <l n="1">When <name type="person" ref="http://dbpedia.org/resource/Marcus_Manlius">Manlius</name> was consul you were filled,</l>
               <l>Venerable pitcher, and I was born. </l>
               <l>Now we meet. For what? Regrets or laughter? </l>
               <l>Rows or old maudlin loves or boozy sleep? </l>
@@ -124,13 +124,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l>No matter. The rare Massic that you store</l>
               <l>Is only to be savoured on a day</l>
-              <l>Like this: Corvinus is insisting on</l>
+              <l>Like this: <name ref="http://dbpedia.org/resource/Marcus_Valerius_Messalla_Corvinus " type="person">Corvinus</name> is insisting on</l>
               <l>A wine that is a wine. So down you come. </l>
             </lg>
             <lg type="stanza">
               <l>Corvinus will appreciate you, though he looks</l>
               <l>The real ascetic and sounds so terribly</l>
-              <l>Socratic. Anyhow, even Old Cato's</l>
+              <l>Socratic. Anyhow, even <name ref="http://dbpedia.org/resource/Cato_the_Elder" type="person">Old Cato</name>'s</l>
               <l>Frosty precepts thawed in the heat of wine. </l>
             </lg>
             <lg type="stanza">
@@ -146,20 +146,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Or face the firing line after a glass. </l>
             </lg>
             <lg type="stanza">
-              <l>Join us, then, to-night. Here's company! Bacchus</l>
-              <l>And the jealous Graces. Venus too. </l>
+              <l>Join us, then, to-night. Here's company! <name ref="http://dbpedia.org/page/Dionysus">Bacchus</name></l>
+              <l>And the jealous <name ref="http://dbpedia.org/page/Charites">Graces</name>. <name ref="http://dbpedia.org/resource/Venus_(mythology)">Venus</name> too. </l>
               <l>The lamps flicker. Down you come. We'll drink</l>
-              <l>Till Pheobus, returning, routs the morning star.</l>
+              <l>Till <name ref="http://dbpedia.org/resource/Apollo">Pheobus</name>, returning, routs the morning star.</l>
             </lg>
           </body>
           <back xml:id="heaney1_1014">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1020">
           <front xml:id="heaney1_1017">
             <titlePage xml:id="heaney1_1016">
               <docTitle>
-                <titlePart type="main">ON HOGARTH'S ENGRAVING "PIT TICKET FOR THE ROYAL SPORT".</titlePart>
+                <titlePart type="main">ON <name ref="http://viaf.org/viaf/17268409" type="person">HOGARTH</name>'S ENGRAVING "PIT TICKET FOR THE ROYAL SPORT".</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -198,13 +198,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1019">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1025">
           <front xml:id="heaney1_1022">
             <titlePage xml:id="heaney1_1021">
               <docTitle>
-                <titlePart type="main">SYNGE ON THE ARAN</titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/44305889" type="person">SYNGE</name> ON THE <name ref="http://sws.geonames.org/2966947/" type="place">ARAN</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -230,7 +230,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1024">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1030">
           <front xml:id="heaney1_1027">
@@ -273,19 +273,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1029">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1035">
           <front xml:id="heaney1_1032">
             <titlePage xml:id="heaney1_1031">
               <docTitle>
-                <titlePart type="main">SAINT FRANCIS AND THE BIRDS</titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/87832561" type="person">SAINT FRANCIS</name> AND THE BIRDS</titlePart>
               </docTitle>
             </titlePage>
           </front>
           <body xml:id="heaney1_1033">
             <lg type="stanza">
-              <l n="1">When Francis preached love to the birds</l>
+              <l n="1">When <name ref="http://viaf.org/viaf/87832561" type="person">Francis</name> preached love to the birds</l>
               <l>They listened, fluttered, throttled up</l>
               <l>Into the blue like a flock of words</l>
             </lg>
@@ -297,14 +297,14 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l>Danced on the wing, for sheer joy played</l>
               <l>And sang, like images took flight. </l>
-              <l>Which was the best poem Francis made, </l>
+              <l>Which was the best poem <name ref="http://viaf.org/viaf/87832561" type="person">Francis</name> made, </l>
             </lg>
             <lg type="stanza">
               <l>His argument true, his tone light. </l>
             </lg>
           </body>
           <back xml:id="heaney1_1034">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1040">
           <front xml:id="heaney1_1037">
@@ -404,7 +404,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1039">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_1078">
@@ -424,7 +424,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Scaffolding</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_1047">
           <front xml:id="heaney1_1044">
             <titlePage xml:id="heaney1_1043">
@@ -483,7 +483,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1046">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1052">
           <front xml:id="heaney1_1049">
@@ -533,7 +533,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1051">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1057">
           <front xml:id="heaney1_1054">
@@ -567,7 +567,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1056">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1062">
           <front xml:id="heaney1_1059">
@@ -642,7 +642,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1061">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1067">
           <front xml:id="heaney1_1064">
@@ -679,7 +679,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1066">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1072">
           <front xml:id="heaney1_1069">
@@ -716,7 +716,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1071">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1077">
           <front xml:id="heaney1_1074">
@@ -749,7 +749,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1076">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10116">
@@ -769,7 +769,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Salmon Fisher to the Salmon</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_1084">
           <front xml:id="heaney1_1081">
             <titlePage xml:id="heaney1_1080">
@@ -799,7 +799,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1083">
-            <byline>SEAMUS HEANEY</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1089">
           <front xml:id="heaney1_1086">
@@ -823,14 +823,14 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Re-enter the native port of their embrace. </l>
             </lg>
             <lg type="stanza">
-              <l>Blinding in Paris, for his party-piece</l>
-              <l>Joyce named the shops along O'Connell Street</l>
-              <l>And on Iona Colmcille sought ease</l>
+              <l>Blinding in <name ref="http://sws.geonames.org/2988507/" type="place">Paris</name>, for his party-piece</l>
+              <l><name ref="http://viaf.org/viaf/44300643" type="person">Joyce</name> named the shops along <name ref="http://dbpedia.org/resource/O%27Connell_Street" type="place">O'Connell Street</name></l>
+              <l>And on <name ref="http://sws.geonames.org/2646069/" type="place">Iona</name> <name ref="http://dbpedia.org/resource/Columba" type="person">Colmcille</name> sought ease</l>
               <l>by wearing Irish mould next to his feet. </l>
             </lg>
           </body>
           <back xml:id="heaney1_1088">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1094">
           <front xml:id="heaney1_1091">
@@ -883,7 +883,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1093">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_1099">
           <front xml:id="heaney1_1096">
@@ -896,10 +896,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <body xml:id="heaney1_1097">
             <epigraph>
               <q>. . . . the others, with emaciated faces and prominent, staring eyeballs, were evidently in an advanced state of starvation. The officer in charge reported the incident to Sir James Dombrain, the Inspector General . . . . . and Sir James "very inconveniently," wrote Routh, "interfered."</q>
-              <bibl>Cecil Woodham-Smith: The Great Hunger.</bibl>
+              <bibl><name ref="http://viaf.org/viaf/22180353" type="person">Cecil Woodham-Smith</name>: The Great Hunger.</bibl>
             </epigraph>
             <lg type="stanza">
-              <l n="1">Routine patrol off West Mayo;  sighting</l>
+              <l n="1">Routine patrol off West <name ref="http://sws.geonames.org/2962666/" type="place">Mayo</name>;  sighting</l>
               <l>A rowboat heading unusually far</l>
               <l>Beyond the creek, I tacked and hailed the crew</l>
               <l>In Gaelic.  Their stroke had clearly weakened</l>
@@ -915,7 +915,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>They always kept us right with flour and beef</l>
               <l>So understand my feelings, and the men's, </l>
               <l>Who had no mandate to relieve distress. </l>
-              <l>There was relief available in Westport</l>
+              <l>There was relief available in <name ref="http://sws.geonames.org/2962666/" type="place">Westport</name></l>
               <l>Though these poor brutes would clearly never make it. </l>
               <l>I had to refuse food:  they cursed and howled</l>
               <l>Like dogs that had been kicked hard in the privates. </l>
@@ -928,8 +928,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>And once in port I exorcised my ship</l>
               <l>Reporting all to the Inspector General. </l>
               <l>Sir James, I understand, urged free relief</l>
-              <l>For famine victims in the Westport Sector</l>
-              <l>And earned tart reprimand from good Whitehall. </l>
+              <l>For famine victims in the <name ref="http://sws.geonames.org/2960970/" type="place">Westport</name> Sector</l>
+              <l>And earned tart reprimand from good <name ref="http://sws.geonames.org/2634099/" type="place">Whitehall</name>. </l>
               <l>Let natives prosper by their own exertions; </l>
               <l>Who could not swim might go ahead and sink. </l>
               <l>"The Coast Guard with their zeal and activity</l>
@@ -937,7 +937,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_1098">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10105">
           <front xml:id="heaney1_10101">
@@ -949,7 +949,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="heaney1_10103">
             <epigraph>
-              <p xml:id="heaney1_10102">(For Michael Longley)</p>
+              <p xml:id="heaney1_10102">(For <name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name>)</p>
             </epigraph>
             <lg type="stanza">
               <l n="1">As a child, they could not keep me from wells</l>
@@ -983,13 +983,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10104">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10110">
           <front xml:id="heaney1_10107">
             <titlePage xml:id="heaney1_10106">
               <docTitle>
-                <titlePart type="main">GIRLS BATHING, GALWAY 1965</titlePart>
+                <titlePart type="main">GIRLS BATHING, <name ref="http://sws.geonames.org/2964180/" type="place">GALWAY</name> 1965</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1026,7 +1026,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10109">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10115">
           <front xml:id="heaney1_10112">
@@ -1069,7 +1069,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10114">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10163">
@@ -1090,7 +1090,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Orange Drums, Tyrone 1966</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10122">
           <front xml:id="heaney1_10119">
             <titlePage xml:id="heaney1_10118">
@@ -1145,7 +1145,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10121">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10127">
           <front xml:id="heaney1_10124">
@@ -1199,7 +1199,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
             <lg type="stanza">
               <head>III</head>
-              <l>One eye matched his.  Here is Hogarth's cockpit: </l>
+              <l>One eye matched his.  Here is <name ref="http://viaf.org/viaf/17268409" type="person">Hogarth</name>'s cockpit: </l>
               <l>The crowd elbows and grunts, the cripples sweat. </l>
               <l>A trapped hag gapes and chokes, obscenely twisted </l>
               <l>To keep her view.  As in a Way of the Cross</l>
@@ -1224,13 +1224,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10126">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10132">
           <front xml:id="heaney1_10129">
             <titlePage xml:id="heaney1_10128">
               <docTitle>
-                <titlePart type="main">HOMAGE TO PIETER BRUEGHEL</titlePart>
+                <titlePart type="main">HOMAGE TO <name ref="http://viaf.org/viaf/95761864" type="person">PIETER BRUEGHEL</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1266,7 +1266,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10131">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10137">
           <front xml:id="heaney1_10134">
@@ -1299,7 +1299,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10136">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10142">
           <front xml:id="heaney1_10139">
@@ -1324,7 +1324,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10141">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10148">
           <front xml:id="heaney1_10144">
@@ -1336,7 +1336,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="heaney1_10146">
             <epigraph>
-              <p xml:id="heaney1_10145">(Wexford, 1798)</p>
+              <p xml:id="heaney1_10145">(<name ref="http://sws.geonames.org/2960964/" type="place">Wexford</name>, 1798)</p>
             </epigraph>
             <lg type="stanza">
               <l n="1">The pockets of our great-coats full of barley</l>
@@ -1348,7 +1348,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Horsemen and horse fell to the twelve foot pike,</l>
               <l>We'd stampede cattle into infantry, </l>
               <l>Retreat through hedges where cavalry must be thrown</l>
-              <l>Until, on Vinegar Hill, the fatal conclave: </l>
+              <l>Until, on <name ref="http://sws.geonames.org/2961009/" type="place">Vinegar Hill</name>, the fatal conclave: </l>
               <l>Twenty thousand died; shaking scythes at cannon. </l>
               <l>The hillside blushed, soaked in our broken wave. </l>
               <l>They buried us without shroud or coffin</l>
@@ -1356,7 +1356,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10147">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10152">
           <front xml:id="heaney1_10149"/>
@@ -1414,13 +1414,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10156">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10162">
           <front xml:id="heaney1_10159">
             <titlePage xml:id="heaney1_10158">
               <docTitle>
-                <titlePart type="main">ORANGE DRUMS, TYRONE 1966</titlePart>
+                <titlePart type="main">ORANGE DRUMS, <name ref="http://sws.geonames.org/3312286/" type="place">TYRONE</name> 1966</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1445,7 +1445,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10161">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10199">
@@ -1465,7 +1465,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Obituary</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10169">
           <front xml:id="heaney1_10166">
             <titlePage xml:id="heaney1_10165">
@@ -1529,7 +1529,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10168">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10174">
           <front xml:id="heaney1_10171">
@@ -1580,7 +1580,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10173">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10178">
           <front xml:id="heaney1_10176">
@@ -1649,7 +1649,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10182">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10188">
           <front xml:id="heaney1_10185">
@@ -1692,7 +1692,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10187">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10193">
           <front xml:id="heaney1_10190">
@@ -1715,7 +1715,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10192">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10198">
           <front xml:id="heaney1_10195">
@@ -1761,7 +1761,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10197">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10236">
@@ -1781,7 +1781,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Men's Confessions</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10205">
           <front xml:id="heaney1_10202">
             <titlePage xml:id="heaney1_10201">
@@ -1815,7 +1815,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10204">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10210">
           <front xml:id="heaney1_10207">
@@ -1827,7 +1827,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="heaney1_10208">
             <lg type="stanza">
-              <l n="1">Her scarf a la Bardot,</l>
+              <l n="1">Her scarf a la <name ref="http://viaf.org/viaf/49211553" type="person">Bardot</name>,</l>
               <l>In suede flats for the walk, </l>
               <l>She came with me one evening</l>
               <l>For air and friendly talk. </l>
@@ -1868,7 +1868,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10209">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10215">
           <front xml:id="heaney1_10212">
@@ -1916,13 +1916,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10214">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10220">
           <front xml:id="heaney1_10217">
             <titlePage xml:id="heaney1_10216">
               <docTitle>
-                <titlePart type="main">IN GLENELLY VALLEY</titlePart>
+                <titlePart type="main">IN <name ref="http://sws.geonames.org/2648493/" type="place">GLENELLY</name> VALLEY</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1997,7 +1997,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10219">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10225">
           <front xml:id="heaney1_10222">
@@ -2050,7 +2050,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10224">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10230">
           <front xml:id="heaney1_10227">
@@ -2087,7 +2087,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10229">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10235">
           <front xml:id="heaney1_10232">
@@ -2124,7 +2124,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10234">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10269">
@@ -2143,12 +2143,12 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>A Winter's Tale</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10242">
           <front xml:id="heaney1_10239">
             <titlePage xml:id="heaney1_10238">
               <docTitle>
-                <titlePart type="main">AT ARDBOE POINT</titlePart>
+                <titlePart type="main">AT <name ref="http://sws.geonames.org/2657218/" type="place">ARDBOE</name> POINT</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -2210,7 +2210,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10241">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10247">
           <front xml:id="heaney1_10244">
@@ -2235,7 +2235,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10246">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10252">
           <front xml:id="heaney1_10249">
@@ -2262,7 +2262,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10251">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10258">
           <front xml:id="heaney1_10254">
@@ -2335,7 +2335,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10257">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10263">
           <front xml:id="heaney1_10260">
@@ -2397,7 +2397,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10262">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10268">
           <front xml:id="heaney1_10265">
@@ -2458,7 +2458,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10267">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10365">
@@ -2498,7 +2498,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Persephone</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10277">
           <front xml:id="heaney1_10274">
             <titlePage xml:id="heaney1_10273">
@@ -2547,13 +2547,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10276">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10282">
           <front xml:id="heaney1_10279">
             <titlePage xml:id="heaney1_10278">
               <docTitle>
-                <titlePart type="main">LOVERS ON ARAN</titlePart>
+                <titlePart type="main">LOVERS ON <name ref="http://sws.geonames.org/2966947/" type="place">ARAN</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -2561,10 +2561,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l n="1">The timeless waves, bright sifting, broken glass, </l>
               <l>Came dazzling around, in the rocks, </l>
-              <l>Came glinting, sifting from the Americas</l>
+              <l>Came glinting, sifting from the <name ref="http://dbpedia.org/resource/Americas" type="place">Americas</name></l>
             </lg>
             <lg type="stanza">
-              <l>To possess Aran.  Or did Aran rush</l>
+              <l>To possess <name ref="http://sws.geonames.org/2966947/" type="place">Aran</name>.  Or did <name ref="http://sws.geonames.org/2966947/" type="place">Aran</name> rush</l>
               <l>To throw wide arms of rock around a tide</l>
               <l>That yielded with an ebb, with a soft crash? </l>
             </lg>
@@ -2575,7 +2575,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10281">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10287">
           <front xml:id="heaney1_10284">
@@ -2624,7 +2624,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10286">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10292">
           <front xml:id="heaney1_10289">
@@ -2680,7 +2680,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10291">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10298">
           <front xml:id="heaney1_10294">
@@ -2693,7 +2693,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <body xml:id="heaney1_10296">
             <lg type="stanza">
               <epigraph>
-                <p xml:id="heaney1_10295">For Michael Longley</p>
+                <p xml:id="heaney1_10295">For <name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></p>
               </epigraph>
               <l n="1">As a child, they could not keep me from wells</l>
               <l>And old pumps with buckets and windlasses. </l>
@@ -2726,7 +2726,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10297">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10303">
           <front xml:id="heaney1_10300">
@@ -2738,7 +2738,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="heaney1_10301">
             <lg type="stanza">
-              <l n="1" rend="indent7">WhenI lie on the ground</l>
+              <l n="1" rend="indent7">When I lie on the ground</l>
               <l>I rise flushed like a rose in the morning. </l>
               <l>In fights I arrange a fall on the ring</l>
               <l rend="indent7">To rub myself with sand</l>
@@ -2769,7 +2769,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10302">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10308">
           <front xml:id="heaney1_10305">
@@ -2853,7 +2853,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10307">
-            <byline>Brendan Kennelly</byline>
+            <byline><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></byline>
           </back>
         </text><text xml:id="heaney1_10313">
           <front xml:id="heaney1_10310">
@@ -2916,13 +2916,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10312">
-            <byline>Brendan Kennelly</byline>
+            <byline><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></byline>
           </back>
         </text><text xml:id="heaney1_10318">
           <front xml:id="heaney1_10315">
             <titlePage xml:id="heaney1_10314">
               <docTitle>
-                <titlePart type="main">MARLOWE</titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/32000005" type="person">MARLOWE</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -2930,22 +2930,22 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l n="1">There was a quarrel about the bill</l>
               <l>Of reckoning, not paid until</l>
-              <l>Kit Marlowe, knifed above the eye</l>
-              <l>By Ingram Frazier, finally</l>
+              <l><name ref="http://viaf.org/viaf/32000005" type="person">Marlowe</name>, knifed above the eye</l>
+              <l>By <name ref="http://dbpedia.org/resource/Ingram_Frizer" type="person">Ingram Frazier</name>, finally</l>
               <l>Settled everything with his blood. </l>
               <l>The whole account was closed for good. </l>
             </lg>
             <lg type="stanza">
               <l>It was a giant heart that fell</l>
               <l>The victim of a tavern brawl. </l>
-              <l>Young Kit Marlowe met his doom</l>
+              <l>Young <name ref="http://viaf.org/viaf/32000005" type="person">Kit Marlowe</name> met his doom</l>
               <l>In a smoky upstairs room. </l>
               <l>The blood that flowed was poetry</l>
               <l>Unformed by the quick alchemy</l>
               <l>That fashioned Faustus in his prime</l>
               <l>And followed the fantastic dream</l>
               <l>Of Tamburlaine, but was unmade</l>
-              <l>By the sharp flash of Frazier's blade. </l>
+              <l>By the sharp flash of <name ref="http://dbpedia.org/resource/Ingram_Frizer" type="person">Frazier</name>'s blade. </l>
             </lg>
             <lg type="stanza">
               <l>The dark impenetrable past</l>
@@ -2971,11 +2971,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>It is impossible to tell</l>
               <l>How tragic is the unpaid bill, </l>
               <l>Or guess at what was left unsaid</l>
-              <l>When the blood poured from Marlowe's head. </l>
+              <l>When the blood poured from <name ref="http://viaf.org/viaf/32000005" type="person">Marlowe</name>'s head. </l>
             </lg>
           </body>
           <back xml:id="heaney1_10317">
-            <byline>Brendan Kennelly</byline>
+            <byline><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></byline>
           </back>
         </text><text xml:id="heaney1_10323">
           <front xml:id="heaney1_10320">
@@ -2988,7 +2988,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <body xml:id="heaney1_10321">
             <lg type="stanza">
               <epigraph>
-                <q>(For Eavan)</q>
+                <q>(For <name ref="http://viaf.org/viaf/22253909" type="person">Eavan</name>)</q>
               </epigraph>
               <l n="1">The good are vulnerable</l>
               <l>As any bird in flight, </l>
@@ -3026,7 +3026,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10322">
-            <byline>Brendan Kennelly</byline>
+            <byline><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></byline>
           </back>
         </text><text xml:id="heaney1_10329">
           <front xml:id="heaney1_10325">
@@ -3039,7 +3039,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <body xml:id="heaney1_10327">
             <lg type="stanza">
               <epigraph>
-                <p xml:id="heaney1_10326">In Memoriam Frank O'Connor (Michael O'Donovan)</p>
+                <p xml:id="heaney1_10326">In Memoriam <name ref="http://viaf.org/viaf/39396585" type="person">Frank O'Connor (Michael O'Donovan)</name></p>
               </epigraph>
               <l n="1">Climbing the last steps to your house, I knew</l>
               <l>That I would find you in your chair, </l>
@@ -3073,7 +3073,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l>Or else you cried in rage against the force</l>
               <l>That would reduce to barren silence all</l>
-              <l>Who would articulate dark Ireland's soul; </l>
+              <l>Who would articulate dark <name ref="http://sws.geonames.org/2963597/" type="place">Ireland</name>'s soul; </l>
               <l>You knew the evil of the pious curse, </l>
               <l>The hearts that make God pitifully small</l>
               <l>Until He seems the God of little fear</l>
@@ -3102,7 +3102,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10328">
-            <byline>Brendan Kennelly</byline>
+            <byline><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></byline>
           </back>
         </text><text xml:id="heaney1_10334">
           <front xml:id="heaney1_10331">
@@ -3145,11 +3145,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10333">
-            <byline>Brendan Kennelly</byline>
+            <byline><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></byline>
           </back>
         </text><text xml:id="heaney1_10339">
           <front xml:id="heaney1_10336">
-            <head>POEMS BY MICHAEL LONGLEY:</head>
+            <head>POEMS BY <name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name>:</head>
             <titlePage xml:id="heaney1_10335">
               <docTitle>
                 <titlePart type="main">THE OSPREY</titlePart>
@@ -3177,22 +3177,22 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10338">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="heaney1_10344">
           <front xml:id="heaney1_10341">
             <titlePage xml:id="heaney1_10340">
               <docTitle>
-                <titlePart type="main">THE HEBRIDES</titlePart>
+                <titlePart type="main">THE <name ref="http://sws.geonames.org/2647204/" type="place">HEBRIDES</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
           <body xml:id="heaney1_10342">
             <lg type="stanza">
               <head>I</head>
-              <l n="1">The winds' enclosure, Atlantic's premises, </l>
+              <l n="1">The winds' enclosure, <name ref="http://sws.geonames.org/3373405/" type="place">Atlantic</name>'s premises, </l>
               <l rend="indent17">Last balconies</l>
-              <l rend="indent5">Above the waves, The Hebrides -</l>
+              <l rend="indent5">Above the waves, The <name ref="http://sws.geonames.org/2647204/" type="place">Hebrides</name> -</l>
               <l rend="indent9">Too long did I postpone</l>
               <l>Presbyterian granite and the lack of trees, </l>
               <l rend="indent17">This orphaned stone</l>
@@ -3339,13 +3339,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10343">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="heaney1_10349">
           <front xml:id="heaney1_10346">
             <titlePage xml:id="heaney1_10345">
               <docTitle>
-                <titlePart type="main">ELEGY FOR FATS WALLER</titlePart>
+                <titlePart type="main">ELEGY FOR <name ref="http://viaf.org/viaf/54334148" type="person">FATS WALLER</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -3373,13 +3373,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10348">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="heaney1_10354">
           <front xml:id="heaney1_10351">
             <titlePage xml:id="heaney1_10350">
               <docTitle>
-                <titlePart type="main">DR JOHNSON DYING</titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/7406725" type="person">DR JOHNSON</name> DYING</titlePart>
               </docTitle>
             </titlePage>
             <epigraph>
@@ -3392,7 +3392,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
                 <l>deep, when he thought that his surgeon</l>
                 <l>had done it too tenderly."</l>
               </q>
-              <bibl>- Boswell's Life of Johnson</bibl>
+              <bibl>- <name ref="http://viaf.org/viaf/64002337" type="person">Boswell</name>'s Life of <name ref="http://viaf.org/viaf/7406725" type="person">Johnson</name></bibl>
             </epigraph>
           </front>
           <body xml:id="heaney1_10352">
@@ -3412,7 +3412,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10353">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="heaney1_10359">
           <front xml:id="heaney1_10356">
@@ -3441,7 +3441,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10358">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="heaney1_10364">
           <front xml:id="heaney1_10361">
@@ -3481,7 +3481,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10363">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10407">
@@ -3502,7 +3502,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Bye-Child</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10371">
           <front xml:id="heaney1_10368">
             <titlePage xml:id="heaney1_10367">
@@ -3513,7 +3513,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="heaney1_10369">
             <lg type="stanza">
-              <l n="1">Here is Patrick</l>
+              <l n="1">Here is <name ref="http://dbpedia.org/resource/Saint_Patrick" type="person">Patrick</name></l>
               <l>Banishing the serpents, </l>
               <l>The gold nostrils flared</l>
               <l>On his crozier. </l>
@@ -3543,14 +3543,14 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Writhes at the edges. </l>
             </lg>
             <lg type="stanza">
-              <l>Here is Patrick</l>
+              <l>Here is <name ref="http://dbpedia.org/resource/Saint_Patrick" type="person">Patrick</name></l>
               <l>Ridding the country, </l>
               <l>A celtic worm-clot</l>
               <l>Paralysed round his staff.</l>
             </lg>
           </body>
           <back xml:id="heaney1_10370">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10376">
           <front xml:id="heaney1_10373">
@@ -3562,7 +3562,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="heaney1_10374">
             <lg type="stanza">
-              <l n="1">Fishermen at Ballyshannon</l>
+              <l n="1">Fishermen at <name ref="http://sws.geonames.org/2966406/" type="place">Ballyshannon</name></l>
               <l>Netted an infant last night</l>
               <l>Along with the salmon</l>
               <l>An illegitimate spawning, </l>
@@ -3593,7 +3593,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10375">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10381">
           <front xml:id="heaney1_10378">
@@ -3630,7 +3630,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10380">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10386">
           <front xml:id="heaney1_10383">
@@ -3671,13 +3671,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10385">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10391">
           <front xml:id="heaney1_10388">
             <titlePage xml:id="heaney1_10387">
               <docTitle>
-                <titlePart type="main">HIGH STREET, BELFAST, 1786</titlePart>
+                <titlePart type="main">HIGH STREET, <name ref="http://sws.geonames.org/2655984/" type="place">BELFAST</name>, 1786</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -3729,7 +3729,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10390">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10396">
           <front xml:id="heaney1_10393">
@@ -3759,11 +3759,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
             <lg type="stanza">
               <l>And square-set men in tunics</l>
-              <l>Who plied soft names like Bruges</l>
+              <l>Who plied soft names like <name ref="http://sws.geonames.org/2800931/" type="place">Bruges</name></l>
             </lg>
             <lg type="stanza">
               <l>In their talk, merchants</l>
-              <l>Back from the Netherlands. </l>
+              <l>Back from the <name ref="http://sws.geonames.org/2750405/" type="place">Netherlands</name>. </l>
             </lg>
             <lg type="stanza">
               <l>O all the hamlets where</l>
@@ -3783,7 +3783,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10395">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10401">
           <front xml:id="heaney1_10398">
@@ -3826,7 +3826,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10400">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10406">
           <front xml:id="heaney1_10403">
@@ -3888,7 +3888,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10405">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10415">
@@ -3902,12 +3902,12 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>A Lough Neagh Sequence</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10414">
           <front xml:id="heaney1_10410">
             <titlePage xml:id="heaney1_10409">
               <docTitle>
-                <titlePart type="main">A LOUGH NEAGH SEQUENCE</titlePart>
+                <titlePart type="main">A <name ref="http://sws.geonames.org/2641846/" type="place">LOUGH NEAGH</name> SEQUENCE</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -3957,7 +3957,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
                 <l>on water sperming up</l>
                 <l>estuaries, he drifted</l>
                 <l>into motion half-way</l>
-                <l>across the Atlantic, </l>
+                <l>across the <name ref="http://sws.geonames.org/3373405/" type="place">Atlantic</name>, </l>
                 <l>sure as the satellite's </l>
                 <l>insinuating pull</l>
                 <l>in the ocean, as true</l>
@@ -4050,7 +4050,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <head>5. Lifting</head>
               <lg type="stanza">
                 <l>They're busy in a high boat</l>
-                <l>That stalks towards Antrim, the power cut. </l>
+                <l>That stalks towards <name ref="http://sws.geonames.org/2657256/" type="place">Antrim</name>, the power cut. </l>
                 <l>The line's a filament of smut</l>
               </lg>
               <lg type="stanza">
@@ -4125,7 +4125,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
                 <l>The lough will claim a victim every year. </l>
                 <l>It has virtue that hardens wood to stone. </l>
                 <l>There is a town sunk beneath its water. </l>
-                <l>It is the scar left by the Isle of Man. </l>
+                <l>It is the scar left by the <name ref="http://sws.geonames.org/3042225/" type="place">Isle of Man</name>. </l>
               </lg>
               <lg type="stanza">
                 <head rend="center">II</head>
@@ -4136,7 +4136,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               </lg>
               <lg type="stanza">
                 <head rend="center">III</head>
-                <l>But up the shore in Antrim and Tyrone</l>
+                <l>But up the shore in <name ref="http://sws.geonames.org/2657256/" type="place">Antrim</name> and <name ref="http://sws.geonames.org/2635259/" type="place">Tyrone</name></l>
                 <l>There is a sense of fair play in the game. </l>
                 <l>At two miles out, they coax them one by one, </l>
                 <l>These fishermen who've never learnt to swim. </l>
@@ -4151,7 +4151,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10413">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
       <group xml:id="heaney1_10442">
@@ -4169,7 +4169,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Westering</item>
           </list>
         </argument>
-        
+
         <text xml:id="heaney1_10421">
           <front xml:id="heaney1_10418">
             <titlePage xml:id="heaney1_10417">
@@ -4211,7 +4211,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10420">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10426">
           <front xml:id="heaney1_10423">
@@ -4311,7 +4311,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10425">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10431">
           <front xml:id="heaney1_10428">
@@ -4428,7 +4428,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10430">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10436">
           <front xml:id="heaney1_10433">
@@ -4441,7 +4441,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <body xml:id="heaney1_10434">
             <lg type="stanza">
               <head>I</head>
-              <l n="1">Some day I will go to Aarhus</l>
+              <l n="1">Some day I will go to <name type="place" ref="http://sws.geonames.org/2624652/">Aarhus</name></l>
               <l>To see his peat-brown head, </l>
               <l>The mild pods of his eye-lids, </l>
               <l>His pointed skin cap. </l>
@@ -4468,7 +4468,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Trove of the turfcutters'</l>
               <l>Honeycombed workings. </l>
               <l>Now his stained face</l>
-              <l>Reposes at Aarhus. </l>
+              <l>Reposes at <name type="place" ref="http://sws.geonames.org/2624652/">Aarhus</name>. </l>
             </lg>
             <lg type="stanza">
               <head>II</head>
@@ -4497,20 +4497,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Saying the names</l>
             </lg>
             <lg type="stanza">
-              <l>Tollund, Grabaulle, Nebelgard, </l>
+              <l>Tollund, <name ref="http://sws.geonames.org/2621252/" type="place">Grabaulle</name>, Nebelgard, </l>
               <l>Watching the pointing hands</l>
               <l>Of country people, </l>
               <l>Not knowing their tongue. </l>
             </lg>
             <lg type="stanza">
-              <l>Out there in Jutland</l>
+              <l>Out there in <name ref="http://sws.geonames.org/2619218/" type="place">Jutland</name></l>
               <l>In the old man-killing parishes</l>
               <l>I will feel lost, </l>
               <l>Unhappy and at home.</l>
             </lg>
           </body>
           <back xml:id="heaney1_10435">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text><text xml:id="heaney1_10441">
           <front xml:id="heaney1_10438">
@@ -4522,7 +4522,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="heaney1_10439">
             <lg type="stanza">
-              <l n="1">I sit under Rand McNally's</l>
+              <l n="1">I sit under <name ref="http://dbpedia.org/resource/Rand_McNally" type="org">Rand McNally</name>'s</l>
               <l>"Official Map of the Moon" -</l>
               <l>The colour of frogskin, </l>
               <l>Its enlarged pores held</l>
@@ -4531,7 +4531,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Open and one called</l>
               <l> "Pitiscus" at eye level -</l>
               <l>Recalling the last night</l>
-              <l>In Donegal, my shadow</l>
+              <l>In <name ref="http://sws.geonames.org/2964751/" type="place">Donegal</name>, my shadow</l>
             </lg>
             <lg type="stanza">
               <l>Neat upon the whitewash</l>
@@ -4577,7 +4577,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="heaney1_10440">
-            <byline>Seamus Heaney</byline>
+            <byline><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></byline>
           </back>
         </text></group>
     </group>
