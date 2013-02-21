@@ -623,7 +623,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1056">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text><text xml:id="simmons1_1062">
           <front xml:id="simmons1_1059">
@@ -659,7 +659,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1061">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text><text xml:id="simmons1_1068">
           <front xml:id="simmons1_1064">
@@ -671,7 +671,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="simmons1_1066">
             <epigraph>
-              <p xml:id="simmons1_1065">(Leeds.  Saturday afternoon.  October.)</p>
+              <p xml:id="simmons1_1065">(<name ref="http://sws.geonames.org/2644688/" type="place">Leeds</name>.  Saturday afternoon.  October.)</p>
             </epigraph>
             <lg type="stanza">
               <l n="1">Going home alone this deserted Saturday,</l>
