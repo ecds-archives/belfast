@@ -39,19 +39,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
     <front xml:id="simmons1_103"/>
     <group xml:id="simmons1_1070">
       <group xml:id="simmons1_1035">
-        <head>POEMS BY JAMES SIMMONS</head>
-        <docAuthor>James Simmons</docAuthor>
+        <head>POEMS BY <name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></head>
+        <docAuthor><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="simmons1_104">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Drinker's Blues</item>
-            <item>Fahan Strand</item>
+            <item><name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> Strand</item>
             <item>Old Lady's Song</item>
             <item>Ramble Away</item>
             <item>The Young Airforce Men</item>
-            <item>The Ulster Soldier Boy</item>
+            <item>The <name ref="http://sws.geonames.org/7521316/" type="place">Ulster</name> Soldier Boy</item>
           </list>
         </argument>
         
@@ -98,13 +98,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_108">
-            <byline>James Simmons</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></byline>
           </back>
         </text><text xml:id="simmons1_1014">
           <front xml:id="simmons1_1011">
             <titlePage xml:id="simmons1_1010">
               <docTitle>
-                <titlePart type="main">FAHAN STRAND</titlePart>
+                <titlePart type="main"><name ref="http://sws.geonames.org/2964376/" type="place">FAHAN</name> STRAND</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -113,21 +113,21 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l n="1">On a sunny day in June or May</l>
               <l>When we had time in hand,</l>
               <l>We'ld take our bykes or hitch-hike</l>
-              <l>For a bathe along Fahan strand.</l>
+              <l>For a bathe along <name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> strand.</l>
               <l>The sand is smooth, the water shallow,</l>
               <l>Tepid to your hand,</l>
               <l>And sparkles in the sun like stars</l>
-              <l>All along Fahan Strand.</l>
+              <l>All along <name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> Strand.</l>
             </lg>
             <lg type="stanza">
-              <l>In the war we'ld descend to buy at Bridge End</l>
+              <l>In the war we'ld descend to buy at <name ref="http://sws.geonames.org/2966001/" type="place">Bridge End</name></l>
               <l>Boiled sweets in paper bags,</l>
               <l>And the tougher the guys got in supplies</l>
               <l>Of the cheaper Free State fags;</l>
               <l>But before I bought cigarettes or thought</l>
               <l>Of holding girls by the hand,</l>
-              <l>I knew the route out past Burnfoot</l>
-              <l>That leads to sweet Fahan Strand.</l>
+              <l>I knew the route out past <name ref="http://sws.geonames.org/2965905/" type="place">Burnfoot</name></l>
+              <l>That leads to sweet <name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> Strand.</l>
             </lg>
             <lg type="stanza">
               <l>To my distress the Lough Swilly express</l>
