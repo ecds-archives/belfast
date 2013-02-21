@@ -6,7 +6,7 @@ presenting the work of the Belfast Group poets
 
 -----
 
-This fork of https://github.com/eulbeckcenter/belfast was created for TEI XML enhancement work being done 
+This fork of https://github.com/emory-libraries-beckctr/belfast was created for TEI XML enhancement work being done 
 as part of the `Digital Scholarship Commons`_ project `Networking the Belfast Group`_.
 
 .. _Digital Scholarship Commons: http://disc.library.emory.edu/
