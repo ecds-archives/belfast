@@ -16,7 +16,18 @@
       <extent>270 Kb</extent>
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
-        </address><idno type="ark" n="heaney1_1041">http://pid.emory.edu/ark:/25593/17kjg</idno><idno type="ark" n="heaney1_1078">http://pid.emory.edu/ark:/25593/17kkm</idno><idno type="ark" n="heaney1_10116">http://pid.emory.edu/ark:/25593/17kmr</idno><idno type="ark" n="heaney1_10163">http://pid.emory.edu/ark:/25593/17knw</idno><idno type="ark" n="heaney1_10199">http://pid.emory.edu/ark:/25593/17kp1</idno><idno type="ark" n="heaney1_10236">http://pid.emory.edu/ark:/25593/17kq5</idno><idno type="ark" n="heaney1_10269">http://pid.emory.edu/ark:/25593/17kr9</idno><idno type="ark" n="heaney1_10365">http://pid.emory.edu/ark:/25593/17ksf</idno><idno type="ark" n="heaney1_10407">http://pid.emory.edu/ark:/25593/17ktk</idno><idno type="ark" n="heaney1_10415">http://pid.emory.edu/ark:/25593/17kvq</idno><idno type="ark" n="heaney1_10442">http://pid.emory.edu/ark:/25593/17kwv</idno><availability>
+        </address><idno type="ark" n="heaney1_1041">http://pid.emory.edu/ark:/25593/17kjg</idno>
+        <idno type="ark" n="heaney1_1078">http://pid.emory.edu/ark:/25593/17kkm</idno>
+        <idno type="ark" n="heaney1_10116">http://pid.emory.edu/ark:/25593/17kmr</idno>
+        <idno type="ark" n="heaney1_10163">http://pid.emory.edu/ark:/25593/17knw</idno>
+        <idno type="ark" n="heaney1_10199">http://pid.emory.edu/ark:/25593/17kp1</idno>
+        <idno type="ark" n="heaney1_10236">http://pid.emory.edu/ark:/25593/17kq5</idno>
+        <idno type="ark" n="heaney1_10269">http://pid.emory.edu/ark:/25593/17kr9</idno>
+        <idno type="ark" n="heaney1_10365">http://pid.emory.edu/ark:/25593/17ksf</idno>
+        <idno type="ark" n="heaney1_10407">http://pid.emory.edu/ark:/25593/17ktk</idno>
+        <idno type="ark" n="heaney1_10415">http://pid.emory.edu/ark:/25593/17kvq</idno>
+        <idno type="ark" n="heaney1_10442">http://pid.emory.edu/ark:/25593/17kwv</idno>
+        <availability>
           <p xml:id="heaney1_101">1996 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
@@ -31,10 +42,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <sourceDesc>
         <bibl>Belfast Group Sheets, Manuscript, Archives, and Rare Book Library, Robert W. Woodruff Library, Emory University, Atlanta GA</bibl>
       </sourceDesc>
-    </fileDesc><encodingDesc><projectDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
         <p xml:id="heaney1_102">This text is produced in conjunction with the Electronic Poetry Project at Emory University</p>
       </projectDesc>
-            <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2000</date><label>Staff</label><name>Katherine Ellison</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change xmlns="http://www.tei-c.org/ns/1.0"><date>December 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+      <refsDecl><p>In the publicationStmt/idno the n attribute contains the id of the corresponding group.</p></refsDecl></encodingDesc>
+      <revisionDesc>
+        <change><name>Rebecca Sutton Koeser</name> added name tags and references to semantic entities in DBpedia, VIAF, and GeoNames.org on <date when="2013-03">March 2013</date></change>
+        <change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change>
+        <change xmlns="http://www.tei-c.org/ns/1.0"><date>2000</date><label>Staff</label><name>Katherine Ellison</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change>
+        <change xmlns="http://www.tei-c.org/ns/1.0"><date>December 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change>
+      </revisionDesc>
+    </teiHeader>
   <text xml:id="heaney1_10444">
     <front xml:id="heaney1_103"/>
     <group xml:id="heaney1_10443">
@@ -929,7 +949,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Reporting all to the Inspector General. </l>
               <l>Sir James, I understand, urged free relief</l>
               <l>For famine victims in the <name ref="http://sws.geonames.org/2960970/" type="place">Westport</name> Sector</l>
-              <l>And earned tart reprimand from good <name ref="http://sws.geonames.org/2634099/" type="place">Whitehall</name>. </l>
+              <l>And earned tart reprimand from good <name ref="http://dbpedia.org/resource/Whitehall/" type="place">Whitehall</name>. </l>
               <l>Let natives prosper by their own exertions; </l>
               <l>Who could not swim might go ahead and sink. </l>
               <l>"The Coast Guard with their zeal and activity</l>
@@ -1420,7 +1440,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front xml:id="heaney1_10159">
             <titlePage xml:id="heaney1_10158">
               <docTitle>
-                <titlePart type="main">ORANGE DRUMS, <name ref="http://sws.geonames.org/3312286/" type="place">TYRONE</name> 1966</titlePart>
+                <titlePart type="main">ORANGE DRUMS, <name ref="http://sws.geonames.org/2635259/" type="place">TYRONE</name> 1966</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -3813,7 +3833,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Arguing through until morning</l>
             </lg>
             <lg type="stanza">
-              <l>In Pompeian silence. </l>
+              <l>In <name ref="http://sws.geonames.org/3170336/" type="place">Pompei</name>an silence. </l>
               <l>The dummies watched from the window -</l>
               <l>Displays as we slipped to the sea. </l>
               <l>I got away out by myself</l>
