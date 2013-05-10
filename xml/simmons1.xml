@@ -39,19 +39,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
     <front xml:id="simmons1_103"/>
     <group xml:id="simmons1_1070">
       <group xml:id="simmons1_1035">
-        <head>POEMS BY JAMES SIMMONS</head>
-        <docAuthor>James Simmons</docAuthor>
+        <head>POEMS BY <name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></head>
+        <docAuthor><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="simmons1_104">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Drinker's Blues</item>
-            <item>Fahan Strand</item>
+            <item><name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> Strand</item>
             <item>Old Lady's Song</item>
             <item>Ramble Away</item>
             <item>The Young Airforce Men</item>
-            <item>The Ulster Soldier Boy</item>
+            <item>The <name ref="http://sws.geonames.org/7521316/" type="place">Ulster</name> Soldier Boy</item>
           </list>
         </argument>
         
@@ -98,13 +98,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_108">
-            <byline>James Simmons</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></byline>
           </back>
         </text><text xml:id="simmons1_1014">
           <front xml:id="simmons1_1011">
             <titlePage xml:id="simmons1_1010">
               <docTitle>
-                <titlePart type="main">FAHAN STRAND</titlePart>
+                <titlePart type="main"><name ref="http://sws.geonames.org/2964376/" type="place">FAHAN</name> STRAND</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -113,24 +113,24 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l n="1">On a sunny day in June or May</l>
               <l>When we had time in hand,</l>
               <l>We'ld take our bykes or hitch-hike</l>
-              <l>For a bathe along Fahan strand.</l>
+              <l>For a bathe along <name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> strand.</l>
               <l>The sand is smooth, the water shallow,</l>
               <l>Tepid to your hand,</l>
               <l>And sparkles in the sun like stars</l>
-              <l>All along Fahan Strand.</l>
+              <l>All along <name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> Strand.</l>
             </lg>
             <lg type="stanza">
-              <l>In the war we'ld descend to buy at Bridge End</l>
+              <l>In the war we'ld descend to buy at <name ref="http://sws.geonames.org/2966001/" type="place">Bridge End</name></l>
               <l>Boiled sweets in paper bags,</l>
               <l>And the tougher the guys got in supplies</l>
-              <l>Of the cheaper Free State fags;</l>
+              <l>Of the cheaper <name ref="http://sws.geonames.org/2963597/" type="place">Free State</name> fags;</l>
               <l>But before I bought cigarettes or thought</l>
               <l>Of holding girls by the hand,</l>
-              <l>I knew the route out past Burnfoot</l>
-              <l>That leads to sweet Fahan Strand.</l>
+              <l>I knew the route out past <name ref="http://sws.geonames.org/2965905/" type="place">Burnfoot</name></l>
+              <l>That leads to sweet <name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> Strand.</l>
             </lg>
             <lg type="stanza">
-              <l>To my distress the Lough Swilly express</l>
+              <l>To my distress the <name ref="http://sws.geonames.org/2961301/" type="place">Lough Swilly </name>express</l>
               <l>Is running there no more.</l>
               <l>Past Elagh Hall it took us all</l>
               <l>Along that lovely shore.</l>
@@ -147,11 +147,11 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>I thought of friends I used to know</l>
               <l>And a boy who used to stand,</l>
               <l>A bit like me, but young and free,</l>
-              <l>And gaze across Fahan Strand.</l>
+              <l>And gaze across <name ref="http://sws.geonames.org/2964376/" type="place">Fahan</name> Strand.</l>
             </lg>
           </body>
           <back xml:id="simmons1_1013">
-            <byline>James Simmons</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></byline>
           </back>
         </text><text xml:id="simmons1_1019">
           <front xml:id="simmons1_1016">
@@ -190,7 +190,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1018">
-            <byline>James Simmons</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></byline>
           </back>
         </text><text xml:id="simmons1_1024">
           <front xml:id="simmons1_1021">
@@ -202,7 +202,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="simmons1_1022">
             <lg type="stanza">
-              <l n="1">I like to go walking down Bachelor's Walk,</l>
+              <l n="1">I like to go walking down <name ref="http://www.geonames.org/2964574/dublin.html" type="place">Bachelor's Walk</name>,</l>
               <l>To see the young women and hold them in talk,</l>
               <l>Well aware that my manner will lead them astray,</l>
               <l>For I am the young man they call Ramble Away.</l>
@@ -278,7 +278,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1023">
-            <byline>James Simmons</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></byline>
           </back>
         </text><text xml:id="simmons1_1029">
           <front xml:id="simmons1_1026">
@@ -308,7 +308,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Oh, Glorio to the young airforce men.</l>
             </lg>
             <lg type="stanza">
-              <l>They laughed at the grand things that Churchill was saying</l>
+              <l>They laughed at the grand things that <name ref="http://viaf.org/viaf/94507588" type="person">Churchill</name> was saying</l>
               <l>And their faces looked bored when the padre was praying:</l>
               <l>At times you'ld have thought it was games they were playing.</l>
               <l>Oh, glorio to the young airforce men.</l>
@@ -334,18 +334,18 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l>Come here you young fella, your schooldays are over,</l>
               <l>Your dancing and drinking with your arms round your lover.</l>
-              <l>The boy that I loved was washed in down near Dover.</l>
+              <l>The boy that I loved was washed in down near <name ref="http://sws.geonames.org/2651048/" type="place">Dover</name>.</l>
               <l>Oh, glorio to the young airforce men.</l>
             </lg>
           </body>
           <back xml:id="simmons1_1028">
-            <byline>James Simmons</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></byline>
           </back>
         </text><text xml:id="simmons1_1034">
           <front xml:id="simmons1_1031">
             <titlePage xml:id="simmons1_1030">
               <docTitle>
-                <titlePart type="main">THE ULSTER SOLDIER BOY</titlePart>
+                <titlePart type="main">THE <name ref="http://sws.geonames.org/7521316/" type="place">ULSTER</name> SOLDIER BOY</titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -354,19 +354,19 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l n="1" rend="indent5">Oh have you heard the speeches, Mary? War has just begun.</l>
               <l rend="indent5">The posters say that duty calls, have you seem the tanks and guns?</l>
               <l rend="indent5">I'm going to join the army for there's no work here for me,</l>
-              <l rend="indent5">And the government will pay your ront when I'm in Germany.</l>
+              <l rend="indent5">And the government will pay your ront when I'm in <name ref="http://sws.geonames.org/2921044/" type="place">Germany</name>.</l>
             </lg>
             <lg type="stanza">
               <l>Oh Billy, close your ears to what the cultured voices say;</l>
               <l>Don't let no lying tales of glory steal my love away.</l>
               <l>I feel the bullets strike as sure as I feel your child in me;</l>
-              <l>You're better hungry here at home than dead in Germany.</l>
+              <l>You're better hungry here at home than dead in <name ref="http://sws.geonames.org/2921044/" type="place">Germany</name>.</l>
             </lg>
             <lg type="stanza">
               <l>I wish that you could come along in a lorry in the rear</l>
               <l>To cheer me up, and join us when we're stopping off for beer.</l>
               <l>You'ld make a tent a grand hotel, and think of all you'ld see;</l>
-              <l>The soldiers throwing their lives away on the road to Germany.</l>
+              <l>The soldiers throwing their lives away on the road to <name ref="http://sws.geonames.org/2921044/" type="place">Germany</name>.</l>
             </lg>
             <lg type="stanza">
               <l>From every town and village here have gone the finest lads</l>
@@ -378,22 +378,22 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>The corn our old men planted in the earth has risen high,</l>
               <l>The fruit weighs down the branches and the larks sing in the sky.</l>
               <l>The son I bore my husband sits here smiling on my knee.</l>
-              <l>I curse the hunger drove his father on to Germany.</l>
+              <l>I curse the hunger drove his father on to <name ref="http://sws.geonames.org/2921044/" type="place">Germany</name>.</l>
             </lg>
             <lg type="stanza">
               <l>I got a letter from the King to say that Billy died</l>
-              <l>A hero's death for England, but I feel no surge of pride.</l>
+              <l>A hero's death for <name ref="http://sws.geonames.org/6269131/" type="place">England</name>, but I feel no surge of pride.</l>
               <l>It's easy with the pension now, but I hate security</l>
-              <l>That Billy bought me with his life on the road to Germany.</l>
+              <l>That Billy bought me with his life on the road to <name ref="http://sws.geonames.org/2921044/" type="place">Germany</name>.</l>
             </lg>
           </body>
           <back xml:id="simmons1_1033">
-            <byline>James Simmons</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></byline>
           </back>
         </text></group>
       <group xml:id="simmons1_1069">
-        <head>POEMS BY JAMES SIMMONS</head>
-        <docAuthor>James Simmons</docAuthor>
+        <head>POEMS BY <name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></head>
+        <docAuthor><name ref="http://viaf.org/viaf/92591927" type="person">James Simmons</name></docAuthor>
         <docDate>1963-1968</docDate>
         <argument>
           <p xml:id="simmons1_1036">Workshop Poems</p>
@@ -434,7 +434,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1040">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text><text xml:id="simmons1_1046">
           <front xml:id="simmons1_1043">
@@ -495,7 +495,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1045">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text><text xml:id="simmons1_1051">
           <front xml:id="simmons1_1048">
@@ -536,7 +536,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1050">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text><text xml:id="simmons1_1057">
           <front xml:id="simmons1_1053">
@@ -623,7 +623,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1056">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text><text xml:id="simmons1_1062">
           <front xml:id="simmons1_1059">
@@ -659,7 +659,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1061">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text><text xml:id="simmons1_1068">
           <front xml:id="simmons1_1064">
@@ -671,7 +671,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="simmons1_1066">
             <epigraph>
-              <p xml:id="simmons1_1065">(Leeds.  Saturday afternoon.  October.)</p>
+              <p xml:id="simmons1_1065">(<name ref="http://sws.geonames.org/2644688/" type="place">Leeds</name>.  Saturday afternoon.  October.)</p>
             </epigraph>
             <lg type="stanza">
               <l n="1">Going home alone this deserted Saturday,</l>
@@ -703,7 +703,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="simmons1_1067">
-            <byline>JAMES SIMMONS</byline>
+            <byline><name ref="http://viaf.org/viaf/92591927" type="person">JAMES SIMMONS</name></byline>
           </back>
         </text></group>
     </group>
