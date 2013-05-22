@@ -109,7 +109,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front xml:id="carson1_1011">
             <titlePage xml:id="carson1_1010">
               <docTitle>
-                <titlePart type="main">ARANMORE ISLAND</titlePart>
+                <titlePart type="main"><name ref="http://www.geonames.org/2966948" type="place">ARANMORE ISLAND</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
