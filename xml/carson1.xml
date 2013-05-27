@@ -5,7 +5,7 @@
         <author><name type="person">
           <choice>
             <sic>Ciaran Carson</sic>
-            <reg>"Carson, Ciaran, 1948-"</reg>
+            <reg>"<name ref="http://viaf.org/viaf/85621766" type="person">Carson, Ciaran</name>, 1948-"</reg>
           </choice>
         </name></author>
         <respStmt>
@@ -47,8 +47,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <p xml:id="carson1_104">Workshop Poems</p>
           <list type="simple">
             <head/>
-            <item>Letter from Alaska</item>
-            <item>Aranmore Island</item>
+            <item>Letter from <name ref="http://sws.geonames.org/5879092/" type="place">Alaska</name></item>
+            <item><name ref="http://www.geonames.org/2966948" type="place">Aranmore Island</name></item>
             <item>The Island Revisited</item>
             <item>Wheel</item>
             <item>Post Mortem on a Mass Grave</item>
@@ -59,7 +59,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front xml:id="carson1_106">
             <titlePage xml:id="carson1_105">
               <docTitle>
-                <titlePart type="main">LETTER FROM ALASKA</titlePart>
+                <titlePart type="main">LETTER FROM <name ref="http://sws.geonames.org/5879092/" type="place">ALASKA</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -102,7 +102,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="carson1_108">
-            <byline>Ciaran Carson</byline>
+            <byline><name ref="http://viaf.org/viaf/85621766" type="person">Ciaran Carson</name></byline>
           </back>
         </text>
         <text xml:id="carson1_1014">
@@ -184,7 +184,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="carson1_1013">
-            <byline>Ciaran Carson</byline>
+            <byline><name ref="http://viaf.org/viaf/85621766" type="person">Ciaran Carson</name></byline>
           </back>
         </text>
         <text xml:id="carson1_1019">
@@ -234,7 +234,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="carson1_1018">
-            <byline>Ciaran Carson</byline>
+            <byline><name ref="http://viaf.org/viaf/85621766" type="person">Ciaran Carson</name></byline>
           </back>
         </text>
         <text xml:id="carson1_1024">
@@ -290,7 +290,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="carson1_1023">
-            <byline>Ciaran Carson</byline>
+            <byline><name ref="http://viaf.org/viaf/85621766" type="person">Ciaran Carson</name></byline>
           </back>
         </text>
         <text xml:id="carson1_1029">
@@ -358,7 +358,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="carson1_1028">
-            <byline>Ciaran Carson</byline>
+            <byline><name ref="http://viaf.org/viaf/85621766" type="person">Ciaran Carson</name></byline>
           </back>
         </text>
         <text xml:id="carson1_1034">
@@ -408,7 +408,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="carson1_1033">
-            <byline>Ciaran Carson</byline>
+            <byline><name ref="http://viaf.org/viaf/85621766" type="person">Ciaran Carson</name></byline>
           </back>
         </text>
       </group>
