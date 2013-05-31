@@ -168,7 +168,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>We answer to no grey South</l>
             </lg>
             <lg type="stanza">
-              <l>Nor blue <name ref="http://www.geonames.org/2641364/" type="place">North</name>, not self-defence,</l>
+              <l>Nor blue North, not self-defence,</l>
               <l>The lie of just wars, neither</l>
               <l>Cold nor hot blood's difference</l>
               <l>In their discharging of guns,</l>
@@ -785,7 +785,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Siesta</item>
             <item>Vampire</item>
             <item>Grass Widow</item>
-            <item>The <name ref="http://viaf.org/viaf/153225836" type="org">Indians</name> on <name ref="http://sws.geonames.org/5322901/" type="place">Alcatraz</name></item>
+            <item>The Indians on <name ref="http://sws.geonames.org/5322901/" type="place">Alcatraz</name></item>
             <item>The Electric Orchard</item>
           </list>
         </argument>
@@ -1016,7 +1016,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front xml:id="muldoon2_10112">
             <titlePage xml:id="muldoon2_10111">
               <docTitle>
-                <titlePart type="main">THE <name ref="http://viaf.org/viaf/153225836" type="org">INDIANS</name> ON <name ref="http://sws.geonames.org/5322901/" type="place">ALCATRAZ</name></titlePart>
+                <titlePart type="main">THE INDIANS ON <name ref="http://sws.geonames.org/5322901/" type="place">ALCATRAZ</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1091,7 +1091,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l>So that, where one of the electric people happened to fall,</l>
               <l>It was accepted as an occupational hazard;</l>
-              <l>There was something necessary about the thing. The <name ref="http://sws.geonames.org/6691047/" type="place">North Wall</name></l>
+              <l>There was something necessary about the thing. The North Wall</l>
               <l>Of the Eiger was notorious for blizzards;</l>
             </lg>
             <lg type="stanza">
