@@ -97,7 +97,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_108">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1014">
           <front xml:id="muldoon2_1011">
@@ -150,7 +150,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1013">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1019">
           <front xml:id="muldoon2_1016">
@@ -193,7 +193,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1018">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1024">
           <front xml:id="muldoon2_1021">
@@ -233,7 +233,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1023">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1029">
           <front xml:id="muldoon2_1026">
@@ -288,7 +288,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1028">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1034">
           <front xml:id="muldoon2_1031">
@@ -332,7 +332,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1033">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1039">
           <front xml:id="muldoon2_1036">
@@ -387,7 +387,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1038">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text></group>
       <group xml:id="muldoon2_1079">
@@ -446,7 +446,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1045">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1050">
           <front xml:id="muldoon2_1048">
@@ -508,7 +508,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
             <lg type="stanza">
               <l>The month of comings</l>
-              <l>And goings. In Norway</l>
+              <l>And goings. In <name ref="http://sws.geonames.org/3144096/" type="place">Norway</name></l>
               <l>The lemmings like molten snow</l>
               <l>Stream from the mountainsides.</l>
             </lg>
@@ -733,7 +733,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Barely fluctuates.</l>
               <l>Your hemline rises,</l>
               <l>And I am at sea.</l>
-              <l>The Japanese are expert</l>
+              <l>The <name ref="http://www.geonames.org/1861060/" type="place">Japanese</name> are expert</l>
               <l>With that form, the tauka.</l>
               <l>A year ago, and with another girl,</l>
               <l>I thought, I had their skill,</l>
@@ -767,7 +767,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>In an oriental garden.</l>
             </lg>
             <closer>
-              <dateline>Lough Derg 1969.</dateline>
+              <dateline><name ref="http://sws.geonames.org/2964842/" type="place">Lough Derg</name> 1969.</dateline>
             </closer>
           </body>
         </text></group>
@@ -785,7 +785,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Siesta</item>
             <item>Vampire</item>
             <item>Grass Widow</item>
-            <item>The Indians on Alcatraz</item>
+            <item>The Indians on <name ref="http://sws.geonames.org/5322901/" type="place">Alcatraz</name></item>
             <item>The Electric Orchard</item>
           </list>
         </argument>
@@ -820,7 +820,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1084">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1090">
           <front xml:id="muldoon2_1087">
@@ -857,7 +857,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1089">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_1095">
           <front xml:id="muldoon2_1092">
@@ -931,7 +931,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_1099">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_10105">
           <front xml:id="muldoon2_10102">
@@ -978,7 +978,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>As I watched him go away</l>
               <l n="1" rend="indent4">Europe must have cried</l>
               <l>For Europe had no more say</l>
-              <l>When America left her.</l>
+              <l>When <name ref="http://www.geonames.org/6252001/" type="place">America</name> left her.</l>
             </lg>
             <lg type="stanza">
               <l n="1" rend="indent4">No other woman</l>
@@ -999,7 +999,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>For crying, when I walloped</l>
               <l>Through the flooding house and saw</l>
               <l n="1" rend="indent4">Him go. As Europe</l>
-              <l>Watched America, I watched.</l>
+              <l>Watched <name ref="http://www.geonames.org/6252001/" type="place">America</name>, I watched.</l>
             </lg>
             <lg type="stanza">
               <l n="1" rend="indent4">Now my dreams are filled</l>
@@ -1010,13 +1010,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_10109">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_10115">
           <front xml:id="muldoon2_10112">
             <titlePage xml:id="muldoon2_10111">
               <docTitle>
-                <titlePart type="main">THE INDIANS ON ALCATRAZ</titlePart>
+                <titlePart type="main">THE INDIANS ON <name ref="http://sws.geonames.org/5322901/" type="place">ALCATRAZ</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1047,7 +1047,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_10114">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text><text xml:id="muldoon2_10120">
           <front xml:id="muldoon2_10117">
@@ -1132,7 +1132,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="muldoon2_10119">
-            <byline>Paul Muldoon</byline>
+            <byline><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></byline>
           </back>
         </text></group>
     </group>
