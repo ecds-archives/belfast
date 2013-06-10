@@ -117,13 +117,13 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="hobsbaum1_108">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text><text xml:id="hobsbaum1_1014">
           <front xml:id="hobsbaum1_1011">
             <titlePage xml:id="hobsbaum1_1010">
               <docTitle>
-                <titlePart type="main">DERRY CITY</titlePart>
+                <titlePart type="main"><name ref="http://sws.geonames.org/2643736/" type="place">DERRY CITY</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -148,7 +148,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="hobsbaum1_1013">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text><text xml:id="hobsbaum1_1019">
           <front xml:id="hobsbaum1_1016">
@@ -185,7 +185,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="hobsbaum1_1018">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text><text xml:id="hobsbaum1_1024">
           <front xml:id="hobsbaum1_1021">
@@ -222,7 +222,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="hobsbaum1_1023">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text><text xml:id="hobsbaum1_1029">
           <front xml:id="hobsbaum1_1026">
@@ -236,7 +236,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l n="1">Static, or nearly so, seen through the haze,</l>
               <l>Forms slowly sheel, and, in a leisured trance,</l>
-              <l>Slowly hands grope for ... what?   Bob Dylan plays,</l>
+              <l>Slowly hands grope for ... what?   <name ref="http://viaf.org/viaf/111894442" type="person">Bob Dylan</name> plays,</l>
             </lg>
             <lg type="stanza">
               <l>Christening with weazen treble each new dance:</l>
@@ -255,7 +255,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="hobsbaum1_1028">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text><text xml:id="hobsbaum1_1034">
           <front xml:id="hobsbaum1_1031">
@@ -272,20 +272,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>But goes on eating chocolates.   I sympathize;</l>
               <l>Guinness is my ruin, that and misery</l>
               <l>Bloating and crumbling, making me want to drink more.</l>
-              <l>How did Henry VIII get on, or King Edward,</l>
+              <l>How did <name ref="http://viaf.org/viaf/172419710" type="person">Henry VIII</name> get on, or <name ref="http://viaf.org/viaf/261824303" type="person">King Edward</name>,</l>
               <l>Boozed, bulky, bearded?   Perhaps</l>
-              <l>It's different for men.   Herbert Spencer</l>
-              <l>Decided against George Eliot on the grounds</l>
+              <l>It's different for men.   <name ref="http://viaf.org/viaf/27074806" type="person">Herbert Spencer</name></l>
+              <l>Decided against <name ref="http://viaf.org/viaf/89000553" type="person">George Eliot</name> on the grounds</l>
               <l>Of general ugliness:  we dream of houris,</l>
               <l>Lissom and swift, they dream of bank balances,</l>
               <l>Power, prestige.   This grows as the bulk grows:</l>
-              <l>King Henry need no charm, he had an axe,</l>
+              <l><name ref="http://viaf.org/viaf/172419710" type="person">King Henry</name> need no charm, he had an axe,</l>
               <l>A palace, followers.   Maybe, at last, that's why</l>
               <l>There's hope for me but none for Miss Rafferty.</l>
             </lg>
           </body>
           <back xml:id="hobsbaum1_1033">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text><text xml:id="hobsbaum1_1039">
           <front xml:id="hobsbaum1_1036">
@@ -302,8 +302,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>A beautiful virgin pulling you to bed,</l>
               <l>Old cock of the walk.   They still talk of your flights -</l>
               <l>Embezzling three hundred quid in a term,</l>
-              <l>Chasing a Spanish lector, cheeking the Prof,</l>
-              <l>Trunk calls to London, being, at last, sent down</l>
+              <l>Chasing a <name ref="http://sws.geonames.org/2510769/" type="place">Spanish</name> lector, cheeking the Prof,</l>
+              <l>Trunk calls to <name ref="http://sws.geonames.org/2643743/" type="place">London</name>, being, at last, sent down</l>
               <l>For robbing a pub in a glorious haze of beer,</l>
               <l>Spirits, cigar-smoke.</l>
             </lg>
@@ -327,7 +327,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Your girls, your friends, and find you asking me</l>
               <l>What can I do for you, where can I get you in.</l>
               <l>My cock of the walk, sick of the bumming life,</l>
-              <l>Taxis to Dublin, crates of Bush in the back,</l>
+              <l>Taxis to <name ref="http://sws.geonames.org/2964574/" type="place">Dublin</name>, crates of Bush in the back,</l>
               <l>Sickening bounce of glasses, bottles, cheques.</l>
               <l>Will you at last come home to the semi-detached,</l>
               <l>Garden, kids - all that made possible</l>
@@ -345,12 +345,12 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="hobsbaum1_1038">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text></group>
       <group xml:id="hobsbaum1_1047">
         <head>POEMS BY PHILIP HOBSBAUM</head>
-        <docAuthor>Philip Hobsbaum</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></docAuthor>
         <docDate>1963-1972</docDate>
         <argument>
           <p xml:id="hobsbaum1_1041">Workshop Poems</p>
@@ -370,7 +370,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </front>
           <body xml:id="hobsbaum1_1044">
             <opener>
-              <dateline>Guildhall, London.   November 16, 1848</dateline>
+              <dateline>Guildhall, <name ref="http://sws.geonames.org/2643743/" type="place">London</name>.   November 16, 1848</dateline>
             </opener>
             <lg type="stanza">
               <l n="1" rend="indent6">The people hot from dancing who went into the room where he</l>
@@ -380,7 +380,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>playing at such a place was a well-intentioned mistake.</l>
             </lg>
             <lg type="stanza">
-              <l n="1" rend="indent6">Poor Fritz, poor Fritzchen, Frédéric Chopin, I</l>
+              <l n="1" rend="indent6">Poor Fritz, poor Fritzchen, <name ref="http://viaf.org/viaf/71319254" type="person">Frédéric Chopin</name>, I</l>
               <l rend="indent6">Man my resources to play all the night through,</l>
               <l rend="indent6">Flex my wrist as a singer might draw in breath</l>
               <l rend="indent6">Pausing before her first irresolute note -</l>
@@ -416,7 +416,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent6">More bored than ever, bored, incredibly bored.</l>
             </lg>
             <lg type="stanza">
-              <l n="1" rend="indent6">If London were not so black, its people dull,</l>
+              <l n="1" rend="indent6">If <name ref="http://sws.geonames.org/2643743/" type="place">London</name> were not so black, its people dull,</l>
               <l rend="indent6">Or if it could lose its smell of soot and fog,</l>
               <l rend="indent6">I might even now dare to open my mouth</l>
               <l rend="indent6">In this, your so-dear city.   But I get up</l>
@@ -434,7 +434,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent6">I don't know how it is but thoughts of my friends,</l>
               <l rend="indent6">Witwicki and Isidore, Antonia, Jan,</l>
               <l rend="indent6">Those that have died, keep coming into my head -</l>
-              <l rend="indent6">Poor Jan, poor Johnny, Jan Matuszynski, you</l>
+              <l rend="indent6">Poor Jan, poor Johnny, <name ref="http://viaf.org/viaf/69855526" type="person">Jan Matuszynski</name>, you</l>
               <l rend="indent6">- Clay like my own, fallen to pieces now -</l>
               <l rend="indent6">Cannot speak out to rouse me from my despair,</l>
               <l rend="indent6">Even the tuner, Ennike, drowned himself</l>
@@ -644,7 +644,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent6">Was handed down to the quay, a pallid ghost.</l>
             </lg>
             <lg type="stanza">
-              <l n="1" rend="indent6">Old Chop. old Chipette, Pichon, Chopin, I think</l>
+              <l n="1" rend="indent6">Old Chop. old Chipette, Pichon, <name ref="http://viaf.org/viaf/71319254" type="person">Chopin</name>, I think</l>
               <l rend="indent6">Some inner je-ne-sais-quoi may pull me through</l>
               <l rend="indent6">Dances, concerts, theatres, assembly-halls,</l>
               <l rend="indent6">One noble salon after the next.   I drag</l>
@@ -666,20 +666,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <lg type="stanza">
               <l n="1" rend="indent6">Daniel found my passport the other day,</l>
               <l rend="indent6">It says on the front that I am passing through -</l>
-              <l rend="indent6">After twenty years in Paris, still en route,</l>
+              <l rend="indent6">After twenty years in <name ref="http://sws.geonames.org/2988507/" type="place">Paris</name>, still en route,</l>
               <l rend="indent6">Too cold to stay, too ill to leave.   But I met</l>
               <l rend="indent6">The Lady herself, my cross, my serpent, here,</l>
               <l rend="indent6">Bowed politely, enquired after health,</l>
               <l rend="indent6">Withdrew as soon as I could into the street.</l>
               <l rend="indent6">Such encounters may grow frequent.   Keep withdrawn:</l>
-              <l rend="indent6">Paris freezes my fingers fast to the keys,</l>
+              <l rend="indent6"><name ref="http://sws.geonames.org/2988507/" type="place">Paris</name> freezes my fingers fast to the keys,</l>
               <l rend="indent6">No doubt the grave will be warmer.   Let me see -</l>
-              <l rend="indent6">Passant par Paris a Londres.   Shall I go?</l>
+              <l rend="indent6">Passant par <name ref="http://sws.geonames.org/2988507/" type="place">Paris</name> a Londres.   Shall I go?</l>
             </lg>
             <lg type="stanza">
-              <l n="1" rend="indent6">Poor Fritzel, Freycek, Freyderyk Chopin, play -</l>
+              <l n="1" rend="indent6">Poor Fritzel, Freycek, Freyderyk <name ref="http://viaf.org/viaf/71319254" type="person">Chopin</name>, play -</l>
               <l rend="indent6">The busy world will never listen to you.</l>
-              <l rend="indent6">Think of this London, black as a nobleman's arse,</l>
+              <l rend="indent6">Think of this <name ref="http://sws.geonames.org/2643743/" type="place">London</name>, black as a nobleman's arse,</l>
               <l rend="indent6">The soot coalescing in my nostrils here,</l>
               <l rend="indent6">Clutching at my throat, eating away my lungs,</l>
               <l rend="indent6">Think of that modish lodging with modish rent</l>
@@ -723,7 +723,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             </lg>
           </body>
           <back xml:id="hobsbaum1_1045">
-            <byline>Philip Hobsbaum</byline>
+            <byline><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></byline>
           </back>
         </text></group>
     </group>
