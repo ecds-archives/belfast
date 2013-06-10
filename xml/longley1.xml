@@ -80,7 +80,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l rend="indent26">Given under our hand</l>
               <l rend="indent26">(With a ballpoint pen)</l>
               <l rend="indent26">After the Latin of Gaius</l>
-              <l rend="indent26">Sextus Propertius,</l>
+              <l rend="indent26"><name ref="http://viaf.org/viaf/100907186" type="person">Sextus Propertius</name>,</l>
               <l rend="indent26">An old friend, the shadow</l>
               <l rend="indent26">Of his former self</l>
               <l rend="indent26">Who - and this I append</l>
@@ -91,7 +91,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>He put them in his sling</l>
               <l>And aimed at history,</l>
               <l>Bringing to the ground</l>
-              <l>Like lovers Caesar, </l>
+              <l>Like lovers <name ref="http://viaf.org/viaf/100227925" type="person">Caesar</name>, </l>
               <l>Soldiers, politicians</l>
               <l>And all the dreary</l>
               <l>Epics of the muscle-bound. </l>
@@ -154,10 +154,10 @@ THE ISLAND</titlePart>
               <l>With the doctor, They will soon be friends.</l>
             </lg>
             <lg type="stanza">
-              <l>Visitors are few.  A Belgian for instance</l>
+              <l>Visitors are few.  A <name ref="http://www.geonames.org/2802361/" type="place">Belgian</name> for instance</l>
               <l>Who has told us all about the oven,</l>
               <l>Linguists occasionally, and sociologists.</l>
-              <l>A lapsed Capuchin monk who came to stay</l>
+              <l>A lapsed <name ref="http://viaf.org/viaf/158900335" type="org">Capuchin</name> monk who came to stay</l>
               <l>Was first and last to fish the lake for eels.</l>
               <l>His carved crucifixes are still on sale.</l>
             </lg>
@@ -292,7 +292,7 @@ BADGER</titlePart>
           <body xml:id="longley1_1027">
             <lg type="stanza">
               <l n="1">To begin with, the hedgehog does not</l>
-              <l>- Forgive me, John Clare -</l>
+              <l>- Forgive me, <name ref="http://viaf.org/viaf/51703338" type="person">John Clare</name> -</l>
               <l>Impale on his spines</l>
               <l>Windfalls, rolling over</l>
             </lg>
@@ -414,12 +414,12 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1040">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text></group>
       <group xml:id="longley1_1079">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="longley1_1043">Workshop Poems</p>
@@ -482,7 +482,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1047">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1053">
           <front xml:id="longley1_1050">
@@ -555,7 +555,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1052">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1058">
           <front xml:id="longley1_1055">
@@ -586,7 +586,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1057">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1063">
           <front xml:id="longley1_1060">
@@ -683,7 +683,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1062">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1068">
           <front xml:id="longley1_1065">
@@ -750,7 +750,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1067">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1073">
           <front xml:id="longley1_1070">
@@ -793,7 +793,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1072">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1078">
           <front xml:id="longley1_1075">
@@ -838,7 +838,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1077">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text></group>
       <group xml:id="longley1_10120">
@@ -849,11 +849,11 @@ THE ADULTERER</titlePart>
           <p xml:id="longley1_1080">Workshop Poems</p>
           <list type="simple">
             <head/>
-            <item>Dr. Johnson on the Hebrides</item>
-            <item>Leaving Inishmore</item>
+            <item>Dr. Johnson on the <name ref="http://sws.geonames.org/2647204/" type="place">Hebrides</name></item>
+            <item>Leaving <name ref="http://www.geonames.org/2963626" type="place">Inishmore</name></item>
             <item>Camouflage</item>
             <item>Persephone</item>
-            <item>To Derek Mahon</item>
+            <item>To <name ref="http://viaf.org/viaf/110228045" type="person">Derek Mahon</name></item>
             <item>A Working Holiday</item>
             <item>Words for Jazz Perhaps</item>
           </list>
@@ -863,19 +863,19 @@ THE ADULTERER</titlePart>
           <front xml:id="longley1_1082">
             <titlePage xml:id="longley1_1081">
               <docTitle>
-                <titlePart type="main">DR. JOHNSON ON THE HEBRIDES</titlePart>
+                <titlePart type="main">DR. JOHNSON ON THE <name ref="http://sws.geonames.org/2647204/" type="place">HEBRIDES</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
           <body xml:id="longley1_1083">
             <lg type="stanza">
-              <l n="1">The Hebridean gales mere sycophants,</l>
+              <l n="1">The <name ref="http://sws.geonames.org/2647204/" type="place">Hebridean</name> gales mere sycophants,</l>
               <l>So many loyal Boswells at his heel -</l>
               <l>Yet the farflung outposts of experience</l>
               <l>In the end undo a Roman wall,</l>
             </lg>
             <lg type="stanza">
-              <l>The measured style.  London is so far-</l>
+              <l>The measured style.  <name ref="http://sws.geonames.org/2643743/" type="place">London</name> is so far-</l>
               <l>Each windswept strait he would encompass</l>
               <l>Gives the unsinkable lexicographer</l>
               <l>His reflection in its shattered glass.</l>
@@ -892,13 +892,13 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1084">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1090">
           <front xml:id="longley1_1087">
             <titlePage xml:id="longley1_1086">
               <docTitle>
-                <titlePart type="main">LEAVING INISHMORE</titlePart>
+                <titlePart type="main">LEAVING <name ref="http://www.geonames.org/2963626" type="place">INISHMORE</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -927,7 +927,7 @@ THE ADULTERER</titlePart>
             <lg type="stanza">
               <l>Summer and solstice as the seasons turn</l>
               <l>Anchor our boat in a perfect standstill,</l>
-              <l>The harbour wall of Inishmore astern</l>
+              <l>The harbour wall of <name ref="http://www.geonames.org/2963626" type="place">Inishmore</name> astern</l>
               <l>Where the Atlantic waters overspill -</l>
               <l>I shall name this the point of no return</l>
             </lg>
@@ -940,7 +940,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1089">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_1095">
           <front xml:id="longley1_1092">
@@ -985,7 +985,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1094">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10100">
           <front xml:id="longley1_1097">
@@ -1025,13 +1025,13 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_1099">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10105">
           <front xml:id="longley1_10102">
             <titlePage xml:id="longley1_10101">
               <docTitle>
-                <titlePart type="main">TO DEREK MAHON</titlePart>
+                <titlePart type="main">TO <name ref="http://viaf.org/viaf/110228045" type="person">DEREK MAHON</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1053,7 +1053,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10104">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10112">
           <front xml:id="longley1_10109">
@@ -1063,7 +1063,7 @@ THE ADULTERER</titlePart>
               </docTitle>
             </titlePage>
             <div1 xml:id="longley1_10108" type="dedication">
-              <p xml:id="longley1_10107">(For Colin Middleton)</p>
+              <p xml:id="longley1_10107">(For <name ref="http://viaf.org/viaf/23940128" type="person">Colin Middleton</name>)</p>
             </div1>
           </front>
           <body xml:id="longley1_10110">
@@ -1117,7 +1117,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10111">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10119">
           <front xml:id="longley1_10116">
@@ -1133,7 +1133,7 @@ THE ADULTERER</titlePart>
           <body xml:id="longley1_10117">
             <lg type="stanza">
               <head>I</head>
-              <head>Elegy for Fats Waller</head>
+              <head>Elegy for <name ref="http://viaf.org/viaf/54334148" type="person">Fats Waller</name></head>
               <l n="1">Lighting up, lest all our hearts should break,</l>
               <l>His fiftieth cigarette of the day,</l>
               <l>Happy with so many notes at his beck</l>
@@ -1156,14 +1156,14 @@ THE ADULTERER</titlePart>
             </lg>
             <lg type="stanza">
               <head>II</head>
-              <head>BILLIE HOLIDAY</head>
+              <head><name ref="http://viaf.org/viaf/14857262" type="person">BILLIE HOLIDAY</name></head>
               <head>(An Epitaph)</head>
               <l>DEATH, LIKE ALL YOUR HABITS, CAME TO STAY,</l>
               <l>DARED FACE YOUR MUSIC, TOOK YOUR BREATH AWAY.</l>
             </lg>
             <lg type="stanza">
               <head>III</head>
-              <head>BUD FREEMAN IN BELFAST</head>
+              <head><name ref="http://viaf.org/viaf/12491353" type="person">BUD FREEMAN</name> IN <name ref="http://sws.geonames.org/2655984/" type="place">BELFAST</name></head>
               <head>(November 1965)</head>
               <l>Fog horn and factory siren intercept</l>
               <l>Each fragile hoarded-up refrain.  What else</l>
@@ -1176,8 +1176,8 @@ THE ADULTERER</titlePart>
             </lg>
             <lg type="stanza">
               <head>IV</head>
-              <head>TO BESSIE SMITH</head>
-              <l>You bring from Chattanooga Tenessee</l>
+              <head>TO <name ref="http://viaf.org/viaf/24788472" type="person">BESSIE SMITH</name></head>
+              <l>You bring from <name ref="http://sws.geonames.org/4612862/" type="place">Chattanooga Tennessee</name></l>
               <l>Your huge voice to the back of my mind</l>
               <l>Where, like sea shells salvaged from the sea</l>
               <l>As bright reminders of a few week's stay,</l>
@@ -1185,7 +1185,7 @@ THE ADULTERER</titlePart>
               <l>I couldn't play your records every day.</l>
             </lg>
             <lg type="stanza">
-              <l>I think of tra-ra-rossan, Inisheer,</l>
+              <l>I think of tra-ra-rossan, <name ref="http://www.geonames.org/2963651/" type="place">Inisheer</name>,</l>
               <l>Of Harris drenched by horizontal rain -</l>
               <l>Those landscapes I must visit year by year.</l>
               <l>I do not live with sounds so seasonal</l>
@@ -1194,18 +1194,18 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10118">
-            <byline>MICHAEL LONGLEY.</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name>.</byline>
           </back>
         </text></group>
       <group xml:id="longley1_10158">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="longley1_10121">Workshop Poems</p>
           <list type="simple">
             <head/>
-            <item>Emily Dickinson</item>
+            <item><name ref="http://viaf.org/viaf/31995584" type="person">Emily Dickinson</name></item>
             <item>The Osprey</item>
             <item>In Memoriam</item>
             <item>Christopher at Birth</item>
@@ -1221,13 +1221,13 @@ THE ADULTERER</titlePart>
           <front xml:id="longley1_10123">
             <titlePage xml:id="longley1_10122">
               <docTitle>
-                <titlePart type="main">EMILY DICKINSON</titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/31995584" type="person">EMILY DICKINSON</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
           <body xml:id="longley1_10124">
             <lg type="stanza">
-              <l n="1">Emily Dickinson, I think of you</l>
+              <l n="1"><name ref="http://viaf.org/viaf/31995584" type="person">Emily Dickinson</name>, I think of you</l>
               <l>Wakening early each morning to write, </l>
               <l>Dressing with care for the act of poetry. </l>
               <l>Yours is always a perfect progress through</l>
@@ -1243,7 +1243,7 @@ THE ADULTERER</titlePart>
               <l>Are recognised.  Your poems are full of words. </l>
             </lg>
             <lg type="stanza">
-              <l>In your house in Amherst Massachusetts, </l>
+              <l>In your house in <name ref="http://sws.geonames.org/4929022/" type="place">Amherst Massachusetts</name>, </l>
               <l>Though like love letters you lock them away, </l>
               <l>The poems are ubiquitous as dust. </l>
               <l>You sit there writing while the light permits -- </l>
@@ -1308,9 +1308,9 @@ THE ADULTERER</titlePart>
               <l>With your kilt, harmonica and gun, </l>
               <l>Grow older in a flash, but none the wiser</l>
               <l> (Who, following the wrong queue at The Palace, </l>
-              <l>Have joined the London Scottish by mistake), </l>
+              <l>Have joined the <name ref="http://viaf.org/viaf/141903176" type="org">London Scottish</name> by mistake), </l>
               <l>Your nineteen years uncertain if and why</l>
-              <l>Belgium put the kibosh on the Kaiser. </l>
+              <l><name ref="http://sws.geonames.org/2802361/" type="place">Belgium</name> put the kibosh on the Kaiser. </l>
             </lg>
             <lg type="stanza">
               <l>Between the corpses and the soup canteens</l>
@@ -1326,7 +1326,7 @@ THE ADULTERER</titlePart>
             </lg>
             <lg type="stanza">
               <l>Finally, that lousy war was over. </l>
-              <l>Stranded in France and in need of proof</l>
+              <l>Stranded in <name ref="http://sws.geonames.org/3017382/" type="place">France</name> and in need of proof</l>
               <l>You hunted down experimental lovers, </l>
               <l>Persuading chorus girls and countesses: </l>
               <l>This, father, the last confidence you spoke. </l>
@@ -1464,19 +1464,19 @@ THE ADULTERER</titlePart>
           <front xml:id="longley1_10147">
             <titlePage xml:id="longley1_10146">
               <docTitle>
-                <titlePart type="main">DR. JOHNSON ON THE HEBRIDES</titlePart>
+                <titlePart type="main">DR. JOHNSON ON THE <name ref="http://sws.geonames.org/2647204/" type="place">HEBRIDES</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
           <body xml:id="longley1_10148">
             <lg type="stanza">
-              <l n="1">The Hebridean gales mere sycophants, </l>
+              <l n="1">The <name ref="http://sws.geonames.org/2647204/" type="place">Hebridean</name> gales mere sycophants, </l>
               <l>So many loyal Boswells at his heel - </l>
               <l>Yet the farflung outposts of experience</l>
               <l>In the end undo a Roman wall, </l>
             </lg>
             <lg type="stanza">
-              <l>The measured style.  London is so far; </l>
+              <l>The measured style.  <name ref="http://sws.geonames.org/2643743/" type="place">London</name> is so far; </l>
               <l>Each windswept strait he would encompass</l>
               <l>Gives the unsinkable lexicographer</l>
               <l>His reflection in its shattered glass.</l>
@@ -1561,7 +1561,7 @@ THE ADULTERER</titlePart>
         </text></group>
       <group xml:id="longley1_10202">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="longley1_10159">Workshop Poem</p>
@@ -1570,10 +1570,10 @@ THE ADULTERER</titlePart>
             <item>A Headstone</item>
             <item>Man Friday</item>
             <item>Out of the Sea</item>
-            <item>Homage to Buster Keaton</item>
-            <item>Fanny Hill</item>
+            <item>Homage to <name ref="http://viaf.org/viaf/66477478" type="person">Buster Keaton</name></item>
+            <item><name ref="http://viaf.org/viaf/285682358" type="person">Fanny Hill</name></item>
             <item>Klondike</item>
-            <item>Journey Out of Essex</item>
+            <item>Journey Out of <name ref="http://sws.geonames.org/2649889/" type="place">Essex</name></item>
             <item>Barracuda</item>
           </list>
         </argument>
@@ -1608,7 +1608,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10165">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10171">
           <front xml:id="longley1_10168">
@@ -1637,7 +1637,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10170">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10176">
           <front xml:id="longley1_10173">
@@ -1664,11 +1664,11 @@ THE ADULTERER</titlePart>
                 <l>And a slow coming to light</l>
                 <l>On the shore - an ideal gift</l>
                 <l>Or dropped off a charm bracelet.</l>
-                <byline>MICHAEL LONGLEY</byline>
+                <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
               </lg>
             </lg>
             <lg type="part">
-              <head>2. Bikini Atoll</head>
+              <head>2. <name ref="http://sws.geonames.org/2080855/" type="place">Bikini Atoll</name></head>
               <lg type="stanza">
                 <l>On to whose bridal sands</l>
                 <l>And out of the sea (insects'</l>
@@ -1685,13 +1685,13 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10175">
-            <byline>MICHAEL LONGLEY.</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name>.</byline>
           </back>
         </text><text xml:id="longley1_10181">
           <front xml:id="longley1_10178">
             <titlePage xml:id="longley1_10177">
               <docTitle>
-                <titlePart type="main">HOMAGE TO BUSTER KEATON</titlePart>
+                <titlePart type="main">HOMAGE TO <name ref="http://viaf.org/viaf/66477478" type="person">BUSTER KEATON</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1718,13 +1718,13 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10180">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10186">
           <front xml:id="longley1_10183">
             <titlePage xml:id="longley1_10182">
               <docTitle>
-                <titlePart type="main">FANNY HILL</titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/285682358" type="person">FANNY HILL</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1755,13 +1755,13 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10185">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10191">
           <front xml:id="longley1_10188">
             <titlePage xml:id="longley1_10187">
               <docTitle>
-                <titlePart type="main">KLONDIKE</titlePart>
+                <titlePart type="main"><name ref="http://sws.geonames.org/4242361/" type="place">KLONDIKE</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1783,19 +1783,19 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10190">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10196">
           <front xml:id="longley1_10193">
             <titlePage xml:id="longley1_10192">
               <docTitle>
-                <titlePart type="main">JOURNEY OUT OF ESSEX</titlePart>
+                <titlePart type="main">JOURNEY OUT OF <name ref="http://sws.geonames.org/2649889/" type="place">ESSEX</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
           <body xml:id="longley1_10194">
             <lg type="stanza">
-              <l n="1">Or, John Clare's Escape</l>
+              <l n="1">Or, <name ref="http://viaf.org/viaf/51703338" type="person">John Clare</name>'s Escape</l>
               <l>From the Madhouse.</l>
             </lg>
             <lg type="stanza">
@@ -1828,7 +1828,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10195">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10201">
           <front xml:id="longley1_10198">
@@ -1854,19 +1854,19 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10200">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text></group>
       <group xml:id="longley1_10244">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="longley1_10203">Workshop Poems</p>
           <list type="simple">
             <head/>
             <item>Gathering Mushrooms</item>
-            <item>To Bix Beiderbecke</item>
+            <item>To <name ref="http://viaf.org/viaf/7573125" type="person">Bix Beiderbecke</name></item>
             <item>Nausicaa</item>
             <item>The Freemartin</item>
             <item>Narcissus</item>
@@ -1903,13 +1903,13 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10207">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10213">
           <front xml:id="longley1_10210">
             <titlePage xml:id="longley1_10209">
               <docTitle>
-                <titlePart type="main">TO BIX BEIDERBECKE</titlePart>
+                <titlePart type="main">TO <name ref="http://viaf.org/viaf/7573125" type="person">BIX BEIDERBECKE</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -1934,7 +1934,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10212">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10218">
           <front xml:id="longley1_10215">
@@ -1957,7 +1957,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10217">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10223">
           <front xml:id="longley1_10220">
@@ -1990,7 +1990,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10222">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10228">
           <front xml:id="longley1_10225">
@@ -2019,7 +2019,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10227">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10233">
           <front xml:id="longley1_10230">
@@ -2055,7 +2055,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10232">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10238">
           <front xml:id="longley1_10235">
@@ -2082,7 +2082,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10237">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10243">
           <front xml:id="longley1_10240">
@@ -2125,12 +2125,12 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10242">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text></group>
       <group xml:id="longley1_10282">
-        <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <head>POEMS BY <name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></head>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="longley1_10245">Workshop Poems</p>
@@ -2140,7 +2140,7 @@ THE ADULTERER</titlePart>
             <item>Christopher at Birth</item>
             <item>Freeze-Up</item>
             <item>Saint Francis to the Birds</item>
-            <item>Elegy for Fats Waller</item>
+            <item>Elegy for <name ref="http://viaf.org/viaf/54334148" type="person">Fats Waller</name></item>
             <item>Epithalamion</item>
             <item>En Route</item>
           </list>
@@ -2175,7 +2175,7 @@ THE ADULTERER</titlePart>
               <l>With your kilt, harmonica and gun, </l>
               <l>Grow older in a flash, but none the wiser</l>
               <l>(Who, following the wrong queue at The Palace, </l>
-              <l>Have joined the London Scottish by mistake), </l>
+              <l>Have joined the <name ref="http://sws.geonames.org/2643743/" type="place">London</name> <name ref="http://www.geonames.org/2638360/" type="place">Scottish</name> by mistake), </l>
               <l>Your nineteen years uncertain if and why</l>
               <l>Belgium put the kibosh on the Kaiser. </l>
             </lg>
@@ -2193,7 +2193,7 @@ THE ADULTERER</titlePart>
             </lg>
             <lg type="stanza">
               <l n="1">Finally, that lousy war was over. </l>
-              <l>Stranded in France and in need of proof</l>
+              <l>Stranded in <name ref="http://sws.geonames.org/3017382/" type="place">France</name> and in need of proof</l>
               <l>You hunted down experimental lovers, </l>
               <l>Persuading chorus girls and countesses: </l>
               <l>This, father, the last confidence you spoke. </l>
@@ -2217,7 +2217,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10249">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="longley1_10255">
           <front xml:id="longley1_10252">
@@ -2264,7 +2264,7 @@ THE ADULTERER</titlePart>
             <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the last line of the first stanza, "Your mother tells me you are my godson" has been underlined.  The phrase "You would know" has been written in the left margin.]</note>
           </body>
           <back xml:id="longley1_10254">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="longley1_10260">
           <front xml:id="longley1_10257">
@@ -2295,7 +2295,7 @@ THE ADULTERER</titlePart>
             <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the word "Romantic" has been handwritten in the left margin near the final line of the first stanza.]</note>
           </body>
           <back xml:id="longley1_10259">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text><text xml:id="longley1_10266">
           <front xml:id="longley1_10262">
@@ -2310,7 +2310,7 @@ THE ADULTERER</titlePart>
           <body xml:id="longley1_10264">
             <epigraph>
               <p xml:id="longley1_10263">
-                <del>(with apologies to S. Heaney Esq.)</del>
+                <del>(with apologies to <name ref="http://viaf.org/viaf/109557338" type="person">S. Heaney</name> Esq.)</del>
               </p>
             </epigraph>
             <lg type="stanza">
@@ -2401,13 +2401,13 @@ THE ADULTERER</titlePart>
             <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the phrase "in its frock" has been underlined, with "upside down with its leg showing" handwritten in the right margin.]</note>
           </body>
           <back xml:id="longley1_10265">
-            <byline>Michael Longley.</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name>.</byline>
           </back>
         </text><text xml:id="longley1_10271">
           <front xml:id="longley1_10268">
             <titlePage xml:id="longley1_10267">
               <docTitle>
-                <titlePart type="main">ELEGY FOR FATS WALLER</titlePart>
+                <titlePart type="main">ELEGY FOR <name ref="http://viaf.org/viaf/54334148" type="person">FATS WALLER</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -2435,7 +2435,7 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10270">
-            <byline>Michael Longley.</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name>.</byline>
           </back>
         </text><text xml:id="longley1_10276">
           <front xml:id="longley1_10273">
@@ -2540,7 +2540,7 @@ THE ADULTERER</titlePart>
             <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the typed word "Which" in the third line has been crossed out, and the word "that" handwritten in the left margin.]</note>
           </body>
           <back xml:id="longley1_10275">
-            <byline>Michael Longley.</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name>.</byline>
           </back>
         </text><text xml:id="longley1_10281">
           <front xml:id="longley1_10278">
@@ -2603,12 +2603,12 @@ THE ADULTERER</titlePart>
             </lg>
           </body>
           <back xml:id="longley1_10280">
-            <byline>Michael Longley</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></byline>
           </back>
         </text></group>
       <group xml:id="longley1_10316">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="longley1_10283">Workshop Poems</p>
@@ -2619,7 +2619,7 @@ THE ADULTERER</titlePart>
             <item>The Journey</item>
             <item>To Edna</item>
             <item>Her Mime of the Lame Seagull</item>
-            <item>The Hebrides</item>
+            <item>The <name ref="http://sws.geonames.org/2647204/" type="place">Hebrides</name></item>
           </list>
         </argument>
         
@@ -2739,7 +2739,7 @@ eclipse</del>
             <note anchored="true" resp="#encoder">[Encoder's note: On the poem worksheet, the phrase "From collision to eclipse" has been marked by parenthesis, and moved from the end of the fourth stanza to the beginning of the fifth stanza.]</note>
           </body>
           <back xml:id="longley1_10287">
-            <byline><date>9.xii.64</date>MICHAEL LONGLEY</byline>
+            <byline><date>9.xii.64</date><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10293">
           <front xml:id="longley1_10290">
@@ -2802,7 +2802,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10292">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10298">
           <front xml:id="longley1_10295">
@@ -2861,7 +2861,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10297">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10303">
           <front xml:id="longley1_10300">
@@ -2914,7 +2914,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10302">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10308">
           <front xml:id="longley1_10305">
@@ -2985,17 +2985,17 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10307">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10315">
           <front xml:id="longley1_10312">
             <titlePage xml:id="longley1_10309">
               <docTitle>
-                <titlePart type="main">THE HEBRIDES</titlePart>
+                <titlePart type="main">THE <name ref="http://sws.geonames.org/2647204/" type="place">HEBRIDES</name></titlePart>
               </docTitle>
             </titlePage>
             <div1 xml:id="longley1_10311" type="dedication">
-              <p xml:id="longley1_10310">(For Eavan Boland)</p>
+              <p xml:id="longley1_10310">(For <name ref="http://viaf.org/viaf/22253909" type="person">Eavan Boland</name>)</p>
             </div1>
           </front>
           <body xml:id="longley1_10313">
@@ -3024,7 +3024,7 @@ eclipse</del>
               <lg type="stanza">
                 <l>The winds' enclosure, Atlantic's premises, </l>
                 <l rend="indent22">Last balconies</l>
-                <l rend="indent5">Above the waves, The Hebrides -</l>
+                <l rend="indent5">Above the waves, The <name ref="http://sws.geonames.org/2647204/" type="place">Hebrides</name> -</l>
                 <l rend="indent15">Too long did I postpone</l>
                 <l>Presbyterian granite and the lack of trees, </l>
                 <l rend="indent22">This orphaned stone, </l>
@@ -3180,12 +3180,12 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10314">
-            <byline><date>22.xi.64.</date>MICHAEL LONGLEY</byline>
+            <byline><date>22.xi.64.</date><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text></group>
       <group xml:id="longley1_10353">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="longley1_10317">Workshop Poems</p>
@@ -3224,7 +3224,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10321">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10327">
           <front xml:id="longley1_10324">
@@ -3247,7 +3247,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10326">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10332">
           <front xml:id="longley1_10329">
@@ -3320,7 +3320,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10331">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10337">
           <front xml:id="longley1_10334">
@@ -3349,7 +3349,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10336">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10342">
           <front xml:id="longley1_10339">
@@ -3382,7 +3382,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10341">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10347">
           <front xml:id="longley1_10344">
@@ -3485,7 +3485,7 @@ eclipse</del>
             </lg>
           </body>
           <back xml:id="longley1_10346">
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text><text xml:id="longley1_10352">
           <front xml:id="longley1_10349">
@@ -3535,7 +3535,7 @@ eclipse</del>
           </body>
           <back xml:id="longley1_10351">
             <byline>(29.xii.70)</byline>
-            <byline>MICHAEL LONGLEY</byline>
+            <byline><name ref="http://viaf.org/viaf/39398205" type="person">MICHAEL LONGLEY</name></byline>
           </back>
         </text></group>
     </group>
