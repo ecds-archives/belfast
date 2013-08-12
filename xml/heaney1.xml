@@ -69,7 +69,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Boy Driving His Father to Confession</item>
             <item>To a Wine Jar</item>
             <item>On Hogarth's Engraving "Pit Ticket for the Royal Sport"</item>
-            <item>Synge on the Aran</item>
+            <item>Synge on Aran</item>
             <item>Blackberry-Picking</item>
             <item>Saint Francis and the Birds</item>
             <item>At a Potato Digging</item>
@@ -224,7 +224,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front xml:id="heaney1_1022">
             <titlePage xml:id="heaney1_1021">
               <docTitle>
-                <titlePart type="main"><name ref="http://viaf.org/viaf/44305889" type="person">SYNGE</name> ON THE <name ref="http://sws.geonames.org/2966947/" type="place">ARAN</name></titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/44305889" type="person">SYNGE</name> ON <name ref="http://sws.geonames.org/2966947/" type="place">ARAN</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
