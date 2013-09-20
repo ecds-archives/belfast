@@ -60,7 +60,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
     <group xml:id="heaney1_10443">
       <group xml:id="heaney1_1041">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_104">Workshop Poems</p>
@@ -429,7 +429,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_1078">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_1042">Workshop Poems</p>
@@ -774,7 +774,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10116">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_1079">Workshop Poems</p>
@@ -1094,7 +1094,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10163">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_10117">Workshop Poems</p>
@@ -1470,7 +1470,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10199">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_10164">Workshop Poems</p>
@@ -1786,7 +1786,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10236">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_10200">Workshop Poems</p>
@@ -2149,7 +2149,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10269">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10237">Workshop Poems</p>
@@ -2483,7 +2483,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10365">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10270">Workshop Poems by Seamus Heaney</p>
@@ -3506,7 +3506,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10407">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10366">Workshop Poems</p>
@@ -3913,7 +3913,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10415">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10408">Workshop Poems</p>
@@ -4176,7 +4176,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10442">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10416">Workshop Poems</p>

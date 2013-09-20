@@ -17,12 +17,12 @@
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address><idno type="ark" n="muldoon2_1040">http://pid.emory.edu/ark:/25593/17m9m</idno><idno type="ark" n="muldoon2_1079">http://pid.emory.edu/ark:/25593/17mbr</idno><idno type="ark" n="muldoon2_10121">http://pid.emory.edu/ark:/25593/17mcw</idno><availability>
-          <p xml:id="muldoon2_101">1996 Emory University. Permission is granted to 
-download, transmit, or otherwise reproduce, distribute or display the 
-contributions to the work claimed by Emory University for non-profit 
-educational purposes, provided this header is included in its 
-entirety.  For inquiries about commercial uses, contact either: 
-Electronic Poetry Project or Lewis H. Beck Center for Electronic  
+          <p xml:id="muldoon2_101">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the
+contributions to the work claimed by Emory University for non-profit
+educational purposes, provided this header is included in its
+entirety.  For inquiries about commercial uses, contact either:
+Electronic Poetry Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
         </availability><date>2000</date></publicationStmt>
       <seriesStmt>
@@ -40,7 +40,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
     <group xml:id="muldoon2_10122">
       <group xml:id="muldoon2_1040">
         <head>POEMS BY PAUL MULDOON</head>
-        <docAuthor>Paul Muldoon</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="muldoon2_104">Workshop Poems</p>
@@ -55,7 +55,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Party Piece</item>
           </list>
         </argument>
-        
+
         <text xml:id="muldoon2_109">
           <front xml:id="muldoon2_106">
             <titlePage xml:id="muldoon2_105">
@@ -392,7 +392,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="muldoon2_1079">
         <head>POEMS BY PAUL MULDOON</head>
-        <docAuthor>Paul Muldoon</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="muldoon2_1041">Workshop Poems</p>
@@ -409,7 +409,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Leaving the Island</item>
           </list>
         </argument>
-        
+
         <text xml:id="muldoon2_1046">
           <front xml:id="muldoon2_1043">
             <titlePage xml:id="muldoon2_1042">
@@ -773,7 +773,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="muldoon2_10121">
         <head>POEMS BY PAUL MULDOON</head>
-        <docAuthor>Paul Muldoon</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/64048541" type="person">Paul Muldoon</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="muldoon2_1080">Workshop Poems</p>
@@ -789,7 +789,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Electric Orchard</item>
           </list>
         </argument>
-        
+
         <text xml:id="muldoon2_1085">
           <front xml:id="muldoon2_1082">
             <titlePage xml:id="muldoon2_1081">

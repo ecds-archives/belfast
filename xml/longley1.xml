@@ -21,7 +21,7 @@ download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
 educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either:
-Electronic Poetry Project or Lewis H. Beck Center for Electronic 
+Electronic Poetry Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
         </availability><date>1996</date></publicationStmt>
       <seriesStmt>
@@ -46,7 +46,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
     <group xml:id="longley1_10354">
       <group xml:id="longley1_1042">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="longley1_104">Workshop Poems</p>
@@ -63,7 +63,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>The Adulterer</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_108">
           <front xml:id="longley1_106">
             <titlePage xml:id="longley1_105">
@@ -111,7 +111,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front xml:id="longley1_1010">
             <titlePage xml:id="longley1_109">
               <docTitle>
-                <titlePart type="main"> 
+                <titlePart type="main">
 THREE POSTHUMOUS PIECES</titlePart>
               </docTitle>
             </titlePage>
@@ -447,7 +447,7 @@ THREE POSTHUMOUS PIECES</titlePart>
             <item>Christopher at Birth</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_1048">
           <front xml:id="longley1_1045">
             <titlePage xml:id="longley1_1044">
@@ -863,7 +863,7 @@ THREE POSTHUMOUS PIECES</titlePart>
         </text></group>
       <group xml:id="longley1_10120">
         <head>POEMS BY MICHAEL LONGLEY</head>
-        <docAuthor>Michael Longley</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="longley1_1080">Workshop Poems</p>
@@ -878,7 +878,7 @@ THREE POSTHUMOUS PIECES</titlePart>
             <item>Words for Jazz Perhaps</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_1085">
           <front xml:id="longley1_1082">
             <titlePage xml:id="longley1_1081">
@@ -1245,7 +1245,7 @@ THREE POSTHUMOUS PIECES</titlePart>
             <item>Man Friday</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_10125">
           <front xml:id="longley1_10123">
             <titlePage xml:id="longley1_10122">
@@ -1615,7 +1615,7 @@ THREE POSTHUMOUS PIECES</titlePart>
             <item>Barracuda</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_10166">
           <front xml:id="longley1_10163">
             <titlePage xml:id="longley1_10160">
@@ -1917,7 +1917,7 @@ THREE POSTHUMOUS PIECES</titlePart>
             <item>Remembrance Day</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_10208">
           <front xml:id="longley1_10205">
             <titlePage xml:id="longley1_10204">
@@ -2187,7 +2187,7 @@ THREE POSTHUMOUS PIECES</titlePart>
             <item>En Route</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_10250">
           <front xml:id="longley1_10247">
             <titlePage xml:id="longley1_10246">
@@ -2664,7 +2664,7 @@ THREE POSTHUMOUS PIECES</titlePart>
             <item>The <name ref="http://sws.geonames.org/2647204/" type="place">Hebrides</name></item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_10288">
           <front xml:id="longley1_10285">
             <titlePage xml:id="longley1_10284">
@@ -3242,7 +3242,7 @@ eclipse</del>
             <item>Caravan</item>
           </list>
         </argument>
-        
+
         <text xml:id="longley1_10322">
           <front xml:id="longley1_10319">
             <titlePage xml:id="longley1_10318">
