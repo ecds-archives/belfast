@@ -2482,8 +2482,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </back>
         </text></group>
       <group xml:id="heaney1_10365">
-        <head>POEMS BY SEAMUS HEANEY</head>
+        <head>POEMS BY SEAMUS HEANEY, BRENDAN KENNELLY, and MICHAEL LONGLEY</head>
         <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10270">Workshop Poems by Seamus Heaney</p>
