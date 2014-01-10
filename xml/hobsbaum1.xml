@@ -22,7 +22,7 @@ download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
 educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either:
-Electronic Poetry Project or Lewis H. Beck Center for Electronic 
+Electronic Poetry Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
         </availability><date>1996</date></publicationStmt>
       <seriesStmt>
@@ -40,7 +40,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
     <group xml:id="hobsbaum1_1048">
       <group xml:id="hobsbaum1_1040">
         <head>POEMS BY PHILIP HOBSBAUM</head>
-        <docAuthor>Philip Hobsbaum</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/91907300" type="person">Philip Hobsbaum</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="hobsbaum1_104">Workshop Poems</p>
@@ -55,7 +55,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Cock of the Walk</item>
           </list>
         </argument>
-        
+
         <text xml:id="hobsbaum1_109">
           <front xml:id="hobsbaum1_106">
             <titlePage xml:id="hobsbaum1_105">
@@ -359,7 +359,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Study in a Minor Key</item>
           </list>
         </argument>
-        
+
         <text xml:id="hobsbaum1_1046">
           <front xml:id="hobsbaum1_1043">
             <titlePage xml:id="hobsbaum1_1042">

@@ -17,12 +17,12 @@
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address><idno type="ark" n="carson1_1035">http://pid.emory.edu/ark:/25593/1bc0v</idno><availability>
-          <p xml:id="carson1_101">1996 Emory University. Permission is granted to 
-download, transmit, or otherwise reproduce, distribute or display the 
-contributions to the work claimed by Emory University for non-profit 
-educational purposes, provided this header is included in its 
-entirety.  For inquiries about commercial uses, contact either: 
-Electronic Poetry Project or Lewis H. Beck Center for Electronic  
+          <p xml:id="carson1_101">1996 Emory University. Permission is granted to
+download, transmit, or otherwise reproduce, distribute or display the
+contributions to the work claimed by Emory University for non-profit
+educational purposes, provided this header is included in its
+entirety.  For inquiries about commercial uses, contact either:
+Electronic Poetry Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
         </availability><date>2000</date></publicationStmt>
       <seriesStmt>
@@ -42,7 +42,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
       <group xml:id="carson1_1035">
         <head>POEMS BY CIARAN CARSON</head>
         <docDate>1966-1972</docDate>
-        <docAuthor>Ciaran Carson</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/85621766" type="person">Ciaran Carson</name></docAuthor>
         <argument>
           <p xml:id="carson1_104">Workshop Poems</p>
           <list type="simple">

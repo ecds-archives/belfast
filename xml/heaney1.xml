@@ -60,7 +60,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
     <group xml:id="heaney1_10443">
       <group xml:id="heaney1_1041">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_104">Workshop Poems</p>
@@ -69,7 +69,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <item>Boy Driving His Father to Confession</item>
             <item>To a Wine Jar</item>
             <item>On Hogarth's Engraving "Pit Ticket for the Royal Sport"</item>
-            <item>Synge on the Aran</item>
+            <item>Synge on Aran</item>
             <item>Blackberry-Picking</item>
             <item>Saint Francis and the Birds</item>
             <item>At a Potato Digging</item>
@@ -224,7 +224,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           <front xml:id="heaney1_1022">
             <titlePage xml:id="heaney1_1021">
               <docTitle>
-                <titlePart type="main"><name ref="http://viaf.org/viaf/44305889" type="person">SYNGE</name> ON THE <name ref="http://sws.geonames.org/2966947/" type="place">ARAN</name></titlePart>
+                <titlePart type="main"><name ref="http://viaf.org/viaf/44305889" type="person">SYNGE</name> ON <name ref="http://sws.geonames.org/2966947/" type="place">ARAN</name></titlePart>
               </docTitle>
             </titlePage>
           </front>
@@ -429,7 +429,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_1078">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_1042">Workshop Poems</p>
@@ -774,7 +774,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10116">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_1079">Workshop Poems</p>
@@ -949,7 +949,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
               <l>Reporting all to the Inspector General. </l>
               <l>Sir James, I understand, urged free relief</l>
               <l>For famine victims in the <name ref="http://sws.geonames.org/2960970/" type="place">Westport</name> Sector</l>
-              <l>And earned tart reprimand from good <name ref="http://dbpedia.org/resource/Whitehall/" type="place">Whitehall</name>. </l>
+              <l>And earned tart reprimand from good <name ref="http://dbpedia.org/resource/Whitehall" type="place">Whitehall</name>. </l>
               <l>Let natives prosper by their own exertions; </l>
               <l>Who could not swim might go ahead and sink. </l>
               <l>"The Coast Guard with their zeal and activity</l>
@@ -1094,7 +1094,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10163">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_10117">Workshop Poems</p>
@@ -1470,7 +1470,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10199">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_10164">Workshop Poems</p>
@@ -1786,7 +1786,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10236">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1963-1966</docDate>
         <argument>
           <p xml:id="heaney1_10200">Workshop Poems</p>
@@ -2149,7 +2149,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10269">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10237">Workshop Poems</p>
@@ -2482,8 +2482,10 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
           </back>
         </text></group>
       <group xml:id="heaney1_10365">
-        <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <head>POEMS BY SEAMUS HEANEY, BRENDAN KENNELLY, and MICHAEL LONGLEY</head>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/267971098" type="person">Brendan Kennelly</name></docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/39398205" type="person">Michael Longley</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10270">Workshop Poems by Seamus Heaney</p>
@@ -3506,7 +3508,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10407">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10366">Workshop Poems</p>
@@ -3913,7 +3915,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10415">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10408">Workshop Poems</p>
@@ -4176,7 +4178,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         </text></group>
       <group xml:id="heaney1_10442">
         <head>POEMS BY SEAMUS HEANEY</head>
-        <docAuthor>Seamus Heaney</docAuthor>
+        <docAuthor><name ref="http://viaf.org/viaf/109557338" type="person">Seamus Heaney</name></docAuthor>
         <docDate>1966-1972</docDate>
         <argument>
           <p xml:id="heaney1_10416">Workshop Poems</p>
